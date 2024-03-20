@@ -1,0 +1,316 @@
+---
+id: 4819b387-19f0-4dd1-8863-be2e650b35ca
+title: |
+  让韩国人沉沦的MBTI，已经快统治中文互联网了……
+author: |
+  世超
+date_saved: 2023-08-11 11:30:55
+date_published: 2023-08-10 22:37:00
+---
+
+# 让韩国人沉沦的MBTI，已经快统治中文互联网了……
+#Omnivore
+
+[Read on Omnivore](https://omnivore.app/me/mbti-189e538da86)
+
+[Read Original](https://mp.weixin.qq.com/s/1_VrH3wDyCVJ-YXHWqfcLQ)
+
+## Highlights
+
+> 当你自我介绍、与他人第一次见面，或是跟曾经不太熟的老同学再度重逢时。
+> 
+> 据说，为了快速拉近和对方的距离，有个百试不爽的小技巧——
+> 
+> **那就是开口说一下自己是 E 人还是 I 人。** [⤴️](https://omnivore.app/me/mbti-189e538da86#d81e7458-548c-4162-a6cf-a62262ee60f8)  ^d81e7458
+
+> **在目前，MBTI 也是所有人格测试中，相对来说最大众化、综合接受度最高的。**
+> 
+> 其中的 E，代表了 Extraversion，I 代表了 Introversion。 [⤴️](https://omnivore.app/me/mbti-189e538da86#ce223a21-e326-4833-acb2-8fd1507d0e11)  ^ce223a21
+
+> 测试尝试分配四个类别：内向（ Introversion ）或外向（ Extroversion ）、实感（ Sensing ）或直觉（ Intuition ）、思考（ Thinking ）或情感（ Feeling ）、判断（ Judging ）或感知（ Perceiving ）。取各类别的首字母来组成测试结果之类别名称，如 “INFJ” 或 “ENFP” 。 [⤴️](https://omnivore.app/me/mbti-189e538da86#f7e6d714-0cc5-4397-b25d-dfe7e94cd514)  ^f7e6d714
+
+> ![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sASvjuOK9MLKE_jZIeEp2VyLP2Jz0_MF0W49AuxRF4e8/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsXKhYVDaQr25CqliciaK90rwlxicaibL7kOXTurY7icsYSib9mtFFricoctAFEK2vjP7w08aH3JzuxvK1CA/640?wx_fmt=png&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1) [⤴️](https://omnivore.app/me/mbti-189e538da86#0bd072fc-7386-4c9b-b442-9c0ba2a1f5dc)  ^0bd072fc
+
+> J 型人格都比较会做饭；
+> 
+> NT 性格的人理科能力强； [⤴️](https://omnivore.app/me/mbti-189e538da86#d9275caf-8b9f-416f-8820-62392e22cc54)  ^d9275caf
+
+> **但一件事火了，难免出现魔怔人。**
+> 
+> 比如，有人不喜欢心理学测试，只是喜欢 MBTI 人设。
+> 
+> 喜欢哪个性格，自己要是没测到，就会多测几遍往上硬靠。 [⤴️](https://omnivore.app/me/mbti-189e538da86#2adb72c2-dd3d-4a70-bb26-186854a8ac73)  ^2adb72c2
+
+> 虽然大多数人都是在开玩笑，但耐不住真有人信。
+> 
+> **感觉这帮人只是在微信小程序做了个测试，彷佛就实现了阶级跃迁一样。** [⤴️](https://omnivore.app/me/mbti-189e538da86#d5f8fccb-66c1-4a31-ac64-75e790f60334)  ^d5f8fccb
+
+> **总之，MBTI 已经是一种圈子足够大的亚文化。**
+> 
+> 虽然在很多人看来，每天测来测去的没意义。
+> 
+> 但当你偶尔要用到它的时候，说不定就会发现，这玩意真好用。
+> 
+> 毕竟，社交通常都是人们互相寻找认同的过程，可 MBTI 能帮你省掉那些繁文缛节，直接进入正题。
+> 
+> 当然了，前提是别把这玩意当做人生信条，认为它坚定不可动摇。  
+> 
+> **而抛开背后的理论和学术研究，世超觉得，人们总需要这么个类似的东西存在。**
+> 
+> 从五行八字到属相，再到星座塔罗占卜，有多少人真玩懂了？又为啥有这么多人对此深信不疑呢？
+> 
+> 说白了，我们只是想找一个懂自己的人，罢了。 [⤴️](https://omnivore.app/me/mbti-189e538da86#ebddc5ab-786c-4939-99b3-e6e8d6466bde)  ^ebddc5ab
+
+
+--- 
+
+Full Content: 
+
+ 北美留学生观察 _2023-08-11 10:37_ _Posted on 美国_ 
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sclC7cs4jgyeWN7iWwoIntj755hOw-kBvSanwBGeLdKk/https://mmbiz.qpic.cn/sz_mmbiz_jpg/RiacFDBX14xAdoNRoCvp9ibYKdb2YFuP8WEpxsnxX20XxibicOyliaMsPx0l06XkkZ1kVAoEZYnSE9AZhI85E3QvIAA/640?wx_fmt=jpeg)
+
+来源|差评
+
+ID|chaping321
+
+作者|世超
+
+==当你自我介绍、与他人第一次见面，或是跟曾经不太熟的老同学再度重逢时。==
+
+==据说，为了快速拉近和对方的距离，有个百试不爽的小技巧——==
+
+**==那就是开口说一下自己是 E 人还是 I 人。==**
+
+比如我们前两天刚入职的这位同事。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,s-ArElEx3qLD32Qg7ijdauZPGQeOnR273AIRDTZkTgHc/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsXKhYVDaQr25CqliciaK90rweZgx9ab9BbVG5pf5HhF5bXzUyaPRb5fibhf9mhDw1OUqndS7J5KDgibQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+为了避免误会，先给岁数大的差友们解释一波，这个 E 人、I 人是啥意思。
+
+**首先，这是 MBTI 16 型人格测试（ 迈尔斯-布里格斯性格分类法 ）中的两类测试结果。**
+
+而测试方法，简单来说就是通过回答 100 多道心理向题目，最终确定自己的人格偏好。
+
+**==在目前，MBTI 也是所有人格测试中，相对来说最大众化、综合接受度最高的。==**
+
+==其中的 E，代表了 Extraversion，I 代表了 Introversion。==
+
+如果你不太懂这些，那就简单理解成 E 人通常比较外向，而 I 人种内向、社恐的性格，也行。
+
+==测试尝试分配四个类别：内向（ Introversion ）或外向（ Extroversion ）、实感（ Sensing ）或直觉（ Intuition ）、思考（ Thinking ）或情感（ Feeling ）、判断（ Judging ）或感知（ Perceiving ）。取各类别的首字母来组成测试结果之类别名称，如== ==“INFJ”== ==或== ==“ENFP”== ==。==（wikipedia）
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sDn8zW6vDBYBV0xFjktjjzGQIAOz2QKQsylZtwNAtiak/https://mmbiz.qpic.cn/sz_mmbiz_png/RiacFDBX14xAdoNRoCvp9ibYKdb2YFuP8WTMvZatr3jaGFkicnJiaXWCSVRY4dKNSK2CdNGXAQBbkLzxWgRhtEAicibw/640?wx_fmt=png)
+
+**但要是你从来没测过，甚至没听过 MBTI，那可能跟年轻人群体多少有点脱节了。**
+
+毕竟现在甭管是各路社交媒体，还是朋友圈里，到处都有 ENTP、INTJ 这种字母组合出现。
+
+前阵子，我们一位同事，就因为随便发了条相关朋友圈，便炸出了十几年从未联系的小学同学，那位同学还表示，虽然逃过了星座，却没能逃得过 MBTI。
+
+网友对这个话题也足够感同身受，甚至不久前一条谐音梗微博，就因为玩了 MBTI 的梗，还上了微博热搜第一。
+
+而得益于大数据推送，你只要刷到一条，就可能收到越来越多的 MBTI 帖子。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,spC3VusceeeyTO8BDIJmXbCsPYrVbMbTTtJ-yqGJLJ30/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsXKhYVDaQr25CqliciaK90rwiaZkKdu8WyXeK0Z2RndhAy9nT4C0qwds75LXc3A5frYE3Yibvbibb46kA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**远在韩国，MBTI 更是早已成为了现象级的存在。大街小巷里，遍布着相关元素。**
+
+总之，作为一个新时代话题，MBTI 就火得挺离谱的。
+
+图片来源微博：过度表演鉴赏——
+
+韩国人就差把 MBTI 写身份证上了
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sxofdGHWjFtlEXR0SYc2Lf3dAjfHSwwq77aATAlJK63I/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsXhYIPAU5naWBnh5Lf3AxJl36m21WPKaqcdwW2fQDuUPpN9uXFibPibPemrPNBM0PVSafdbkuljsTQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+韩国男团 MBTI 主打歌
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sNr7V8-OCZYNN5cCzc2IY6PEfrErvotn-_XmLj1NH_D0/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsXhYIPAU5naWBnh5Lf3AxJ2mzu7J1HJhHtESiaeFLb0LqMGwIghFc7L1RMBibHwFpBhgvNfRibjTApQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)  
+
+其实 MBTI 人格测试，几乎每年都会火一次。
+
+去年我们曾写过，前年也写过，但今年，MBTI 似乎已经彻底成了一种在“ 流行文化层面 ”上，取代星座的存在，傲视群雄。
+
+**不仅在互联网上人尽皆知，甚至开始渗透进大伙的日常生活里。**
+
+比如出去相亲，都不再是提前复习一遍水相、土相星座的适配关系，而是直接试探一下对方是哪种人格。
+
+不知道哪种性格和自己相配也没关系，网上一找一大堆。  
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sSHmdZE4SCO6iUhFlgp7xXRNHe-hDAOQuQVoeCaT_z9c/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsXKhYVDaQr25CqliciaK90rw2Ijv4vpgEBF2HGcpUstDrF59bVYz5Gsv1xALjrZ8w8WicvyFicGDYZaA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+平日里的种种行为，都会从社牛、社恐，被重新总结成 E 人行为，I 人行为。
+
+在初级 MBTI 爱好者看来，E 人敢于表达，人生字典里就没有“ 尴尬 ”这俩字。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sCCe5LSYThmGvvV7VXwGuiPwDJTWigOJY2LC5_scXKAU/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsXKhYVDaQr25CqliciaK90rw7T9X2Ttgic5sZK8Ggicr8lhSOqBr7pdDKZXEfPzia7sQeBlsTKMmwnFKA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+而 I 人，则是那种多一事不如少一事，怕与人接触、怕麻烦的性格代表。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sGS9C9m53vPu_TBWkC_tykirxWo6lpIuBK3YAzzipEm4/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsXKhYVDaQr25CqliciaK90rwSSEyT6KmWicRNlHQSiaibibBANiavADBQS8ncDibaMStNiaJS2n1twiaeE0Uhw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**不过，只要稍微多了解 MBTI 一些，就会知道这里面一共有 16 个人格属性，每种都有所区别，不能一概而论。**
+
+即便这些字母组合看起来比 12 个星座还要复杂难记，但懂了每个字母代表的含义后，其实就能快速推断出性格类型了。
+
+那些关于 E 人和 I 人的梗图，也潜移默化地帮大伙加深了对某个群体的印象。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sASvjuOK9MLKE_jZIeEp2VyLP2Jz0_MF0W49AuxRF4e8/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsXKhYVDaQr25CqliciaK90rwlxicaibL7kOXTurY7icsYSib9mtFFricoctAFEK2vjP7w08aH3JzuxvK1CA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+当然，还有一些不成文的总结规律，比如：
+
+==J 型人格都比较会做饭；==
+
+==NT 性格的人理科能力强；==
+
+又或是 ISFP 人里游戏宅很多，等等等等。
+
+反正你要是肯刷社交媒体，无论有心还是无意，肯定能时不时 Get 新知识。  
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sx_0I2Se8pzknZnT3X9EDVgzT_bKrqn_Ile03I9u5W9w/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvukbPcYOJIpnT3uLUiaXSQrYAPRZ6VdYX7C4mKibOcz7rVk5Te4a9iczrYzUSowZkz5K1cnftFzCGIwQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**现在回过头来看，MBTI 之所以能在 2023 翻红，其实很大程度上要归功于各类梗图的爆发。**
+
+因为有很多人，本来是一点也不信这玩意的，感觉 MBTI 就跟闹着玩一样。
+
+可一看相关梗图时，还是忍不住大呼一声：卧槽，这不就是我么！
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sK6a8REtAOeoRekfxSSVNUUS-cHVik2dhE0BDbiqhQmI/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvukbPcYOJIpnT3uLUiaXSQrY1EIllb554ySFqFyGLyuRBRHnyQKak2zUNcoVfURV1aJjicpS2pSHrtw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sAXgra7y4QKLnvIPCBXAPx2kFb76YxEbYMxZ2-IPrXJ4/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvukbPcYOJIpnT3uLUiaXSQrYr5wu1r3huYVIb3CrWl3aSQowK4apDAibUUiawmcnTiaZHYstg9uEuRooQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+他们里的大部分人，甚至都没测过 MBTI，但已经能从各类梗图中得知自己的人格。
+
+从某种程度来说，看梗图分析人格，可能还比测试的结果更准。  
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,s8IAe63FYzOajhunSe6DKmX8GjDcOFKMuUzb_IWjxPRk/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvukbPcYOJIpnT3uLUiaXSQrYCwpROZAVUk2jREt9SE4SkyHdXZsQlnQrUK2rGbhMbpT3WA7KY6bn4A/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+其实事情发展到这里，还没有什么不妥，连世超这个对 MBTI 不感冒的人，也看得津津有味。
+
+**==但一件事火了，难免出现魔怔人。==**
+
+==比如，有人不喜欢心理学测试，只是喜欢 MBTI 人设。==
+
+==喜欢哪个性格，自己要是没测到，就会多测几遍往上硬靠。==  
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,s4eIitZwcQZ2otRo1f_LN5T1tXcTQpdBIUJY2dFlIGt8/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsUqVevSsicYRiaveE3uDEAX5IqAqAgkRypUZ5DsceP8T03u8tabHqEfNJmZdVMNc1JKflicYEQrtqicw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+这种偏饭圈化的想法，**还催生了 MBTI 虚拟主播这种新门路。**
+
+说白了就是什么东西一旦火了，就总有人想从中搞点米恰恰。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sbBvrWDHYDgINKJRXuoX8t7v4cP0Z116x7I36vhfRwbY/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsUqVevSsicYRiaveE3uDEAX5w4Z2RwHnbnGCmww5rDfVwG4a8BDy0iaiaqTLSI9CHB9tXog8bbM8gXmA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**如果说以上行径，还算不上魔怔，那下面这种可就有点邪乎了。**
+
+比如，某些人会给每种人格加上刻板印象，煽动对立。
+
+这种刻板还会和其他领域的刻板印象相结合，突出一个抽象。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sd_3fKdvglEe_iN3SSsGoN3KM-uZJeDa4d-4uVE4mqxU/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsUqVevSsicYRiaveE3uDEAX5pKXgibcgRqForDESTo9XMBYuVFCt83PHvzqYZIrxbjWdPngnQL1PBicA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+甚至，还有人会给 16 种性格划分三六九等。
+
+这类人认为自己的人格比泰森都牛逼，其他性格皆是凡夫俗子。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sDPHv4e4ovtYE_S4WtK_2ml0-sXCh9FELpV21cojRyqE/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsUqVevSsicYRiaveE3uDEAX5ExXSaibaUqaBe2plTY5RXyn3smFSqBtDbGEaoFnEes186H8Htib3czKQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+尤其在 INTP 贴吧，简介里直接自称神的孩子。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,spL9B8nv9xSMkSq5HRDZM41mwX9xBMXBT547_xoDRGdM/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsUqVevSsicYRiaveE3uDEAX509DZSC6A5kGLI1aHgwlhbAia35Y4ssQL6zYBNHDWIKKNYQulP0ukibmg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+==虽然大多数人都是在开玩笑，但耐不住真有人信。==
+
+**==感觉这帮人只是在微信小程序做了个测试，彷佛就实现了阶级跃迁一样。==**
+
+很难不怀疑他们是来反串的
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sUi5rz8lqf31n4oGbijQ2-5BODuemWdUBJxGF4x1udEE/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsUqVevSsicYRiaveE3uDEAX5puibnadEXuOicJNXbzT5VhXeJCiaVp5hCf1XKUiaia7ZtkzneX5cWX6PJYQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sWbhm5-WZmg6QqzjvSXf3b73N-XRmErGKDBJkyWKQ59o/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsUqVevSsicYRiaveE3uDEAX51BFpqfEujM4laPBZUsjEiaC0Eh2xgiayJHJoKiatTiaA6T3gejsvGkuvhg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+除了这种魔怔人以外，还有更超前的。
+
+**那就是，他们已经从不同人格之间互相抵制，演变成了同一种人格间的对立。**
+
+因为现在每种人格里，根据成分浓度不同，还会分为“ 高阶、中阶、低阶 ”。。。而高阶的，自然可以鄙视低阶的。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,skJ7rGTOwrCTUGo2Zb6qoCESK6qqJw6LSNLzT0pxCmWU/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsUqVevSsicYRiaveE3uDEAX5suhY6fKPdbhfVpamX3fVF774XjaZC0bCciaLFhbj7RUH31LOZYp6iaXQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**反正，由于这些魔怔人的加入，让 MBTI 这个测试，越发魔幻了。**
+
+这部分极端的人，都期待自己是天选之子，但又不想努力，而 MBTI 给了他们十六分之一几率陷入天才的幻觉，或是一个失败和甩锅的借口。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sH5Yws4bMasYpR2FghxHVLvoisPiRyt2MgqNwJ8x25Do/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsUqVevSsicYRiaveE3uDEAX5pnt8DjjHG3wsJECNZhVxA6AKfllAc9EzHaUSFaRKFWfVrZT7dHiawgw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+看上去，这类人不屑于跟星座、塔罗牌这种玄学为伍，毕竟 MBTI 有科学论据作为支撑。
+
+但事实表现，却又和狂热的星座粉没什么区别，常常陷入自我感动。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,s7ogNtHoJuCdL14_1rGzWqmeNRXVnyLpU-HmtVWU_JLM/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvukbPcYOJIpnT3uLUiaXSQrYvzXeDeHiaoUxweV4J4v6GKufWniaibFTGIMLpeqNJuFVWtLwEEAprJWnw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**其实在世超看来，只要不魔怔，MBTI 本就是个不错的社交工具。**
+
+不说科学与否，只因为它的出现和火爆，精准狙击了当代年轻人的社交需求。
+
+毕竟在当下这个纷乱复杂的网络社会中，大家的爱好已经被细分成了头发丝。
+
+爱打游戏的分手游、主机；爱看小说的也分科幻和耽美；更别提听歌了，别人的歌单通常都是垃圾桶。
+
+**所以，对于有频繁社交需求的年轻人来说，如今若是还用爱好当话题，未免有点 old school，想找个共同爱好也费大劲。**
+
+但 MBTI 不同，它看似复杂，却又比星座和生辰八字直观得多，能迅速拉近人与人的距离，互相获得认同感，既没有社交负担，又省脑子。
+
+你说年轻人群体里，还有比它更有效的社交手段么? 世超反正一时半会想不出来。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,szJ0rBM5KKF8_w6-suan2O-HvDvyqgU5fk1r5r-QEG50/https://mmbiz.qpic.cn/mmbiz_jpg/yZPTcMGWibvsXhYIPAU5naWBnh5Lf3AxJc5zreu9BYcNiaU97rWJFgUjA38XndukibTJoL3HNDHb5fyRBbAdiaQ4pw/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**尤其是在相亲这种急需话题的场合，MBTI 也算是个聊天小窍门。**
+
+对方恰好也感兴趣时，那你们可以顺水推舟多聊点；
+
+而如果对方觉得这玩意扯淡，那你也大可一起吐槽，总比俩人干瞪眼强。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,spyEOXV2BPBD6LVxzzdP_GqQ9H2KKO-DT_SbWDV_jLWo/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvukbPcYOJIpnT3uLUiaXSQrYjYxfnaQPvEaZdVAE4zkGblg6ZjRTvDLrppctycg2urLkELPzpkeLIg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+往大了说，MBTI 方便了当代所有年轻人的社交。
+
+**往小了说，性格测试这种东西，也确实让一些人能重新认识自己，勇敢面对生活。**
+
+已经有太多 I 人，开始时苦于自己的封闭，而在意识到这个问题后，努力改变自己的生活方式，最终学会了打开心扉。
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,s0f7x5LUp1-7D4K7bdKJx3wrQi8LN0wTKaQTw5Grknzo/https://mmbiz.qpic.cn/mmbiz_png/yZPTcMGWibvsXhYIPAU5naWBnh5Lf3AxJXFPzsWAsRrdpURfOFzB1L6sPkpYgvoU5qbFtnVw0fp9Q99Ht6ibiavjQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**==总之，MBTI 已经是一种圈子足够大的亚文化。==**
+
+==虽然在很多人看来，每天测来测去的没意义。==
+
+==但当你偶尔要用到它的时候，说不定就会发现，这玩意真好用。==
+
+==毕竟，社交通常都是人们互相寻找认同的过程，可 MBTI 能帮你省掉那些繁文缛节，直接进入正题。==
+
+==当然了，前提是别把这玩意当做人生信条，认为它坚定不可动摇。==  
+
+**==而抛开背后的理论和学术研究，世超觉得，人们总需要这么个类似的东西存在。==**
+
+==从五行八字到属相，再到星座塔罗占卜，有多少人真玩懂了？又为啥有这么多人对此深信不疑呢？==
+
+==说白了，我们只是想找一个懂自己的人，罢了。==
+
+图片、资料来源：
+
+知乎、微博、小红书、百度贴吧、抖音、
+
+B站：TESTV
+
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,swO8v-4iqxrGyXLFaS5Ocm1OUP0aQ3WczctEJb_6zpKY/https://mmbiz.qpic.cn/sz_mmbiz_jpg/RiacFDBX14xAdoNRoCvp9ibYKdb2YFuP8WyOxys5Qr4L4mLY2e74se4qYiap6hZfzIs2NkSNWazibqVR8Ud9icXBpQQ/640?wx_fmt=jpeg)
+
+**点击图片链接**
+
+****一键解锁各大榜单排名👇**
+
+**![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sVPfzMiwZTTzaoYPm4zQw9msSeGieaIDkQL0H_Z5iRtI/https://mmbiz.qpic.cn/sz_mmbiz_png/RiacFDBX14xDy7oadSByWmRqtFNm3e7x2J3rwL6xhfTgyS2VQuMqd7QKeqiamIY4iauzQcoS0DIIb1eibt3vpbsoCg/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)**
+
+  
+![Image](https://proxy-prod.omnivore-image-cache.app/0x0,sB8ymKJChOMrJY7qeJb7R08dLULzBm2mAoL2JDsbW5qU/https://mmbiz.qpic.cn/mmbiz_jpg/RiacFDBX14xBJRuCMND4CicTaSSPuezdIpTNFymu5JA6VX8LOm0p2EtlYC5uLt3WetkHVGicqPpNG0PlL44YiaMEHg/640?wx_fmt=jpeg)

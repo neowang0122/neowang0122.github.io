@@ -1,0 +1,293 @@
+---
+id: ede2bc3f-ea7f-48d0-a2fc-4452dd2306d3
+title: |
+  买了 iPad Pro 的你们后悔了吗？ - 知乎
+author: |
+  奇迹​ 关注
+date_saved: 2023-07-25 01:33:03
+date_published: 2021-12-14 03:38:00
+---
+
+# 买了 iPad Pro 的你们后悔了吗？ - 知乎
+#Omnivore
+
+[Read on Omnivore](https://omnivore.app/me/https-www-zhihu-com-question-466690774-answer-2270620502-1898b893fb2)
+
+[Read Original](https://www.zhihu.com/question/466690774/answer/2270620502)
+
+## Highlights
+
+> 有力无处使的 M1
+> 
+> 我们都知道 M1 很强，但当这一枚性能强大的 M1 芯片来到了移动端，有多强？ [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-466690774-answer-2270620502-1898b893fb2#cd1f7973-f7ac-4b61-9a02-aafeac9d0f12)  ^cd1f7973
+
+> 但这对 iPad Pro 来说，又意味着什么？
+> 
+> 意味着性能严重过剩。 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-466690774-answer-2270620502-1898b893fb2#c42262c6-cde3-4005-958f-e407d34c8f50)  ^c42262c6
+
+> 这一年来，iPad确实节约了我的**时间**。资料，包括上课的ppt，课件，书籍全都收集在Goodnote的文件夹，pdf阅读器和掌阅APP中，老师上课的时候，我可以直接对PPT拍照，放在笔记本中，比之前手机拍照不好整理要方便太多。 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-466690774-answer-2270620502-1898b893fb2#b0ae9122-6af9-4a7a-a37b-cf99bfb526cb)  ^b0ae9122
+
+> 早上去上课的时候，只要带一个iPad就可以走了，节约了很多整理书包，找书的时间。
+> 
+> **空间**上，出门再也不用背很多书，纸，笔，一个iPad就搞定了。书全存储在里面 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-466690774-answer-2270620502-1898b893fb2#200712ad-31e2-44dd-a187-5bed1a601002)  ^200712ad
+
+> 很多课本也不用买实体的，直接看电子课本，记好笔记。避免了书太多没有地方放的难题。
+> 
+> iPad拓宽了我的学习场景，让我能够不受时间和地点的限制去学习。 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-466690774-answer-2270620502-1898b893fb2#c65463f0-096f-4747-906d-64b9fb2b6da2)  ^c65463f0
+
+> 后来买了iPad，上水课的时候，晚上熄灯以后，或者是被迫在某个地方坐着但是不是学习环境的时候（比如某些讲座），我都可以拿出iPad背单词或者读书，充分利用这些时间 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-466690774-answer-2270620502-1898b893fb2#8b206a55-8a70-4dc4-9256-c6a465d05697)  ^8b206a55
+
+
+--- 
+
+Full Content: 
+
+登录后你可以
+
+不限量看优质回答私信答主深度交流精彩内容一键收藏
+
+超级后悔，真的很后悔没有听朋友的建议去[实体店](https://www.zhihu.com/search?q=%E5%AE%9E%E4%BD%93%E5%BA%97&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2270620502%7D)先体验。拿着一万元干嘛嘛嘛香，怎么脑子短路了买了这玩意
+
+在今年苹果春季发布会上，M1 的出现整个炸场，人们一度以为 iPad 终于要迎来生产力了。然而在两个月后的 WWDC21，新发布的 iPadOS 15 仍然羸弱，现实给那些曾抱有期待的人泼了一盆冷水。网上也不乏有用户表示：买了真后悔。
+
+![](https://proxy-prod.omnivore-image-cache.app/640x299,sDvTKeucfgiWV4nz7U5mcs8A9RrmD5pxWNQF86IOtffA/https://picx.zhimg.com/50/v2-95961c2ba700858abec6fa98437ddc20_720w.jpg?source=1940ef5c)
+
+现在教授就带大家看看，那些一发售就购买的用户如今为何后悔不已。
+
+==有力无处使的 M1==
+
+==我们都知道 M1 很强，但当这一枚性能强大的 M1 芯片来到了移动端，有多强？==
+
+下面是[极客湾](https://www.zhihu.com/search?q=%E6%9E%81%E5%AE%A2%E6%B9%BE&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2270620502%7D)制作的最新「移动端芯片综合性能排行」，可以看到，M1 性能比第二名高出了 50%！和非苹果芯片的榜首[麒麟 9000](https://www.zhihu.com/search?q=%E9%BA%92%E9%BA%9F%209000&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2270620502%7D) 相比，更是高出了 133%！真不愧是苹果最强的芯片。
+
+![](https://proxy-prod.omnivore-image-cache.app/640x305,sMZa9EBplOxoDEY773ZvhouWRKXShQrjnr0MB4ILIjiQ/https://picx.zhimg.com/50/v2-bfbf068156a84b5687fbe0be92812ddf_720w.jpg?source=1940ef5c)
+
+↑图片来自极客湾
+
+==但这对 iPad Pro 来说，又意味着什么？==
+
+==意味着性能严重过剩。==
+
+目前 iPad 上吃性能的专业[软件](https://www.zhihu.com/search?q=%E8%BD%AF%E4%BB%B6&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2270620502%7D)表现拉垮，能扛大旗的往往是游戏，而其中的天花板无疑是[原神](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2270620502%7D)。但经过网友差评君实测，在画质拉满的情况下，游戏全程满帧运行，最高[帧率](https://www.zhihu.com/search?q=%E5%B8%A7%E7%8E%87&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2270620502%7D)甚至能飙到 120 以上，但也仅仅只占用了 9.9% 的 CPU，机身温度只有 34.9°。
+
+![](https://proxy-prod.omnivore-image-cache.app/640x270,suYYtVoWS2VhJnMVwRBzfzlz4CnS2BHIWdVSn1QgZtl0/https://pica.zhimg.com/50/v2-97d54a5e9f9116e8463653851e73fa34_720w.jpg?source=1940ef5c)
+
+↑图片来自差评君
+
+原神已经是天花板了，可想而知，iPad Pro 性能有多过剩。
+
+有力无处使，真的是 M1 版 iPad Pro 的大问题。
+
+贵了一千多的价格
+
+都说苹果产品保值，但也架不住正逢 618，各大电商平台都把「降价更猛的苹果产品」作为卖点。如果你是刚发售就抢先入手的首发党，那这两个月的价格大跳水肯定会让你心塞。
+
+![](https://proxy-prod.omnivore-image-cache.app/640x233,swCFOYJ3m4TEIBREJ66oRks0ENgfal3EZkVIWZtJAGPc/https://pic1.zhimg.com/50/v2-04bd143be52634b352b71178d24e6a77_720w.jpg?source=1940ef5c)
+
+以 11 寸 256G 版为例，官网发售价为 6999 元，而在 618，仅需 5899 即可买到。一来二去，亏了一个 AirPods Pro！
+
+![](https://proxy-prod.omnivore-image-cache.app/640x168,s5SRkS0Y-edw1NBBjBDwhIe79VCV4UhOTb1rBPwWKyLg/https://pic1.zhimg.com/50/v2-21a75e5cdb9abc067c19fdac637a8903_720w.jpg?source=1940ef5c)
+
+好家伙，刚发布两个月就跳水一千多，[库克](https://www.zhihu.com/search?q=%E5%BA%93%E5%85%8B&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2270620502%7D)都要来拿货，你说首发党亏不亏。
+
+没有生产力的花瓶
+
+再来谈谈 iPad 上老生常谈的生产力问题。
+
+本以为 M1 来到 iPad Pro 后，WWDC21 会带来一个更具生产力的 iPadOS，让 iPad 不再是爱奇艺专用。但从发布会结果来看，还是失望了。
+
+新版 iPadOS 15 在生产力方面只有两个大提升，一是增加了 App 顶部的多任务菜单，让原本上手门槛很高的多任务操作变得显化；二是增加了[应用多窗口](https://www.zhihu.com/search?q=%E5%BA%94%E7%94%A8%E5%A4%9A%E7%AA%97%E5%8F%A3&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2270620502%7D)，允许同一个应用打开多个窗口。
+
+![](https://proxy-prod.omnivore-image-cache.app/640x506,seC85zM3gAo_BSDbugL4xH6WxwsTbheV4NYWXTiuho7U/https://pic1.zhimg.com/50/v2-490cc2f4e4d355f19b949f5e0c941a6d_720w.jpg?source=1940ef5c)
+
+听起来还不错对吧。但是就笔者和很多尝鲜了新系统的用户反馈来看，依然是很鸡肋。比如在写文稿时，想打开多个窗口查阅资料，你还是需要不断呼出 DOCK 栏切换应用，麻烦得很。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sbZbALVs9qVobXCn19anTqNRwlCwm_2WBbOizyLt3kz8/data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22500%22%20height%3D%22281%22%3E%3C%2Fsvg%3E)
+
+除了软件，iPad 硬件也是很抓狂。它只有一个 C 口，作为一块可以充电的屏幕尚可，但想要作为你的下一台电脑，那必需得备一个[拓展坞](https://www.zhihu.com/search?q=%E6%8B%93%E5%B1%95%E5%9D%9E&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2270620502%7D)，一个秒控键盘。
+
+妙控键盘就不用多说了，选择扩展坞最好是像绿联这种直插式的，插在iPad上不累赘。[扩展坞](https://www.zhihu.com/search?q=%E6%89%A9%E5%B1%95%E5%9D%9E&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2270620502%7D)除了可以让iPad 读取U盘、外接鼠标、有线耳机外，还能外接大屏显示器或投影仪，4K高清60Hz高清不卡顿。
+
+![](https://proxy-prod.omnivore-image-cache.app/640x411,seo5Trbn8JgqzPkIrSQNyp_IHduxEg3JfiDGCbEeocNM/https://pic1.zhimg.com/50/v2-d1b8824c4fcfff18e02173a4e7c965f1_720w.jpg?source=1940ef5c)
+
+换而言之，如果你奔着生产力买 iPad Pro，那你买到的其实就是个「残缺品」，还需要自己不断的加钱加装备。
+
+欸，食之无味，买装备又得加钱，钱包痛！
+
+不完美的屏幕
+
+除了尺寸，今年买 iPad Pro 还要面对一个难题：选哪块屏幕。
+
+11 寸的 iPad Pro 是传统的 LED 屏幕，而 12.9 寸 iPad Pro 则是新一代 [mini-LED](https://www.zhihu.com/search?q=mini-LED&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2270620502%7D) 屏幕。在晚上，11 寸的黑看起来灰蒙蒙的，但 12.9 寸拥有更多、更准确的[局部调光区](https://www.zhihu.com/search?q=%E5%B1%80%E9%83%A8%E8%B0%83%E5%85%89%E5%8C%BA&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2270620502%7D)，让黑可以单独不发光，是真的黑。
+
+![](https://proxy-prod.omnivore-image-cache.app/640x292,sxfKR1135rcbwC1al6oKBtcvIEpoRQMlleLemFrnc540/https://pica.zhimg.com/50/v2-a031f2887fb37acdc497434e947c2936_720w.jpg?source=1940ef5c)
+
+![](https://proxy-prod.omnivore-image-cache.app/640x324,sme_9utyb3h6AzmF5-xjMXISHQ-fC0u7K3zypoUCQjDI/https://picx.zhimg.com/50/v2-f08a695d84e48eba07436c900eb70adb_720w.jpg?source=1940ef5c)
+
+↑左边 LED；右边mini-LED；图片来自大耳朵TV
+
+但从第一批用户的反馈来看，这个新技术并不成熟。12.9 寸 iPad Pro 不仅比前代更厚，夜间使用还会出现轻微的晕染问题，很影响观感。
+
+![](https://proxy-prod.omnivore-image-cache.app/640x214,sqTXzNyrGB7pEIgW-_pAv3Sbzn05hmmJkwrAwUrf-T_Q/https://picx.zhimg.com/50/v2-0bca16f50dd2221740bfcc70385c565d_720w.jpg?source=1940ef5c)
+
+实际上苹果完全可以给 iPad 用上没有晕染、显示效果更好的 OLED，目前扶持不完美的 mini-LED 更多是出于商业考量。这就导致对 11 寸来说，没有 12.9 寸的 mini-LED，不完美；对于 12.9 寸来说，有晕染，也不完美。
+
+虽然有了强无敌的 M1，但这一代 iPad Pro 真的是处处遗憾。
+
+#### 更多回答
+
+买了iPad Pro11寸和Pencil二代一年了，来答一下感受。
+
+当时买的目的是为了学习，到现在为止目的也没有跑偏，没有让它变成泡面盖子或者是爱奇艺工具。
+
+==这一年来，iPad确实节约了我的==**==时间==**==。资料，包括上课的ppt，课件，书籍全都收集在Goodnote的文件夹，pdf阅读器和掌阅APP中，老师上课的时候，我可以直接对PPT拍照，放在笔记本中，比之前手机拍照不好整理要方便太多。==
+
+![](https://proxy-prod.omnivore-image-cache.app/2388x1668,sLOPYxJN6QbPBkqQVcSw-gH3-WxmXDOY587_0y-_QDk8/https://picx.zhimg.com/50/v2-5b5fe83dafe3687f87732bf24ba6d27e_720w.jpg?source=1940ef5c)
+
+整理的文件夹
+
+![](https://proxy-prod.omnivore-image-cache.app/2388x0,ssrkqpKRRkBYW895AXHouxjdzAxWqvV0uX-znMfkyrtU/https://picx.zhimg.com/50/v2-8b8d51c754fb6c96da999516437c6507_720w.jpg?source=1940ef5c)
+
+书籍的收录
+
+![](https://proxy-prod.omnivore-image-cache.app/2388x0,sAeNGmUKl7PiYDxPQtoofpvyXb0H0M3qukqBQATb3E14/https://picx.zhimg.com/50/v2-06fc7ebc37932c3b72b26b845f184c47_720w.jpg?source=1940ef5c)
+
+做题界面
+
+使用搜索功能可以立刻搜索到我想定位的书籍和笔记处，不用一页一页翻找。
+
+有的时候需要紧急填个Excel表，写个word（不需要特别严肃的排版），iPad都可以派上应急的用场，我无需携带电脑。
+
+![](https://proxy-prod.omnivore-image-cache.app/2388x0,sj_F5rvkzqpDaVpux9Nn5_Bz0v6Jwg8r4zorkehdpvho/https://picx.zhimg.com/50/v2-a050a42b1206c3718c9f10c940daf692_720w.jpg?source=1940ef5c)
+
+==早上去上课的时候，只要带一个iPad就可以走了，节约了很多整理书包，找书的时间。==
+
+**==空间==**==上，出门再也不用背很多书，纸，笔，一个iPad就搞定了。书全存储在里面==，记笔记使用分屏功能，左边是书，右边写笔记。
+
+==很多课本也不用买实体的，直接看电子课本，记好笔记。避免了书太多没有地方放的难题。==
+
+==iPad拓宽了我的学习场景，让我能够不受时间和地点的限制去学习。==
+
+以前我没有iPad的时候，是我的朋友先买了iPad。我们宿舍是晚上11点熄灯，有个室友睡得早，所以我们就不敢开台灯了。
+
+有iPad的同学还可以在床上复习一下考试内容，但是我就只能拿手机看，感觉字很小又伤眼睛。
+
+==后来买了iPad，上水课的时候，晚上熄灯以后，或者是被迫在某个地方坐着但是不是学习环境的时候（比如某些讲座），我都可以拿出iPad背单词或者读书，充分利用这些时间==。以前上水课总觉得如坐针毡，玩手机，刷淘宝。
+
+但是这下可以用iPad学习了，手机扔一边，iPad里面又没有娱乐软件和淘宝，只有学习软件，就只能看书学习了。
+
+我买了iPad后的一年，成绩明显比没买的时候好了，这当然和我个人自己有重要关系，但是我认为iPad确实为我学习带来的很多便利。工具是客观的，关键要看怎么使用。
+
+对于我的日常学习来说，iPad是便利的，查找资料便利，收集资料便利，记录笔记便利。打开就能学，减少了我很多找东西，换笔的时间。
+
+另外，买iPad让我多读了很多书。它读书的质感是非常好的，我读了《人性的弱点》、《自控力》、《管理学》等等，如果没有iPad，我肯定是不会在手机上或者纸上看这些书的。
+
+顺便向大家推荐一下这本很著名的书，《人性的弱点》，发行于上个世纪三十年代，至今仍然畅销不衰。之前看有个大V说他最喜欢研究人性，因为唯有人性这玩意千年来没变过，还是有道理的。
+
+读书界面，掌阅APP，真的很舒服
+
+![](https://proxy-prod.omnivore-image-cache.app/2388x0,s_ynmSopneDrdPDrf37MdrsfrzkxRX1Ci0yvwNev9BEA/https://pic1.zhimg.com/50/v2-5582e93a30b0fd8035369610c880ae93_720w.jpg?source=1940ef5c)
+
+因此，我没有后悔，反而感谢买了iPad，更庆幸当时买了iPad Pro。
+
+我当时买iPad Pro的时候，主要考虑到了它的屏幕最好，对眼睛最好，因为我近视眼四百度，算是比较严重的了，所以直接选择的屏幕最好的一款。
+
+就我个人来说，我买了两个钢化膜，但是反光太严重，像镜子一样，导致我眼睛疼。换成类纸膜之后，光消减了很多，眼睛没有疼过，所以如果用于学习的话，我建议买类纸膜，而且要买一个好一点的类纸膜。
+
+当然，建议大家量力而行，iPad Pro虽然能带来最好的体验，但是对于学生来说，我身边同学买iPad2021已经能够满足全部的学习功能。iPad学习用虽然好，但是有点过剩了。
+
+下面是我用iPad记过的笔记
+
+![](https://proxy-prod.omnivore-image-cache.app/1814x0,sI43As2a5yLc_obPmi_1x1Y-DAR3WDGkTW6ccRr76btk/https://pic1.zhimg.com/50/v2-aeb31b4b888936d55f4f2df4179390d8_720w.jpg?source=1940ef5c)
+
+![](https://proxy-prod.omnivore-image-cache.app/1668x0,s6Cioy_y0wLfiT2OKbaC4uikB6UHgT4n2CIW9px0LyFA/https://pica.zhimg.com/50/v2-4dcb48190941d6f24755c898e751a5a2_720w.jpg?source=1940ef5c)
+
+笔记里的贴纸是在淘宝买的。淘宝上有好多设计iPad笔记本模版的店铺。
+
+![](https://proxy-prod.omnivore-image-cache.app/2012x0,sKSjYzKTmdQ0i82nlOHdio4s4YZW7uYqJy5ROAssEU14/https://pica.zhimg.com/50/v2-3e0f3c540f1559131a39f7658342c734_720w.jpg?source=1940ef5c)
+
+![](https://proxy-prod.omnivore-image-cache.app/2882x0,ss6yjKbxtUQy82Xu5aX9MYK_oqjzrVkEVdH78esA4wOE/https://picx.zhimg.com/50/v2-a7764c0b427cab8397d2ca789075a5ab_720w.jpg?source=1940ef5c)
+
+因为做笔记使得心情变好
+
+![](https://proxy-prod.omnivore-image-cache.app/1719x0,shQlO4Nbegw2q6FQDn-oRXMuu9J1vMYhc5w1cZ3x9Yp0/https://pic1.zhimg.com/50/v2-37ad37a3269a5e22b150a933b362625d_720w.jpg?source=1940ef5c)
+
+![](https://proxy-prod.omnivore-image-cache.app/3024x0,sO3_9CCbkvc-Us7KTQyMZraSKUCEO0f3bnJ4nrmlE2gg/https://pic1.zhimg.com/50/v2-d7a6e94f4ecb871584dc430253a3e590_720w.jpg?source=1940ef5c)
+
+优酷视频界面
+
+看视频不管是网课还是电影和电视剧都还挺爽的。
+
+看英文书也很棒，不费眼睛。
+
+![](https://proxy-prod.omnivore-image-cache.app/3024x0,su4H9GVaFf2K_dUqMSdkG7lJ4-rSeWOuvLNSHi3lWZSU/https://pic1.zhimg.com/50/v2-96a342e62d51b167fe898727136edd1f_720w.jpg?source=1940ef5c)
+
+![](https://proxy-prod.omnivore-image-cache.app/3024x0,sRt3hDWKxFL9wYkA4l0VWpyYhwsS_07sKru5mzLKBIb8/https://picx.zhimg.com/50/v2-31383dd8406f96f6246cb250a247956f_720w.jpg?source=1940ef5c)
+
+怎么说呢，但凡能让你觉得买了后悔的东西只有两个原因，要么是产品不够香！要么是对自己来说没有使用价值，俗称**吃灰**！
+
+买了 iPad Pro 半年多了，暑期返校季活动还蹭了一个 AirPods 耳机，一个字 真香！
+
+说说我这大半年都拿它干了点什么，或许可以给准备购买 iPad Pro 的你一点点参考
+
+### 一、打游戏
+
+iPad Pro 2021 搭载 M1 处理器，8G 运行内存，这么强的移动设备买来第一件事肯定要打游戏了，我的上一台 iPad 是 mini5，运行内存只有 3G，并且没有高刷
+
+iPad Pro 在打游戏方面带来最大的提升是操作流畅度方面，配合高刷，简直完美，但游戏的启动开速度并没有特别明显的提升
+
+![](https://proxy-prod.omnivore-image-cache.app/2173x1222,sWZibzWUv6Zlo5jBFPnaj9kEsJGxejohQTk04wP2lKDg/https://pic1.zhimg.com/50/v2-7c4881541bbd04116f579c946f5aa23b_720w.jpg?source=1940ef5c)
+
+11 英寸的 iPad Pro 还是有点小重的，不适合长期把玩儿游戏，我的理想机型是带高刷的全面屏 iPad mini 6，当时买 Pro 的时候 mini6 还没有发布，现在虽然发布了，但是没有高刷，所以 iPad Pro 也并没有让我失望，反正打游戏还有手机...
+
+### 二、看片、追剧
+
+自动了换了更大屏幕的 iPad Pro 之后，我的主力爱奇艺设备就从 7.9 英寸的 mini5 换成了 11 英寸 的 iPad Pro 2021，不管是 4 个大喇叭还是更大的屏幕，跟爱奇艺都是绝配
+
+![](https://proxy-prod.omnivore-image-cache.app/2560x0,sLSmbqoazx-Q5ws3McMX8D_FM4AC1AU_TcW5kr0o-jLA/https://picx.zhimg.com/50/v2-719ac74f2a016005bacce33a3995ee40_720w.jpg?source=1940ef5c)
+
+伤害来自于对比
+
+到目前为止，追剧两三部，电影十几部，都是吃饭的时候边看边吃，一顿饭要吃俩小时，不知道有没有同款做法的。。。
+
+### 三、画画
+
+画画不是咱的强项，但是这 120hz 高刷不能浪费啊，于是又花巨资购买了 Apple Pencil ，总得学点啥吧，真是差生文具多
+
+到目前为止还能看的 "**一幅画**"
+
+![](https://proxy-prod.omnivore-image-cache.app/4032x0,sSqEVmPCAiH2wuly4eWoqPr5iUzj1ZIOo2cCc9F197no/https://pic1.zhimg.com/50/v2-99584cb5c35778d8fa12a761a9219911_720w.jpg?source=1940ef5c)
+
+凑活看
+
+### 四、盖泡面
+
+尺寸重量虽然很合适用来盖泡面，但不会真有人拿它盖泡面吧…… 反正我是舍不得
+
+### 五、偶尔给电脑当个无线扩展屏幕
+
+可以说，iPad Pro 在我手里只是一个娱乐工具，自购买之初就没想着它有招一日能变成生产力工具，期望越小，越容易满足，所以我并不后悔购买它
+
+iPad Pro 目前这个性能配置，用上个三五年应该都不会卡顿，当前唯一不足的点是续航有点弱鸡，相比它的亲戚 MacBook Air 动辄十几个小时的续航，它的续航正常使用情况下只有其三分之一左右
+
+鉴于这大半年的时候感受，再结合 iPad Pro 目前的优缺点，简单做个总结
+
+第一：肯定是预算充足的家里蹲娱乐用户群体
+
+第二：专业绘画人士
+
+第三：给客户做方案展示
+
+第四：记笔记/花草图/记录灵感
+
+第五：户外视频粗剪
+
+> **_iPad Pro 领券入口_**⬇️
+
+## iPad Pro 不适合那些用户？(Mac os 和 iPad os 软件并不互通)
+
+* 有大量文档编辑需要的用户
+* 做软件开发的用户
+* 专业视频剪辑用户
+
+### 相关内容推荐阅读：

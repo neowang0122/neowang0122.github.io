@@ -1,0 +1,273 @@
+---
+id: a0845357-6ff3-4f19-a096-f97a99829fca
+title: |
+  江浙沪独生女の顶配人生：从穿Burberry的快乐留学生，一秒进阶江南贵妇
+author: |
+  vasta
+date_saved: 2023-08-07 11:26:35
+date_published: 2023-08-07 10:30:00
+---
+
+# 江浙沪独生女の顶配人生：从穿Burberry的快乐留学生，一秒进阶江南贵妇
+#Omnivore
+
+[Read on Omnivore](https://omnivore.app/me/burberry-189d09b713f)
+
+[Read Original](https://mp.weixin.qq.com/s/vLGitFPXXHyxRKXdqk8M8w)
+
+## Highlights
+
+> 晒包晒车晒娃都还能努努力接近一下，但发自己是江浙沪独生女的，**完全是在晒命啊**。” [⤴️](https://omnivore.app/me/burberry-189d09b713f#662bdf82-0491-47ea-ac88-858ec5656d0e)  ^662bdf82
+
+> 也许县城贵妇还要开车两个小时去市里的商场补习生活方式，但对于只有商圈划分、没有城市和农村之分别的江浙沪接壤地区，在哪都能被消费主义均匀辐射到 [⤴️](https://omnivore.app/me/burberry-189d09b713f#a81af10a-5b41-4003-bef1-191d231650e3)  ^a81af10a
+
+> 当“江浙沪独生女”意味着一种在这个时代还有稳妥兜底的生活，那么对阶级坠落的恐惧只剩下一种：嫁错人。
+> 
+> ![图片](https://proxy-prod.omnivore-image-cache.app/1170x0,ssCAtfXCRbWW-1cjo41GmuSPogBmmxFckaZitGnIh9Bg/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FACiafGzl6uiaDNtVCiaTj1PwCcVf4awqeEHHYyG2YHHNibfjIbtibfZicZ2RQ/640?wx_fmt=jpeg)
+> 
+> 估计连导演也没想到，今年两部热度最大的影视剧《消失的她》和《我的人间烟火》，**会被并列称为“江浙沪宝女的婚恋教育片”** [⤴️](https://omnivore.app/me/burberry-189d09b713f#f3a2131a-16bc-47c1-b6a1-1fe06c7d8511)  ^f3a2131a
+
+> 对江浙沪独生女身份的向往，在这两部影视剧的舆论反响中，**变形为在看到女主角在婚恋中向下兼容时的恨铁不成钢，和自我代入主角后产生的阶级陨落焦虑** [⤴️](https://omnivore.app/me/burberry-189d09b713f#d167ccfe-1ee6-453e-8d2d-954945842dab)  ^d167ccfe
+
+> 而即便是嫁人，也不会稀释江浙沪父母对独生女的关爱。如今，江浙沪独生女流行两头婚，即不分嫁娶，不看重彩礼，父母在女儿婚前就会为其置办房产或者两家合资买房，第一个小孩随父姓，第二个小孩随母姓，成家后依旧与双方原生家庭保持如婚前一般的紧密联系。
+> 
+> “换言之，江浙沪不会有嫁出去的女儿就是别家人的思想，**不管婚前婚后，女儿都是自己家的人**。”
+> 
+> 庇护得越多，管得就越具体，对江浙沪独生女来说，不孝有三，一是找了外地男友，二是出门不叫人，三是十点不回家。
+> 
+> 反正，不论你干什么，他们内心最隐秘的期望，就是让你留在本地。而这个本地的概念，也得父母定义。 [⤴️](https://omnivore.app/me/burberry-189d09b713f#5b6cab96-fda3-46e8-a033-2d0ba08a9647)  ^5b6cab96
+
+> 在过去，江浙沪父母因为对女儿管得太多而著称。但如今，当个人奋斗变得没有效率、夫妻俩的钱包支撑不了买房的大头花销，原生家庭就成了安全感而非控制感的来源。
+> 
+> 而“江浙沪独生女”这个词的本质，便是我们能想象到的，**最能让女儿与原生家庭组成紧密利益、情感共同体的社会身份。** [⤴️](https://omnivore.app/me/burberry-189d09b713f#98ce5d63-5f1c-4374-a499-c586576f8469)  ^98ce5d63
+
+> 随着经济周期的变化和市场洗牌，北上广的都市丽人们，似乎失去了那一层光鲜的滤镜。当刷简历拼加班失去了它可以兑换的红利，那奋斗可能就不再是上进，只是受苦而已。
+> 
+> “回老家”这件事，**一时间从被人诟病没出息，** **突然变成了“上岸**”。众人 [⤴️](https://omnivore.app/me/burberry-189d09b713f#06bf64a9-1465-47e8-be99-f333a09d55d9)  ^06bf64a9
+
+> 而从另一个角度来说，从单身小姨到县城贵妇，再到江浙沪独生女的互联网女性人设样板的变迁，**对应着独立女性-妻子-女儿的三重社会身份的转变。**
+> 
+> 对于变富这件事，人们渐渐从个人奋斗转向仰赖家族庇荫，大众的致富幻想，也悄然从好好读书、考取功名的北方成功学，转向了整合资源、抱团致富的南方成功学。 [⤴️](https://omnivore.app/me/burberry-189d09b713f#b0a0b08a-9fb5-4341-935f-fedcf290004f)  ^b0a0b08a
+
+> 不管用什么标准看，男方都算北漂中的佼佼者，但此帖一经发出，便遭遇铺天盖地的讨伐，大批反对者现身说法，大意是：别想了，你配不上。
+> 
+> 男方引以为傲的条件，被一一击碎至虚无：
+> 
+> 你是京户，但我们偏偏不想远嫁；
+> 
+> 你是收入高的互联网新贵，但我们也是吃了房地产红利或者家里经商的老钱；  
+> 
+> 你只看你有北京一套房，却没看到我们的父母有给我们婚前购置一套房的传统，我们为何放弃父母的宠爱，转向大男子主义老公的怀抱，跟着你去北京还房贷？ [⤴️](https://omnivore.app/me/burberry-189d09b713f#4e79aebb-a6f7-451d-916d-538b20731550)  ^4e79aebb
+
+> 有人说年薪百万程序员和江浙沪独生女之争事件，几乎浓缩了所有的要素：
+> 
+> 有独生女的平权主义思想，与大男子主义的性别意识交锋；
+> 
+> 有凭个人奋斗杀出重围的新钱，与家族凝聚更紧密的老钱的交锋；
+> 
+> 也有以夫妻二人组成小家庭单元，和大家族利益共同体孰优孰劣的交锋… [⤴️](https://omnivore.app/me/burberry-189d09b713f#d69d7cc4-2dab-42e0-998e-f0de2ceefd24)  ^d69d7cc4
+
+
+--- 
+
+Full Content: 
+
+ INSIGHT视界 _2023-08-07 22:30_ _发表于北京_ 
+
+以下文章来源于三联生活实验室 ，作者vasta 
+
+[ ![](https://proxy-prod.omnivore-image-cache.app/0x0,sAbNL0N7R_jNktqNc57xCOq8gJR0g9-n92s7CrJ9x8yI/http://wx.qlogo.cn/mmhead/Q3auHgzwzM437aibPAMRmUv7LFOD2pfTjuB9FEQSoPt6o0CrzbPfIvw/0) **三联生活实验室** .Never Bored 城市Cool Guy生活样本 ](#) 
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sCAclP8zWwwH8IkBy6bql7g21u8hW6FxyF28C1wAveT0/https://mmbiz.qpic.cn/sz_mmbiz_jpg/5SSkUyMYWI5kcQ3vO2NQOZ0tXaoGDMFYrt7EZt5qNnDo0FdYz1qbXCrnR6qFJoYRSkf7nRSibbfkAeFL9WV888Q/640?wx_fmt=jpeg&wxfrom=5&wx_lazy=1&wx_co=1)![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sxpTxt8J3pGaPEMm7rzKkkpxTpVnlnh6T957glPzvmF0/https://mmbiz.qpic.cn/sz_mmbiz_png/5SSkUyMYWI6a0fpKICjicfIATMqwria7mBx3ianEenVFvTZbIcMxaLpSthcRVEwVKJzJhLJfatINZTP8M66pKxibWQ/640?wx_fmt=png)
+
+如果你最近刷过社交平台，一定会发现，如今，最让人艳羡的生活已经不是都市丽人们在大厂工作的菁英日常，也不是“县城贵妇”们在自家别墅里的岁月静好。  
+
+**“江浙沪独生女”腾空出世**，成为了这个时代的人设样板。
+
+微博上搜索江浙沪独生女，跳出来的是各地网友玩梗式的发愿贴。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sGd5R2juwmdLPSY_Oes6mC__A2Z43yQmP-xGyDEMR5zs/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FARcKFNQnh6efV4erDCMicra3LOiaMkH4tvIajXkRGv6zyuVoMMm9FRTFw/640?wx_fmt=jpeg)
+
+“江浙沪独生女”一下子就成了新的流量触发词，好像只要对方吐出这六个字，你就能把她美好的生活想象的八九不离十。在小某书上，就算只是轻描淡写地记录一下自己的小幸福，也能引来很多人的五味杂陈。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,s3mwfKywsPLPWOUEPQyRKlx3yJKF5svpobFvQ4N7dRns/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAQJ1YLebPg5JrgGbX4G6nsiaEibAiafYnFPb2ODBRqcOicGGnuVjhTwv1iaw/640?wx_fmt=jpeg)
+
+“==晒包晒车晒娃都还能努努力接近一下，但发自己是江浙沪独生女的，==**==完全是在晒命啊==**==。”==
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1170x0,sDDl__ERlQGpp_2lV3fNVdc2LlTXn-yMFSCYMoqiuwWs/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAKQzFpfgb0w8XFlAf5BrJAGn19Rbc1QSoxnfVC2AibgCMekBxhKia9uFg/640?wx_fmt=jpeg)
+
+甚至，江浙沪独生女已经成了一种都市传说。每个人都从自己的见闻中，拼凑出一种关于当代凡尔赛的极致想象：
+
+有人说，**她一生的关键词是“顺遂”**——生活优渥、受尽宠爱，家里大小做点儿生意，亲戚给的压岁钱都比初入职场的年终奖都多。父母给她安排了好一种避开所有劳累与凶险的生活，**让她从光腿穿巴宝莉衬衫的快乐留学** **生**，最终稳妥地进阶为穿新中式戴翡翠的江南贵妇。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1121x0,syLMyFhtbqzGWZtU9QJwXd61f-rv7VNUMcFHrY-5CJoo/https://mmbiz.qpic.cn/sz_mmbiz_png/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FA6mSHdiaGh31Q3tFBQnEkGlG8b72YKxQv36xND0ibvt7vgv1ibXTDQsauA/640?wx_fmt=png)
+
+每当她的妈妈在麻将桌上提起她，总是会带着宠溺用这样一句话作结：
+
+**“哎呀，又不指着她养家！”**
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1170x0,sYqdPp-Td1dJfw4s3Why9H6JaxWFs_2lpQ6bT3f3YRgU/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FA0KgDkb4AHJ8v7l7B5yGb5vZ5tSpHhUkEmZVUZ5T7YrO7iaFmty3Sk1A/640?wx_fmt=jpeg)
+
+还有人说，江浙沪独生女们有一种统一的气质，即一种将恃宠而骄内化后的云淡风轻。
+
+“我在江苏的远房表妹，朋友圈基本不发文字，但每天都会发一个圈。有一次我点开后，发现那是她绕着自家在紫金山别墅跑步的轨迹。”
+
+**留在家乡的江浙沪独女，过着一种被称为“宝女”的生活**。平时和妈妈逛逛新世界，吃吃brunch。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1170x0,s6cRMIXnFsbZlR6XxGO46AT5N2w3-ovT9VjPNjBUBRec/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAl0uicQj4YfJQ5rI2Niaiabw92UxSFe5vTVExUaszshxUBGdWPWNOY0dcw/640?wx_fmt=jpeg)
+
+==也许县城贵妇还要开车两个小时去市里的商场补习生活方式，但对于只有商圈划分、没有城市和农村之分别的江浙沪接壤地区，在哪都能被消费主义均匀辐射到==。你会发现，不论浙北还是苏南，江浙沪独生女都能在时尚上步调一致，在精致上不分伯仲。
+
+而如果哪个宝贝囡囡想不开，竟然去了北京打工，则会在每年春节时被家里亲戚轮番心疼，**“你看你，皮肤都不好了。”**
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1170x0,sn-Auqmi7Hz7_3o5CSbhzlbHApz5i-YFQStaGzJcsNnk/https://mmbiz.qpic.cn/sz_mmbiz_png/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAC3xZiaBkPIzFsQGGJLg2Ky5G3ZhLiamgIULsdV87rN5dZ3Na7nicdnOYQ/640?wx_fmt=png)
+
+即便是北京的同事，也总会有一天忍不住问她到底图什么，江浙沪独生女往往会带着一种会无意刺痛你的淡然说：
+
+“还是得出来看看嘛。”
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1160x0,sfk0hvICfEnkbsw8XNSoKVU5dKBDHU_Fm8ZnQvaGMt1k/https://mmbiz.qpic.cn/sz_mmbiz_png/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAftcXh0pNCHC4vy04VZXJpP5Bnf9nVbB2ZTvMiancJln6nD3JQUA0SPw/640?wx_fmt=png)
+
+==当“江浙沪独生女”意味着一种在这个时代还有稳妥兜底的生活，那么对阶级坠落的恐惧只剩下一种：嫁错人。==
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1170x0,ssCAtfXCRbWW-1cjo41GmuSPogBmmxFckaZitGnIh9Bg/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FACiafGzl6uiaDNtVCiaTj1PwCcVf4awqeEHHYyG2YHHNibfjIbtibfZicZ2RQ/640?wx_fmt=jpeg)
+
+==估计连导演也没想到，今年两部热度最大的影视剧《消失的她》和《我的人间烟火》，==**==会被并列称为“江浙沪宝女的婚恋教育片”==**。围绕着这个跟电影主旨并无直接关系的群体身份被广泛讨论。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1170x0,s55DAwQutmPg-Itpa7xFCtX9x3Ufx1WG-u48nSPLijR4/https://mmbiz.qpic.cn/sz_mmbiz_png/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAcPqp7VJ8pb8IqQuPYl5uqb7q4gpzNRpw3fnFEpZK4RYx3ia5plBQicug/640?wx_fmt=png)
+
+在《我的人间烟火》中，女主角许沁虽然不是独生，但却是**一位标准的江浙沪千金**。失去双亲的她从小被富有的孟氏夫妇领养。养父母怕她吃苦，不想让她当医生，奈何拗不过她，于是为她打点事业的上升通道，在医院附近备好房和车。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1170x0,sxKnua3KzPdRWmSZrqx0I0Gyp_unkYGCAvSuffuDB5FY/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAqT1c5r9atNRanvEYibKlZoYDuqwCujsavJauPaChY7M7QXBgZfOoz3A/640?wx_fmt=jpeg)
+
+他们对许沁的要求是要听话、注重门第和家教。但偏偏，许沁就是爱上了被他们看做是小混混的宋焰。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sbEBdC7aN9NBWxguR1yHcabTVEVnWNDm_GVRIkvRtp2c/https://mmbiz.qpic.cn/sz_mmbiz_png/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAr2vFAlCiaoxl31P9OAC1mDjUkhibv8ZrcM8KOic6TUtjcXJmgMzlyAAng/640?wx_fmt=png)
+
+==对江浙沪独生女身份的向往，在这两部影视剧的舆论反响中，==**==变形为在看到女主角在婚恋中向下兼容时的恨铁不成钢，和自我代入主角后产生的阶级陨落焦虑==**。明明赢在了起跑线上，却偏偏要倒着跑的许沁，遭到了观众一致的讨伐：“如果你不会当大小姐，就让我来。”
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1170x0,sWyvGY6HgQ1Jk0izDqdPn3zKUsLOfd9qKozx8OZ8xNA8/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAR9cJ6aucBGQr5icMQCsKlCINS1FnUhiarKXBdhGTE5NiabSgQkLBe25ibQ/640?wx_fmt=jpeg)
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sdgQgtgK8ijqtrwmrboQEj0D6b_t22ZqbiMTAk9rq5Dg/https://mmbiz.qpic.cn/sz_mmbiz_png/5SSkUyMYWI6a0fpKICjicfIATMqwria7mBajUQAjAVKRQxzHzoxomcp87OO7yMpOfX4qqRvEcrLC6jPtmfKUqQAQ/640?wx_fmt=png)
+
+早在几年前，“江浙沪独生女”这个标签就开始频繁出现，知乎上曾有一篇这样的问答：作为江浙沪独生女是怎样的体验，大部分答主大方承认：**确实很爽。**
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1170x0,sP_7aSIpzNLgCftFlGNPF3JGg5fYky8OcIomRXNlv-zQ/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FA8iahYe3zicqiaZwTmmuhLZZh3tQRg1b0GgBvBkRGj6NeGxibEJDDguBupQ/640?wx_fmt=jpeg)
+
+这样的大方让这篇问答破了圈，原因无他：有底气说自己很幸福的人太少了，而现在出了一群这样的人。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1166x0,syupV3YPxsXWuldND1cvkhPBLjucRiV5VotQFz9BD-cw/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAt4VhLrjH8eRKtLgsnkVsqXF8M5jHicicPzthSAFXYsibq4lIu5pOQJwgg/640?wx_fmt=jpeg)
+
+江浙沪独生女的标签太夺目，以至于连她的周边“江浙沪爸爸”和“江浙沪妈妈”也在互联网人设商店中有了一席之地：
+
+高考发挥失常没关系，**一个理想中的江浙沪爸爸是会送你去读国际本科的**。“国内两年新加坡两年，出来直接伯明翰本科”——毕竟在颇具国际视野的江浙沪地带，出国镀金是给闺女减轻学业负担的基本操作。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1170x0,sCcAF6QNk2ROT1RLTbb36OPMLvUuIuhD-D-D7iOuvMd8/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FASicEU7WsoEoW5icKokZ4ic0TyPhoL6TO0KicjHuiat0AmZ8ic5J0rnFj6Slw/640?wx_fmt=jpeg)
+
+全力以赴培养、掏光家底补贴。有人说，在江浙沪家庭，独生子和独生女在倾注的心血上没有男女差异。
+
+但等到孩子长大，江浙沪父母的经商基因又使他们对读书考公的主流上升渠道并不执着，反倒多了些因为心思活络而自然形成的宽容。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1170x0,sxkgm5ayWCz_7Dc09juC580Axk24XvT3Sqjqdy7kN8oY/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FA3LzFN4JLPTWdibbGSdYakcpfOHSZQB3Liciaia6XfOKeQVcQBicGC6rUkPw/640?wx_fmt=jpeg)
+
+假使你有出息，自然是不错。假使你对主流意义上的成功没有兴趣，江浙沪妈妈便会轻飘飘地吐出一句：找个地方交交（公积）金，也是蛮好的。
+
+不求你多给家里争气，但求你至少学会坐享其成。对“孩子必须得经受历练才能成长”不买帐，只相信“女孩子要什么都见过才不会被骗”的朴素智慧。
+
+在早年的财富积累中，奋斗的成果已经显形，**如今他们要处心积虑为孩子谋划的，是性价比更高的“选择大于努力”。**
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1170x0,si1KvhwESKF1Kvf880x-kj5QDoGkBVv95lsscnLw53iw/https://mmbiz.qpic.cn/sz_mmbiz_png/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAfVFRkrepibrDxMXLCPFr8mfiaMFCtO97vC8LGG0vc6JKxSZog5cfWZ2Q/640?wx_fmt=png)
+
+==而即便是嫁人，也不会稀释江浙沪父母对独生女的关爱。如今，江浙沪独生女流行两头婚，即不分嫁娶，不看重彩礼，父母在女儿婚前就会为其置办房产或者两家合资买房，第一个小孩随父姓，第二个小孩随母姓，成家后依旧与双方原生家庭保持如婚前一般的紧密联系。==
+
+==“换言之，江浙沪不会有嫁出去的女儿就是别家人的思想，==**==不管婚前婚后，女儿都是自己家的人==**==。”==
+
+==庇护得越多，管得就越具体，对江浙沪独生女来说，不孝有三，一是找了外地男友，二是出门不叫人，三是十点不回家。==
+
+==反正，不论你干什么，他们内心最隐秘的期望，就是让你留在本地。而这个本地的概念，也得父母定义。==
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1154x0,sqjT_Yv_LkCAQp2nPq9epDX5VdxkmQMKkjMAeAXwSlHY/https://mmbiz.qpic.cn/sz_mmbiz_png/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAYOicbIa7pFOCicFh5xUDsloUQIlOOrPnGnJcwWVKJMee9Lz4DeiamHDlQ/640?wx_fmt=png)
+
+“黄浦找静安，杨浦找普陀、吴县找吴江、临安找富阳，镇明找江东。而如果你是温州人，甚至要精确到乡镇”，这是一本江浙沪父母们不会明说的内部鸳鸯谱。
+
+==在过去，江浙沪父母因为对女儿管得太多而著称。但如今，当个人奋斗变得没有效率、夫妻俩的钱包支撑不了买房的大头花销，原生家庭就成了安全感而非控制感的来源。==
+
+==而“江浙沪独生女”这个词的本质，便是我们能想象到的，==**==最能让女儿与原生家庭组成紧密利益、情感共同体的社会身份。==**
+
+再加上，“独生女”是特定时代的产物，江浙沪地区又素来富裕，几个buff一叠加，就让“江浙沪独生女”成了一种关于顺遂人生的终极想象。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sbjxsqJXyJUECKywnloyd_XqGSwiod1NHcWecGie-8t0/https://mmbiz.qpic.cn/sz_mmbiz_png/5SSkUyMYWI6a0fpKICjicfIATMqwria7mBv0afHg0hnTOibor0qFYHy5bicEkCYVVJxpGkKIBy3YF9pIRpkDIez87w/640?wx_fmt=png)
+
+互联网上的女性人设，在最近一年，就经历了几度变迁。
+
+过年时，从大城市回家发压岁钱的**单身小姨还是大家眼中的爽文女主。**
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1108x0,sYKnjd36zWC39xWGjwYgClT_uWJdEPNDhN8M-qvJaKoA/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAxEELic76zIoNws21bRM9K3F3Ld1l6Eb7pUOkYicVLTJyYUcibgbVNujyQ/640?wx_fmt=jpeg)
+
+她是新时代的独立女性，**一个人在大城市打拼，有体面的工作和收入，光鲜的外表和生活**。正因为此，得以从老家陈旧的生活方式以及婚恋观中豁免，她发的压岁钱，也被广大网友看作是让老家亲戚闭嘴的封口费。
+
+再后来，==随着经济周期的变化和市场洗牌，北上广的都市丽人们，似乎失去了那一层光鲜的滤镜。当刷简历拼加班失去了它可以兑换的红利，那奋斗可能就不再是上进，只是受苦而已。==
+
+==“回老家”这件事，==**==一时间从被人诟病没出息====，==** **==突然变成了“上岸==**==”。众人==蓦然回首，发现活的最爽的竟是自己老老实实呆在老家的女同学们。如今，她们在县城拿着几千块钱的工资，开着父母奖励上岸买的代步车，过着穿穿海宁皮草、喝喝下午茶的日子。
+
+于是，**县城贵妇，又成了新的样板。**
+
+![图片](https://proxy-prod.omnivore-image-cache.app/828x0,sLzg2Dc40Ds6Gguag8xrzytn3vk8U8Zjml_Qa2kqziiU/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAq1MH0YjCiatdxoCKrl3wRBz5Ff3CrBNAHSVfLGiaNvFrrj0bqtOibDyzQ/640?wx_fmt=jpeg)
+
+而如今，人们却发现，江浙沪独生女，似乎才真正算是一群丝毫没被时代洪流侵蚀到的人。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1006x0,sS-PkJSV3D9SBlqp9FzEnG9uQ4YMcKJsDN5JUfIxZygw/https://mmbiz.qpic.cn/sz_mmbiz_png/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAUCENJjsvQnSibRwkgppzC3uAI0W7XIoW8zu31vMyvBIz3IMZdOXfm9g/640?wx_fmt=png)
+
+比起都市丽人，多了躺赢的安逸和家里的庇荫；比起县城大小姐，又多了家中资源all in的投入和不重男轻女的自信。更重要的是，**有一种不稀罕北京资源，身处经济发达圈自己跟自己玩儿的地区认同感。**
+
+在打工赛道更拥挤、主流上升通道收紧的年代，她们背后的那个以经商和活络闻名的家乡，就成了莫大的底气。
+
+==而从另一个角度来说，从单身小姨到县城贵妇，再到江浙沪独生女的互联网女性人设样板的变迁，==**==对应着独立女性-妻子-女儿的三重社会身份的转变。==**
+
+==对于变富这件事，人们渐渐从个人奋斗转向仰赖家族庇荫，大众的致富幻想，也悄然从好好读书、考取功名的北方成功学，转向了整合资源、抱团致富的南方成功学。==
+
+#### 
+
+**ending**
+
+四年前，一篇年薪百万阿里P8男想找江浙沪独生女的相亲帖在互联网上掀起轩然大波。
+
+男方京户，互联网行业、年薪170万、在北京有120平米三居室（有200万贷款）、一辆特斯拉model3，想找一位211本科、身高162以上、月薪一万以上、外表可人、知书达理的江浙沪独生女。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/1080x0,syy83Fg3397TH2w847WI5WicOdfLfoHkq5i3hKoJ87z8/https://mmbiz.qpic.cn/sz_mmbiz_png/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAj97HscDsUx956YXcf94ZLhCGnFe8k0BFlKrQe240tbxKy1P2ia78Vqg/640?wx_fmt=png)
+
+==不管用什么标准看，男方都算北漂中的佼佼者，但此帖一经发出，便遭遇铺天盖地的讨伐，大批反对者现身说法，大意是：别想了，你配不上。==
+
+==男方引以为傲的条件，被一一击碎至虚无：==
+
+==你是京户，但我们偏偏不想远嫁；==
+
+==你是收入高的互联网新贵，但我们也是吃了房地产红利或者家里经商的老钱；==  
+
+==你只看你有北京一套房，却没看到我们的父母有给我们婚前购置一套房的传统，我们为何放弃父母的宠爱，转向大男子主义老公的怀抱，跟着你去北京还房贷？==
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sa6uACtdzKt6Zz6l6ePHhGLMJFmnEKwyoHP-6hiwrNjM/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAqq1vhsSL0QLToe9eQIbzsvcGfk7DA3cDUYuCFW86hzgOt5qDzATNvg/640?wx_fmt=jpeg)
+
+即便你是百万年薪，也实属“僭越”了。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sS4tINoPtfQqS4fbFA1iEEsvnXgteaH-HUwfIhaz8laE/https://mmbiz.qpic.cn/sz_mmbiz_jpg/rrBWOSuXd7JZUP27BWR7fK0Fpgiaqs8FAoc1JGVoUHjJzJvgsCUQdV03ancwMjLicRerCzNpVw4r8UB30Nh5ZBkw/640?wx_fmt=jpeg)
+
+一切意识形态交锋，都能在相亲市场中显形。==有人说年薪百万程序员和江浙沪独生女之争事件，几乎浓缩了所有的要素：==
+
+==有独生女的平权主义思想，与大男子主义的性别意识交锋；==
+
+==有凭个人奋斗杀出重围的新钱，与家族凝聚更紧密的老钱的交锋；==
+
+==也有以夫妻二人组成小家庭单元，和大家族利益共同体孰优孰劣的交锋…==…
+
+为这事儿吵的脸红脖子粗的人，也许并不是关心他人的婚姻大事，而是变着法地借到底谁配不配得上谁的问题，为自己的人生轨迹和选择正名。
+
+但这场世纪大论战的两位主角，却可能并不真正关心自己在舆论中的处境，**在更多的不交汇的时候，他们只是各自岁月静好。**
+
+我把这场世纪大论战截图发给了一个“江浙沪独生女”朋友，她回了一张图：
+
+**在天目湖的竹海过周末呢，鱼头好吃。**
+
+本文系授权发布，by vasta，From 三联生活实验室，微信号：LIFELAB2020。**欢迎分享到朋友圈，未经许可不得转载**，INSIGHT视界 诚意推荐
+
+[![图片](https://proxy-prod.omnivore-image-cache.app/0x0,s2SsSHIMDgEnGDWfODqemZllSjy2bFvQuDUKDbkKO7gg/https://mmbiz.qpic.cn/sz_mmbiz_png/5SSkUyMYWI4D7eBc9KmXTACaL8aoicOwppjwAQZDBV5gNAiaNHPia03sp9PZL7y6ZZeBic9ABTpibIIsficUT2q7znpw/640?wx_fmt=png)](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MDM3MDYwMg==&mid=2654182357&idx=1&sn=981526d739212cf71984884cea4a8940&chksm=84faef90b38d6686d5bb8d9536cf7e696d81188671c035e736dedec908a2317e3fc2c890e1d5&scene=21#wechat%5Fredirect)![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sbuc_OEkVarXRGH27VDujmEaXvzh2LXTRo-c9Ixnl0XI/https://mmbiz.qpic.cn/sz_mmbiz_png/5SSkUyMYWI6XejoYWBJbcSZkFlZWRKHX7dCaesiaHP2P9OMRiaJLPriaibCZRSM1xziaRbS7t4YibGQIx10DrqFFwmVA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sMg9EMG2sgOop2hdSaIX0wV-WmzoFFxjE1Nnfkou4r2Y/https://mmbiz.qpic.cn/sz_mmbiz_png/5SSkUyMYWI4qGgsEZVmVbBp3kC8CZcsSxRsLsnQG7ibQtXwLIRrnQrZ6Cic4ZNoqRWlV9vQE2v2oBPYHIUjejH0g/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)![图片](https://proxy-prod.omnivore-image-cache.app/0x0,smsEIgJaKRlIShGNefKS8qgoS6ljJu-ZhxP9xs60QVcg/https://mmbiz.qpic.cn/sz_mmbiz_png/5SSkUyMYWI4qGgsEZVmVbBp3kC8CZcsSK9oCPBEffTzsgOHricPjE5FgsMOUoSnWrw6EkiaPxYKvLcJAUyQUEYbA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)![图片](https://proxy-prod.omnivore-image-cache.app/0x0,s4654BtfduThrV0exaOyWBcs6OzSXyHPzPr6i-B5loxA/https://mmbiz.qpic.cn/sz_mmbiz_png/5SSkUyMYWI6XejoYWBJbcSZkFlZWRKHX93aFfVANd5x3qvflibiagNibse9ZNRxetcZtE4ooAtgCc1PQyzeNKg3hQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)

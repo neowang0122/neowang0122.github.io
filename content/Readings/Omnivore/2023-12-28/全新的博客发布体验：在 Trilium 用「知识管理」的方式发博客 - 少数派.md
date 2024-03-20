@@ -1,0 +1,251 @@
+---
+id: 9a23ea7a-a62d-11ee-baea-efe1790f4b0c
+title: |
+  全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客 - 少数派
+author: |
+  _东东_
+tags:
+  - RSS
+date_saved: 2023-12-28 22:08:13
+date_published: 2023-12-28 22:08:13
+---
+
+# 全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客 - 少数派
+#Omnivore
+
+[Read on Omnivore](https://omnivore.app/me/trilium-18cb4edb3d6)
+
+[Read Original](https://sspai.com/post/85141)
+
+## Highlights
+
+> 基于 Trilium 共享功能的博客发布方案。
+> 
+> ## 先谈谈我的痛点
+> 
+> ### 博客与笔记割裂感强
+> 
+> 在我的知识管理框架中，笔记以原子笔记的形式存在，一条笔记只记录一个主题，通过双向链接的方式，某些笔记会聚合起来形成具有特定主题的文章，而将这些文章分享出去就成了博客。所以，博客与笔记本质上没有任何区别，无非就是具有特定观点的笔记聚合物 [⤴️](https://omnivore.app/me/trilium-18cb4edb3d6#f46d408a-d05b-414a-b243-3ff0eac30688)  ^f46d408a
+
+> 目前写博客的流程一般有以下几种：
+> 
+> 1. Markdown 编辑器（typora、vscode） + 纯 Markdown 文本。
+> 2. 传统笔记软件（印象笔记、joplin）+ 手动复制到博客
+> 3. 知识管理工具（obsidian、notion） + Markdown + 自动化博客迁移插件
+> 
+> 但以上流程中笔记与博客实际上是处于一种分离状态，本质上是把自己的笔记复制一份并且部署到博客平台而已。当然还有些自带发布方案的工具，比如飞书、flowus、obsidian 的发布方案，但这些发布方案充其量只能算是一个方便他人浏览的分享功能，并称不上是一个博客。
+> 
+> ### 不方便修改
+> 
+> 修改博文是一件常有的事情，不论是静态博客还是动态博客，为保证内容的统一性，在修改博文的时候都面临需要至少同时两处位置的烦恼。以我之前使用 hexo 博客为例，当我需要至少在以下几处进行修改：
+> 
+> 1. 笔记软件中的原子笔记
+> 2. 笔记软件中的文章
+> 3. 修改导出后的 Markdown 文本 [⤴️](https://omnivore.app/me/trilium-18cb4edb3d6#2b361e01-0892-4348-af88-2d20cdc34219)  ^2b361e01
+
+> ### 图片管理是个难题
+> 
+> 为了方便博文的迁移，之前都是用图床保存博文图片，但这也是一直困扰着我的问题：
+> 
+> 1. 图片访问速度不稳定
+> 2. 查找原图比较麻烦
+> 3. 图片混乱，无法统一管理
+> 4. 更换其他图床后或图床服务商倒闭后，以前的图片迁移困难
+> 
+> 我曾经是一个喜欢折腾工具的人（~~现在还是~~），但自从去年 10 月从 obsidian 转到 Trilium 之后，我就再也没有更换过知识管理工具。 [⤴️](https://omnivore.app/me/trilium-18cb4edb3d6#337bbe67-af19-447f-8791-dd5bd136ba04)  ^337bbe67
+
+
+--- 
+
+Full Content: 
+
+全新的博客发布体验：在 Trilium 用「知识管理」的方式发博客
+
+**Matrix 首页推荐** 
+
+[Matrix](https://sspai.com/matrix) 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。   
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+---
+
+## 前言
+
+这几年有写博客的兴趣，虽然文章产出的不多，但是工具却用了不少：2021 年初次在服务器上部署 WordPress，到转向轻量级的 typecho，再到使用 github + hexo + vercel 的纯静态博客。
+
+这些工具固然好，但作为个人博客来说，博客其实就是个人笔记的输出，以上工具使笔记与博客之间产生强烈的割裂感，并不满足我的需求。
+
+但在这个 2023 年末，我终于找到了完美的博客发布体验 —— ==基于 Trilium 共享功能的博客发布方案。==
+
+## ==先谈谈我的痛点==
+
+### ==博客与笔记割裂感强==
+
+==在我的知识管理框架中，笔记以原子笔记的形式存在，一条笔记只记录一个主题，通过双向链接的方式，某些笔记会聚合起来形成具有特定主题的文章，而将这些文章分享出去就成了博客。所以，博客与笔记本质上没有任何区别，无非就是具有特定观点的笔记聚合物==。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sXWV4_9cqy4iQXb4LrtjqmrVyw55Ms5oj8OOQUTliQTQ/https://cdn.sspai.com/2023/12/18/19170e79ee8e986aab224d40f7a8180f.jpg)
+
+我的知识管理流程
+
+==目前写博客的流程一般有以下几种：==
+
+1. ==Markdown 编辑器（typora、vscode） + 纯 Markdown 文本。==
+2. ==传统笔记软件（印象笔记、joplin）+ 手动复制到博客==
+3. ==知识管理工具（obsidian、notion） + Markdown + 自动化博客迁移插件==
+
+==但以上流程中笔记与博客实际上是处于一种分离状态，本质上是把自己的笔记复制一份并且部署到博客平台而已。当然还有些自带发布方案的工具，比如飞书、flowus、obsidian 的发布方案，但这些发布方案充其量只能算是一个方便他人浏览的分享功能，并称不上是一个博客。==
+
+### ==不方便修改==
+
+==修改博文是一件常有的事情，不论是静态博客还是动态博客，为保证内容的统一性，在修改博文的时候都面临需要至少同时两处位置的烦恼。以我之前使用 hexo 博客为例，当我需要至少在以下几处进行修改：==
+
+1. ==笔记软件中的原子笔记==
+2. ==笔记软件中的文章==
+3. ==修改导出后的 Markdown 文本==
+
+虽然通过制作脚本简化博文简化步骤： [将 ](https://sspai.com/link?target=https%3A%2F%2Fwww.ankia.top%2FsYiayejGUksl)Trilium[ 导出的文章转换为 hexo 博文](https://sspai.com/link?target=https%3A%2F%2Fwww.ankia.top%2FsYiayejGUksl) ，但实际体验下来还是略显繁琐。
+
+### ==图片管理是个难题==
+
+==为了方便博文的迁移，之前都是用图床保存博文图片，但这也是一直困扰着我的问题：==
+
+1. ==图片访问速度不稳定==
+2. ==查找原图比较麻烦==
+3. ==图片混乱，无法统一管理==
+4. ==更换其他图床后或图床服务商倒闭后，以前的图片迁移困难==
+
+==我曾经是一个喜欢折腾工具的人（==~~==现在还是==~~==），但自从去年 10 月从 obsidian 转到 Trilium 之后，我就再也没有更换过知识管理工具。==
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sybYg46HIZRQML53mkPVKc-iawrfiKOULZXoH4xlVqGQ/https://cdn.sspai.com/2023/12/18/4fbed286f3914f594c31571bded44434.jpg)
+
+Trilium 使用情况热力图
+
+我在 Trilium 中集成了日程管理、卡片笔记、任务管理……以及现在正在做的集成博客发布方案，它已成为我每天第一个打开，最后才关闭的软件。
+
+如果对这款知识管理工具感兴趣可以在我去年的推荐博文中初步了解： [我理想中的笔记软件-](https://sspai.com/link?target=https%3A%2F%2Fwww.ankia.top%2FsfDk7s6iFuno)Trilium 。
+
+目前 Trilium 在国内仍然显得小众，近期计划着重分享 Trilium 的插件、使用心得、进阶技巧等，希望更多人认识这款优秀的知识管理工具，欢迎关注\~
+
+## 制作博客前端页面
+
+### 基础的分享功能
+
+Trilium 支持部署到服务端，当部署到服务端后可以启用笔记的分享功能，开启后即可通过 `https://域名/share/笔记id` 的方式通过互联网访问笔记内容，当然这个功能分享出的界面十分简陋，只有基础功能。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sQVmfoRuMsEkxToKKpYRTUTGcL9PgMzAKStbt8sjdILY/https://cdn.sspai.com/2023/12/18/934f4b8db62b7990bc702825644e3a0b.jpg)
+
+默认的分享功能比较简陋
+
+可以看到，这个界面与「博客」这个概念可以说是毫无联系，但是这是一个 HTML 界面，所以意味着我们可以对这个界面进行各种魔改，形成我们期望中的博客网站。
+
+### 了解分享界面的原理
+
+分享界面主要通过 Trilium 源码中的 [page.ejs](https://sspai.com/link?target=https%3A%2F%2Fgithub.com%2Fzadam%2Ftrilium%2Fblob%2Fdf85a5eee40c0c06f6e648cf9e2cb18a7820a346%2Fsrc%2Fviews%2Fshare%2Fpage.ejs%23L4) 这部分代码实现的，这是一个 `Embedded JavaScript` 文件，用于动态生成 HTML 代码。
+
+阅读源码发现：该文件中会传入以下几个关键参数：
+
+* note - 当前需要渲染的笔记对象，具有一些属性和方法
+* subnote - 分享的根笔记
+* content - 当前需要渲染的笔记内容
+* isEmpty - 当前笔记的内容是否为空
+
+可见分享界面模板就是根据笔记的属性和内容动态渲染成的 HTML 页面。
+
+### 写一个自己的模板
+
+网页的三大件是：HTML、CSS、JS，Trilium 也支持自定义分享样式，主要是通过以下三个属性实现：
+
+* `~shareTemplate` \- 引用自定义的EJS模板文件
+* `~shareJs` \- 引用供分享界面使用的JS代码
+* `~shareCss` \- 引用供分享界面使用的CSS样式
+
+需要注意的是以上属性均需要设置成(inheritable)，代表这个属性可以被继承到子笔记中，使得子笔记也能使用博客模板。
+
+EJS 文件是整个分享模板的基础，通过将 JavaScript 嵌入 HTML 中，用于动态生成 HTML 模板，定义界面的各个组成部分。它的基础语法也很简单，有以下几种规则：
+
+* `<% %>` \- 里面书写 Javascript 代码，一般用于流程控制
+* `<%= %>` \- 输出经过转义的内容，一般用于输出纯文本
+* `<%- %>` \- 输出非转义内容，一般用于输出 HTML
+* `<% include %>` \- 引入外部 EJS 文件
+
+比如我想通过判断笔记中是否有日期属性，如果有，则在博文界面中显示发表日期。可通过以下代码实现：
+
+```erb
+ <% if (note.hasLabel("date") && note.getLabelValue('date')!=null) { %>
+    <div id="contentHeader">
+        <span id="blogMetadate">date：<%= note.getLabelValue("date") %></span>
+    </div>
+<% } %>
+```
+
+好了，你已经学会写 EJS 了，现在尝试写一个自己的模板吧（笑）！
+
+此外一个完整的博客界面还少不了 CSS 和 JS，如果说 HTML 是毛坯房，那么 CSS 就相当于装修，JS 就相当于水电和智能家居。当然本文可不是「前端入门教程」，也就不详细叙述了，感兴趣的看官可以自己尝试一下。
+
+经过这一步，你的分享界面应该漂亮一些了，大概会长成这样：
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,s3ksmsnHW5h1H1g_pNAvyeVE5UzNwU5iKbcLZw7pZuGo/https://cdn.sspai.com/2023/12/18/b4b0c992002267270b06d23d2c393b5a.jpg)
+
+### 加入博客该有的功能
+
+上一步可能仅仅是让原来的分享界面变得好看一些，但一个真正的博客系统可不止这些。那么一个博客该有哪些功能呢？不同人群对博客系统的偏好可能不太一样，但基础功能无非以下这些：
+
+* 导航栏
+* 博主信息栏
+* 友链
+* 目录
+* 文章置顶
+* 评论系统
+* 移动端样式
+* 赞赏功能
+* ……
+
+以上功能在本站均已实现，技术细节就不过多赘述。此时你的网站看起来就像是一个真正的博客系统。
+
+电脑端：
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sI67QbF23ufN8f8WOicbV5UT-spQ1b8_XTCnPZzu3T5U/https://cdn.sspai.com/2023/12/18/44ac385365473f2e10fb3c597a4829a6.jpg)
+
+移动端：
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,skWsT_IX-vPw64P_W6vyVDIRyNC7XS2_1Hxtqbt57qUM/https://cdn.sspai.com/2023/12/18/86ea1161b38dcf7a095a51a51bbc4164.jpg)
+
+## 享受丝滑的发布体验
+
+感谢各位阅读到这里，经过以上步骤，我们已经制作了一个不错的博客系统，接下来讲讲最重要的发布体验。正如本文一直贯彻的理念：笔记就是博文。各位在网站中看到的所有内容其实都是 Trilium 中的一条条笔记，就像这样：
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,seD89u_bdnIbmDw6y04tIUI_LXemxeThzRqZcqumGaK0/https://cdn.sspai.com/2023/12/18/a6c8de325305abb0396a4e59245a7a6b.jpg)
+
+Trilium中的样子
+
+本人是一个讲究极致自动化的人，尽可能地制作自动化工具减少不必要的流程，博客的发布也是如此。我使用 Trilium 的 `template` 功能制作了一个博文模板，我为它定义了以下属性：
+
+```lasso
+~runOnAttributeChange=blogStateChange #template #label:summary="alias=概要,single,text"
+ #label:category="promoted,alias=分类,single,text" #label:tags="promoted,alias=标签,single,text"
+ #label:headerImage="promoted,alias=头图,single,text" 
+#label:date="promoted,alias=时间,single,date" #iconClass="bx bxs-file"
+ #label:publish="promoted,alias=发布,single,boolean" 
+```
+
+在笔记的面板上，它长这样：
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,s5JwpCMM5RxXatdLykEwyErPXBNVljkznJrwJemCulrw/https://cdn.sspai.com/2023/12/18/120fd0d6ed131d8cd0c50fcc01ad1caa.jpg)
+
+主要的工作原理是：当我勾选【发布】，笔记会自动归入【分类】一栏所填的分类，并自动提取文章概要；取消勾选后会自动归入【未发表】中。
+
+所以我发布博文的方式仅仅只需要点击一次鼠标即可，而且支持随时编辑，每一次改动都能立即同步到自己的博客网站。
+
+## 本方案的优点
+
+基于 Trilium 的博客发布方案是我最满意的博客发布方案，与其他博客发布方案相比有以下几个优点：
+
+1. 笔记与博文无缝衔接
+2. 将知识输出环节融入知识管理流程中，无需其他发布工具
+3. 图片管理方便
+4. 博文的发布、修改和下架十分方便
+
+## 结语
+
+不论你本来就是 Trilium 的使用者还是其他笔记软件使用者，或者仅仅只是一个博客爱好者，我都推荐你试试这种发布方案。
+
+接下来到了激动人心的抄作业环节！整套模板已在 github 开源：[https://github.com/dvai/Ankia-Thme](https://sspai.com/link?target=https%3A%2F%2Fgithub.com%2Fdvai%2FAnkia-Thme)，欢迎尝试。

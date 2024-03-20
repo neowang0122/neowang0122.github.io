@@ -1,0 +1,240 @@
+---
+id: f28aa125-a7fc-495f-aab3-1f36d0332a83
+title: |
+  现在出国转码读cs master是49年入国军吗？ - 知乎
+date_saved: 2023-08-30 20:42:22
+---
+
+# 现在出国转码读cs master是49年入国军吗？ - 知乎
+#Omnivore
+
+[Read on Omnivore](https://omnivore.app/me/https-www-zhihu-com-question-602745828-answer-3054663581-18a490a6dbd)
+
+[Read Original](https://www.zhihu.com/question/602745828/answer/3054663581)
+
+## Highlights
+
+> 一个印度人，他可以人在印度，签十家甚至以上的ICC公司的c2c合同，然后即便没上项目，这些公司都能帮他抽签。 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-602745828-answer-3054663581-18a490a6dbd#5de9149a-747c-42c4-ad65-d86659cb27d6)  ^5de9149a
+
+> 美国里面程序员有两类：进硅谷大厂的程序员，和除此以外的程序员。这两类人你不能把它混为一谈。我非常赞同 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-602745828-answer-3054663581-18a490a6dbd#65d11638-175b-4f8e-9217-5a2ef1c5f7fb)  ^65d11638
+
+> 进普通的中小型企业跟进大厂，它对于技术的需求是不一样的。一入icc深似海，从此大厂是路人 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-602745828-answer-3054663581-18a490a6dbd#271f67ad-0f71-43b1-9aea-8c78c83a9771)  ^271f67ad
+
+> 没有稳定的职业技术路线，在linkedin上面你的profile相当于是每一年都跳槽，你觉得这是你花掉最少20万美元过来这边你想要的日子吗？对于印度人当然是他们想要的，他们不会再回印度了。
+> 
+> 你如果非得要留美国，可以接受自带干粮打工，那你可以考虑。 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-602745828-answer-3054663581-18a490a6dbd#795a2a30-c86e-4722-9c9d-a84bf07b9d68)  ^795a2a30
+
+
+--- 
+
+Full Content: 
+
+个人背景：top2本科，化工专业，下半年大四，绩点3.56/4，没有实习，只有三段cs与本专业交叉的水科研，除了基础的数学课，还修了c++，pytho…显示全部 ​
+
+关注者
+
+**874**
+
+被浏览
+
+**875,862**
+
+[![Edward Shi](https://proxy-prod.omnivore-image-cache.app/0x0,sRrjdyGIbhyAUI55OHxqGPFBi-iS0uYtAvabtWDBxoyw/https://pica.zhimg.com/v2-d0addd52a06076c47570570d2d756889_l.jpg?source=1940ef5c)](https://www.zhihu.com/people/ljs95)
+
+[Edward Shi](https://www.zhihu.com/people/ljs95)
+
+​ 关注
+
+361 人赞同了该回答
+
+2023了，每年形势都在变化，先说一下北美CS求职。
+
+2015年，各种985，211手里好几个offer，Facebook，Google，Amazon很多人拿到手软，LC年初才100多题，很多人刷LC好几遍都不是问题。一个Quick Sort已经是大神级别。这个时候ICC只要是个人就可以去，但一般狗都不去。
+
+2016年是一个[疯狂年代](https://www.zhihu.com/search?q=%E7%96%AF%E7%8B%82%E5%B9%B4%E4%BB%A3&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3036423981%7D)，Amazon扩招，1个OA2个OA不用电面，面试都没有，人都见不着，就可以给offer，14万刀的大包走起，各大公司都是疯狂招人。
+
+2017年Amazon遇冷，但还是见过女生30题，回国机票都定好了，去Facebook[面试](https://www.zhihu.com/search?q=%E9%9D%A2%E8%AF%95&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3054663581%7D)4轮Two Sum级别取消机票去上班的，各种神话层出不穷。[知乎](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3054663581%7D)上有人质疑Google L4拿25万[美金](https://www.zhihu.com/search?q=%E7%BE%8E%E9%87%91&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3036423981%7D)是在吹牛，现实就是New Grad已经15万刀总包很多人get到，笑而不语。这个时候ICC文科绿卡的很少要了，[理工科](https://www.zhihu.com/search?q=%E7%90%86%E5%B7%A5%E7%A7%91&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3054663581%7D)随便来。
+
+2018年市场回暖，Amazon再现1-2个OA拿到offer，求职市场已经火热
+
+2019年，随着Uber上市的完蛋，独家首兽备受质疑，但FMAG大厂依旧香的不行。
+
+2020年，新冠来袭，以为是寒冬，结果那年新来的人各种网课去不了，已经在美国的赚大了，[美联储](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3036423981%7D)强型印钞救市，纳斯达克从7000点冲到了14000点。有些在美国的朋友炒股[财富自由](https://www.zhihu.com/search?q=%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3054663581%7D)，300万刀收益，[特斯拉](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3036423981%7D)，Nvidia, Wayfair，Zoom等等股票翻倍的涨。ICC以CS相关专业，EE等为主。
+
+2021各个公司判断失误，疯狂招人，跳槽的很多我自己的学生，翻了2倍的工资甚至不止，Amazon一轮OA一轮review OA直接全职offer
+
+2022，寒冬将至，一片哀嚎，各大公司不招或者缩招，然后就是下半年的大[裁员](https://www.zhihu.com/search?q=%E8%A3%81%E5%91%98&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3036423981%7D)。有的ICC开始面试刷人，做题考八股。
+
+2023，前路未知，H1b超过40万人重复抽签，[印度人](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%BA%BA&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3036423981%7D)出现了人在印度美国抽签，抽中就来，没抽中继续抽，然后10个公司同时抽的情况。很多ICC人去了项目都没有，上个项目要好几个月，难上加难。
+
+后面的趋势，我大致说一下我的看法，不能说是预测，[各抒己见](https://www.zhihu.com/search?q=%E5%90%84%E6%8A%92%E5%B7%B1%E8%A7%81&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3054663581%7D)。
+
+1，北美CS留学方面，各大学校CS申请难度会加难，现在基本已经到了顶峰，但估计还会涨，因为美国就业差，国内更烂，SJSU以前大家都不愿意去的，现在被炒成了半个名校，就是例子。
+
+2，北美CS求职，会更加[内卷](https://www.zhihu.com/search?q=%E5%86%85%E5%8D%B7&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3036423981%7D)，因为后面会有一批国内有工作经验的来美，国内就业差，找不到工作，有工作经验的想润，找不到的[应届生](https://www.zhihu.com/search?q=%E5%BA%94%E5%B1%8A%E7%94%9F&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3054663581%7D)留学来缓解就业压力，到时候很多学生和职场人一起求职，被碾压的概率大。
+
+3，H1b抽签更加难抽，重复抽签的这个事情，后面会大面积变成产业，现在已经是一部分产业了，而且现在的政策是看不出任何的解决办法，中国人是卷不过印度人的。我们的人是来改善生活，印度人是来美国找生活，压力不一样。
+
+4，高工资还会维持，看不出跌的迹象，因为通胀，所以不会下跌，但后面公司选择性大，预估Low ball会居多。但整体还是会维持一个较高水平。
+
+5，回国的人数会居多。后面可能会有一批人，找到工作，留下来比较难，H1b抽签抽不中有解决办法，但很多人感觉麻烦，会在工作3年左右后回国，也不失为一个办法，回国会有较高的起点，比一直在国内的同学要高一点。
+
+6，旱的旱死，涝的涝死。如果工作抽签抽中的，大多数人还是会延续[升职加薪](https://www.zhihu.com/search?q=%E5%8D%87%E8%81%8C%E5%8A%A0%E8%96%AA&search%5Fsource=Entity&hybrid%5Fsearch%5Fsource=Entity&hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3054663581%7D)的一套流程，现在5年左右比较优秀的基本都可以到L5或者E5的40w刀包的水平，大多数会在L4左右的30w刀左右，不愁吃穿，唯一的问题是找对象，国内搬运的人会成比例上涨。
+
+7，回国创业，带团队的会有。因为家庭条件都还可以，很多人是抱着留在美国工作，但会一直盯着某个领域看看有没有机会，出来创业或者国内有大的公司给职位，回国带团队实现自我价值，这部分人也会多起来。
+
+建议：家庭不富裕的，如果要考虑这条赛道，要问问自己能不能坚持住，现在依然是有可行性，CS还是北美第一大专业，未来5年估计也不会变，但不可能像前几年那么好形势，如果不是下定决心要做，能付出**切实的努力**，口头说说那种就别来了，受不了这的苦。
+
+要来的人，别提前什么都没准备就来，自己学或者你上我的课，无论是用什么方式，别裸着来，提前刷题简历项目都弄好，要不就是白送白来，9月入学即投简历面试，还想来完再学不可能的。
+
+自己好好考虑
+
+[发布于 2023-06-01 10:06](https://www.zhihu.com/question/602745828/answer/3054663581)・IP 属地浙江
+
+​赞同 361​​53 条评论​收藏​喜欢收起​
+
+[![不值一提](https://proxy-prod.omnivore-image-cache.app/0x0,spNHWUER6KwkSGRMj4wSGJgZSlTnG0JD2rDs10km16b8/https://pic1.zhimg.com/v2-fe5b8bef089d2876a5a7b95bd3ca2652_l.jpg?source=1940ef5c)](https://www.zhihu.com/people/song-de-ming-78)
+
+[不值一提](https://www.zhihu.com/people/song-de-ming-78)
+
+[​](https://www.zhihu.com/question/48510028)
+
+浙江大学 教育学硕士
+
+​ 关注
+
+226 人赞同了该回答
+
+0730 update:
+
+总有这种大聪(pen)明(zi)，装完13就把人拉黑了，评论发不出去，就在这里手动回复一下吧，让大家看一下，哈哈哈 
+
+[@StarlightBreaker](https://www.zhihu.com/people/fec385068593d1aa3135a16bfd42016b)
+
+![](https://proxy-prod.omnivore-image-cache.app/1336x1274,sA5Gshk3FM2dZRjRp5ccs-HN3Y58MFgvRtEKIdR9o8Uk/https://picx.zhimg.com/50/v2-bf840fdc7f90405ccc50c610399a9ae6_720w.jpg?source=1940ef5c)
+
+0719 update:   
+**希望知乎大佬们能提供提供个new grad岗机会。邮箱 winneryoung@126.com**
+
+1.本人有大厂实习（美国大概只有30%的应届生有实习），2023年9月ng秋招还没开始，7月份以前，我已经投了50个ng岗了，全被拒了（注意时间节点，现在大部分人一个ng岗都没投），一个面试都没拿到。身边有大厂实习的朋友也是如此，仔细一了解，原来很多有一两年工作经验的开始投应届生岗位了。
+
+2.现在美国这边一堆转码培训机构，你就知道找工作容不容易了。
+
+3.现在有买卖实习的了，最高7w刀。
+
+4.xhs上很多转码女神男神都是21年疯狂大放水进去的，其中很多已经被裁了，你查查就知道，21年是有史以来最疯狂的，谷歌招了几万人，所以，别迷信所谓的大神。靠运气上岸，归因为“能力”和“认知”。和他们学，等于自杀，他们的优势（市场疯狂）没占着，浮夸和浮躁学了一身。
+
+5.如果4中提到的人不服，可以现在开始找工作，看看能拿几个offer？可直播对赌。
+
+所以，逆向思考一下吧，这都能接受的话，那就大胆出来吧！趁年轻！做自己想做的！  
+\========================================
+
+现在不要说top2（美国很多recruiter 不知道中国的top2）。
+
+就算你是美国的计算机4大毕业，都不一定有工作。
+
+更不用说，美国找工作，个人能力占比很少，市场和运气远远大于个人能力。
+
+不要路径依赖：觉得你能上top2，学习能力强，很容易成功之类。你能上top2，只要管好自己，自己努力就行了。
+
+举个例子：
+
+1.你比别人厉害2倍，但别人遇到的面试官给他过了，你遇到的面试官给你挂了。懂得人自然懂，不能说的太明显。
+
+2.你比别人厉害10倍，你没面试，但别人有面试。我们班找到实习的都是以前没学过计算的，有几个国内的科班+工作好几年的老司机，有之前在国内腾讯、微软、阿里工作过的，竟然都没找到实习。我们的水平不足他们的十分之一。
+
+然而两种情况，现在都很常见，并不是个例。。。
+
+更不用说2021年大放水的时候，几乎都去谷歌、meta和amazon了，那一年谷歌招了几万人。你学习能力可能比他们高10倍，那又怎样？你现在来可能找不到工作
+
+我现在在一家大厂实习，认识了很多实习生，有很多四大CS名校的，他们同班中找到实习的都不到30%，某四大名校cs phd，都很多找不到工作的。 我学长是第二梯队的phd，找不到工作。
+
+整体而言，现在的经济环境，即便是学cs的，大多数也都找不到工作。
+
+有人提到了icc，那我告诉你，现在icc招30个人的班，都能报到300人上，两三年前人人喊打的icc，现在都挤不进去。有一家大icc的java班，90%都是cmu的，你可以自己去查，我就不说具体名字了。
+
+在大势面签，引力为傲的个人能力不堪一击。
+
+我朋友斯坦福计算机2023年5月毕业，现在在一家很小的公司，期望能转正。
+
+不是pua题主，只是希望给你一点客观的事实和信息，以防你来了这里痛苦，看到太多人以为来美国转码分分钟进硅谷大厂，结果来了后终日痛苦了。
+
+展开阅读全文​
+
+​赞同 226​​54 条评论​收藏​喜欢
+
+[![技师Keith](https://proxy-prod.omnivore-image-cache.app/0x0,snCODHaz44cjqMFVC6Sa-RKTtV-ZNCVakMLFk1_cYgSg/https://picx.zhimg.com/v2-1e28e6b548353e43b0ab5643489f80dc_l.jpg?source=1940ef5c)](https://www.zhihu.com/people/keith-leung-78)
+
+[技师Keith](https://www.zhihu.com/people/keith-leung-78)
+
+东野圭吾笔下的技师，被清退后决心成为一颗有用的齿轮
+
+​ 关注
+
+604 人赞同了该回答
+
+怎么成了最高赞答案了？而且收藏这么多？大家真要进icc？想听什么？过千赞的时候我补一点。
+
+---
+
+作为icc之王，我也给大家讲两句。
+
+如果你们说的出国转码瞄准的是大厂，就是湾区那种18万刚脱贫的，有魄力你就上，起薪基本上都能脱贫，甚至好一点的基本上都能22万以上。
+
+美国打税和湾区生活成本多少请自己去查。
+
+但一旦你进不了大厂，你进的是icc，那么你就得要做好回不了本的心理准备，毕竟在美国你除了前面的学费交了的钱，你还得考虑你的生活费问题。如果你本来就瞄准硅谷，申报的学校本来就应该是San Jose附近，你一年下来花10万美元不算多，两年花20万美元一点都不多。
+
+划重点：你在国内996起码少花100万元，你要考虑的是这个问题。
+
+然后在ICC怎么回本？很难，进icc的目的是解决身份，不是赚钱，更不是职业生涯发展。 我给大家讲两个，在一亩三分地里面天天发广告的头号icc -- Antra，里面的中国人众多，除了因为发广告多以外，实际上是他们的待遇很好，你们猜多少钱？7万多一年，而且最大的好处是待机的时候好像也有1000刀一个月给你维持生命，完爆纯印度ICC。
+
+稍微差一点的东岸里面的是Beaconfire，华人iCC的扛把子之一，一般收入也是在6万多左右。
+
+你们不要以为在美国是不用吃饭，不用租房，不用打税的。 
+
+6万块钱基本上只能保证你能在生活成本最贵的地方活下来，然后公司负责帮你抽签。
+
+今年抽签70多万个签，抽8.5万人，命中率自己去算。
+
+接下来我讲的才是重点。
+
+一般在美国这边签合同有两类，一类叫做W-2，很简单，你跟ICC签了这份合同，你就是他的全职员工。他派你到哪个客户的现场做哪个项目，你都跟那个客户没有关系，项目结束了你返回icc公司，实际上你的劳动关系没变，一直都在这家公司打工。进大厂也是跟你签w-2，只不过你合同的甲方不是Icc而直接就是工作的公司而已。
+
+另外一种叫做corporation to corporation，我们一般简称corp2corp, 也就是c2c。这种你可以认为你找了一个经纪人公司，然后这个经纪人公司帮你去拉客户，实际上你去到哪个客户里面工作，你是真的跟这家公司有关系。那么帮你找到这个客户，你就要给这个c2c经纪人抽水，一般来说抽水大概在25\~28%之间，合同通常是卖身契形式的。c2c你知道客户那边给自己多少钱因为合同是给你签的，w-2你不知道他给你公司多少钱，因为合同是他给你公司签的，这就是差别。
+
+最终拿到手的工资，一般都是在H1B往上的贴着这个底线的程度（当然大部分icc哪怕W2也是这样），你真正税前是在55000到6万之间，好一点的就是上面beaconfire有6万五，低于5万5基本上抽中H1B最终也不会过移民局的审查因为薪酬太低。
+
+然后把税一扣，生活成本一对冲，实际上你相当于只是劳动力再生，你没法存钱。因为帮你找到的这些客户，基本都在生活成本最高的地方。前些年有remote的职位，薪水低都可以。印度的人还可以拿到这份职位之后回印度生活。但现在越来越多，公司要求你最少回去hybrid三天，以摩根chase为例， On site的时间是235，那么你基本上一个星期都在nyc都走不了了。
+
+那我跟大家讲一讲为什么印度人这么喜欢c2c，导致现在市场上c2c合同一岗难求。==一个印度人，他可以人在印度，签十家甚至以上的ICC公司的c2c合同，然后即便没上项目，这些公司都能帮他抽签。==你想一想他抽10个签的命中率是不是很高？
+
+w-2一般是你真的给这家公司工作，那就是排他的了，所以大概率只能抽一个签（你能够签几个然后分身上班，那就当我没说）。
+
+最终的结果很有可能是签了很多c2c的印度人把签给占了。现在有新闻说今年70多万签这个事情已经引起移民局的注意。你自己找个移民中介来问一下，看看美国移民局的效率。如果你今年就过来，你毕业的时候移民局如果已经把H1b abuse这件事情办完，就算我输好不好？
+
+还有，除了我刚刚说的华人icc公司可能对你比较友好以外，你不要以为你一定能进icc公司，就不是名额的问题，纯粹就是技术的问题。当你某一天接到一个信号不清晰的电话（远远没有雅思托福的音频这么清晰），操着一口hinglish问你一大堆问题给你做个screening，你一定能够像雅思那样听力考7分？
+
+这个回答下面只字不提印度人的，有一个算一个，基本上都是坑你。这个世界上难道你不会有竞争对手的吗？相比起印度人，你觉得你自己的优势在哪里？是你的脸比较白吗？别人印度人听hinglish就跟我们听chinglish一样强。而且玩过星际2吗？别人印度人每一个人就相当于一个毒爆，往美国滚，自己爆了就爆了，给同胞开路对于他们来说是没问题的。你能接受每年印度新增超过100万这样的竞争对手这种态势，你自己愿意成为这样一个给同胞开路的牺牲品吗？
+
+好了，回到转码的问题，你也可以选择走c2c，走印度人的路让印度人无处可走。你得做好没有办法挣钱的心理准备，只为了求身份。w-2也不是说不可以，通常公司比c2c要好一点，但想赚钱在抽到签并且最终转身份之前基本都没门。
+
+==美国里面程序员有两类：进硅谷大厂的程序员，和除此以外的程序员。这两类人你不能把它混为一谈。我非常赞同== 
+
+[@程墨Morgan](https://www.zhihu.com/people/29448cc28212a543bea56b9492f82e25)
+
+ 其中一个回答，==进普通的中小型企业跟进大厂，它对于技术的需求是不一样的。一入icc深似海，从此大厂是路人==。没有稳定的职业技术路线，在linkedin上面你的profile相当于是每一年都跳槽，你觉得这是你花掉最少20万美元过来这边你想要的日子吗？对于印度人当然是他们想要的，他们不会再回印度了。
+
+==你如果非得要留美国，可以接受自带干粮打工，那你可以考虑。==
+
+[](https://www.zhihu.com/question/610025966)
+
+其他的这个话题底下的热门回答，他们基本上都默认你当硅谷大厂程序员，当然好啊，就像你考上公务员一样，谁不知道呢？
+
+---
+
+PS: 从不删评论
+
+展开阅读全文​
+
+​赞同 604​​129 条评论​收藏​喜欢

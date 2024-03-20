@@ -1,0 +1,146 @@
+---
+id: 5ae6f555-1299-4f29-8e7a-840b9a383852
+title: |
+  800块DIY爆火AI硬件，全流程开源，网友：新Linux时代来了
+author: |
+  关注前沿科技
+date_saved: 2024-02-17 02:33:03
+date_published: 2024-02-12 16:06:00
+---
+
+# 800块DIY爆火AI硬件，全流程开源，网友：新Linux时代来了
+#Omnivore
+
+[Read on Omnivore](https://omnivore.app/me/https-mp-weixin-qq-com-s-i-6-qtj-7-a-3-g-bp-oyv-enqzt-da-18db5fb37f7)
+
+[Read Original](https://mp.weixin.qq.com/s/I6qtj7A3G_bpOYVEnqztDA)
+
+## Highlights
+
+> 它可以随时记录人的对话和环境声音到私有数据库，定制出专属的AI助手。
+> 
+> 而且**整个过程完全开源**，收集到的所有数据，全都由使用者自己掌控 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-i-6-qtj-7-a-3-g-bp-oyv-enqzt-da-18db5fb37f7#7f620924-c611-483b-8f55-6a4c1c0cf633)  ^7f620924
+
+> https://github.com/adamcohenhillel/ADeus [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-i-6-qtj-7-a-3-g-bp-oyv-enqzt-da-18db5fb37f7#b3bc09a3-9d53-40f3-b533-abd220de0781)  ^b3bc09a3
+
+
+--- 
+
+Full Content: 
+
+ 关注前沿科技  量子位 _2024-02-13 05:06_ _北京_ 
+
+##### 克雷西 发自 凹非寺  
+量子位 | 公众号 QbitAI
+
+鹅妹子嘤！AI硬件，自己也能动手做了！**只需一个小时，成本不到八百块**。
+
+==它可以随时记录人的对话和环境声音到私有数据库，定制出专属的AI助手。==
+
+==而且==**==整个过程完全开源==**==，收集到的所有数据，全都由使用者自己掌控==。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sdijtS0MnaQl_A-Gq6RKp9Ds5aEy4_nL9pgvE_RL5RSo/https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCicib7mVbQVfFch9ibfaD1ClErBAfPoiaj0p1uPSXzHrQW9ObNquXibDAr0TdiaVzicD5XPRM0ibicTMuLd2w/640?wx_fmt=png&from=appmsg)
+
+宣传视频中，作者展示了自己戴着这款设备数天后形成的私人GPT。
+
+作者说，戴着它的这几天里自己一直在与人讨论这款硬件。
+
+当他询问自己的大模型时，可以看到模型已经学会了这几天作者说的话，非常详尽的介绍了他的穿戴设备。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,szQHxw6yR1FoOAg2lGs6OowHr2ozerdyuk514KinKLhc/https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCicib7mVbQVfFch9ibfaD1ClEnr7yiacicFGFaVAu5HTqYNo20l6BVtyQmic8oFfz8vZyX5Obsx6ciaxAtA/640?wx_fmt=png&from=appmsg)
+
+而且，整套系统自己就能DIY，**硬件成本只要100美元**，大约相对于720人民币。
+
+而市面上的品牌AI穿戴，价格动辄六七百美元不说，有的还只包一年的软件服务，关键是还没现货。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,s1S0MACc_qDNXYvFaCGWYoRaJTP5okiEizVBj6NYF1CY/https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCicib7mVbQVfFch9ibfaD1ClEFat3X9HmdfSv1VuwbgpC3Rsnt9S5ZEvJefBIUPly2gNOgO9NDwgf6Q/640?wx_fmt=png&from=appmsg)
+
+###### **△**两款市售AI穿戴设备
+
+这套系统引起了开源社区的一阵欢呼，有人表示，AI穿戴的Linux时刻已经到来了。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,spKP0Rb7D-SXA48A2cTnwWvs1AFL19pEdtkvgKmF068A/https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCicib7mVbQVfFch9ibfaD1ClEw5pia3GKxRFXibdEBDJGZyu7rLm5X6KXvTEoLo2h1ud6Pvjobqx1npVA/640?wx_fmt=png&from=appmsg)
+
+那么，这样一款AI硬件是如何DIY的呢？
+
+## 一小时完成制作
+
+结构上，这套AI穿戴的整个系统主要由以下这四部分组成：
+
+* 硬件
+* 基础模型（GPT或Llama）
+* 后端服务（数据库等）
+* 移动APP（或网页）
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,s8k9vahGBKhsFcIpd9EmP-3wD2OC8Hy-4JUtoeM26gHk/https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCicib7mVbQVfFch9ibfaD1ClEZXEuR4VluV7DvKbXwyRxGTQFfM4Yt1JxaBD4kib0PxdEuKcWwpib5uIQ/640?wx_fmt=png&from=appmsg)
+
+我们先来看硬件，目前的硬件是由一块Coral AI开发板（80美元）和Wifi模块（20美元）两部分组成。
+
+外面的塑料盒子则是选配，价格为10美元。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,ssS1cXO7w-BYT-j0_3xcoyuNzJ3bwWOwlbXhofMpUqv8/https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCicib7mVbQVfFch9ibfaD1ClE9Cg0EibAqA0icMJzhBdC2ibVvaSRgOxfibOX7eaXFDibHNQaFtqiay9NpYcA/640?wx_fmt=png&from=appmsg)
+
+因为两块板来自同一厂家，硬件的组装过程十分简单，只要把它们插到一起就可以了。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sDkd6Lg0HtBTH5UJAk8P7lRSXNl4Vg7WtVDVnspsI5tk/https://mmbiz.qpic.cn/mmbiz_gif/YicUhk5aAGtCicib7mVbQVfFch9ibfaD1ClExmYZsanCvLqvtyylicKbjqCmbP7e26LN4l9GzgcNY2QFCUPRANeTZSQ/640?wx_fmt=gif&from=appmsg)
+
+接下来进入软件配置环节，首先需要注册一个数据库账号，并获取API。
+
+之后是在自己的电脑或服务器上安装数据库客户端和docker，并按照教程配置好数据库和APP服务端。
+
+这一部分的详细过程，可以到作者的GitHub项目页去阅读。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,solm2_nhwaY13xeuhScouHZp_lleC1HO0cKmc2R3Sqx4/https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCicib7mVbQVfFch9ibfaD1ClEUJNPg3rpzfTwiaJYo0GkNjFpyGNFVzsrMiaGPCLERxDia0surVLEibqVJQ/640?wx_fmt=png&from=appmsg)
+
+准备好软硬件，接下来就要给板子刷写程序了。
+
+用type-C数据线连接到电脑之后，同样是按部就班操作，完成编译上传，这个过程中需要向设备写入WiFi名称和密码。
+
+然后，这样一套AI穿戴设备就大功告成了，接下来只要随身佩戴，就可以根据自己的对话构建出专属的大模型数据库了。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,s7FJ8gK645sphP7KDcGaE2LJC-UFyLZk80hqttJmu5WE/https://mmbiz.qpic.cn/mmbiz_gif/YicUhk5aAGtCicib7mVbQVfFch9ibfaD1ClEwaYoa6ic3R0RNPWGibU56J86DuM30e7bUM6hpReonf9VbPna6UycIicWQ/640?wx_fmt=gif&from=appmsg)
+
+感兴趣的话，可以自己动手试试了！（项目传送门见文末）
+
+## One More Thing
+
+100美元，还远远未到硬件成本的下限——
+
+作者计划在不久之后尝试着把Coral开发板，换成更便宜的树莓派。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sHg-VRdTVWasJvEMU00HJrkf1Wn9AQvQ_9NYY9SIv4_s/https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCicib7mVbQVfFch9ibfaD1ClE5enyWYtdRtESzefZqgsX1nlxhhcPl8IgdkRjnPj5Ro9VYabqa5RiaHA/640?wx_fmt=png&from=appmsg)
+
+集成了WiFi模块的树莓派Zero W，售价只有15美元，如果能够成功，成本将直接降低85%。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,soTTlfTFJSrKLvEBjFqyEz4zEoEAJwzkqYjIoX2qIfdY/https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCicib7mVbQVfFch9ibfaD1ClEsaFaQyuicTibcmmuRhzr5GnZNZtrltoHqSnk8frHswxFpDGqeCDVKIiaw/640?wx_fmt=png&from=appmsg)
+
+此外，由于可以插入SD卡，所以除了降低成本，使用树莓派还能将云端数据库本地化。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sJL-ULTLVpWxVLs0m4mZUazjavcL6t_GrXxLZsL5ys3c/https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCicib7mVbQVfFch9ibfaD1ClEVTV9JrltwLbNlPIREIdPOWrJjdibRSSerCaPhgcvLA6OYfffRzoyic9A/640?wx_fmt=png&from=appmsg)
+
+同时，作者也计划在WiFi之外增加蓝牙等通讯方式，使其真正成为便携设备，随时随地进行数据上传。
+
+由于Coral的WiFi模块也支持蓝牙，这个操作只需对软件进行更新，不需要更换硬件设备。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sGSG_Wp3v1O__LMJ18qfIxOXkmF5E08djXgXNki9QHH8/https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCicib7mVbQVfFch9ibfaD1ClE5eiaR2He6U9JgkLVWgWEcickMTltuZBbJgEnFnxUibAtRGRyoJlibbNq7Q/640?wx_fmt=png&from=appmsg)
+
+而针对没有电池、需要外接电源的问题，作者已经初步相中了一款电池设备，预计很快会有解决方案。
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sLG_qIi8tFut4ULop4oZS5Gm56Ba-_X-bt5qu5c8eqDQ/https://mmbiz.qpic.cn/mmbiz_png/YicUhk5aAGtCicib7mVbQVfFch9ibfaD1ClEDrZlYND4zs78gRiaMoRTpIZIlUrJybicKpBOZL6nJicZxXtt7tjfkYK8g/640?wx_fmt=png&from=appmsg)
+
+等等党们，也不妨继续期待一波全版本\~
+
+传送门：  
+==https://github.com/adamcohenhillel/ADeus==
+
+— **完** —
+
+**点这里👇关注我，记得标星哦～**
+
+**一键三连「分享」、「点赞」和「在看」**
+
+**科技前沿进展日日相见 \~** 
+
+![图片](https://proxy-prod.omnivore-image-cache.app/0x0,szwoYh5XQirpIcWEJ__WUUlvmSKwVoepjpKctWSCSs_E/https://mmbiz.qpic.cn/mmbiz_svg/g9RQicMD01M0tYoRQT2cMQRmPS5ZDyrrfzeksiay90KaDzlGBH61icqHxmgFKfvfXtVuwTHV740CDLAaXU1LIfZyoJEpYKcRIiaE/640?wx_fmt=svg)
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sztHen2zKglbooc8jnRanh8F2QK9kejIH_eS7fuz0zAU/data:image/svg+xml,%3Csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\"%3E%0A%3Cpath d=\"M12.8974 15.5585L14.9719 13.484L16.2447 14.7568L12.3519 18.6497C12.1566 18.8449 11.84 18.8449 11.6448 18.6497L7.75195 14.7568L9.02475 13.484L11.0974 15.5567L11.1 4.99976L12.9 5.0002L12.8974 15.5585Z\" fill=\"black\" opacity=\"0.3\"/%3E%0A%3C/svg%3E) 继续滑动看下一个 

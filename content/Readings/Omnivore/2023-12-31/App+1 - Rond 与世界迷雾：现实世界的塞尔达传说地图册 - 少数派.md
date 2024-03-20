@@ -1,0 +1,173 @@
+---
+id: 3ce5aaf0-a7b4-11ee-a7fd-7b19e2f2e53b
+title: |
+  App+1 | Rond 与世界迷雾：现实世界的塞尔达传说地图册 - 少数派
+author: |
+  Hessel
+tags:
+  - RSS
+date_saved: 2023-12-31 02:00:00
+date_published: 2023-12-31 02:00:00
+---
+
+# App+1 | Rond 与世界迷雾：现实世界的塞尔达传说地图册 - 少数派
+#Omnivore
+
+[Read on Omnivore](https://omnivore.app/me/app-1-rond-18cbeedce11)
+
+[Read Original](https://sspai.com/post/85355)
+
+## Highlights
+
+> Rond 与世界迷雾 [⤴️](https://omnivore.app/me/app-1-rond-18cbeedce11#851dc541-4ffe-4a2c-8e3f-9f25abc04797)  ^851dc541
+
+> 世界迷雾也是时刻的轨迹记录，只不过它只记录总的足迹，而不是按每天划分开，你可以在出去玩的时候才开启，也可以将飞机和动车的轨迹导入，配合上一些成就系统，世界迷雾成了我最爱的几个 app 之一。每次出门或旅游，我总喜欢打开世界迷雾，然后冲向自己未知的区域，开始探索这个世界。 [⤴️](https://omnivore.app/me/app-1-rond-18cbeedce11#96047c78-8180-4148-bfed-42d4cf5b88d0)  ^96047c78
+
+> 总体而言，世界迷雾基本已经实现在现实世界中的足迹模式，让手机这个现代生活的希卡之石功能更加全面。 [⤴️](https://omnivore.app/me/app-1-rond-18cbeedce11#930a7aeb-624a-4faa-92a0-58fcbb0a9dc0)  ^930a7aeb
+
+> Rond 专注于地点与时间线的记录。 [⤴️](https://omnivore.app/me/app-1-rond-18cbeedce11#310f2be0-46fc-4e7c-b417-f10173795a1b)  ^310f2be0
+
+
+--- 
+
+Full Content: 
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sSNuZLxfp8o7RI3lDkqsOqoo2JVByWR4hKLiM8IJLEQQ/https://cdn.sspai.com//2020/07/15/03489f13d747077eafb9f844d842ed53.png)
+
+App+1 | ==Rond 与世界迷雾==：现实世界的塞尔达传说地图册
+
+**Matrix 首页推荐** 
+
+[Matrix](https://sspai.com/matrix) 是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选 Matrix 最优质的文章，展示来自用户的最真实的体验和观点。
+
+文章代表作者个人观点，少数派仅对标题和排版略作修改。
+
+---
+
+## 引子
+
+在旷野之息发布六年后，终于在今年五月份玩上了续作《塞尔达传说·王国之泪》，游玩 30 小时后才发现完成任务后可以激活足迹模式，记录去过的地方以及轨迹回溯，这是前代旷野之息 DLC 中才有的功能。
+
+虽然我不是一个全收集玩家，但是对于王国之泪如此大的地图，很难单靠自己记住哪些地方去过，哪些地方尚未到访。因此，游戏中期，我便开始对照着足迹模式去没去过的区域探索。同时，轨迹回溯功能让你可以看到你在地图中是如何移动，如何被各类任务吸引而临时改变目的地，以及看到红叉时想起自己当时的弱智吧吧主行为。
+
+虽然随着毕业和工作的压力，王国之泪中的旅途暂时止步于 70 小时，但是这种探索和回溯的感觉让我非常留恋。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,szqdwy2ks5CsVn4iPzhzad905U0xws9V9tGh8MleUcH8/https://cdn.sspai.com/2023/12/26/f3d8cb72afef0ddfa7c28039ec1db03a.png)
+
+王国之泪-足迹模式
+
+## 轨迹记录初试
+
+其实我算是很早的轨迹记录爱好者，从 Moves 开始，到短暂的替代品 Arc，再到足迹，我痴迷于将自己的生活轨迹量化记录下来，但用到后来总发现一些问题。
+
+首先是耗电，虽然是在后台记录轨迹，但是频繁调用 GPS 的时候难免会增加耗电。而后是回溯功能，我一直认可一个理念，记录是为了回溯，倘若没有回溯，记录便没有意义。因此，上面几个 app，除了足迹的生涯轨迹记录，我发现我无法对每日生活轨迹进行有意义的分析与回顾，我只能看到我在那一天先去了这里，再去了那里，就如同高德地图导航结束后的路径动画，初看惊艳，再看平庸。
+
+尤其对于当时还是大学生的我，每天的轨迹都是出奇的一致，三点一线的生活如一潭死水，偶尔周末的出行或许能荡起几层涟漪，转眼便又消散。因此很快我便对每日路径的记录失去了兴趣，转向了另一个大名鼎鼎的 app，世界迷雾。
+
+## 世界是迷雾
+
+很早便听说过世界迷雾，甚至后来的足迹这类 app 也受到了很多世界迷雾加 Moves 的影响，但是当时 30 元的付费软件，在 2016 年可能还是需要一个大学生观望许久再下定决心。
+
+而使我下定决心的，无非便是世界迷雾的理念，世界布满迷雾，没有去过的地方便不曾知晓。与每日轨迹记录不同，世界迷雾的功能简单又专一，记录你去过的地方。我尤其喜欢它简洁又精致的设计，地图上弥漫着一层迷雾，只有你去过的地方，迷雾才会消散。用了一段时间后，缩小地图，你便能看到你的足迹，看看这么大的世界，你到底去过几个角落。
+
+==世界迷雾也是时刻的轨迹记录，只不过它只记录总的足迹，而不是按每天划分开，你可以在出去玩的时候才开启，也可以将飞机和动车的轨迹导入，配合上一些成就系统，世界迷雾成了我最爱的几个 app 之一。每次出门或旅游，我总喜欢打开世界迷雾，然后冲向自己未知的区域，开始探索这个世界。==
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sVdXVOr5BnS5Wk3vDznJ9fzGOeAGYBllzE76GqFF_J3s/https://cdn.sspai.com/2023/12/26/3d3ce0126a2185144113a600f3fb2f71.PNG?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1) 
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,s1uuSZ99N570A8Mfy9Y38lsxMGIrPAC_Noyr7RHylaeo/https://cdn.sspai.com/2023/12/26/ac9132f34634ae3dcff3d756529fab6a.PNG?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1) 
+
+世界迷雾
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,syG5w_4J3QL72vIqR1A4JXQGemOr23rosda4kr0Y1Mow/https://cdn.sspai.com/2023/12/26/d118c89407bcf1bd299e751481daa6d2.PNG?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1) 
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,s8JPDH6fAuZH5AnJDi9GZMIh5799GdI1NV6_pHj2IfpI/https://cdn.sspai.com/2023/12/26/efa1887111ceb7b98eceaf51526610d6.PNG?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1) 
+
+世界迷雾 - 成就系统
+
+今年世界迷雾也是更新了 3.0 版本，界面更加现代化，增设了一些更实用功能，但是使用中也会存在一些小痛点。如轨迹记录在动车和飞机上时总会存在断点，导入轨迹稍显繁琐，且飞机轨迹会一定程度破坏地面轨迹的美观性。同时，虽然世界迷雾有低功耗模式，但还是会对手机的续航造成影响。
+
+==总体而言，世界迷雾基本已经实现在现实世界中的足迹模式，让手机这个现代生活的希卡之石功能更加全面。==
+
+## 轨迹记录再试
+
+在我已经放弃每日轨迹记录几年后，Rond 出现了，很奇怪的是，我是在小红书上刷到的，不是在少数派，也不是什么介绍 app 的公众号里。甚至我来少数派搜索也并没有发现有关于它的介绍文章，因此我在试用几周后便兴致勃勃地准备写自己的第一篇文章，来介绍这个有点特别的记录 app。
+
+然而勤奋或许只是一瞬，懒惰才贯穿人生的始终，在我提笔想要介绍时，我发现我并不知道如何写出一篇让人感兴趣的文章，简单的功能介绍可能还不如把小红书的链接贴上来，文章的进度便停留在标题处，迟迟换不了行。而在我犹豫不决的时候，Rond 宣布收费了，128 元可不是个小数目。
+
+那几天我一直在思索，每日记录到底能带来什么，或许他只是我当年对 Moves 的执念。不过很快，Rond 丰富的功能打了我的脸，我最终还是成为了付费用户。
+
+## 有回溯的记录
+
+啰嗦了这么多，各位看官或许都绕晕了也不知道 Rond 是个啥，那接下来还是先来介绍一下这个小红书简介写着「时间轴｜足迹地图｜时空统计｜量化生活」的生活轨迹记录 app —— Rond。
+
+Rond 主界面很简单，五个底部栏目分别为时间线、统计、地点、活动、设置。
+
+时间线如同我上述提到的几个 app，记录你单日的轨迹，由一个个地点串联，中间的交通方式由软件自动识别连接。而其第一个特殊之处在于，记录的地点读取自 iOS 系统记录，因此它不会时刻调取 GPS，也不必担心耗电问题。
+
+与上述 app 不同的是，针对每个地点，你可以人为定义在此地的活动，如「家」「工作」「商场」等，这样便可对地点进行分类，以方便后面的回溯。倘若你想看地图上的具体轨迹，可以在右上角 … 里显示地图，并选择显示路径。但我建议不要太期待，由于不是借助 GPS 时刻记录，我推测这里的路径是通过地点进行的最优路线计算与绘制，与你实际走过的路线并不一定一致。
+
+因此，路径记录并不是 Rond 的强项，那是世界迷雾该干的事情，==Rond 专注于地点与时间线的记录。==
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,s9KnWQ4rsAO4DB1pREb7gkYoIXOsjSu0cNBLR6UWXSNo/https://cdn.sspai.com/2023/12/26/974dd4dc8c3db78bcd72f9eae3edf167.PNG?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1) 
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sJio3Lq_eFhn9lYzNzmIRBFKwdloADZmcxmmPEEmBcJg/https://cdn.sspai.com/2023/12/26/ba014b8ec61627fb86793d454364155f.PNG?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1) 
+
+Rond - 时间轴与路径
+
+进入统计页面，惊喜的来了，随着地点的分类和记录，你的时间可以按照活动的类别进行分类统计与展示。每日视图下，你可以清晰地看到你的 24 小时都用来干什么，而在下方又可以看到从早到晚的时间块分布。每周与每月视图下，时间块则变为每日横条，可以很清晰地看到打工人朝八晚五的规律生活。
+
+比起 aTimeLogger 这类需要自己进行点击来记录时间段的 app，这种基于位置的时间记录，极大减轻了我的记录压力，却给出了精确有意义的统计。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,ss1t3znJBuoeFlQq93-KmoQm5nV4BBCLrEHbpFMaC2YE/https://cdn.sspai.com/2023/12/26/27bcf9276fc3774e48d55e3836032df5.PNG?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1) 
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sORnVvSH_uAkQnqHpvGoa4whDxt2J1Wu_7lCuCtWZles/https://cdn.sspai.com/2023/12/26/7175defbb33fbc7da88c231920b96675.PNG?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1) 
+
+Rond - 统计 - 每日视图
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,snzId4lzL_2NG2EY-jSav5ENMVzyZgoWoV0H8xWM4SVQ/https://cdn.sspai.com/2023/12/26/81fecd84ffe640f7cf66132ab2f6e7e5.PNG?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1) 
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sYVav0gG5IBKowPwRljW21eoZR5LX_YybM-7ZLwjfkTg/https://cdn.sspai.com/2023/12/26/5d80b7dfe0f7b316edf001b94eddcc45.PNG?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1) 
+
+Rond - 统计 - 每月视图
+
+地点页面显示着最近去过的地点，点开后可以选择活动类别与标签，自动标记相关的，下方的热力图显示到访的记录，柱状图显示平均停留时长，以及下方的一些其他参数。而在该页面中，你也可以根据地点记录创建游记并分享。
+
+活动页面与地点类似，但是非常适合基于活动类型进行回顾分析，例如，你可以看到我一周六天甚至五天都在工作，理发频率在一个月一次，本月去了几次餐厅，下了几次馆子，打了几回羽毛球，又进行了几次户外徒步。这是我最近才用上的功能，却让我对自己的行为习惯有了更好的了解。
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sUkl4NqQT6zF78AmdcanxDFFQC9IyOcMZUUgmHmvnDLY/https://cdn.sspai.com/2023/12/26/3c494e30f6998323a61675f68f675739.PNG?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1) 
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sWVyBi3ZrWTQwmYJQxChNY2d7QTzFuufT4Mz0t9e2dwo/https://cdn.sspai.com/2023/12/26/c7991fd1805a8e95d4c53866824aef2d.PNG?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1) 
+
+Rond - 活动 - 工作热力图以及其他数据
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sH_9OIaeN1d0S8zrOMp70ed0w8wMeP2ovchK0FaHwcMY/https://cdn.sspai.com/2023/12/26/f8bf21dbcb1ca885e8783915c7aee9a8.PNG?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1) 
+
+![](https://proxy-prod.omnivore-image-cache.app/0x0,sNy7r0SXyM32519eND996TQDVQKDcFNLWa9mmNPqTWpM/https://cdn.sspai.com/2023/12/26/eed81f515db36314a10c85021085d42a.PNG?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1) 
+
+Rond - 活动 - 理发与户外活动热力图
+
+其实介绍到这，你会发现 Rond 的功能并不复杂，基于对每日停留地点的记录，串联成每日时间线，再通过丰富的统计分析，展现个人的时空统计。
+
+而开发者显然雄心勃勃，不断地往里面添加新的功能，一次次给人惊喜。比如最近可以导入睡眠活动，添加桌面小组件，导入手记建议等。倘若你愿意记录，乐于记录，你会发现它可以展示你最真实的生活，也或许可以在老婆问责时甩出 Rond，理直气壮地说，「我都说了我真的在钓鱼」，然后接受一顿毒打。换句话说，Rond 并不只是在记录你的轨迹，它在记录你的生活。
+
+## 数字时代的个人数字量化
+
+虽然花了一大段篇幅来介绍 Rond，我并不推荐所有人购买这个 app，我自己也是先试用了免费版，再决定是否付费。
+
+在这个数字化的时代，我们有很多方式可以进行个人数字量化，我有一段时间非常热衷于记录自己生命的每个片段，钱花在哪里，去过哪里，时间用在何处。我会使用高德地图来点亮城市角落，会用各类记账 app 来记录收入支出，也用过时间记录的 app，每次开始和结束一段活动时，点击来记录。
+
+渐渐地，我发现我并不适合一些 app，比如记账 app，我的强迫症使得我必须精确记录支出的时间节点，精确到分钟，但是每次这样总会耗费我太多的时间和精力，时间记录也是。或许追求自然和无感的记录才是数字量化的本征，所以在轨迹和生活记录方面，我最后保留下的便是世界迷雾和 Rond 两款 app。就像游戏中那样，你负责探索与游玩，app 负责后台默默记录，而当你停下休息时，便可以根据轨迹回顾自己的过往。
+
+## 现实与游戏的交界
+
+游戏是我们脑中对现实世界的映射，我常常在真正沉浸于游戏又返回现实后一阵恍惚。尤记得 18 年去找女朋友玩，一周的时间白天都在酒店里玩《超级马里欧·奥德赛》，只在晚上出去吃顿好的，回来便接着玩。
+
+那几天，尤其是玩过都市国后，出门见到马路边的电线杆，我第一时间想的是能不能爬上去，说不定上面有个月亮，或者想办法扔帽子上去，在顶上转一下应该会有金币跳出。之前玩旷野之息的时候也是，总想着路边的犄角旮旯说不定有个呀哈哈在等我，到了王国之泪更甚，看见一个天花板就想用通天术上去看看。
+
+诚然，现实世界往往无法给我们游戏中的奖励，但并不意味着我们不可以用游戏的方式看待生活。就像某些习惯养成 app 喜欢用 RPG 的方式鼓励完成目标，我也想将现实中去过的地点和轨迹如同游戏中那般进行记录。也许两点一线如同游戏里 NPC 一样的生活显得枯燥乏味，但是或许正是平凡生活中的那一笔笔点缀更显得惹人注目。
+
+\> 下载少数派 [客户端](https://sspai.com/page/client)、关注 [少数派小红书](https://sspai.com/link?target=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F63f5d65d000000001001d8d4)，感受精彩数字生活 🍃
+
+\> 实用、好用的[正版软件](https://sspai.com/mall)，少数派为你呈现🚀
+
+© 本文著作权归作者所有，并授权少数派独家使用，未经少数派许可，不得转载使用。
