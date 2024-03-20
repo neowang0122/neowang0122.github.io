@@ -7,6 +7,8 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
   const classString = ["popover-hint", ...classes].join(" ")
   return (
     <div> 
+      <script src="https://hypothes.is/embed.js" async></script>
+
       <article class={classString}>{content}</article>
 
       <script src="https://giscus.app/client.js"
