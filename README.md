@@ -7,7 +7,7 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
-## command line 
+## Useful Commands 
 
 Deploy to github page: `npx quartz sync`
 
