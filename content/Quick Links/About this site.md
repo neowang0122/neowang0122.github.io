@@ -46,7 +46,7 @@ Thank you for visiting my digital garden. I hope you find something that piques 
 
 ---
 
-This garden is always growing, so feel free to wander through often. If you're interested in deploying a digital garden of your own, be sure to check out [[About this site/How Quarts and Obsidian Make My Digital Garden Thrive|my post]] for a step-by-step guide on bringing your ideas to the digital world.*
+This garden is always growing, so feel free to wander through often. If you're interested in deploying a digital garden of your own, be sure to check out [[How Quarts and Obsidian Make My Digital Garden Thrive|my post]] for a step-by-step guide on bringing your ideas to the digital world.*
 
-这个花园一直在成长，所以随时随地随便逛逛。如果您有兴趣建立自己的数字花园，请务必查看[[About this site/How Quarts and Obsidian Make My Digital Garden Thrive|这个帖子]]，以了解如何一步一步将您的想法带到数字世界中。
+这个花园一直在成长，所以随时随地随便逛逛。如果您有兴趣建立自己的数字花园，请务必查看[[How Quarts and Obsidian Make My Digital Garden Thrive|这个帖子]]，以了解如何一步一步将您的想法带到数字世界中。
 
