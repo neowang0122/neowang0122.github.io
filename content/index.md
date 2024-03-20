@@ -23,7 +23,7 @@ title: Neo's Digital Garden
 
 ## 📰 文章 Articles 
 
-### #Omnivore | #HypothesisHighlights
+### [[Readings/Omnivore]] | #HypothesisHighlights
 
 [[Readings/Readwise]]
 
