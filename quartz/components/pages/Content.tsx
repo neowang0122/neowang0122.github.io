@@ -8,6 +8,22 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
   return (
     <div> 
       <article class={classString}>{content}</article>
+
+      <script src="https://giscus.app/client.js"
+        data-repo="neowang0122/neowang0122.github.io"
+        data-repo-id="R_kgDOLi3ZYQ"
+        data-category="giscus"
+        data-category-id="DIC_kwDOLi3ZYc4CeGQg"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="1"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+      </script>
     </div>
   )
 }
