@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Neo's 🪴",
-    enableSPA: false,  // need to diable SPA for comments support. 
+    enableSPA: false,  // need to diable SPA for comments  support. 
     enablePopovers: true,
     analytics: {
       provider: "plausible",
