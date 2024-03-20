@@ -7,9 +7,9 @@ Quick Links: [[Tags]] | [[Quick Links/About this site]]
 
 --- 
 
-# 📰 观点 [[/Posts]]
+# 📰 观点 [[Posts]]
 
-# 📒 笔记 [[/Notes]]
+# 📒 笔记 [[Notes]]
 
 ---
 
@@ -17,13 +17,13 @@ Quick Links: [[Tags]] | [[Quick Links/About this site]]
 
 ## 📚 书籍 Books
 
-### [[/Readings/微信读书]] | [[/Readings/Kindle]] | [[/Readings/MarginNote]] | [[/Readings/NeatReader]]
+### [[Readings/微信读书]] | [[Readings/Kindle]] | [[Readings/MarginNote]] | [[Readings/NeatReader]]
 
 ## 📰 文章 Articles 
 
-### [[/tags/Omnivore]] | [[/Readings/Readwise]]
+### [[tags/Omnivore]] | [[Readings/Readwise]]
 
 ## 💻 视频/播客 Videos/Podcasts 
 
-### [[/Readings/BibiGPT]]
-
+### [[Readings/BibiGPT]]
+ 
