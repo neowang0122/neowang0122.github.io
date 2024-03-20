@@ -1,9 +1,9 @@
 ---
-title: Neo's Digital Garden
+title: Digital Garden
 ---
 
 
-# [[About]] | [[Updates]] | [[tags]] 
+## [[About]] | [[Updates]] 
 
 --- 
 
@@ -23,7 +23,7 @@ title: Neo's Digital Garden
 
 ## 📰 文章 Articles 
 
-### [[Readings/Omnivore]] | #HypothesisHighlights
+### [[Readings/Omnivore]] | [[Readings/Hypothesis]]
 
 [[Readings/Readwise]]
 
