@@ -17,13 +17,17 @@ title: Neo's Digital Garden
 
 ## 📚 书籍 Books
 
-### [[Readings/微信读书]] | [[Readings/Kindle]] | [[Readings/MarginNote]] | [[Readings/NeatReader]]
+### [[Readings/微信读书]] | [[Readings/Kindle]] 
+
+[[Readings/MarginNote]] | [[Readings/NeatReader]]
 
 ## 📰 文章 Articles 
 
-### [[tags/Omnivore]] | [[Readings/Readwise]]
+### [[tags/Omnivore]] | [[tags/Hypothesis]]
+
+[[Readings/Readwise]]
 
 ## 💻 视频/播客 Videos/Podcasts 
 
-### [[Readings/BibiGPT]]
+[[Readings/BibiGPT]]
  
