@@ -3,7 +3,7 @@ title: Neo's Digital Garden
 ---
 
 
-Quick Links: [[tags]] | [[Quick Links/About this site]] 
+# [[Quick Links/About this site]] | [[tags]]
 
 --- 
 
