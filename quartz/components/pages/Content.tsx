@@ -7,12 +7,12 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
   const classString = ["popover-hint", ...classes].join(" ")
   return (
     <div> 
+      {/* Support for annotations using hypothes.is */}
       <script src="https://hypothes.is/embed.js" async></script>
 
       <article class={classString}>{content}</article>
 
-
-      // Support for comments using giscus
+      {/* Support for comments using giscus */}
       <script src="https://giscus.app/client.js"
         data-repo="neowang0122/neowang0122.github.io"
         data-repo-id="R_kgDOLi3ZYQ"
