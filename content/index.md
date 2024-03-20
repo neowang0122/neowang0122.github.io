@@ -3,17 +3,17 @@ title: Neo's Digital Garden
 ---
 
 
-# [[Quick Links/About this site]] | [[tags]]
+# [[About]] | [[Updates]] | [[tags]] 
 
 --- 
 
-# 📰 观点 [[Posts]]
+# 🖋️ 观点 [[Posts]]
 
 # 📒 笔记 [[Notes]]
 
 ---
 
-# 阅读 Readings
+# 📖 阅读 Readings
 
 ## 📚 书籍 Books
 
