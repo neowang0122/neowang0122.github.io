@@ -1,13 +1,15 @@
 ---
-title: Digital Garden
+title: 🧠 Second Brain
 ---
 
 
-## [[About]] | [[Updates]] 
+## [[Links/About]] | [[Links/Updates]] 
 
 --- 
 
 # 🖋️ 观点 [[Posts]]
+
+### [[Posts/Principles]] | [[Posts/Building a Second Brain]]
 
 # 📒 笔记 [[Notes]]
 
