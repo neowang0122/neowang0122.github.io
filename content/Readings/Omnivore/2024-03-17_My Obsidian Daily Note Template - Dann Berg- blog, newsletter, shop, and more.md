@@ -17,11 +17,6 @@ date_saved: 2024-03-17 13:38:15
 
 date_published: 2024-01-30 10:55:30
 
-## Highlights
-
-> My Obsidian Daily Note Template | Dann Berg: blog, newsletter, shop, and more [⤴️](https://omnivore.app/me/my-obsidian-daily-note-template-dann-berg-blog-newsletter-shop-a-18e4d7e228c#a90f9acb-4b93-47e8-82ad-84c005431056)  ^a90f9acb
-
-
 --- 
 
 # Full Content: 
@@ -172,3 +167,10 @@ If you’ve read this far, you might also really enjoy my free monthly newslette
 _[How I back up my Obsidian vault to Github (free & cheap options)](https://dannb.org/blog/2024/obsidian-backup-github/)_  
 _[Obsidian Physical Object System and Template](https://dannb.org/blog/2024/obsidian-physical-object-template/)_  
 _[My Obsidian People Note Template](https://dannb.org/blog/2022/obsidian-people-note-template/)_  
+
+---
+
+## Highlights
+
+> My Obsidian Daily Note Template | Dann Berg: blog, newsletter, shop, and more [⤴️](https://omnivore.app/me/my-obsidian-daily-note-template-dann-berg-blog-newsletter-shop-a-18e4d7e228c#a90f9acb-4b93-47e8-82ad-84c005431056)  ^a90f9acb
+

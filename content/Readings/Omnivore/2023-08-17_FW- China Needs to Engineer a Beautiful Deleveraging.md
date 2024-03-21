@@ -20,17 +20,6 @@ date_saved: 2023-08-17 12:31:36
 date_saved: 2023-08-17 12:31:36
 
 
-## Highlights
-
-> As President Xi has made clear, circumstances are creating “a once-in-100-year storm” that is on the horizon. Like such storms in the past, this will pose a threat to the leadership’s “Mandate of Heaven.” That, as in past times, is leading to “legalist” (i.e., the dominant leader’s strict controls with strict punishments) policies, including the need to control the elites and take care of the masses. As for the debt and the economy, there is an obvious need for a big debt restructuring of the sort that Zhu Rongji engineered in the late 1990s, just much bigger. [⤴️](https://omnivore.app/me/fw-china-needs-to-engineer-a-beautiful-deleveraging-18a04568e45#c187b7f0-8858-42da-afd5-8925f773f883)  ^c187b7f0
-
-> So, how do those who reduce the debt burdens do it? It primarily depends on whether the debt is in one’s own currency or a foreign currency (if it’s in one’s own currency like China’s debt is, it’s easier to manage) and whether it is held by one’s own citizens or foreigners (if it’s held by one’s own citizens like China’s debt is, it’s easier to manage)—though it is never easy. [⤴️](https://omnivore.app/me/fw-china-needs-to-engineer-a-beautiful-deleveraging-18a04568e45#c823bb83-e30f-4b6a-b0a7-019de55fdbf7)  ^c823bb83
-
-> China is overdue in doing this, so in my opinion, it needs to follow this beautiful deleveraging process now because the debt-burdened balance sheets and burdensome debt service payments are freezing the economy, especially at the provincial level and most especially in some of the poorest provinces. [⤴️](https://omnivore.app/me/fw-china-needs-to-engineer-a-beautiful-deleveraging-18a04568e45#85165cba-e002-41f6-9945-34657b77d9dc)  ^85165cba
-
-> One day the United States, Europe, and Japan will probably have to do their own deleveragings, which I expect to follow this process. Because the stabilities of orders (also known as “Mandates of Heaven”) in all countries are driven by the interrelated forces of 1) the credit/debt/economic dynamic, 2) the internal political dynamic, 3) the external geopolitical dynamic, 4) acts of nature (i.e., droughts, floods, and pandemics), and 5) human inventiveness (especially of new technologies), and because how this deleveraging process is handled has a big effect on the overall order or disorder of the system [⤴️](https://omnivore.app/me/fw-china-needs-to-engineer-a-beautiful-deleveraging-18a04568e45#f436ec2d-a68a-4833-bc53-5630ea911250)  ^f436ec2d
-
-
 --- 
 
 # Full Content: 
@@ -60,3 +49,16 @@ _Bridgewater research utilizes data and information from public, private, and in
 _This information is not directed at or intended for distribution to or use by any person or entity located in any jurisdiction where such distribution, publication, availability, or use would be contrary to applicable law or regulation, or which would subject Bridgewater to any registration or licensing requirements within such jurisdiction. No part of this material may be (i) copied, photocopied, or duplicated in any form by any means or (ii) redistributed without the prior written consent of Bridgewater® Associates, LP._
 
 _The views expressed herein are solely those of Bridgewater as of the date of this report and are subject to change without notice. Bridgewater may have a significant financial interest in one or more of the positions and/or securities or derivatives discussed. Those responsible for preparing this report receive compensation based upon various factors, including, among other things, the quality of their work and firm revenues._
+
+---
+
+## Highlights
+
+> As President Xi has made clear, circumstances are creating “a once-in-100-year storm” that is on the horizon. Like such storms in the past, this will pose a threat to the leadership’s “Mandate of Heaven.” That, as in past times, is leading to “legalist” (i.e., the dominant leader’s strict controls with strict punishments) policies, including the need to control the elites and take care of the masses. As for the debt and the economy, there is an obvious need for a big debt restructuring of the sort that Zhu Rongji engineered in the late 1990s, just much bigger. [⤴️](https://omnivore.app/me/fw-china-needs-to-engineer-a-beautiful-deleveraging-18a04568e45#c187b7f0-8858-42da-afd5-8925f773f883)  ^c187b7f0
+
+> So, how do those who reduce the debt burdens do it? It primarily depends on whether the debt is in one’s own currency or a foreign currency (if it’s in one’s own currency like China’s debt is, it’s easier to manage) and whether it is held by one’s own citizens or foreigners (if it’s held by one’s own citizens like China’s debt is, it’s easier to manage)—though it is never easy. [⤴️](https://omnivore.app/me/fw-china-needs-to-engineer-a-beautiful-deleveraging-18a04568e45#c823bb83-e30f-4b6a-b0a7-019de55fdbf7)  ^c823bb83
+
+> China is overdue in doing this, so in my opinion, it needs to follow this beautiful deleveraging process now because the debt-burdened balance sheets and burdensome debt service payments are freezing the economy, especially at the provincial level and most especially in some of the poorest provinces. [⤴️](https://omnivore.app/me/fw-china-needs-to-engineer-a-beautiful-deleveraging-18a04568e45#85165cba-e002-41f6-9945-34657b77d9dc)  ^85165cba
+
+> One day the United States, Europe, and Japan will probably have to do their own deleveragings, which I expect to follow this process. Because the stabilities of orders (also known as “Mandates of Heaven”) in all countries are driven by the interrelated forces of 1) the credit/debt/economic dynamic, 2) the internal political dynamic, 3) the external geopolitical dynamic, 4) acts of nature (i.e., droughts, floods, and pandemics), and 5) human inventiveness (especially of new technologies), and because how this deleveraging process is handled has a big effect on the overall order or disorder of the system [⤴️](https://omnivore.app/me/fw-china-needs-to-engineer-a-beautiful-deleveraging-18a04568e45#f436ec2d-a68a-4833-bc53-5630ea911250)  ^f436ec2d
+

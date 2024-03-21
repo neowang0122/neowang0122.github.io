@@ -21,21 +21,6 @@ date_saved: 2024-03-10 20:48:05
 
 date_published: 2024-03-10 20:48:05
 
-## Highlights
-
-> ## **为什么要用通用语法**
-> 
-> Obsidian、Typora和Logseq各有各的优点。
-> 
-> Obsidian：有强大的**文件管理功能**，但是编辑体验差强人意，比如回车不能更换段落、插入图片必须回车才能继续写。
-> 
-> Typora：有非常好的**编辑体验**，但是文档多了就不好管理。
-> 
-> Logseq：主要侧重于**大纲**。 [⤴️](https://omnivore.app/me/obsidian-typora-logseq-markdown-18e2bb469f9#b7f05418-ce71-48a9-ad28-0a393650732c)  ^b7f05418
-
-> 通用语法的好处就是可以**用不同的软件编辑**，结合各种优点，而且在不同软件上的显示、渲染几乎相同。 [⤴️](https://omnivore.app/me/obsidian-typora-logseq-markdown-18e2bb469f9#39e3d2a3-f8cb-4130-99d6-15c0ab91a61d)  ^39e3d2a3
-
-
 --- 
 
 # Full Content: 
@@ -240,3 +225,20 @@ Markdown形式和Wiki形式在用法是**没区别**，**都是按两下中括�
 3. 我在少数派看过一篇文章，大致意思是“**重器轻用**”，我非常赞同，没必要对什么东西都了如指掌，**按自己的需求用就行**。Obsidian是一款强大的笔记软件，但我只用基础功能，个人意见，仅供参考。
 
 ## 感谢观看！
+
+---
+
+## Highlights
+
+> ## **为什么要用通用语法**
+> 
+> Obsidian、Typora和Logseq各有各的优点。
+> 
+> Obsidian：有强大的**文件管理功能**，但是编辑体验差强人意，比如回车不能更换段落、插入图片必须回车才能继续写。
+> 
+> Typora：有非常好的**编辑体验**，但是文档多了就不好管理。
+> 
+> Logseq：主要侧重于**大纲**。 [⤴️](https://omnivore.app/me/obsidian-typora-logseq-markdown-18e2bb469f9#b7f05418-ce71-48a9-ad28-0a393650732c)  ^b7f05418
+
+> 通用语法的好处就是可以**用不同的软件编辑**，结合各种优点，而且在不同软件上的显示、渲染几乎相同。 [⤴️](https://omnivore.app/me/obsidian-typora-logseq-markdown-18e2bb469f9#39e3d2a3-f8cb-4130-99d6-15c0ab91a61d)  ^39e3d2a3
+

@@ -21,65 +21,6 @@ date_saved: 2024-03-04 02:42:03
 
 date_published: 2024-03-04 02:42:03
 
-## Highlights
-
-> 第三方的内置同步方案：
-> 
-> 1. [remotely-save](https://obsidian.md/plugins?id=remotely-save)
-> 2. [remotely-sync](https://obsidian.md/plugins?id=remotely-secure)
-> 
-> 一些说明：
-> 
-> * 两插件同源。remotely-save 原作者 fyears 在2022年\~2023年有一年半没更新，于是 sboesen fork 了一个新的分支 remotely-sync 进行维护，2024年初 fyears 归来，目前两个项目平行更新
-> * 支持OneDrive / Dropbox / S3 / WebDAV。WebDAV 不建议用免费版坚果云，这两个插件目前的同步方式不是很科学，会消耗大量请求次数。
-> * 首次安装后需要进入插件授权云端存储，以及配置自动同步间隔。
-> * 默认仅同步笔记库，建议勾选“同步配置文件夹”以同步插件和主题。目前配置文件夹只支持增量同步，不支持删除，如果想要卸载插件或者主题，需要在云端和每一台设备分别删除插件文件夹。 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#b8b7fb56-52fd-42f0-9db4-049a7b564a9e)  ^b8b7fb56
-
-> [Clear Unused Images](https://obsidian.md/plugins?id=oz-clear-unused-images) – 清除库中未被任何md文件内部引用的图片 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#4dbba0fa-337d-4c6f-868e-fae233bb4207)  ^4dbba0fa
-
-> [Heading Shifter](https://obsidian.md/plugins?id=obsidian-heading-shifter) – 用`Ctrl+1~6`，或者`Tab`、`Shift+Tab`调整标题等级，安装后可以获得接近幕布的编辑体验 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#6ba20dd7-b430-42ac-baa1-2aeb1dec78c5)  ^6ba20dd7
-
-> 以下两个第三方插件需要修改文件头，建议配合核心插件“模板”使用
-> 
-> * [Enhancing Mindmap](https://obsidian.md/plugins?id=obsidian-enhancing-mindmap) – 为大纲笔记启用树形视图
-> * [Kanban](https://obsidian.md/plugins?id=obsidian-kanban) – 为大纲笔记启用看板视图 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#58c14b06-1873-420b-a556-6306d7df338d)  ^58c14b06
-
-> ## 任务管理
-> 
-> * [Tasks](https://obsidian.md/plugins?id=obsidian-tasks-plugin) – 轻松为待办事项添加日期
-> * [Tasks Calendar Wrapper](https://obsidian.md/plugins?id=tasks-calendar-wrapper) – 在侧面板标签页按日期集中显示库中的全部待办事项 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#f23a882b-b6a0-47eb-9df8-fc4cfbf0c191)  ^f23a882b
-
-> 个人最推荐方案3或者方案5 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#e447ffff-99c5-4617-950b-7b6b88d26e64)  ^e447ffff
-
-> 方案3将笔记存放在 Obsidian 库，更适合将 Zotero 当作一个单纯的引用工具，以 Obsidian 作为笔记管理核心的使用思路；
-> 
-> 方案5支持真正的双向同步，可以脱离 Obsidian 运行，Obsidian 只是扮演一个更好用的笔记键入器，更适合想以 Zotero 作为文献管理核心的使用思路。 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#d97b7265-e0c5-4ad8-9c3f-785e8df05fbb)  ^d97b7265
-
-> 3
-> 
-> [Zotlit](https://zotlit.aidenlx.top/getting-started/install/zotero)
-> 
-> [Zotlit](https://zotlit.aidenlx.top/getting-started/install/obsidian)
-> 
-> Obsidian
-> 
-> Z→O单向导入
-> 
-> Z→O单向导出 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#b927fc1c-9436-47c7-9179-7c9e56785eb2)  ^b927fc1c
-
-> 5
-> 
-> [Zotero Better Notes 4](https://github.com/windingwind/zotero-better-notes)
-> 
-> 不需要
-> 
-> Zotero
-> 
-> Z↔O双向同步
-> 
-> × [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#95c00d46-66df-494d-8088-c258ff57655b)  ^95c00d46
-
-
 --- 
 
 # Full Content: 
@@ -165,3 +106,64 @@ P.S. 以上所有 Zotero 插件都是仅限桌面端使用的，暂不支持移�
 如果你也有想要分享的插件，欢迎前往[分享频道](https://meta.appinn.net/c/discuss-and-share/6)。
 
 原文：https://www.appinn.com/feeshy-obsidian-community-plugins/
+
+---
+
+## Highlights
+
+> 第三方的内置同步方案：
+> 
+> 1. [remotely-save](https://obsidian.md/plugins?id=remotely-save)
+> 2. [remotely-sync](https://obsidian.md/plugins?id=remotely-secure)
+> 
+> 一些说明：
+> 
+> * 两插件同源。remotely-save 原作者 fyears 在2022年\~2023年有一年半没更新，于是 sboesen fork 了一个新的分支 remotely-sync 进行维护，2024年初 fyears 归来，目前两个项目平行更新
+> * 支持OneDrive / Dropbox / S3 / WebDAV。WebDAV 不建议用免费版坚果云，这两个插件目前的同步方式不是很科学，会消耗大量请求次数。
+> * 首次安装后需要进入插件授权云端存储，以及配置自动同步间隔。
+> * 默认仅同步笔记库，建议勾选“同步配置文件夹”以同步插件和主题。目前配置文件夹只支持增量同步，不支持删除，如果想要卸载插件或者主题，需要在云端和每一台设备分别删除插件文件夹。 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#b8b7fb56-52fd-42f0-9db4-049a7b564a9e)  ^b8b7fb56
+
+> [Clear Unused Images](https://obsidian.md/plugins?id=oz-clear-unused-images) – 清除库中未被任何md文件内部引用的图片 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#4dbba0fa-337d-4c6f-868e-fae233bb4207)  ^4dbba0fa
+
+> [Heading Shifter](https://obsidian.md/plugins?id=obsidian-heading-shifter) – 用`Ctrl+1~6`，或者`Tab`、`Shift+Tab`调整标题等级，安装后可以获得接近幕布的编辑体验 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#6ba20dd7-b430-42ac-baa1-2aeb1dec78c5)  ^6ba20dd7
+
+> 以下两个第三方插件需要修改文件头，建议配合核心插件“模板”使用
+> 
+> * [Enhancing Mindmap](https://obsidian.md/plugins?id=obsidian-enhancing-mindmap) – 为大纲笔记启用树形视图
+> * [Kanban](https://obsidian.md/plugins?id=obsidian-kanban) – 为大纲笔记启用看板视图 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#58c14b06-1873-420b-a556-6306d7df338d)  ^58c14b06
+
+> ## 任务管理
+> 
+> * [Tasks](https://obsidian.md/plugins?id=obsidian-tasks-plugin) – 轻松为待办事项添加日期
+> * [Tasks Calendar Wrapper](https://obsidian.md/plugins?id=tasks-calendar-wrapper) – 在侧面板标签页按日期集中显示库中的全部待办事项 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#f23a882b-b6a0-47eb-9df8-fc4cfbf0c191)  ^f23a882b
+
+> 个人最推荐方案3或者方案5 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#e447ffff-99c5-4617-950b-7b6b88d26e64)  ^e447ffff
+
+> 方案3将笔记存放在 Obsidian 库，更适合将 Zotero 当作一个单纯的引用工具，以 Obsidian 作为笔记管理核心的使用思路；
+> 
+> 方案5支持真正的双向同步，可以脱离 Obsidian 运行，Obsidian 只是扮演一个更好用的笔记键入器，更适合想以 Zotero 作为文献管理核心的使用思路。 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#d97b7265-e0c5-4ad8-9c3f-785e8df05fbb)  ^d97b7265
+
+> 3
+> 
+> [Zotlit](https://zotlit.aidenlx.top/getting-started/install/zotero)
+> 
+> [Zotlit](https://zotlit.aidenlx.top/getting-started/install/obsidian)
+> 
+> Obsidian
+> 
+> Z→O单向导入
+> 
+> Z→O单向导出 [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#b927fc1c-9436-47c7-9179-7c9e56785eb2)  ^b927fc1c
+
+> 5
+> 
+> [Zotero Better Notes 4](https://github.com/windingwind/zotero-better-notes)
+> 
+> 不需要
+> 
+> Zotero
+> 
+> Z↔O双向同步
+> 
+> × [⤴️](https://omnivore.app/me/feeshy-10-obsidian-18e089ab7d9#95c00d46-66df-494d-8088-c258ff57655b)  ^95c00d46
+

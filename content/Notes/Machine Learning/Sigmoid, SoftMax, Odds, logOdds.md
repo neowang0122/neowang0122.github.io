@@ -1,11 +1,14 @@
 ---
 author: LYY
 ---
-tags: #publishedNote 
+tags: #publishedNote
 Author: #people/LYY
 
 ---
-# 1 Exponential family
+
+# Probability Distributions
+
+## Exponential family
 $$
 b(x)exp(\theta^T T(x) - A(\theta))
 $$
@@ -13,8 +16,8 @@ $$
 Includes: Bernoulli , Binomial, Gaussian, Poisson, Gamma, Exponential, Dirichlet
 
 It shows a specific linear characteristic for $x$.
-# 2 Bernoulli
 
+## Bernoulli
 $$
 \begin{align*}
 & \quad \alpha^x(1-\alpha)^{1-x} \quad , x\in \{0,1\} \\
@@ -32,7 +35,8 @@ $$
 & A(\theta) = - log (1-\alpha) = log(\frac{1}{1-\alpha}) = log(1+\frac{\alpha}{1-\alpha}) = log(1+exp(\theta))
 \end{align*}
 $$
-# 3 Gaussian
+
+## Gaussian
 
 $$
 \begin{align*}
@@ -51,3 +55,4 @@ $$
 & A(\theta)=log\sigma+ \frac{\mu^2}{2\sigma^2}
 \end{align*}
 $$
+

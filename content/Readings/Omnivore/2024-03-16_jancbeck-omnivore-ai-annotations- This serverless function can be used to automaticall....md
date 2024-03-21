@@ -15,63 +15,6 @@ date_saved: 2024-03-16 04:42:59
 date_saved: 2024-03-16 04:42:59
 
 
-## Highlights
-
-> jancbeck/omnivore-ai-annotations: [⤴️](https://omnivore.app/me/jancbeck-omnivore-ai-annotations-this-serverless-function-can-be-18e466db8dd#9bf8037b-fe2f-4bd1-a277-d24290f557a7)  ^9bf8037b
-
-> jancbeck/omnivore-ai-annotations: This serverless function can be used to automatically add annotations to Omnivore articles when a specific label (say, "summarize") is added to them. [⤴️](https://omnivore.app/me/jancbeck-omnivore-ai-annotations-this-serverless-function-can-be-18e466db8dd#93df2ca4-a433-4400-8107-197af5033a3d)  ^93df2ca4
-
-标题：Let ChatGPT annotate Omnivore articles for you
-作者：Unknown
-标签：API, webhooks, serverless function, Omnivore, OpenAI
-
-一句话总结：该文介绍了如何使用ChatGPT自动为Omnivore文章添加注释。
-
-摘要：本文介绍了一个使用ChatGPT自动为Omnivore文章添加注释的serverless函数。它利用了Omnivore的API和webhooks以及OpenAI的chat completions API。文章详细介绍了如何使用该函数，推荐使用Vercel进行部署，并提供了Vercel的设置步骤。同时，文章还提供了开发和本地测试的指导，并列举了API的端点。最后，作者给出了一些建议，如使用文章中的高亮部分进行对话或让模型为文章添加高亮等。
-
-大纲：
-- 概述
-- 如何使用
-- Vercel设置
-- Omnivore Webhook设置
-- 开发
-- API端点
-- 本地测试
-- 许可证
-- 点子
-
----
-
-第一步，请详细叙述大纲中每一部分的内容：
-
-- 概述：介绍了该文的目的和内容，以及使用ChatGPT自动为Omnivore文章添加注释的方法。
-- 如何使用：介绍了使用Vercel进行部署和设置步骤，并说明了需要的环境变量。
-- Vercel设置：具体说明了如何在Vercel中添加repo以及设置环境变量。
-- Omnivore Webhook设置：介绍了在Omnivore中设置webhook的步骤，包括设置URL和事件类型。
-- 开发：说明了如何克隆和部署应用，并提供了运行应用的命令。
-- API端点：列出了可用的API端点，包括\\"/api/annotate\\"。
-- 本地测试：提供了使用Postman进行本地测试的方法。
-- 许可证：说明文中所使用的许可证类型。
-- 点子：给出了一些扩展的点子，如利用文章中的高亮部分进行对话等。
-
-第二步，总结文章的结论：本文介绍了如何使用ChatGPT自动为Omnivore文章添加注释的方法，通过使用Omnivore的API和webhooks以及OpenAI的chat completions API，使得自动添加注释变得更加便利。
-
-第三步，列举读这篇文章，我可以学到哪些知识？
-- 学习如何使用ChatGPT自动为Omnivore文章添加注释
-- 了解如何使用Omnivore的API和webhooks以及OpenAI的chat completions API
-- 掌握使用Vercel进行部署和设置的方法
-- 学习如何在Omnivore中设置webhook
-- 掌握开发和本地测试的方法
-- 了解API的端点和如何进行本地测试
-- 了解文中所使用的许可证类型
-- 获得一些扩展的点子，如利用文章中的高亮部分进行对话等。
-
-第四步，针对文章的内容，提出三个用户在阅读的过程中可能会有的疑问：
-1. 使用Vercel进行部署是否有其他替代方案？
-2. 如何正确设置环境变量以确保API能够正常工作？
-3. 在Omnivore中设置webhook时，如何选择正确的事件类型？
-
-
 --- 
 
 # Full Content: 
@@ -166,3 +109,62 @@ MIT License.
 
 * use individual article highlights to allow "chatting" within Omnivore (e.g. highlight text, add note "explain" and GPT will generate the highlight with a reply based on the prompt and context.
 * instruct the model to highlight the article for you via [function calls](https://platform.openai.com/docs/guides/function-calling). Perhaps using the article notebook as an instruction input.
+
+---
+
+## Highlights
+
+> jancbeck/omnivore-ai-annotations: [⤴️](https://omnivore.app/me/jancbeck-omnivore-ai-annotations-this-serverless-function-can-be-18e466db8dd#9bf8037b-fe2f-4bd1-a277-d24290f557a7)  ^9bf8037b
+
+> jancbeck/omnivore-ai-annotations: This serverless function can be used to automatically add annotations to Omnivore articles when a specific label (say, "summarize") is added to them. [⤴️](https://omnivore.app/me/jancbeck-omnivore-ai-annotations-this-serverless-function-can-be-18e466db8dd#93df2ca4-a433-4400-8107-197af5033a3d)  ^93df2ca4
+
+标题：Let ChatGPT annotate Omnivore articles for you
+作者：Unknown
+标签：API, webhooks, serverless function, Omnivore, OpenAI
+
+一句话总结：该文介绍了如何使用ChatGPT自动为Omnivore文章添加注释。
+
+摘要：本文介绍了一个使用ChatGPT自动为Omnivore文章添加注释的serverless函数。它利用了Omnivore的API和webhooks以及OpenAI的chat completions API。文章详细介绍了如何使用该函数，推荐使用Vercel进行部署，并提供了Vercel的设置步骤。同时，文章还提供了开发和本地测试的指导，并列举了API的端点。最后，作者给出了一些建议，如使用文章中的高亮部分进行对话或让模型为文章添加高亮等。
+
+大纲：
+- 概述
+- 如何使用
+- Vercel设置
+- Omnivore Webhook设置
+- 开发
+- API端点
+- 本地测试
+- 许可证
+- 点子
+
+---
+
+第一步，请详细叙述大纲中每一部分的内容：
+
+- 概述：介绍了该文的目的和内容，以及使用ChatGPT自动为Omnivore文章添加注释的方法。
+- 如何使用：介绍了使用Vercel进行部署和设置步骤，并说明了需要的环境变量。
+- Vercel设置：具体说明了如何在Vercel中添加repo以及设置环境变量。
+- Omnivore Webhook设置：介绍了在Omnivore中设置webhook的步骤，包括设置URL和事件类型。
+- 开发：说明了如何克隆和部署应用，并提供了运行应用的命令。
+- API端点：列出了可用的API端点，包括\\"/api/annotate\\"。
+- 本地测试：提供了使用Postman进行本地测试的方法。
+- 许可证：说明文中所使用的许可证类型。
+- 点子：给出了一些扩展的点子，如利用文章中的高亮部分进行对话等。
+
+第二步，总结文章的结论：本文介绍了如何使用ChatGPT自动为Omnivore文章添加注释的方法，通过使用Omnivore的API和webhooks以及OpenAI的chat completions API，使得自动添加注释变得更加便利。
+
+第三步，列举读这篇文章，我可以学到哪些知识？
+- 学习如何使用ChatGPT自动为Omnivore文章添加注释
+- 了解如何使用Omnivore的API和webhooks以及OpenAI的chat completions API
+- 掌握使用Vercel进行部署和设置的方法
+- 学习如何在Omnivore中设置webhook
+- 掌握开发和本地测试的方法
+- 了解API的端点和如何进行本地测试
+- 了解文中所使用的许可证类型
+- 获得一些扩展的点子，如利用文章中的高亮部分进行对话等。
+
+第四步，针对文章的内容，提出三个用户在阅读的过程中可能会有的疑问：
+1. 使用Vercel进行部署是否有其他替代方案？
+2. 如何正确设置环境变量以确保API能够正常工作？
+3. 在Omnivore中设置webhook时，如何选择正确的事件类型？
+

@@ -21,11 +21,6 @@ date_saved: 2024-01-05 12:26:42
 
 date_published: 2024-01-05 02:38:19
 
-## Highlights
-
-> **GoMusic** 是一款开源小工具，它可以导出公开的网易云音乐、QQ 音乐歌单，并转换为纯文本，然后就可以通过 **Tune My Music** 导入第三方音乐服务了。@[Appinn](https://www.appinn.com/bistutu-gomusic/) [⤴️](https://omnivore.app/me/go-music-qq-apple-music-youtube-music-spotify-18cd8cdb5f4#95f0abb3-7c47-4c69-9cc6-143680dd85c1)  ^95f0abb3
-
-
 --- 
 
 # Full Content: 
@@ -72,3 +67,10 @@ date_published: 2024-01-05 02:38:19
 ---
 
 原文：https://www.appinn.com/bistutu-gomusic/
+
+---
+
+## Highlights
+
+> **GoMusic** 是一款开源小工具，它可以导出公开的网易云音乐、QQ 音乐歌单，并转换为纯文本，然后就可以通过 **Tune My Music** 导入第三方音乐服务了。@[Appinn](https://www.appinn.com/bistutu-gomusic/) [⤴️](https://omnivore.app/me/go-music-qq-apple-music-youtube-music-spotify-18cd8cdb5f4#95f0abb3-7c47-4c69-9cc6-143680dd85c1)  ^95f0abb3
+

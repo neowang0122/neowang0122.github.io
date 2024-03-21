@@ -21,55 +21,6 @@ date_saved: 2024-01-01 22:35:53
 
 date_published: 2023-12-25 13:30:00
 
-## Highlights
-
-> 1\. Superintelligence by Nick Bostrom [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#48573a0c-4097-432f-b1be-c25b126ea162)  ^48573a0c
-
-> **2\. The Sleepwalkers by Christopher Clark**
-> 
-> ![图片](https://proxy-prod.omnivore-image-cache.app/0x0,svx-J7VRhjTq35vSzxJ6q9JQDBaWm10DB0AdXT3JcyJ8/https://mmbiz.qpic.cn/mmbiz_jpg/CHwGFH7ibtQZ60HeoHciavj7zs35YNtwJqgic0PVZ98u7dMymd6BfHwrtHfkmicYwwqiaSSttUxqCiaGeSOZvVF61BpQ/640?wx_fmt=jpeg&from=appmsg)
-> 
-> 《梦游者：如何欧洲走向第一次世界大战》是历史学家克里斯托弗·克拉克（Christopher Clark）的杰作。这本书以细致的研究和生动的叙述，探讨了导致第一次世界大战爆发的复杂原因和事件。克拉克，作为一位在欧洲历史领域深具影响力的学者，他的这部作品被广泛认为是关于第一次世界大战起因的权威著作之一。 [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#de2db3fb-1200-4869-995d-d7a9052fe92d)  ^de2db3fb
-
-> 此书的特别之处在于，它没有简单地将战争归咎于某个国家或领导人，而是展示了一个更加复杂、更具交织性的历史画面。克拉克通过对事件背后的多重因素进行深入探讨，为读者提供了一个全面而详细的历史视角。
-> 
-> 总体而言，《梦游者》是一部引人深思的历史作品，它不仅为专业的历史学者提供了丰富的资料，也为广大读者揭示了历史的复杂性和人类决策的脆弱性。通过这本书，克拉克向我们展示了历史学的真正魅力：揭示过去，反思现在，启迪未来。
-> 
-> **3\. Thinking, Fast and Slow by Daniel Kahneman** [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#13d6c030-02b1-4310-a728-935adf7ce818)  ^13d6c030
-
-> 《思考，快与慢》是由诺贝尔经济学奖得主丹尼尔·卡尼曼（Daniel Kahneman）所著的一部开创性作品。在这本书中，卡尼曼巧妙地揭示了人类思维的两种模式：快速、直觉的“系统1”和缓慢、逻辑的“系统2”。这两种思维方式在我们的决策过程中相互作用，影响着我们的判断和行为。
-> 
-> 卡尼曼在书中精彩地阐述了人类认知偏误和启发式原则是如何在日常生活中塑造我们的决策的。通过一系列引人入胜的实验和例子，他展示了即使是最智慧的人也会受到诸如过度自信、损失厌恶和现状偏误等心理陷阱的影响。这些发现不仅揭示了人类心理的复杂性，也对经济学、社会学和心理学等领域产生了深远的影响。
-> 
-> 《思考，快与慢》是一本跨学科的巨作，它不仅深入探讨了心理学和行为经济学的基础概念，还对个人决策和社会政策提出了深刻的启示。卡尼曼的写作风格清晰、条理分明，即使是对这些领域不熟悉的读者也能轻松理解和享受阅读的乐趣。
-> 
-> 综上所述，这本书是对理解人类心理和行为至关重要的一部作品，对任何想要深入了解自己思维方式的人来说，都是一本不可多得的宝贵读物。卡尼曼通过这本书不仅传授了知识，更激发了我们对自我认知和周围世界的深刻思考。
-> 
-> **4\. Einstein by Walter Isaacson** [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#bff3d9aa-70cf-4557-b1f4-05c6bdcf92d1)  ^bff3d9aa
-
-> 5\. Blitzscaling by Reid Hoffman [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#3063d97f-18ca-4180-8afc-a1bef9f53e5b)  ^3063d97f
-
-> 《闪电式扩张：硅谷创业之道》是由LinkedIn联合创始人、著名投资人雷德·霍夫曼（Reid Hoffman）与克里斯·耶（Chris Yeh）合著的一部商业策略书籍。这本书深入探讨了“闪电式扩张”（Blitzscaling）的概念，即在不确定性极高的环境下，如何迅速扩大公司规模以确保市场领先地位。
-> 
-> 霍夫曼和耶通过详细分析硅谷一些最成功的公司，如Facebook、Google和Amazon，展示了如何通过冒险和创新，以惊人的速度实现增长。他们强调的是，虽然这种增长策略伴随着巨大的风险，但在今天竞争激烈的商业环境中，它是获取市场主导地位的关键。
-> 
-> 书中不仅讲述了成功的故事，还坦诚地讨论了失败的案例和其中的教训。霍夫曼和耶提供了一系列实用的策略和建议，帮助读者理解何时以及如何应用闪电式扩张策略，并强调了在追求快速增长的同时，如何平衡长期可持续性和企业责任。
-> 
-> 《闪电式扩张》不仅适合创业者、企业家和投资者阅读，对于任何对当今商业环境及其运作方式感兴趣的人都是一本宝贵的资源。霍夫曼和耶的观点深刻，结合了理论和实践，为读者提供了一种全新的思考商业增长和创新的视角。
-> 
-> 总体来说，这本书是对当代快速变化商业世界的一次深刻洞察，它不仅提供了实用的指导，也激发了对商业策略和创新可能性的思考。霍夫曼和耶的《闪电式扩张》无疑是理解当今最成功企业背后策略的重要阅读材料。 [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#7cec6270-7ed4-4457-b880-8645ee63f42d)  ^7cec6270
-
-> **6\. Zero to One by Peter Thiel** [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#08337eb2-430b-4e05-9665-64d11d9109cb)  ^08337eb2
-
-> 7\. The Beginning of Infinity by David Deutsch [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#cc751522-859f-4573-ad5d-f1d775ff7346)  ^cc751522
-
-> 8\. Secrets of Sand Hill Road by Scott Kupor [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#1eb63c0e-f8ea-48fb-a4da-a71d6b3aa117)  ^1eb63c0e
-
-> 9\. Winning by Jack Welch and Suzy Welch [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#6f6b7f97-742f-4bcf-9708-c8b4b82f528f)  ^6f6b7f97
-
-> 10\. Man’s Search for Meaning by Viktor Frankl [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#2c211506-3efd-4bc4-b88a-9dc845c519eb)  ^2c211506
-
-
 --- 
 
 # Full Content: 
@@ -249,3 +200,54 @@ AI创投
 [为什么说Gen AI拯救了风投界？](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MDU4ODkyNg==&mid=2247498146&idx=1&sn=580b7c1568c655b4ea8c2ce2823f12ba&chksm=9f383933a84fb025f43df3478e85c6f5fbd91a4cadfc6d6202cc5dd0f9093e2b8958da9a057a&scene=21#wechat%5Fredirect)丨[全球顶尖VC投了哪些AI初创公司？](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MDU4ODkyNg==&mid=2247495798&idx=1&sn=2acc5ba372f69333f8df38a7f29273fd&chksm=9f3830e7a84fb9f15b17c10b975987219ca1a04fbef04f4cf07a77db136d859a1f1be6545b8c&scene=21#wechat%5Fredirect)丨[中美AI创投赛道有何异同？](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MDU4ODkyNg==&mid=2247495755&idx=1&sn=6571eb04bac882e036dec91cd35c1252&chksm=9f3830daa84fb9cc28321a10a4815ae94a1b3521ed500f2883a78001c33de62e22428303cdf2&scene=21#wechat%5Fredirect)丨[如何评估AIGC初创公司的竞争优势？](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MDU4ODkyNg==&mid=2247490635&idx=1&sn=afe1875b3159395d39d73d4efa970530&chksm=9f3bdcdaa84c55cc60cc57c85625c98b35a19ded56ff7a611bf8ed41c30a5f4f4bc4d442c8e9&scene=21#wechat%5Fredirect)丨[知名海外投资人谈AI新趋势](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MDU4ODkyNg==&mid=2247488466&idx=1&sn=e8a6e51898515e4838d14699d7861cb5&chksm=9f3bd343a84c5a5573069eab3a2719f9441969b6b8c8ed23eb6387b7f3a4376196f285033092&scene=21#wechat%5Fredirect)丨[做通才还是专才风险投资人？丨](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MDU4ODkyNg==&mid=2247493276&idx=1&sn=e82f951c54673f8c3a4ae3845004bfcd&chksm=9f38260da84faf1b598da7e3eb490962fa3a65aabadd0ce3787cd16158a103c4238e75e9e346&scene=21#wechat%5Fredirect)[红杉资本如何做投资？](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MDU4ODkyNg==&mid=2247493286&idx=1&sn=9156305cec167cd2293e02390c53e31b&chksm=9f382637a84faf212960c5e0d7bf65c3fece52ff02842cd680f5767a9ed7e8844971ad1d6394&scene=21#wechat%5Fredirect)丨[如何及早识别独角兽创始人？](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MDU4ODkyNg==&mid=2247493536&idx=1&sn=b9d10cf73847f2c71c79962e6c06b2d4&chksm=9f382731a84fae27612b3349525bcefeebd981b15d88190da69fcf47b5c0c70386e0a50aa33a&scene=21#wechat%5Fredirect)丨[风险投资公司如何避免7大陷阱？](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MDU4ODkyNg==&mid=2247493850&idx=1&sn=4744cef513a725527511817356105278&chksm=9f38284ba84fa15d1f663bd05dfa3960ef5f3c330d473916b9587cbaad7a01c6e1af895ad0cd&scene=21#wechat%5Fredirect)丨[合伙人是怎么炼成的？](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MDU4ODkyNg==&mid=2247494017&idx=1&sn=ceb1cba8cf502569be4f80b1c3c3337e&chksm=9f382910a84fa00652ca5c2639f453797c87e3397352549a8b20c9b7a839a9f323130764d182&scene=21#wechat%5Fredirect)丨[Thrive Capital](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MDU4ODkyNg==&mid=2247501587&idx=1&sn=c66a1b322f0b866583ba26d1be4afd96&chksm=9f380782a84f8e948f6e4fb7093e728bb960cf15240f7b5cadefb57a586549150147874eff9c&scene=21#wechat%5Fredirect)丨[英伟达投资策略CEO](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MDU4ODkyNg==&mid=2247501669&idx=1&sn=6acd07cd1de815d3ef74e77272508500&chksm=9f3807f4a84f8ee287aa87f94d43230ebc145f98f99d34f10158675b4ab3758063a40b632e9a&scene=21#wechat%5Fredirect)丨[Souring的艺术](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzA3MDU4ODkyNg==&mid=2247500764&idx=1&sn=36add6dbd4e652b5f632b2fad7838269&chksm=9f38034da84f8a5b4d21a413a89596258a6a94bd516e416bfc4e365f419a4f74df997c5e8cff&scene=21#wechat%5Fredirect)
 
 ![图片](https://proxy-prod.omnivore-image-cache.app/0x0,sztS_YHRfM4NWIFGUQ7CxW_xNgebMZ7Je-1W4gzhClgw/https://mmbiz.qpic.cn/mmbiz_png/CHwGFH7ibtQYyEwEIwhhuob6kB9JA66N4pKYmj1luqHAz2Ozf9Q8K3NNrK3iak6vKNO3HRSA4ibcibGQI6P8fgmmbw/640?wx_fmt=png&from=appmsg)
+
+---
+
+## Highlights
+
+> 1\. Superintelligence by Nick Bostrom [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#48573a0c-4097-432f-b1be-c25b126ea162)  ^48573a0c
+
+> **2\. The Sleepwalkers by Christopher Clark**
+> 
+> ![图片](https://proxy-prod.omnivore-image-cache.app/0x0,svx-J7VRhjTq35vSzxJ6q9JQDBaWm10DB0AdXT3JcyJ8/https://mmbiz.qpic.cn/mmbiz_jpg/CHwGFH7ibtQZ60HeoHciavj7zs35YNtwJqgic0PVZ98u7dMymd6BfHwrtHfkmicYwwqiaSSttUxqCiaGeSOZvVF61BpQ/640?wx_fmt=jpeg&from=appmsg)
+> 
+> 《梦游者：如何欧洲走向第一次世界大战》是历史学家克里斯托弗·克拉克（Christopher Clark）的杰作。这本书以细致的研究和生动的叙述，探讨了导致第一次世界大战爆发的复杂原因和事件。克拉克，作为一位在欧洲历史领域深具影响力的学者，他的这部作品被广泛认为是关于第一次世界大战起因的权威著作之一。 [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#de2db3fb-1200-4869-995d-d7a9052fe92d)  ^de2db3fb
+
+> 此书的特别之处在于，它没有简单地将战争归咎于某个国家或领导人，而是展示了一个更加复杂、更具交织性的历史画面。克拉克通过对事件背后的多重因素进行深入探讨，为读者提供了一个全面而详细的历史视角。
+> 
+> 总体而言，《梦游者》是一部引人深思的历史作品，它不仅为专业的历史学者提供了丰富的资料，也为广大读者揭示了历史的复杂性和人类决策的脆弱性。通过这本书，克拉克向我们展示了历史学的真正魅力：揭示过去，反思现在，启迪未来。
+> 
+> **3\. Thinking, Fast and Slow by Daniel Kahneman** [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#13d6c030-02b1-4310-a728-935adf7ce818)  ^13d6c030
+
+> 《思考，快与慢》是由诺贝尔经济学奖得主丹尼尔·卡尼曼（Daniel Kahneman）所著的一部开创性作品。在这本书中，卡尼曼巧妙地揭示了人类思维的两种模式：快速、直觉的“系统1”和缓慢、逻辑的“系统2”。这两种思维方式在我们的决策过程中相互作用，影响着我们的判断和行为。
+> 
+> 卡尼曼在书中精彩地阐述了人类认知偏误和启发式原则是如何在日常生活中塑造我们的决策的。通过一系列引人入胜的实验和例子，他展示了即使是最智慧的人也会受到诸如过度自信、损失厌恶和现状偏误等心理陷阱的影响。这些发现不仅揭示了人类心理的复杂性，也对经济学、社会学和心理学等领域产生了深远的影响。
+> 
+> 《思考，快与慢》是一本跨学科的巨作，它不仅深入探讨了心理学和行为经济学的基础概念，还对个人决策和社会政策提出了深刻的启示。卡尼曼的写作风格清晰、条理分明，即使是对这些领域不熟悉的读者也能轻松理解和享受阅读的乐趣。
+> 
+> 综上所述，这本书是对理解人类心理和行为至关重要的一部作品，对任何想要深入了解自己思维方式的人来说，都是一本不可多得的宝贵读物。卡尼曼通过这本书不仅传授了知识，更激发了我们对自我认知和周围世界的深刻思考。
+> 
+> **4\. Einstein by Walter Isaacson** [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#bff3d9aa-70cf-4557-b1f4-05c6bdcf92d1)  ^bff3d9aa
+
+> 5\. Blitzscaling by Reid Hoffman [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#3063d97f-18ca-4180-8afc-a1bef9f53e5b)  ^3063d97f
+
+> 《闪电式扩张：硅谷创业之道》是由LinkedIn联合创始人、著名投资人雷德·霍夫曼（Reid Hoffman）与克里斯·耶（Chris Yeh）合著的一部商业策略书籍。这本书深入探讨了“闪电式扩张”（Blitzscaling）的概念，即在不确定性极高的环境下，如何迅速扩大公司规模以确保市场领先地位。
+> 
+> 霍夫曼和耶通过详细分析硅谷一些最成功的公司，如Facebook、Google和Amazon，展示了如何通过冒险和创新，以惊人的速度实现增长。他们强调的是，虽然这种增长策略伴随着巨大的风险，但在今天竞争激烈的商业环境中，它是获取市场主导地位的关键。
+> 
+> 书中不仅讲述了成功的故事，还坦诚地讨论了失败的案例和其中的教训。霍夫曼和耶提供了一系列实用的策略和建议，帮助读者理解何时以及如何应用闪电式扩张策略，并强调了在追求快速增长的同时，如何平衡长期可持续性和企业责任。
+> 
+> 《闪电式扩张》不仅适合创业者、企业家和投资者阅读，对于任何对当今商业环境及其运作方式感兴趣的人都是一本宝贵的资源。霍夫曼和耶的观点深刻，结合了理论和实践，为读者提供了一种全新的思考商业增长和创新的视角。
+> 
+> 总体来说，这本书是对当代快速变化商业世界的一次深刻洞察，它不仅提供了实用的指导，也激发了对商业策略和创新可能性的思考。霍夫曼和耶的《闪电式扩张》无疑是理解当今最成功企业背后策略的重要阅读材料。 [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#7cec6270-7ed4-4457-b880-8645ee63f42d)  ^7cec6270
+
+> **6\. Zero to One by Peter Thiel** [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#08337eb2-430b-4e05-9665-64d11d9109cb)  ^08337eb2
+
+> 7\. The Beginning of Infinity by David Deutsch [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#cc751522-859f-4573-ad5d-f1d775ff7346)  ^cc751522
+
+> 8\. Secrets of Sand Hill Road by Scott Kupor [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#1eb63c0e-f8ea-48fb-a4da-a71d6b3aa117)  ^1eb63c0e
+
+> 9\. Winning by Jack Welch and Suzy Welch [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#6f6b7f97-742f-4bcf-9708-c8b4b82f528f)  ^6f6b7f97
+
+> 10\. Man’s Search for Meaning by Viktor Frankl [⤴️](https://omnivore.app/me/open-ai-ceo-18cc83df5b6#2c211506-3efd-4bc4-b88a-9dc845c519eb)  ^2c211506
+

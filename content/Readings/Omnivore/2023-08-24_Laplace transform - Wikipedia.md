@@ -19,60 +19,6 @@ date_saved: 2023-08-24 14:08:32
 
 date_published: 2001-12-26 08:54:27
 
-## Highlights
-
-> an [integral transform](https://en.wikipedia.org/wiki/Integral%5Ftransform "Integral transform") that converts a [function](https://en.wikipedia.org/wiki/Function%5F%28mathematics%29 "Function (mathematics)") of a [real](https://en.wikipedia.org/wiki/Real%5Fnumber "Real number") [variable](https://en.wikipedia.org/wiki/Variable%5F%28mathematics%29 "Variable (mathematics)") (usually ![t](https://proxy-prod.omnivore-image-cache.app/0x0,sVypbUmEMbbgU9_LilYFsoRo5vvg-AHGYCwISNwLacY4/https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560), in the _[time domain](https://en.wikipedia.org/wiki/Time%5Fdomain "Time domain")_) to a function of a [complex](https://en.wikipedia.org/wiki/Complex%5Fnumber "Complex number") variable ![s](https://proxy-prod.omnivore-image-cache.app/0x0,svdJwoeORtMf31n_sUAeKzmt9S82UDLvDd5XkP8t7ZE0/https://wikimedia.org/api/rest_v1/media/math/render/svg/01d131dfd7673938b947072a13a9744fe997e632) (in the complex [frequency domain](https://en.wikipedia.org/wiki/Frequency%5Fdomain "Frequency domain"), also known as **_s_\-domain**, or **s-plane**). The transform has many applications in [science](https://en.wikipedia.org/wiki/Science "Science") and [engineering](https://en.wikipedia.org/wiki/Engineering "Engineering") because it is a tool for solving [differential equations](https://en.wikipedia.org/wiki/Differential%5Fequation "Differential equation"). In particular, it transforms [ordinary differential equations](https://en.wikipedia.org/wiki/Ordinary%5Fdifferential%5Fequation "Ordinary differential equation") into [algebraic equations](https://en.wikipedia.org/wiki/Algebraic%5Fequation "Algebraic equation") and [convolution](https://en.wikipedia.org/wiki/Convolution "Convolution") into [multiplication](https://en.wikipedia.org/wiki/Multiplication "Multiplication"). For suitable functions _f_, the Laplace transform is the [integral](https://en.wikipedia.org/wiki/Integral "Integral") 
-> 
-> ![{\displaystyle {\mathcal {L}}\{f\}(s)=\int _{0}^{\infty }f(t)e^{-st}\,dt.}](https://proxy-prod.omnivore-image-cache.app/0x0,sgkKmU4zHmdGtm4qwcnkx9ndV-4DiKfMp5Qr4p4Adb0A/https://wikimedia.org/api/rest_v1/media/math/render/svg/16b7f44dd7f47ebcfc14dd87249cc9fee6c5ba63) [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#5705a8ef-c60e-4720-b2ec-8128ca30612b)  ^5705a8ef
-
-> The Laplace transform of a [function](https://en.wikipedia.org/wiki/Function%5F%28mathematics%29 "Function (mathematics)") _f_(_t_), defined for all [real numbers](https://en.wikipedia.org/wiki/Real%5Fnumber "Real number") _t_ ≥ 0, is the function _F_(_s_), which is a unilateral transform defined by
-> 
-> | ![{\displaystyle F(s)=\int _{0}^{\infty }f(t)e^{-st}\,dt}](https://proxy-prod.omnivore-image-cache.app/0x0,sIhEPh1NuQME2qhEwSi0qMLKBLl3bHvaVZHQD2azbW1Q/https://wikimedia.org/api/rest_v1/media/math/render/svg/b49caba366b94ee1ecb91eee31d5a709f8b0beaa) |  | **(Eq.1)** |
-> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  | ---------- |
-> 
-> where _s_ is a [complex](https://en.wikipedia.org/wiki/Complex%5Fnumber "Complex number") frequency domain parameter
-> 
-> ![{\displaystyle s=\sigma +i\omega ,}](https://proxy-prod.omnivore-image-cache.app/0x0,stlwnqdx38QnFRyd-oEY5kZDIar3xa-RTsDX5oj8Jd4Q/https://wikimedia.org/api/rest_v1/media/math/render/svg/abe7e04f572d097054522e5c3ef84370044f8aca)
-> 
->  with real numbers _σ_ and _ω_. [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#bfbbe0b5-5a8f-4356-8e98-5747671ebd55)  ^bfbbe0b5
-
-> An alternate notation for the Laplace transform is ![{\mathcal {L}}\{f\}](https://proxy-prod.omnivore-image-cache.app/0x0,sPf3f8AeCyulbyGWs6saDjNWdOEe9ciZTwCwF39AZbtY/https://wikimedia.org/api/rest_v1/media/math/render/svg/b2734e92c352d7115a47553097a0e35462f915ef) instead of _F_. [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#2ebb71f7-0875-45ce-84ed-8a7cd99ddecc)  ^2ebb71f7
-
-> A necessary condition for existence of the integral is that _f_ must be [locally integrable](https://en.wikipedia.org/wiki/Locally%5Fintegrable "Locally integrable") on \[0, ∞). [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#9fc3b64f-ce00-41e2-9bef-400ae5b98dd5)  ^9fc3b64f
-
-> One can define the Laplace transform of a finite [Borel measure](https://en.wikipedia.org/wiki/Borel%5Fmeasure "Borel measure") _μ_ by the Lebesgue integral
-> 
-> ![{\displaystyle {\mathcal {L}}\{\mu \}(s)=\int _{[0,\infty )}e^{-st}\,d\mu (t).}](https://proxy-prod.omnivore-image-cache.app/0x0,skGxr1_OMOUvyAX_JCGX0AHo3uplXsx-SWBHPZYnNYmw/https://wikimedia.org/api/rest_v1/media/math/render/svg/3d28c2f4979692767dc46b5c537fb4ae7a370118)
-> 
-> An important special case is where _μ_ is a [probability measure](https://en.wikipedia.org/wiki/Probability%5Fmeasure "Probability measure"), for example, the [Dirac delta function](https://en.wikipedia.org/wiki/Dirac%5Fdelta%5Ffunction "Dirac delta function"). [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#5203f054-ec0b-49eb-8540-54c2fc009c26)  ^5203f054
-
-> When one says "the Laplace transform" without qualification, the unilateral or one-sided transform is usually intended. [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#ea913c95-7256-4529-9161-44dbd3816986)  ^ea913c95
-
-> ### Probability theory
-> 
-> In [pure](https://en.wikipedia.org/wiki/Probability%5Ftheory "Probability theory") and [applied probability](https://en.wikipedia.org/wiki/Applied%5Fprobability "Applied probability"), the Laplace transform is defined as an [expected value](https://en.wikipedia.org/wiki/Expected%5Fvalue "Expected value"). If _X_ is a [random variable](https://en.wikipedia.org/wiki/Random%5Fvariable "Random variable") with probability density function _f_, then the Laplace transform of _f_ is given by the expectation
-> 
-> ![{\displaystyle {\mathcal {L}}\{f\}(s)=\operatorname {E} \!\left[e^{-sX}\right]\!.}](https://proxy-prod.omnivore-image-cache.app/0x0,seL6bLp7p-QQKPIfHMZ-0ewF6Gnic3RVHwHlzf0giEvk/https://wikimedia.org/api/rest_v1/media/math/render/svg/eda500d4b47b0f8e3b6d9274f1c650896c44cd6e)
-> 
-> By [convention](https://en.wikipedia.org/wiki/Abuse%5Fof%5Fnotation "Abuse of notation"), this is referred to as the Laplace transform of the random variable _X_ itself. Here, replacing _s_ by −_t_ gives the [moment generating function](https://en.wikipedia.org/wiki/Moment%5Fgenerating%5Ffunction "Moment generating function") of _X_. The Laplace transform has applications throughout probability theory, including [first passage times](https://en.wikipedia.org/wiki/First%5Fpassage%5Ftime "First passage time") of [stochastic processes](https://en.wikipedia.org/wiki/Stochastic%5Fprocess "Stochastic process") such as [Markov chains](https://en.wikipedia.org/wiki/Markov%5Fchain "Markov chain"), and [renewal theory](https://en.wikipedia.org/wiki/Renewal%5Ftheory "Renewal theory"). [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#daec1388-bbfd-42b7-a9a0-bbe299177852)  ^daec1388
-
-> Of particular use is the ability to recover the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative%5Fdistribution%5Ffunction "Cumulative distribution function") of a continuous random variable _X_, by means of the Laplace transform as follows:
-> 
-> ![{\displaystyle F_{X}(x)={\mathcal {L}}^{-1}\!\left\{{\frac {1}{s}}\operatorname {E} \left[e^{-sX}\right]\right\}\!(x)={\mathcal {L}}^{-1}\!\left\{{\frac {1}{s}}{\mathcal {L}}\{f\}(s)\right\}\!(x).}](https://proxy-prod.omnivore-image-cache.app/0x0,suLI2Rn1tnftgPLLykMERFeHOX38o89kXNEgLNm3hjW0/https://wikimedia.org/api/rest_v1/media/math/render/svg/1e5b1d7b19716a60e168d9476f56bcfecbaba3f9)
-> 
-> ###  [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#feeef429-911a-42f2-b46d-2b04c758cad0)  ^feeef429
-
-> ## _s_\-domain equivalent circuits and impedances
-> 
-> The Laplace transform is often used in [circuit analysis](https://en.wikipedia.org/wiki/Network%5Fanalysis%5F%28electrical%5Fcircuits%29 "Network analysis (electrical circuits)"), and simple conversions to the _s_\-domain of circuit elements can be made. Circuit elements can be transformed into [impedances](https://en.wikipedia.org/wiki/Electrical%5Fimpedance "Electrical impedance"), very similar to [phasor](https://en.wikipedia.org/wiki/Phasor%5F%28sine%5Fwaves%29 "Phasor (sine waves)") impedances.
-> 
-> Here is a summary of equivalents:
-> 
-> [![s-domain equivalent circuits](https://proxy-prod.omnivore-image-cache.app/400x274,s0oOPyLJQBo1zIKTJ2MRM21J4cnmPolHN5EYQ6-9tQnY/https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/S-Domain_circuit_equivalents.svg/400px-S-Domain_circuit_equivalents.svg.png)](https://en.wikipedia.org/wiki/File:S-Domain%5Fcircuit%5Fequivalents.svg "s-domain equivalent circuits")
-> 
-> _s_\-domain equivalent circuits [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#f65c6046-afe9-45a3-b626-8e6532cda2b4)  ^f65c6046
-
-
 --- 
 
 # Full Content: 
@@ -753,3 +699,59 @@ Salem, M. (1974), "II. Three-dimensional models", _Monthly Notices of the Royal 
 * [Computational Knowledge Engine](http://www.wolframalpha.com/input/?i=laplace+transform+example) allows to easily calculate Laplace Transforms and its inverse Transform.
 * [Laplace Calculator](http://www.laplacetransformcalculator.com/easy-laplace-transform-calculator/) to calculate Laplace Transforms online easily.
 * [Code to visualize Laplace Transforms](https://johnflux.com/2019/02/12/laplace-transform-visualized/) and many example videos.
+
+---
+
+## Highlights
+
+> an [integral transform](https://en.wikipedia.org/wiki/Integral%5Ftransform "Integral transform") that converts a [function](https://en.wikipedia.org/wiki/Function%5F%28mathematics%29 "Function (mathematics)") of a [real](https://en.wikipedia.org/wiki/Real%5Fnumber "Real number") [variable](https://en.wikipedia.org/wiki/Variable%5F%28mathematics%29 "Variable (mathematics)") (usually ![t](https://proxy-prod.omnivore-image-cache.app/0x0,sVypbUmEMbbgU9_LilYFsoRo5vvg-AHGYCwISNwLacY4/https://wikimedia.org/api/rest_v1/media/math/render/svg/65658b7b223af9e1acc877d848888ecdb4466560), in the _[time domain](https://en.wikipedia.org/wiki/Time%5Fdomain "Time domain")_) to a function of a [complex](https://en.wikipedia.org/wiki/Complex%5Fnumber "Complex number") variable ![s](https://proxy-prod.omnivore-image-cache.app/0x0,svdJwoeORtMf31n_sUAeKzmt9S82UDLvDd5XkP8t7ZE0/https://wikimedia.org/api/rest_v1/media/math/render/svg/01d131dfd7673938b947072a13a9744fe997e632) (in the complex [frequency domain](https://en.wikipedia.org/wiki/Frequency%5Fdomain "Frequency domain"), also known as **_s_\-domain**, or **s-plane**). The transform has many applications in [science](https://en.wikipedia.org/wiki/Science "Science") and [engineering](https://en.wikipedia.org/wiki/Engineering "Engineering") because it is a tool for solving [differential equations](https://en.wikipedia.org/wiki/Differential%5Fequation "Differential equation"). In particular, it transforms [ordinary differential equations](https://en.wikipedia.org/wiki/Ordinary%5Fdifferential%5Fequation "Ordinary differential equation") into [algebraic equations](https://en.wikipedia.org/wiki/Algebraic%5Fequation "Algebraic equation") and [convolution](https://en.wikipedia.org/wiki/Convolution "Convolution") into [multiplication](https://en.wikipedia.org/wiki/Multiplication "Multiplication"). For suitable functions _f_, the Laplace transform is the [integral](https://en.wikipedia.org/wiki/Integral "Integral") 
+> 
+> ![{\displaystyle {\mathcal {L}}\{f\}(s)=\int _{0}^{\infty }f(t)e^{-st}\,dt.}](https://proxy-prod.omnivore-image-cache.app/0x0,sgkKmU4zHmdGtm4qwcnkx9ndV-4DiKfMp5Qr4p4Adb0A/https://wikimedia.org/api/rest_v1/media/math/render/svg/16b7f44dd7f47ebcfc14dd87249cc9fee6c5ba63) [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#5705a8ef-c60e-4720-b2ec-8128ca30612b)  ^5705a8ef
+
+> The Laplace transform of a [function](https://en.wikipedia.org/wiki/Function%5F%28mathematics%29 "Function (mathematics)") _f_(_t_), defined for all [real numbers](https://en.wikipedia.org/wiki/Real%5Fnumber "Real number") _t_ ≥ 0, is the function _F_(_s_), which is a unilateral transform defined by
+> 
+> | ![{\displaystyle F(s)=\int _{0}^{\infty }f(t)e^{-st}\,dt}](https://proxy-prod.omnivore-image-cache.app/0x0,sIhEPh1NuQME2qhEwSi0qMLKBLl3bHvaVZHQD2azbW1Q/https://wikimedia.org/api/rest_v1/media/math/render/svg/b49caba366b94ee1ecb91eee31d5a709f8b0beaa) |  | **(Eq.1)** |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  | ---------- |
+> 
+> where _s_ is a [complex](https://en.wikipedia.org/wiki/Complex%5Fnumber "Complex number") frequency domain parameter
+> 
+> ![{\displaystyle s=\sigma +i\omega ,}](https://proxy-prod.omnivore-image-cache.app/0x0,stlwnqdx38QnFRyd-oEY5kZDIar3xa-RTsDX5oj8Jd4Q/https://wikimedia.org/api/rest_v1/media/math/render/svg/abe7e04f572d097054522e5c3ef84370044f8aca)
+> 
+>  with real numbers _σ_ and _ω_. [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#bfbbe0b5-5a8f-4356-8e98-5747671ebd55)  ^bfbbe0b5
+
+> An alternate notation for the Laplace transform is ![{\mathcal {L}}\{f\}](https://proxy-prod.omnivore-image-cache.app/0x0,sPf3f8AeCyulbyGWs6saDjNWdOEe9ciZTwCwF39AZbtY/https://wikimedia.org/api/rest_v1/media/math/render/svg/b2734e92c352d7115a47553097a0e35462f915ef) instead of _F_. [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#2ebb71f7-0875-45ce-84ed-8a7cd99ddecc)  ^2ebb71f7
+
+> A necessary condition for existence of the integral is that _f_ must be [locally integrable](https://en.wikipedia.org/wiki/Locally%5Fintegrable "Locally integrable") on \[0, ∞). [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#9fc3b64f-ce00-41e2-9bef-400ae5b98dd5)  ^9fc3b64f
+
+> One can define the Laplace transform of a finite [Borel measure](https://en.wikipedia.org/wiki/Borel%5Fmeasure "Borel measure") _μ_ by the Lebesgue integral
+> 
+> ![{\displaystyle {\mathcal {L}}\{\mu \}(s)=\int _{[0,\infty )}e^{-st}\,d\mu (t).}](https://proxy-prod.omnivore-image-cache.app/0x0,skGxr1_OMOUvyAX_JCGX0AHo3uplXsx-SWBHPZYnNYmw/https://wikimedia.org/api/rest_v1/media/math/render/svg/3d28c2f4979692767dc46b5c537fb4ae7a370118)
+> 
+> An important special case is where _μ_ is a [probability measure](https://en.wikipedia.org/wiki/Probability%5Fmeasure "Probability measure"), for example, the [Dirac delta function](https://en.wikipedia.org/wiki/Dirac%5Fdelta%5Ffunction "Dirac delta function"). [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#5203f054-ec0b-49eb-8540-54c2fc009c26)  ^5203f054
+
+> When one says "the Laplace transform" without qualification, the unilateral or one-sided transform is usually intended. [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#ea913c95-7256-4529-9161-44dbd3816986)  ^ea913c95
+
+> ### Probability theory
+> 
+> In [pure](https://en.wikipedia.org/wiki/Probability%5Ftheory "Probability theory") and [applied probability](https://en.wikipedia.org/wiki/Applied%5Fprobability "Applied probability"), the Laplace transform is defined as an [expected value](https://en.wikipedia.org/wiki/Expected%5Fvalue "Expected value"). If _X_ is a [random variable](https://en.wikipedia.org/wiki/Random%5Fvariable "Random variable") with probability density function _f_, then the Laplace transform of _f_ is given by the expectation
+> 
+> ![{\displaystyle {\mathcal {L}}\{f\}(s)=\operatorname {E} \!\left[e^{-sX}\right]\!.}](https://proxy-prod.omnivore-image-cache.app/0x0,seL6bLp7p-QQKPIfHMZ-0ewF6Gnic3RVHwHlzf0giEvk/https://wikimedia.org/api/rest_v1/media/math/render/svg/eda500d4b47b0f8e3b6d9274f1c650896c44cd6e)
+> 
+> By [convention](https://en.wikipedia.org/wiki/Abuse%5Fof%5Fnotation "Abuse of notation"), this is referred to as the Laplace transform of the random variable _X_ itself. Here, replacing _s_ by −_t_ gives the [moment generating function](https://en.wikipedia.org/wiki/Moment%5Fgenerating%5Ffunction "Moment generating function") of _X_. The Laplace transform has applications throughout probability theory, including [first passage times](https://en.wikipedia.org/wiki/First%5Fpassage%5Ftime "First passage time") of [stochastic processes](https://en.wikipedia.org/wiki/Stochastic%5Fprocess "Stochastic process") such as [Markov chains](https://en.wikipedia.org/wiki/Markov%5Fchain "Markov chain"), and [renewal theory](https://en.wikipedia.org/wiki/Renewal%5Ftheory "Renewal theory"). [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#daec1388-bbfd-42b7-a9a0-bbe299177852)  ^daec1388
+
+> Of particular use is the ability to recover the [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative%5Fdistribution%5Ffunction "Cumulative distribution function") of a continuous random variable _X_, by means of the Laplace transform as follows:
+> 
+> ![{\displaystyle F_{X}(x)={\mathcal {L}}^{-1}\!\left\{{\frac {1}{s}}\operatorname {E} \left[e^{-sX}\right]\right\}\!(x)={\mathcal {L}}^{-1}\!\left\{{\frac {1}{s}}{\mathcal {L}}\{f\}(s)\right\}\!(x).}](https://proxy-prod.omnivore-image-cache.app/0x0,suLI2Rn1tnftgPLLykMERFeHOX38o89kXNEgLNm3hjW0/https://wikimedia.org/api/rest_v1/media/math/render/svg/1e5b1d7b19716a60e168d9476f56bcfecbaba3f9)
+> 
+> ###  [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#feeef429-911a-42f2-b46d-2b04c758cad0)  ^feeef429
+
+> ## _s_\-domain equivalent circuits and impedances
+> 
+> The Laplace transform is often used in [circuit analysis](https://en.wikipedia.org/wiki/Network%5Fanalysis%5F%28electrical%5Fcircuits%29 "Network analysis (electrical circuits)"), and simple conversions to the _s_\-domain of circuit elements can be made. Circuit elements can be transformed into [impedances](https://en.wikipedia.org/wiki/Electrical%5Fimpedance "Electrical impedance"), very similar to [phasor](https://en.wikipedia.org/wiki/Phasor%5F%28sine%5Fwaves%29 "Phasor (sine waves)") impedances.
+> 
+> Here is a summary of equivalents:
+> 
+> [![s-domain equivalent circuits](https://proxy-prod.omnivore-image-cache.app/400x274,s0oOPyLJQBo1zIKTJ2MRM21J4cnmPolHN5EYQ6-9tQnY/https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/S-Domain_circuit_equivalents.svg/400px-S-Domain_circuit_equivalents.svg.png)](https://en.wikipedia.org/wiki/File:S-Domain%5Fcircuit%5Fequivalents.svg "s-domain equivalent circuits")
+> 
+> _s_\-domain equivalent circuits [⤴️](https://omnivore.app/me/laplace-transform-wikipedia-18a255bf02e#f65c6046-afe9-45a3-b626-8e6532cda2b4)  ^f65c6046
+

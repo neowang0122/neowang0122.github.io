@@ -19,35 +19,6 @@ date_saved: 2023-09-02 23:22:33
 
 date_published: 2023-08-19 01:01:00
 
-## Highlights
-
-> 每隔一段时间，就会有一个革命性的产品出现。」2007 年 iPhone 第一次出现的那场发布会上，苹果创始人乔布斯就曾用这句话进行开场。而他暗指的新一代革命性产品，就是后来划入史册的初代 iPhone。 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-o-8-uc-mvmpgj-vmj-4-x-chj-q-km-a-18a59102844#1f298be5-dc56-4573-96d2-11e67ec97aa8)  ^1f298be5
-
-> 首先我们都有一个共识，苹果选择在 WWDC 开发者大会公布 Vision Pro，核心目的不是面对消费者或者分析师，而是要全球开发者知道并且了解一个全新的软件平台。 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-o-8-uc-mvmpgj-vmj-4-x-chj-q-km-a-18a59102844#ac941b36-723e-4043-96d6-044387d48eb7)  ^ac941b36
-
-> 但就像很多人听过甚至亲身感受过的，硬件收入占大头的苹果，本质是一家软件公司。乔布斯如是说：
-> 
-> > ……如果你想一下 iPhone 是什么，它也是软件。所以苹果公司最大的秘密，或许已经不是什么秘密了，那就是苹果把自己看成是一家软件公司（Apple views itself as a software company）。
-> 
-> 就在 8 月的第一天，苹果、Adobe、皮克斯、英伟达以及 Autodesk 联手 JDF（Linux 基金会附属机构联合开发基金会）宣布成立 OpenUSD 联盟，将推动皮克斯开发的通用场景描述（USD）技术的「标准化、开发、进化和发展」。 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-o-8-uc-mvmpgj-vmj-4-x-chj-q-km-a-18a59102844#db34b781-b3ef-4439-bc7a-4d029e8acf6d)  ^db34b781
-
-> 简单来说，OpenUSD 联盟希望推动 USD 技术成为 3D 内容的通用语言，**于是我们看到芯片厂商英伟达、制作工具厂商 Autodesk 和 Adobe、内容生产商皮克斯，以及集芯片厂商、内容生产商和终端厂商于一体的苹果共同组成了联盟。**
-> 
-> 对苹果而言，组建联盟的目标非常明确。「OpenUSD 将有助于加速下一代 AR 体验，从艺术创作到内容交付，并产生不断扩大的空间计算应用程序。 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-o-8-uc-mvmpgj-vmj-4-x-chj-q-km-a-18a59102844#3370c450-c784-4541-80dc-79cc0c011452)  ^3370c450
-
-> **苹果一直是 USD 发展的积极贡献者，它是突破性的 VisionOS 平台以及新的 Reality Composer Pro 开发工具的重要技术。」**
-> 
-> 同时苹果也明白，在空间计算平台的应用爆发之前，Vision Pro 需要先告诉消费者自身最大的价值。
-> 
-> 在我看来，Vision Pro 面世以来最核心的问题，很大程度上是苹果并没有帮消费者找到购买它的理由并让人信服，同时它的价格却上到了 3499 美元（近 2.5 万元人民币）的高价。 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-o-8-uc-mvmpgj-vmj-4-x-chj-q-km-a-18a59102844#d3adada9-d5c2-4433-93f1-e6f8052a8f79)  ^d3adada9
-
-> **不过以 WWDC 上的宣传来看，Vision Pro 初期显然看中了电视以及显示器的使用场景。**一方面是超高分辨率 Micro-OLED 和超大画面，再叠加沉浸虚拟空间带来的观影体验；另一方面则是在办公场景下，通过超低的延迟与虚实融合的交互设计，承担了显示器乃至计算设备的使用场景。 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-o-8-uc-mvmpgj-vmj-4-x-chj-q-km-a-18a59102844#44bfb1af-9143-44cb-bf25-549658a71897)  ^44bfb1af
-
-> 最近就有测试者发现，苹果在 visionOS 1.0 Beta 2 系统中的 TV 应用代码多出了「播放 3D」的字样，后续报道指出，Apple TV + 的原创剧《君主：怪兽的遗产（Monarch: Legacy of Monsters）》已经制作了 3D 版本。
-> 
-> 不难想象，苹果可能会像之前将电影库全线升级到 4K 版本一样，再一次升级到 3D 版本。另外别忘了，在 WWDC 上为苹果站台的迪士尼，还拥有大量影响力巨大的 IP，可能将以 AR 实景或是沉浸式 VR 内容的形式出现，而 Disney+ 也将跟随着 Vision Pro 而上市。 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-o-8-uc-mvmpgj-vmj-4-x-chj-q-km-a-18a59102844#37a2d2b2-8483-4f58-8f40-96da8276eb49)  ^37a2d2b2
-
-
 --- 
 
 # Full Content: 
@@ -191,3 +162,34 @@ TCL 华星 CEO 赵军此前在采访中表示，近眼显示产品想要替代�
 ![图片](https://proxy-prod.omnivore-image-cache.app/0x0,srePg8NRivj8W1Y4gF50FBlIXZq2B7vrygqbxF4oq7Ww/https://mmbiz.qpic.cn/mmbiz_png/ncqN8l14plYnDI9x2qrUlw36jASTXbxRgKKdfuAWqLfZ9vibEOHfTgdjKayVJBOdU7CLdUOqpOTvPh9fFuw4qGA/640?wx_fmt=png)
 
 ​
+
+---
+
+## Highlights
+
+> 每隔一段时间，就会有一个革命性的产品出现。」2007 年 iPhone 第一次出现的那场发布会上，苹果创始人乔布斯就曾用这句话进行开场。而他暗指的新一代革命性产品，就是后来划入史册的初代 iPhone。 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-o-8-uc-mvmpgj-vmj-4-x-chj-q-km-a-18a59102844#1f298be5-dc56-4573-96d2-11e67ec97aa8)  ^1f298be5
+
+> 首先我们都有一个共识，苹果选择在 WWDC 开发者大会公布 Vision Pro，核心目的不是面对消费者或者分析师，而是要全球开发者知道并且了解一个全新的软件平台。 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-o-8-uc-mvmpgj-vmj-4-x-chj-q-km-a-18a59102844#ac941b36-723e-4043-96d6-044387d48eb7)  ^ac941b36
+
+> 但就像很多人听过甚至亲身感受过的，硬件收入占大头的苹果，本质是一家软件公司。乔布斯如是说：
+> 
+> > ……如果你想一下 iPhone 是什么，它也是软件。所以苹果公司最大的秘密，或许已经不是什么秘密了，那就是苹果把自己看成是一家软件公司（Apple views itself as a software company）。
+> 
+> 就在 8 月的第一天，苹果、Adobe、皮克斯、英伟达以及 Autodesk 联手 JDF（Linux 基金会附属机构联合开发基金会）宣布成立 OpenUSD 联盟，将推动皮克斯开发的通用场景描述（USD）技术的「标准化、开发、进化和发展」。 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-o-8-uc-mvmpgj-vmj-4-x-chj-q-km-a-18a59102844#db34b781-b3ef-4439-bc7a-4d029e8acf6d)  ^db34b781
+
+> 简单来说，OpenUSD 联盟希望推动 USD 技术成为 3D 内容的通用语言，**于是我们看到芯片厂商英伟达、制作工具厂商 Autodesk 和 Adobe、内容生产商皮克斯，以及集芯片厂商、内容生产商和终端厂商于一体的苹果共同组成了联盟。**
+> 
+> 对苹果而言，组建联盟的目标非常明确。「OpenUSD 将有助于加速下一代 AR 体验，从艺术创作到内容交付，并产生不断扩大的空间计算应用程序。 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-o-8-uc-mvmpgj-vmj-4-x-chj-q-km-a-18a59102844#3370c450-c784-4541-80dc-79cc0c011452)  ^3370c450
+
+> **苹果一直是 USD 发展的积极贡献者，它是突破性的 VisionOS 平台以及新的 Reality Composer Pro 开发工具的重要技术。」**
+> 
+> 同时苹果也明白，在空间计算平台的应用爆发之前，Vision Pro 需要先告诉消费者自身最大的价值。
+> 
+> 在我看来，Vision Pro 面世以来最核心的问题，很大程度上是苹果并没有帮消费者找到购买它的理由并让人信服，同时它的价格却上到了 3499 美元（近 2.5 万元人民币）的高价。 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-o-8-uc-mvmpgj-vmj-4-x-chj-q-km-a-18a59102844#d3adada9-d5c2-4433-93f1-e6f8052a8f79)  ^d3adada9
+
+> **不过以 WWDC 上的宣传来看，Vision Pro 初期显然看中了电视以及显示器的使用场景。**一方面是超高分辨率 Micro-OLED 和超大画面，再叠加沉浸虚拟空间带来的观影体验；另一方面则是在办公场景下，通过超低的延迟与虚实融合的交互设计，承担了显示器乃至计算设备的使用场景。 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-o-8-uc-mvmpgj-vmj-4-x-chj-q-km-a-18a59102844#44bfb1af-9143-44cb-bf25-549658a71897)  ^44bfb1af
+
+> 最近就有测试者发现，苹果在 visionOS 1.0 Beta 2 系统中的 TV 应用代码多出了「播放 3D」的字样，后续报道指出，Apple TV + 的原创剧《君主：怪兽的遗产（Monarch: Legacy of Monsters）》已经制作了 3D 版本。
+> 
+> 不难想象，苹果可能会像之前将电影库全线升级到 4K 版本一样，再一次升级到 3D 版本。另外别忘了，在 WWDC 上为苹果站台的迪士尼，还拥有大量影响力巨大的 IP，可能将以 AR 实景或是沉浸式 VR 内容的形式出现，而 Disney+ 也将跟随着 Vision Pro 而上市。 [⤴️](https://omnivore.app/me/https-mp-weixin-qq-com-s-o-8-uc-mvmpgj-vmj-4-x-chj-q-km-a-18a59102844#37a2d2b2-8483-4f58-8f40-96da8276eb49)  ^37a2d2b2
+

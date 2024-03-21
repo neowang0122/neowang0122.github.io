@@ -17,33 +17,6 @@ date_saved: 2023-07-11 01:18:37
 date_saved: 2023-07-11 01:18:37
 
 
-## Highlights
-
-> 但是 Bear 毕竟只是一个笔记类软件。对于重度内容写作、管理和发布就比较不擅长了 [⤴️](https://omnivore.app/me/m-web-ulysses-18943632226#8bb798d2-f8be-4422-b4a0-9704cedfac65)  ^8bb798d2
-
-> 我对写作工具的需求首先是**支持 Markdown** [⤴️](https://omnivore.app/me/m-web-ulysses-18943632226#1bde737d-7362-4d31-a264-5201c8a14996)  ^1bde737d
-
-> 其次要能**支持跨平台写作和同步**（起码要跨苹果平台）。因为我可能随时会在 iPhone 上记录一些想法和选题，也常常在 iPad Pro 上写文章。因为我的内容分类比较多。有图文文章，视频脚本，还有个人博客。发布渠道也包括公众号、知乎、头条号、少数派、自建 Ghost 网站等。所以还希望能**有比较好用的文档管理和便捷的发布、导出功能。** [⤴️](https://omnivore.app/me/m-web-ulysses-18943632226#46ea4c7f-fd82-4263-9508-283881812087)  ^46ea4c7f
-
-> Typora 还可以自定义主题样式。这样用它来写公众号文章，写完直接复制，然后粘贴到公众号后台编辑器就同时完成了排版样式。橙子的公众号（橙子菜菜）就在使用 Typora 来写作。
-> 
-> 不过 **Typora 只有电脑（Mac/Win/Liux）版**，并没有手机或 iPad 版。而且**文章发布能力不足以满足我多平台发布的需求**。最终并没有选择 Typora。 [⤴️](https://omnivore.app/me/m-web-ulysses-18943632226#2fa1d4ff-ca06-4b2d-9129-f62b5cd43d40)  ^2fa1d4ff
-
-> MWeb 这款国产写作工具。
-> 
-> ![mweb](https://proxy-prod.omnivore-image-cache.app/0x0,s5AGAaEjYgeYgdHJiPIgIxNjbNMpETI9JObyZ5Lb9PMs/https://cdn.sspai.com/editor/u_huangyang/15967659106726.jpg)
-> 
-> MWeb
-> 
-> 支持 Mac、iPhone 和 iPad，使用 iCloud 云盘同步。通过分类和标签来管理文档内容。最重要的是，**MWeb 的导出和发布功能非常强大，没有之一**。可以把写好的文章导出成图片、PDF、Epub（电子书）、Markdown、HTML（网页）、RTF（富格式文本）、Docx 格式。支持图片上传图床。文章也可以一键发布到 Wordpress、Ghost（Mac派网站在用的建站工具）、印象笔记、为之笔记、少数派、语雀等。能够完全覆盖我的内容分发需求。 [⤴️](https://omnivore.app/me/m-web-ulysses-18943632226#48e5536b-0dd6-47fc-a121-fd4ce63b93a5)  ^48e5536b
-
-> MWeb 价格不算贵，良心的依然采用买断制。¥128 Mac 版 + ¥60 iOS 版 。一顿小龙虾的钱就可以一直使用下去。 [⤴️](https://omnivore.app/me/m-web-ulysses-18943632226#82d800de-3579-41d3-9818-50aba156cc10)  ^82d800de
-
-> 在导出和发布方面，虽然 Ulysses 也可以导出 Markdown、富文本、PDF、ePub、HTML 和 Docx，并且在导出样式上我觉得比 MWeb 更好看。但是**发布功能上比 MWeb 还是差很多。**
-> 
-> 另外 Ulysses 已经转向订阅制收费，¥293/年的价格着实不便宜。这可能也是 Ulysses 最令人感觉不爽的地方。软件是好软件，但感觉不值这个价。 [⤴️](https://omnivore.app/me/m-web-ulysses-18943632226#d3146162-aaa5-4ca2-8448-0bbde486b2df)  ^d3146162
-
-
 --- 
 
 # Full Content: 
@@ -159,3 +132,32 @@ Ulysses 文库管理（左）vs MWeb 文库管理（右）
 一边是 Ulysses 的外观和书写体验，一边是 MWeb 的平价和高效发布。我可能还会在这两个工具之间犹豫徘徊一段时间，但是最终一定是选其一作为我的主力内容写作工具。
 
 以上只是针对个人书写需求的主观感受。并不代表推荐理由。如果你对这两款工具或其他 Markdown 写作工具有任何想法，也可以在评论区交流。
+
+---
+
+## Highlights
+
+> 但是 Bear 毕竟只是一个笔记类软件。对于重度内容写作、管理和发布就比较不擅长了 [⤴️](https://omnivore.app/me/m-web-ulysses-18943632226#8bb798d2-f8be-4422-b4a0-9704cedfac65)  ^8bb798d2
+
+> 我对写作工具的需求首先是**支持 Markdown** [⤴️](https://omnivore.app/me/m-web-ulysses-18943632226#1bde737d-7362-4d31-a264-5201c8a14996)  ^1bde737d
+
+> 其次要能**支持跨平台写作和同步**（起码要跨苹果平台）。因为我可能随时会在 iPhone 上记录一些想法和选题，也常常在 iPad Pro 上写文章。因为我的内容分类比较多。有图文文章，视频脚本，还有个人博客。发布渠道也包括公众号、知乎、头条号、少数派、自建 Ghost 网站等。所以还希望能**有比较好用的文档管理和便捷的发布、导出功能。** [⤴️](https://omnivore.app/me/m-web-ulysses-18943632226#46ea4c7f-fd82-4263-9508-283881812087)  ^46ea4c7f
+
+> Typora 还可以自定义主题样式。这样用它来写公众号文章，写完直接复制，然后粘贴到公众号后台编辑器就同时完成了排版样式。橙子的公众号（橙子菜菜）就在使用 Typora 来写作。
+> 
+> 不过 **Typora 只有电脑（Mac/Win/Liux）版**，并没有手机或 iPad 版。而且**文章发布能力不足以满足我多平台发布的需求**。最终并没有选择 Typora。 [⤴️](https://omnivore.app/me/m-web-ulysses-18943632226#2fa1d4ff-ca06-4b2d-9129-f62b5cd43d40)  ^2fa1d4ff
+
+> MWeb 这款国产写作工具。
+> 
+> ![mweb](https://proxy-prod.omnivore-image-cache.app/0x0,s5AGAaEjYgeYgdHJiPIgIxNjbNMpETI9JObyZ5Lb9PMs/https://cdn.sspai.com/editor/u_huangyang/15967659106726.jpg)
+> 
+> MWeb
+> 
+> 支持 Mac、iPhone 和 iPad，使用 iCloud 云盘同步。通过分类和标签来管理文档内容。最重要的是，**MWeb 的导出和发布功能非常强大，没有之一**。可以把写好的文章导出成图片、PDF、Epub（电子书）、Markdown、HTML（网页）、RTF（富格式文本）、Docx 格式。支持图片上传图床。文章也可以一键发布到 Wordpress、Ghost（Mac派网站在用的建站工具）、印象笔记、为之笔记、少数派、语雀等。能够完全覆盖我的内容分发需求。 [⤴️](https://omnivore.app/me/m-web-ulysses-18943632226#48e5536b-0dd6-47fc-a121-fd4ce63b93a5)  ^48e5536b
+
+> MWeb 价格不算贵，良心的依然采用买断制。¥128 Mac 版 + ¥60 iOS 版 。一顿小龙虾的钱就可以一直使用下去。 [⤴️](https://omnivore.app/me/m-web-ulysses-18943632226#82d800de-3579-41d3-9818-50aba156cc10)  ^82d800de
+
+> 在导出和发布方面，虽然 Ulysses 也可以导出 Markdown、富文本、PDF、ePub、HTML 和 Docx，并且在导出样式上我觉得比 MWeb 更好看。但是**发布功能上比 MWeb 还是差很多。**
+> 
+> 另外 Ulysses 已经转向订阅制收费，¥293/年的价格着实不便宜。这可能也是 Ulysses 最令人感觉不爽的地方。软件是好软件，但感觉不值这个价。 [⤴️](https://omnivore.app/me/m-web-ulysses-18943632226#d3146162-aaa5-4ca2-8448-0bbde486b2df)  ^d3146162
+

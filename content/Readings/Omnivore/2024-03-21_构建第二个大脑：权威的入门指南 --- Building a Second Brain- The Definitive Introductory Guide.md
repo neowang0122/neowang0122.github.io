@@ -19,184 +19,6 @@ date_saved: 2024-03-21 17:21:52
 
 date_published: 2023-05-01 09:00:12
 
-## Highlights
-
-> 构建第二个大脑：权威的入门指南 --- Building a Second Brain: The Definitive Introductory Guide [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#0fc078b2-3d1e-4e68-a876-4ce9645526d3)  ^0fc078b2
-
-> Our brains just aren’t capable of remembering all these details since they can only store a few thoughts at any one time. Fundamentally, **our brains are for having ideas, not storing them.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#5e5dda04-76bb-4e9c-936a-e1e43646660b)  ^5e5dda04
-
-> a “Second Brain” – **an external, centralized, digital repository for the things you learn** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#bb3a8a82-71b3-45db-8ed5-43c7d19e3976)  ^bb3a8a82
-
-> **an ongoing record of personal discoveries, lessons learned, and actionable insights for any situation**. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#e8480f5f-914d-4582-8de3-38da401d96af)  ^e8480f5f
-
-> spend a significant portion of our careers creating snippets of text, outlines, photos, videos, sketches, diagrams, webpages, notes, or documents. Yet, **without a little extra care to preserve these valuable resources, our precious knowledge remains siloed and scattered across dozens of different locations**. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#ae26bbed-bbca-4352-8292-435af849bc8d)  ^ae26bbed
-
-> free our biological brain to imagine, create, and simply be present. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#120b0b98-f2c3-40fc-a0c1-1887b7fa9fa9)  ^120b0b98
-
-> Create a digital environment [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#cd50105d-1929-430a-95ec-cb44a1a27d17)  ^cd50105d
-
-> **Unlock the full value of the wealth of learning resources** all around you, such as online courses, webinars, books, articles, forums, and podcasts [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#c186a539-df8a-4491-af05-ba940d196a41)  ^c186a539
-
-> **Find anything** you’ve learned, touched, or thought about in the past within seconds [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#62b5b4d8-97be-4b14-af61-36839ac57801)  ^62b5b4d8
-
-> more time doing the best, most creative work you are capable of [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#148ea28b-99ee-4d61-a0ac-698df3029ea0)  ^148ea28b
-
-> Cultivate a collection of valuable knowledge and insights [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#206aa432-d05e-4dd8-8b9c-712ac10cb1ad)  ^206aa432
-
-> **CODE, which stands for Capture, Organize, Distill, and Express.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#7c270ced-1dec-409b-ab89-5f4108d0077f)  ^7c270ced
-
-> is **“capturing” the ideas and insights you think are worth saving** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#7f27d5b8-7cff-49fe-8b56-ee6a2c2c862d)  ^7f27d5b8
-
-> Most of the time we tend to capture information haphazardly – we email ourselves a quick note, brainstorm some ideas in a Word document, or take notes on books we read – but then _don’t do anything with it._ [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#b3e2c644-5ff4-4a18-81d6-a91ba6a1c536)  ^b3e2c644
-
-> **we just need to keep it in a single, centralized place**, such as a digital notetaking app [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#76146333-50bc-4008-899c-330751790a52)  ^76146333
-
-> all of which are saved permanently and synced across all your devices. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#b3712327-e062-4bdd-93c9-ccc882303178)  ^b3712327
-
-> **one place to look when we need creative raw material, supporting research, or a shot of inspiration.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#0878ea82-6ffa-4bd1-b105-cd419bbd3b45)  ^0878ea82
-
-> unless we make conscious, strategic decisions about what we consume, we’ll always be at the mercy of what others want us to see. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#b9e93575-399b-4082-b2e6-0dd382a10317)  ^b9e93575
-
-> The word “capturing” often brings to mind an analytical way of thinking. But analysis is time-consuming and tiring. In deciding which passages, images, theories, or quotes to keep, **don’t make it a highly intellectual, analytical decision.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#61466e14-db39-42b1-a504-3cfcd93653a8)  ^61466e14
-
-> Too often, we just passively react to the information that’s been shoved in front of us by other people and algorithms. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#4e6062ff-d26f-4306-a873-179ef99c28c3)  ^4e6062ff
-
-> **save it so you can revisit it later** (at a time that’s reserved for consumption). [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#28f3c979-be85-4b56-8d20-e4a820b491d8)  ^28f3c979
-
-> something you care about, wonder about [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#cd827918-31a1-4d84-b975-13fa400c4746)  ^cd827918
-
-> **Read-later apps** such as [Readwise’s Reader](https://readwise.io/tiago), [Instapaper](https://www.instapaper.com/), or [Pocket](https://getpocket.com/en/) are designed for this particular purpose. As you begin to collect content, you’ll be able to choose which sources to consume in a deliberate way. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#2c4516bc-2f3d-46b7-bb39-3761a56ac1d3)  ^2c4516bc
-
-> “capture tools,” **designed to make capturing content in digital form easy and even fun.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#fc7dc447-bf25-455e-b2c9-7afaf280f6eb)  ^fc7dc447
-
-> Ebook apps [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#9d96c816-6b35-40c8-9475-0300fa52be44)  ^9d96c816
-
-> **Read later apps:** Save content you find online for later consumption and export your highlights into your notetaking app [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#f57de5bc-5b04-4b4d-9766-01903618f514)  ^f57de5bc
-
-> **Basic notes apps:** Capture snippets of text on the fly with these preinstalled apps on your mobile device [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#f1516921-6f4f-4f41-9a87-0212609568a1)  ^f1516921
-
-> **Audio/voice transcription apps:** Create text transcripts from spoken words [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#500f0320-7c2f-4574-907d-708c227be560)  ^500f0320
-
-> **Web clipper apps:** Save parts of web pages (often included as a built-in feature of notetaking apps) [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#f41b874f-2583-415a-9f73-3ef5a3b3a444)  ^f41b874f
-
-> In any case, **the act of capturing takes seconds**—to hit share, export, or save—and voilà, you’ve preserved the best parts of whatever you’re consuming in your Second Brain. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#e01c19d3-d9fb-4f94-84cb-090cfd164021)  ^e01c19d3
-
-> Since the software landscape is constantly changing, we’ve created a [Resource Guide](https://www.buildingasecondbrain.com/resources) with updated recommendations of the best capture tools, both free and paid, and for a variety of devices and operating systems. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#21bc1a0c-b71d-4a30-866c-9494b50b2f2d)  ^21bc1a0c
-
-> The best way to organize your notes is to focus on your active projects. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#8863a1d4-db2d-4fc2-abe2-203c259bd5a2)  ^8863a1d4
-
-> focussing on taking action, will also **help you combat information overwhelm**. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#d07ade3e-51b0-4ade-b725-a0c0cdbb1404)  ^d07ade3e
-
-> There are relatively few things that are actionable and relevant at any given time, which makes it easier to ignore everything else. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#8021cfbb-5e37-423a-89e2-0953d29a0527)  ^8021cfbb
-
-> Organizing for action can provide a great sense of clarity because you know that everything you’re keeping has a purpose and aligns with your goals and priorities. Instead of being a hindrance to your productivity, organizing becomes a tool to enhance it. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#70fa6b31-7ba8-4300-bacc-d68501cc47c2)  ^70fa6b31
-
-> **all the information in your life can be categorized into only four categories.**
-> 
-> ![Organize By Actionability](https://proxy-prod.omnivore-image-cache.app/768x620,s13Gz9vp7oTO8oXBuFuTNZ4jr0Dq8mP7T4Y3RdR7JOeY/https://fortelabs.com/wp-content/uploads/2019/02/20-Organize-by-Actionability-1-768x620.png)
-> 
-> * **Projects**: short-term efforts (in your work or personal life) that you take on with a certain goal in mind
-> * **Areas**: Long-term responsibilities you want to manage over time
-> * **Resources**: Topics or interests that may be useful in the future
-> * **Archive**: Inactive items from the other 3 categories [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#547cfd5d-da99-4152-b0ab-fdff7018f0fd)  ^547cfd5d
-
-> I found that the number one roadblock to implementing PARA or any other organizational system is that most people think they have to **sort ALL their existing notes and files into it.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#f848e55c-321c-4bcd-b548-8f4a0f759873)  ^f848e55c
-
-> Here’s what I recommend instead (it will take you less than 60 seconds to do): 
-> 
-> **Move all existing files to a folder titled Archive with today’s date.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#52d6856e-3b86-4b28-b2e6-8653665c1143)  ^52d6856e
-
-> The best thing is that **you’re not deleting anything**. Whenever you need a file, you can always pull it out of your Archive folder. But my guess is that you won’t need as many old notes as you think you do. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#8d018b5d-2c58-4aef-95c8-b5feed332c67)  ^8d018b5d
-
-> ### Ask three questions
-> 
-> ![How to organize](https://proxy-prod.omnivore-image-cache.app/376x549,siOKv2_54nTBuJ0-c598-mbQag27NYwGeJN0ZhskxNb0/https://fortelabs.com/wp-content/uploads/2019/02/23-How-to-Organize%E2%80%94delete.png) [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#5da2cd4a-5bc9-433a-af42-5dc9fcb88f75)  ^5da2cd4a
-
-> **distilling your notes into actionable, bite-sized summaries.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#88a87434-9cb4-4a07-9dd1-a36acae5c615)  ^88a87434
-
-> But if you had just the main points of that book in a 3-point summary, you could quickly remind yourself of what it contains and potentially apply it to something you’re working on. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#93d15d2e-c62d-4a55-af49-f1aace96c6d7)  ^93d15d2e
-
-> ### Design notes for your future self
-> 
-> A powerful mindset for interacting with our notes is to **“design notes with your future self in mind.”** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#ee0959f9-d133-4d49-bd06-e20a4c877966)  ^ee0959f9
-
-> You’re sending packets of knowledge through time to your future self. 
-> 
-> ![](https://proxy-prod.omnivore-image-cache.app/900x497,sb3L1QMWDBiwaeDiW8roRYqGjzGtz7l6pchGWytuQL1I/https://fortelabs.com/wp-content/uploads/2019/02/06-Note-Taking-as-Time-Travel-1024x565.png) [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#09437c5a-6e79-4b33-82db-1b761f7650cb)  ^09437c5a
-
-> **make it just a little easier to find and make use of next time.**
-> 
-> This can include:
-> 
-> * Defining key terms in case we forget what they mean
-> * Inserting placeholders when we leave off so we know where to pick back up
-> * Adding links to related websites, files, or emails that we’re likely to forget over time [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#add3d17b-0153-43b0-af8d-394a496847d2)  ^add3d17b
-
-> Summarize progressively, at different levels of detail [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#5fcaaa22-14c6-4c96-915c-81b02a84f312)  ^5fcaaa22
-
-> A common problem with notes is that they are **too long and dense.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#3c472925-08e0-4d94-8118-60557f66ee36)  ^3c472925
-
-> Executive summaries can help, but often it is a challenge to identify what exactly the main point is in the first place. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#5f0d8b24-433a-48fe-8137-b958e5e36838)  ^5f0d8b24
-
-> [Progressive Summarization](https://fortelabs.com/progressive-summarization-a-practical-technique-for-designing-discoverable-notes-3459b257d3eb/) is a technique that relies on **summarizing a note in multiple stages over time.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#04666105-a5c4-48cf-9647-22d5593dbb68)  ^04666105
-
-> You save only the best excerpts from whatever you’re reading, and then create a summary of those excerpts, and then a summary of that summary, distilling the essence of the content at each stage. These “layers” are like a digital map that can be zoomed in or out to any level of detail you need.
-> 
-> ![Progressive Summarization](https://proxy-prod.omnivore-image-cache.app/900x607,sMq0FMT9ZkBUu7IJWT-LpJRzfAPlx0XzTZb2t2EswnA8/https://fortelabs.com/wp-content/uploads/2019/02/24-Progressive-Summarization-1024x691.png) [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#b54b5b71-a3f6-4c8e-8761-9a5192f4e16c)  ^b54b5b71
-
-> Progressive Summarization allows you to **read the note in different ways for different purposes:** in depth if you want to glean every detail, or at a high level if you just need the main takeaway. This allows you to review a note’s contents in seconds to decide if it’s useful for the task at hand. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#3a254e5d-fac0-48dc-8c56-59a7e371a805)  ^3a254e5d
-
-> **you often have no idea which sources will end up being valuable until much later.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#1415871c-0b60-4f79-b808-a6ececfa6856)  ^1415871c
-
-> **add value to a note every time you touch it**. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#ed3bddcd-b832-4bae-8e14-6d2b1885698a)  ^ed3bddcd
-
-> All of this capturing, organizing, and distilling has one ultimate purpose: **creating tangible results in the real world.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#cecbeb6a-c798-4c43-88da-b271bc2113e3)  ^cecbeb6a
-
-> the true purpose of learning is to turn our knowledge into effective action. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#59e2810b-59a9-4ac3-a08c-50ed71e9b3f4)  ^59e2810b
-
-> You can draw on the sum total of your life experience and learning, not just whatever you can think of in the moment. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#8bd1b701-2751-4f60-9645-5dba53de94fb)  ^8bd1b701
-
-> Don’t just consume information passively – put it to use [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#23825a05-6e0b-46b9-b6b9-3c9d702069a4)  ^23825a05
-
-> A common challenge for people who love to learn is that they constantly force-feed themselves more and more information, but never actually put it to use. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#3e646bc6-20d8-46b7-990a-0f2ca9dc43e5)  ^3e646bc6
-
-> shift as much of our effort as possible from consuming information, to creating new things. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#fbaac2fb-88bf-4f2d-9c6c-b8bcf65a5b89)  ^fbaac2fb
-
-> The things we create – whether they are writing pieces, websites, photographs, videos, or live performances – embody and express the knowledge we’ve gained from personal experience. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#070d1619-b5da-476e-95d3-668b412134d5)  ^070d1619
-
-> Think of your Second Brain not as a warehouse where you simply store your most valuable ideas, but as a factory that helps you turn those ideas into concrete results. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#345b3c84-7bbb-4ab9-8d87-80e65e7bad9d)  ^345b3c84
-
-> Create smaller, reusable units of work [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#be9a04b2-9309-472c-a0e3-5d6d57c29f7c)  ^be9a04b2
-
-> **Intermediate Packets** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#47581baf-6a8d-4824-b5d4-a8a157f77837)  ^47581baf
-
-> But the real payoff comes at the end, **when you create something out of the knowledge you’ve collected and share it with the world.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#4959cb23-0672-43df-a091-c6550a6b6715)  ^4959cb23
-
-> there is no such thing as a finished product. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#a36df3be-7ca1-4f13-9afc-36cdfc21e0c2)  ^a36df3be
-
-> Everything is in flux, everything is a work in progress [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#451e0db9-2971-4d89-b769-55501e71c2fa)  ^451e0db9
-
-> since nothing is ever final, **there is no need to wait to get started** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#0529405d-057d-4723-b9b4-55ec8e2de058)  ^0529405d
-
-> You can publish a simple website now, and slowly add additional pages as you have time. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#90e47762-d3d0-47c6-bc12-afb8b1c6eb17)  ^90e47762
-
-> By consistently sharing your work with others – whether that is your family, friends, colleagues, or externally on social media – **all sorts of benefits will start to materialize.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#0306d841-37af-403a-9e61-c5b6d9e23695)  ^0306d841
-
-> Others will reflect back to you their reactions and comments and appreciation (and occasionally criticism). You’ll find that you are part of a community that shares your interests and values. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#8e579d10-fd45-42f6-b20c-4a713513fceb)  ^8e579d10
-
-> **Accomplishing anything meaningful or important requires working with others** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#01d18836-edf6-4781-80ea-368225d04080)  ^01d18836
-
-> With all your most valuable ideas at your fingertips at all times, you never need to struggle and strain to remember everything you’ve learned. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#acb9322a-e905-49f2-9085-c31bbb4ff852)  ^acb9322a
-
-> **You will start to think in terms of the systems and principles** that you’ve gleaned through your summarizing and reviewing, and see them everywhere. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#5ea76dba-8f5b-44e8-adb6-ef6804d1d331)  ^5ea76dba
-
-> As this self-understanding dawns, you will look around at the notes you’ve collected, and you will realize that **you already have everything you need to get started.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#21d879f7-afb2-478f-a3c2-ae25a5fe7377)  ^21d879f7
-
-> incredible self-discipline and dedication at developing ideas over time, not knowing that you’ve created a system in which insights and connections emerge organically. They’ll [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#d4914211-6d7d-43d3-997a-f2f99d2fbee1)  ^d4914211
-
-> **Building a Second Brain is an integrated set of behaviors for turning incoming information into completed creative projects.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#27d91840-df17-4341-b7f1-b9ddb5ccf204)  ^27d91840
-
-
 --- 
 
 # Full Content: 
@@ -715,3 +537,183 @@ Our free 6-day email course will introduce you to the fundamentals of Building a
 
 * POSTED IN: [Building a Second Brain](https://fortelabs.com/blog/category/topics/building-a-second-brain/), [Education](https://fortelabs.com/blog/category/topics/education/), [Note-taking](https://fortelabs.com/blog/category/topics/note-taking/), [Organizing](https://fortelabs.com/blog/category/topics/organizing/), [Productivity](https://fortelabs.com/blog/category/topics/productivity/), [Workflow](https://fortelabs.com/blog/category/topics/workflow/)  
 发表于：建立第二个大脑、教育、记笔记、组织、生产力、工作流程
+
+---
+
+## Highlights
+
+> 构建第二个大脑：权威的入门指南 --- Building a Second Brain: The Definitive Introductory Guide [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#0fc078b2-3d1e-4e68-a876-4ce9645526d3)  ^0fc078b2
+
+> Our brains just aren’t capable of remembering all these details since they can only store a few thoughts at any one time. Fundamentally, **our brains are for having ideas, not storing them.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#5e5dda04-76bb-4e9c-936a-e1e43646660b)  ^5e5dda04
+
+> a “Second Brain” – **an external, centralized, digital repository for the things you learn** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#bb3a8a82-71b3-45db-8ed5-43c7d19e3976)  ^bb3a8a82
+
+> **an ongoing record of personal discoveries, lessons learned, and actionable insights for any situation**. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#e8480f5f-914d-4582-8de3-38da401d96af)  ^e8480f5f
+
+> spend a significant portion of our careers creating snippets of text, outlines, photos, videos, sketches, diagrams, webpages, notes, or documents. Yet, **without a little extra care to preserve these valuable resources, our precious knowledge remains siloed and scattered across dozens of different locations**. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#ae26bbed-bbca-4352-8292-435af849bc8d)  ^ae26bbed
+
+> free our biological brain to imagine, create, and simply be present. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#120b0b98-f2c3-40fc-a0c1-1887b7fa9fa9)  ^120b0b98
+
+> Create a digital environment [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#cd50105d-1929-430a-95ec-cb44a1a27d17)  ^cd50105d
+
+> **Unlock the full value of the wealth of learning resources** all around you, such as online courses, webinars, books, articles, forums, and podcasts [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#c186a539-df8a-4491-af05-ba940d196a41)  ^c186a539
+
+> **Find anything** you’ve learned, touched, or thought about in the past within seconds [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#62b5b4d8-97be-4b14-af61-36839ac57801)  ^62b5b4d8
+
+> more time doing the best, most creative work you are capable of [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#148ea28b-99ee-4d61-a0ac-698df3029ea0)  ^148ea28b
+
+> Cultivate a collection of valuable knowledge and insights [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#206aa432-d05e-4dd8-8b9c-712ac10cb1ad)  ^206aa432
+
+> **CODE, which stands for Capture, Organize, Distill, and Express.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#7c270ced-1dec-409b-ab89-5f4108d0077f)  ^7c270ced
+
+> is **“capturing” the ideas and insights you think are worth saving** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#7f27d5b8-7cff-49fe-8b56-ee6a2c2c862d)  ^7f27d5b8
+
+> Most of the time we tend to capture information haphazardly – we email ourselves a quick note, brainstorm some ideas in a Word document, or take notes on books we read – but then _don’t do anything with it._ [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#b3e2c644-5ff4-4a18-81d6-a91ba6a1c536)  ^b3e2c644
+
+> **we just need to keep it in a single, centralized place**, such as a digital notetaking app [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#76146333-50bc-4008-899c-330751790a52)  ^76146333
+
+> all of which are saved permanently and synced across all your devices. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#b3712327-e062-4bdd-93c9-ccc882303178)  ^b3712327
+
+> **one place to look when we need creative raw material, supporting research, or a shot of inspiration.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#0878ea82-6ffa-4bd1-b105-cd419bbd3b45)  ^0878ea82
+
+> unless we make conscious, strategic decisions about what we consume, we’ll always be at the mercy of what others want us to see. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#b9e93575-399b-4082-b2e6-0dd382a10317)  ^b9e93575
+
+> The word “capturing” often brings to mind an analytical way of thinking. But analysis is time-consuming and tiring. In deciding which passages, images, theories, or quotes to keep, **don’t make it a highly intellectual, analytical decision.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#61466e14-db39-42b1-a504-3cfcd93653a8)  ^61466e14
+
+> Too often, we just passively react to the information that’s been shoved in front of us by other people and algorithms. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#4e6062ff-d26f-4306-a873-179ef99c28c3)  ^4e6062ff
+
+> **save it so you can revisit it later** (at a time that’s reserved for consumption). [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#28f3c979-be85-4b56-8d20-e4a820b491d8)  ^28f3c979
+
+> something you care about, wonder about [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#cd827918-31a1-4d84-b975-13fa400c4746)  ^cd827918
+
+> **Read-later apps** such as [Readwise’s Reader](https://readwise.io/tiago), [Instapaper](https://www.instapaper.com/), or [Pocket](https://getpocket.com/en/) are designed for this particular purpose. As you begin to collect content, you’ll be able to choose which sources to consume in a deliberate way. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#2c4516bc-2f3d-46b7-bb39-3761a56ac1d3)  ^2c4516bc
+
+> “capture tools,” **designed to make capturing content in digital form easy and even fun.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#fc7dc447-bf25-455e-b2c9-7afaf280f6eb)  ^fc7dc447
+
+> Ebook apps [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#9d96c816-6b35-40c8-9475-0300fa52be44)  ^9d96c816
+
+> **Read later apps:** Save content you find online for later consumption and export your highlights into your notetaking app [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#f57de5bc-5b04-4b4d-9766-01903618f514)  ^f57de5bc
+
+> **Basic notes apps:** Capture snippets of text on the fly with these preinstalled apps on your mobile device [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#f1516921-6f4f-4f41-9a87-0212609568a1)  ^f1516921
+
+> **Audio/voice transcription apps:** Create text transcripts from spoken words [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#500f0320-7c2f-4574-907d-708c227be560)  ^500f0320
+
+> **Web clipper apps:** Save parts of web pages (often included as a built-in feature of notetaking apps) [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#f41b874f-2583-415a-9f73-3ef5a3b3a444)  ^f41b874f
+
+> In any case, **the act of capturing takes seconds**—to hit share, export, or save—and voilà, you’ve preserved the best parts of whatever you’re consuming in your Second Brain. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#e01c19d3-d9fb-4f94-84cb-090cfd164021)  ^e01c19d3
+
+> Since the software landscape is constantly changing, we’ve created a [Resource Guide](https://www.buildingasecondbrain.com/resources) with updated recommendations of the best capture tools, both free and paid, and for a variety of devices and operating systems. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#21bc1a0c-b71d-4a30-866c-9494b50b2f2d)  ^21bc1a0c
+
+> The best way to organize your notes is to focus on your active projects. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#8863a1d4-db2d-4fc2-abe2-203c259bd5a2)  ^8863a1d4
+
+> focussing on taking action, will also **help you combat information overwhelm**. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#d07ade3e-51b0-4ade-b725-a0c0cdbb1404)  ^d07ade3e
+
+> There are relatively few things that are actionable and relevant at any given time, which makes it easier to ignore everything else. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#8021cfbb-5e37-423a-89e2-0953d29a0527)  ^8021cfbb
+
+> Organizing for action can provide a great sense of clarity because you know that everything you’re keeping has a purpose and aligns with your goals and priorities. Instead of being a hindrance to your productivity, organizing becomes a tool to enhance it. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#70fa6b31-7ba8-4300-bacc-d68501cc47c2)  ^70fa6b31
+
+> **all the information in your life can be categorized into only four categories.**
+> 
+> ![Organize By Actionability](https://proxy-prod.omnivore-image-cache.app/768x620,s13Gz9vp7oTO8oXBuFuTNZ4jr0Dq8mP7T4Y3RdR7JOeY/https://fortelabs.com/wp-content/uploads/2019/02/20-Organize-by-Actionability-1-768x620.png)
+> 
+> * **Projects**: short-term efforts (in your work or personal life) that you take on with a certain goal in mind
+> * **Areas**: Long-term responsibilities you want to manage over time
+> * **Resources**: Topics or interests that may be useful in the future
+> * **Archive**: Inactive items from the other 3 categories [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#547cfd5d-da99-4152-b0ab-fdff7018f0fd)  ^547cfd5d
+
+> I found that the number one roadblock to implementing PARA or any other organizational system is that most people think they have to **sort ALL their existing notes and files into it.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#f848e55c-321c-4bcd-b548-8f4a0f759873)  ^f848e55c
+
+> Here’s what I recommend instead (it will take you less than 60 seconds to do): 
+> 
+> **Move all existing files to a folder titled Archive with today’s date.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#52d6856e-3b86-4b28-b2e6-8653665c1143)  ^52d6856e
+
+> The best thing is that **you’re not deleting anything**. Whenever you need a file, you can always pull it out of your Archive folder. But my guess is that you won’t need as many old notes as you think you do. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#8d018b5d-2c58-4aef-95c8-b5feed332c67)  ^8d018b5d
+
+> ### Ask three questions
+> 
+> ![How to organize](https://proxy-prod.omnivore-image-cache.app/376x549,siOKv2_54nTBuJ0-c598-mbQag27NYwGeJN0ZhskxNb0/https://fortelabs.com/wp-content/uploads/2019/02/23-How-to-Organize%E2%80%94delete.png) [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#5da2cd4a-5bc9-433a-af42-5dc9fcb88f75)  ^5da2cd4a
+
+> **distilling your notes into actionable, bite-sized summaries.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#88a87434-9cb4-4a07-9dd1-a36acae5c615)  ^88a87434
+
+> But if you had just the main points of that book in a 3-point summary, you could quickly remind yourself of what it contains and potentially apply it to something you’re working on. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#93d15d2e-c62d-4a55-af49-f1aace96c6d7)  ^93d15d2e
+
+> ### Design notes for your future self
+> 
+> A powerful mindset for interacting with our notes is to **“design notes with your future self in mind.”** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#ee0959f9-d133-4d49-bd06-e20a4c877966)  ^ee0959f9
+
+> You’re sending packets of knowledge through time to your future self. 
+> 
+> ![](https://proxy-prod.omnivore-image-cache.app/900x497,sb3L1QMWDBiwaeDiW8roRYqGjzGtz7l6pchGWytuQL1I/https://fortelabs.com/wp-content/uploads/2019/02/06-Note-Taking-as-Time-Travel-1024x565.png) [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#09437c5a-6e79-4b33-82db-1b761f7650cb)  ^09437c5a
+
+> **make it just a little easier to find and make use of next time.**
+> 
+> This can include:
+> 
+> * Defining key terms in case we forget what they mean
+> * Inserting placeholders when we leave off so we know where to pick back up
+> * Adding links to related websites, files, or emails that we’re likely to forget over time [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#add3d17b-0153-43b0-af8d-394a496847d2)  ^add3d17b
+
+> Summarize progressively, at different levels of detail [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#5fcaaa22-14c6-4c96-915c-81b02a84f312)  ^5fcaaa22
+
+> A common problem with notes is that they are **too long and dense.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#3c472925-08e0-4d94-8118-60557f66ee36)  ^3c472925
+
+> Executive summaries can help, but often it is a challenge to identify what exactly the main point is in the first place. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#5f0d8b24-433a-48fe-8137-b958e5e36838)  ^5f0d8b24
+
+> [Progressive Summarization](https://fortelabs.com/progressive-summarization-a-practical-technique-for-designing-discoverable-notes-3459b257d3eb/) is a technique that relies on **summarizing a note in multiple stages over time.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#04666105-a5c4-48cf-9647-22d5593dbb68)  ^04666105
+
+> You save only the best excerpts from whatever you’re reading, and then create a summary of those excerpts, and then a summary of that summary, distilling the essence of the content at each stage. These “layers” are like a digital map that can be zoomed in or out to any level of detail you need.
+> 
+> ![Progressive Summarization](https://proxy-prod.omnivore-image-cache.app/900x607,sMq0FMT9ZkBUu7IJWT-LpJRzfAPlx0XzTZb2t2EswnA8/https://fortelabs.com/wp-content/uploads/2019/02/24-Progressive-Summarization-1024x691.png) [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#b54b5b71-a3f6-4c8e-8761-9a5192f4e16c)  ^b54b5b71
+
+> Progressive Summarization allows you to **read the note in different ways for different purposes:** in depth if you want to glean every detail, or at a high level if you just need the main takeaway. This allows you to review a note’s contents in seconds to decide if it’s useful for the task at hand. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#3a254e5d-fac0-48dc-8c56-59a7e371a805)  ^3a254e5d
+
+> **you often have no idea which sources will end up being valuable until much later.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#1415871c-0b60-4f79-b808-a6ececfa6856)  ^1415871c
+
+> **add value to a note every time you touch it**. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#ed3bddcd-b832-4bae-8e14-6d2b1885698a)  ^ed3bddcd
+
+> All of this capturing, organizing, and distilling has one ultimate purpose: **creating tangible results in the real world.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#cecbeb6a-c798-4c43-88da-b271bc2113e3)  ^cecbeb6a
+
+> the true purpose of learning is to turn our knowledge into effective action. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#59e2810b-59a9-4ac3-a08c-50ed71e9b3f4)  ^59e2810b
+
+> You can draw on the sum total of your life experience and learning, not just whatever you can think of in the moment. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#8bd1b701-2751-4f60-9645-5dba53de94fb)  ^8bd1b701
+
+> Don’t just consume information passively – put it to use [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#23825a05-6e0b-46b9-b6b9-3c9d702069a4)  ^23825a05
+
+> A common challenge for people who love to learn is that they constantly force-feed themselves more and more information, but never actually put it to use. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#3e646bc6-20d8-46b7-990a-0f2ca9dc43e5)  ^3e646bc6
+
+> shift as much of our effort as possible from consuming information, to creating new things. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#fbaac2fb-88bf-4f2d-9c6c-b8bcf65a5b89)  ^fbaac2fb
+
+> The things we create – whether they are writing pieces, websites, photographs, videos, or live performances – embody and express the knowledge we’ve gained from personal experience. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#070d1619-b5da-476e-95d3-668b412134d5)  ^070d1619
+
+> Think of your Second Brain not as a warehouse where you simply store your most valuable ideas, but as a factory that helps you turn those ideas into concrete results. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#345b3c84-7bbb-4ab9-8d87-80e65e7bad9d)  ^345b3c84
+
+> Create smaller, reusable units of work [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#be9a04b2-9309-472c-a0e3-5d6d57c29f7c)  ^be9a04b2
+
+> **Intermediate Packets** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#47581baf-6a8d-4824-b5d4-a8a157f77837)  ^47581baf
+
+> But the real payoff comes at the end, **when you create something out of the knowledge you’ve collected and share it with the world.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#4959cb23-0672-43df-a091-c6550a6b6715)  ^4959cb23
+
+> there is no such thing as a finished product. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#a36df3be-7ca1-4f13-9afc-36cdfc21e0c2)  ^a36df3be
+
+> Everything is in flux, everything is a work in progress [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#451e0db9-2971-4d89-b769-55501e71c2fa)  ^451e0db9
+
+> since nothing is ever final, **there is no need to wait to get started** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#0529405d-057d-4723-b9b4-55ec8e2de058)  ^0529405d
+
+> You can publish a simple website now, and slowly add additional pages as you have time. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#90e47762-d3d0-47c6-bc12-afb8b1c6eb17)  ^90e47762
+
+> By consistently sharing your work with others – whether that is your family, friends, colleagues, or externally on social media – **all sorts of benefits will start to materialize.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#0306d841-37af-403a-9e61-c5b6d9e23695)  ^0306d841
+
+> Others will reflect back to you their reactions and comments and appreciation (and occasionally criticism). You’ll find that you are part of a community that shares your interests and values. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#8e579d10-fd45-42f6-b20c-4a713513fceb)  ^8e579d10
+
+> **Accomplishing anything meaningful or important requires working with others** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#01d18836-edf6-4781-80ea-368225d04080)  ^01d18836
+
+> With all your most valuable ideas at your fingertips at all times, you never need to struggle and strain to remember everything you’ve learned. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#acb9322a-e905-49f2-9085-c31bbb4ff852)  ^acb9322a
+
+> **You will start to think in terms of the systems and principles** that you’ve gleaned through your summarizing and reviewing, and see them everywhere. [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#5ea76dba-8f5b-44e8-adb6-ef6804d1d331)  ^5ea76dba
+
+> As this self-understanding dawns, you will look around at the notes you’ve collected, and you will realize that **you already have everything you need to get started.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#21d879f7-afb2-478f-a3c2-ae25a5fe7377)  ^21d879f7
+
+> incredible self-discipline and dedication at developing ideas over time, not knowing that you’ve created a system in which insights and connections emerge organically. They’ll [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#d4914211-6d7d-43d3-997a-f2f99d2fbee1)  ^d4914211
+
+> **Building a Second Brain is an integrated set of behaviors for turning incoming information into completed creative projects.** [⤴️](https://omnivore.app/me/building-a-second-brain-the-definitive-introductory-guide-18e59a26be3#27d91840-df17-4341-b7f1-b9ddb5ccf204)  ^27d91840
+

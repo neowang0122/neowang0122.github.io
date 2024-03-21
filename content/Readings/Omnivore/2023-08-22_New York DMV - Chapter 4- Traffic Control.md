@@ -17,13 +17,6 @@ date_saved: 2023-08-22 12:00:08
 
 date_published: 2013-11-25 12:29:00
 
-## Highlights
-
-> **Diamond Symbol:** This symbol indicates reserved lanes for buses, HOV (High­ Occupancy Vehicles) like car-pools and van-pools, bicycles or other special vehicles. You cannot enter and use these lanes unless your vehicle complies with the occupancy or other requirements indicated by signs for the times the special conditions are in effect. [⤴️](https://omnivore.app/me/new-york-dmv-chapter-4-traffic-control-18a1df98df5#ab2dd6a5-1767-46af-a08a-01b35296e3ba)  ^ab2dd6a5
-
-> Directions given by traffic officers take precedence over signs, signals or pavement markings. [⤴️](https://omnivore.app/me/new-york-dmv-chapter-4-traffic-control-18a1df98df5#c95db2f1-1f11-488e-a36e-70783b4a8e20)  ^c95db2f1
-
-
 --- 
 
 # Full Content: 
@@ -242,3 +235,12 @@ Before you move on to Chapter 5, make sure you can identify the signs in this ch
 **End of Chapter 4: ![check mark](https://proxy-prod.omnivore-image-cache.app/14x13,s3P9jERbSxI_uvepU_spDinb6SVy8wN5Jie41q_-7Xco/https://dmv.ny.gov/sites/default/files/styles/panopoly_image_original/public/correct.png?itok=YaJbHGhq)** [Chapter 4 Quiz](https://dmv.ny.gov/quiz/chapter-4 "Take the quiz for Chapter 4...")
 
 [< Chapter 3](https://dmv.ny.gov/about-dmv/chapter-3-owning-vehicle)   **|** [Contents](https://dmv.ny.gov/driver-license/nys-dmv-drivers-manual-online-drivers-manual-and-study-guide "Driver's Manual Table of Contents") **|** [Chapter 5 >](https://dmv.ny.gov/about-dmv/chapter-5-intersections-and-turns "Chapter 5 - Intersections and Turns") 
+
+---
+
+## Highlights
+
+> **Diamond Symbol:** This symbol indicates reserved lanes for buses, HOV (High­ Occupancy Vehicles) like car-pools and van-pools, bicycles or other special vehicles. You cannot enter and use these lanes unless your vehicle complies with the occupancy or other requirements indicated by signs for the times the special conditions are in effect. [⤴️](https://omnivore.app/me/new-york-dmv-chapter-4-traffic-control-18a1df98df5#ab2dd6a5-1767-46af-a08a-01b35296e3ba)  ^ab2dd6a5
+
+> Directions given by traffic officers take precedence over signs, signals or pavement markings. [⤴️](https://omnivore.app/me/new-york-dmv-chapter-4-traffic-control-18a1df98df5#c95db2f1-1f11-488e-a36e-70783b4a8e20)  ^c95db2f1
+

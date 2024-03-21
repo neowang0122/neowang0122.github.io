@@ -19,31 +19,6 @@ date_saved: 2023-12-26 03:59:20
 
 date_published: 2023-12-26 03:59:20
 
-## Highlights
-
-> 小鱼短信的功能包括：
-> 
-> * 过滤垃圾短信
-> * 过滤不重要的短信（天气预报、公提醒、商业公司祝福等）
-> * 过滤境外短信
-> * 交易短信分组
-> * 防短信轰炸（过滤所有短信，仅被短信轰炸时使用） [⤴️](https://omnivore.app/me/core-ml-i-phone-18ca61fdd57#44be39e1-01a7-40ba-aabb-b08dfeb42989)  ^44be39e1
-
-> 小鱼短信的功能包括：
-> 
-> * 过滤垃圾短信
-> * 过滤不重要的短信（天气预报、公提醒、商业公司祝福等）
-> * 过滤境外短信
-> * 交易短信分组
-> * 防短信轰炸（过滤所有短信，仅被短信轰炸时使用）
-> 
-> 所有的短信过滤，均会进入垃圾短信分类，不会被删除。
-> 
-> 另外，还支持设置**短信号码**黑名单、白名单，以及**短信关键词**的黑名单、白名单。可自定义**交易短信**的关键词，比如工资、余额等。 [⤴️](https://omnivore.app/me/core-ml-i-phone-18ca61fdd57#1f69f147-6cda-44f9-83c6-0d5955199471)  ^1f69f147
-
-> 更新模型之后，将在你的手机上运行，所以无需担心短信泄漏的问题。可不提供联网权限（但无法更新模型，不过可以重装解决？） [⤴️](https://omnivore.app/me/core-ml-i-phone-18ca61fdd57#a3ab53b8-dee9-4fa8-9713-7b28ddf7c29a)  ^a3ab53b8
-
-
 --- 
 
 # Full Content: 
@@ -90,3 +65,30 @@ date_published: 2023-12-26 03:59:20
 * [ ![Checky - 今天，你查看了几次手机？[iPhone/Android] 3](https://proxy-prod.omnivore-image-cache.app/115x115,s3tL_63rfGI-7ONv__RvEs0yJN1abTMhPNOusk1FBtxo/https://www.appinn.com/wp-content/uploads/2014-09-25-2-57-45.pngo_-115x115.png "Checky - 今天，你查看了几次手机？[iPhone/Android] 4") ](https://www.appinn.com/checky-for-iphone-and-android/ "Checky – 今天，你查看了几次手机？[iPhone/Android]")
 * [ ![独立 - 中国独立 iOS 和 macOS 开发者图鉴 4](https://proxy-prod.omnivore-image-cache.app/115x115,shpl44V90mJU2NYhZGlvGnaVvjozfJfjREYxFo1z1e5o/https://www.appinn.com/wp-content/uploads/2018-09-051-55-45.pngo_-115x115.png "独立 - 中国独立 iOS 和 macOS 开发者图鉴 5") ](https://www.appinn.com/chinese-indie-hackers/ "独立 – 中国独立 iOS 和 macOS 开发者图鉴")
 * [ ![2015 年度 Play 最佳游戏.第二部分[Android] 5](https://proxy-prod.omnivore-image-cache.app/115x115,svD4-x_sI7OcugMgBnqxNPxVEUTZl-IO-E_0ydxNlBc8/https://www.appinn.com/wp-content/uploads/bestof2015-h20-jt-xvertical-global-20151125-3840x2160-32146c-115x115.jpg "2015 年度 Play 最佳游戏.第二部分[Android] 6") ](https://www.appinn.com/bestof2015-play-games-part2/ "2015 年度 Play 最佳游戏.第二部分[Android]")
+
+---
+
+## Highlights
+
+> 小鱼短信的功能包括：
+> 
+> * 过滤垃圾短信
+> * 过滤不重要的短信（天气预报、公提醒、商业公司祝福等）
+> * 过滤境外短信
+> * 交易短信分组
+> * 防短信轰炸（过滤所有短信，仅被短信轰炸时使用） [⤴️](https://omnivore.app/me/core-ml-i-phone-18ca61fdd57#44be39e1-01a7-40ba-aabb-b08dfeb42989)  ^44be39e1
+
+> 小鱼短信的功能包括：
+> 
+> * 过滤垃圾短信
+> * 过滤不重要的短信（天气预报、公提醒、商业公司祝福等）
+> * 过滤境外短信
+> * 交易短信分组
+> * 防短信轰炸（过滤所有短信，仅被短信轰炸时使用）
+> 
+> 所有的短信过滤，均会进入垃圾短信分类，不会被删除。
+> 
+> 另外，还支持设置**短信号码**黑名单、白名单，以及**短信关键词**的黑名单、白名单。可自定义**交易短信**的关键词，比如工资、余额等。 [⤴️](https://omnivore.app/me/core-ml-i-phone-18ca61fdd57#1f69f147-6cda-44f9-83c6-0d5955199471)  ^1f69f147
+
+> 更新模型之后，将在你的手机上运行，所以无需担心短信泄漏的问题。可不提供联网权限（但无法更新模型，不过可以重装解决？） [⤴️](https://omnivore.app/me/core-ml-i-phone-18ca61fdd57#a3ab53b8-dee9-4fa8-9713-7b28ddf7c29a)  ^a3ab53b8
+

@@ -15,15 +15,6 @@ date_saved: 2024-03-15 14:37:37
 date_saved: 2024-03-15 14:37:37
 
 
-## Highlights
-
-> ## [Starting from scratch](#starting-from-scratch)
-> 
-> If the repository does not have any history, or your initial commit was over 2 GB on its own and you don't mind resetting the Git history, you can also start from scratch.
-> 
-> 1. On your local copy, delete the hidden `.git` folder to remove all the previous Git history and convert it back into a normal folder full of files. [⤴️](https://omnivore.app/me/troubleshooting-the-2-gb-push-limit-git-hub-docs-18e4367c3c8#4e3d182b-a4d0-41a5-b80a-39a916d94c19)  ^4e3d182b
-
-
 --- 
 
 # Full Content: 
@@ -83,3 +74,14 @@ If you do not already use Git LFS, you can skip this step, or you can set up the
 5. Move batches of files that are smaller than 2 GB from the old folder to the new folder. After each batch is moved, create a commit and push it before moving the next batch. You can take a cautious approach and stick to around 2 GB. Alternatively, if you have a folder with files meant for Git LFS, you can ignore those files when considering the 2 GB limit per batch.
 
 Once the old folder is empty, the GitHub repository should contain everything. If you are using Git LFS, all files meant for Git LFS should be pushed to Git LFS storage.
+
+---
+
+## Highlights
+
+> ## [Starting from scratch](#starting-from-scratch)
+> 
+> If the repository does not have any history, or your initial commit was over 2 GB on its own and you don't mind resetting the Git history, you can also start from scratch.
+> 
+> 1. On your local copy, delete the hidden `.git` folder to remove all the previous Git history and convert it back into a normal folder full of files. [⤴️](https://omnivore.app/me/troubleshooting-the-2-gb-push-limit-git-hub-docs-18e4367c3c8#4e3d182b-a4d0-41a5-b80a-39a916d94c19)  ^4e3d182b
+

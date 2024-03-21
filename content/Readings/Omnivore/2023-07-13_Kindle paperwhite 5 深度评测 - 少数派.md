@@ -17,15 +17,6 @@ date_saved: 2023-07-13 06:01:13
 date_saved: 2023-07-13 06:01:13
 
 
-## Highlights
-
-> ### 优秀的屏幕
-> 
-> Kindle Paperwhite 5采用E INK Carta 1200 显示屏，分辨率为 1236 x 1648 和 **300 PPI**。相比E INK Carta 1000显示屏，对比度更高，翻页速度提高20%，性能提高50%，为文字和图片带来更好的显示效果，同时实现了翻页动画效果。paperwhite 5 的6.8寸屏幕接近kindle oasis 3 的7寸 [⤴️](https://omnivore.app/me/kindle-paperwhite-5-1894e0212fd#32a0b53e-5747-4d5b-a1da-5b1b392f5ff5)  ^32a0b53e
-
-> 6-7寸的屏幕可以满足基本阅读需求，提供了良好的便携性，很容易放进空袋里在通勤路上看。paperwhite 5 和paperwhite 4一样屏幕和边框齐平，不用担心灰尘会积在缝隙里难以清洁，同时这带来了良好的防水性能（防水等级为 IPX8），脏了直接在水龙头下冲洗就好，非常方便。 [⤴️](https://omnivore.app/me/kindle-paperwhite-5-1894e0212fd#48c9cd0a-a61d-48d4-a80e-8d10c70e8a44)  ^48c9cd0a
-
-
 --- 
 
 # Full Content: 
@@ -163,3 +154,14 @@ kindle电子书店的很多书还有一个比较好的地方是有X-Ray和生词
 ## 总结
 
 Kindle Paperwhite 5是一款优秀的电子书阅读器，软硬件协调带来的是优秀的阅读体验。6.8寸的大屏幕可以显示更多文字，我经常在睡前摘下眼镜使用大字体阅读，同样带来不错的体验。kindle 作为小说阅读器和漫画阅读器非常合适，但是要是用来阅读pdf和一些需要反复翻阅的专业书籍就不太合适了。
+
+---
+
+## Highlights
+
+> ### 优秀的屏幕
+> 
+> Kindle Paperwhite 5采用E INK Carta 1200 显示屏，分辨率为 1236 x 1648 和 **300 PPI**。相比E INK Carta 1000显示屏，对比度更高，翻页速度提高20%，性能提高50%，为文字和图片带来更好的显示效果，同时实现了翻页动画效果。paperwhite 5 的6.8寸屏幕接近kindle oasis 3 的7寸 [⤴️](https://omnivore.app/me/kindle-paperwhite-5-1894e0212fd#32a0b53e-5747-4d5b-a1da-5b1b392f5ff5)  ^32a0b53e
+
+> 6-7寸的屏幕可以满足基本阅读需求，提供了良好的便携性，很容易放进空袋里在通勤路上看。paperwhite 5 和paperwhite 4一样屏幕和边框齐平，不用担心灰尘会积在缝隙里难以清洁，同时这带来了良好的防水性能（防水等级为 IPX8），脏了直接在水龙头下冲洗就好，非常方便。 [⤴️](https://omnivore.app/me/kindle-paperwhite-5-1894e0212fd#48c9cd0a-a61d-48d4-a80e-8d10c70e8a44)  ^48c9cd0a
+

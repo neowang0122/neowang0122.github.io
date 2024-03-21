@@ -15,11 +15,6 @@ date_saved: 2024-03-19 22:57:28
 date_saved: 2024-03-19 22:57:28
 
 
-## Highlights
-
-> go View>Show Toolbar [⤴️](https://omnivore.app/me/how-do-i-restore-missing-finder-sidebar-apple-community-18e59cad306#96f2d400-f3d6-4b92-b21c-d683c3cf4a6b)  ^96f2d400
-
-
 --- 
 
 # Full Content: 
@@ -57,3 +52,10 @@ Then once the toolbar is enabled, the view/hide sidebar toggle becomes activated
 Good Luck! Let me know if that fixed it. 
 
 How do I restore missing Finder sidebar? 
+
+---
+
+## Highlights
+
+> go View>Show Toolbar [⤴️](https://omnivore.app/me/how-do-i-restore-missing-finder-sidebar-apple-community-18e59cad306#96f2d400-f3d6-4b92-b21c-d683c3cf4a6b)  ^96f2d400
+

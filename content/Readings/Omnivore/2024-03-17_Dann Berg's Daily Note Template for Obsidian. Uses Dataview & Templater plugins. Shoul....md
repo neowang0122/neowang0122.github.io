@@ -17,11 +17,6 @@ date_saved: 2024-03-17 13:38:23
 date_saved: 2024-03-17 13:38:23
 
 
-## Highlights
-
-> Dann Berg's Daily Note Template for Obsidian. Uses Dataview & Templater plugins. Should be saved as a Markdown file in Obsidian. Read the full tour: https://dannb.org/blog/2022/obsidian-daily-note-template/ [⤴️](https://omnivore.app/me/dann-berg-s-daily-note-template-for-obsidian-uses-dataview-templ-18e4d7e3f16#1c07efb1-f3c4-43ac-a6d9-63b1e153cd06)  ^1c07efb1
-
-
 --- 
 
 # Full Content: 
@@ -66,3 +61,10 @@ date_saved: 2024-03-17 13:38:23
 | \`\`\`dataview                                                                                                                           |                                                                                                                                     |
 | List FROM "" WHERE file.mday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.mtime asc                                                 |                                                                                                                                     |
 | \`\`\`                                                                                                                                   |                                                                                                                                     |
+
+---
+
+## Highlights
+
+> Dann Berg's Daily Note Template for Obsidian. Uses Dataview & Templater plugins. Should be saved as a Markdown file in Obsidian. Read the full tour: https://dannb.org/blog/2022/obsidian-daily-note-template/ [⤴️](https://omnivore.app/me/dann-berg-s-daily-note-template-for-obsidian-uses-dataview-templ-18e4d7e3f16#1c07efb1-f3c4-43ac-a6d9-63b1e153cd06)  ^1c07efb1
+

@@ -19,11 +19,6 @@ date_saved: 2023-12-21 22:02:45
 
 date_published: 2023-12-21 22:02:45
 
-## Highlights
-
-> **VidHub** 在 App Store 的介绍页面上，副标题是：高清影片视频播放器，直连阿里云盘、百度网盘，管理家庭影院库，播放器直连播放多种网盘和Nas上的影片。 [⤴️](https://omnivore.app/me/infuse-vid-hub-18c8fcc5654#53578376-27a1-4f4b-ada2-951391504df7)  ^53578376
-
-
 --- 
 
 # Full Content: 
@@ -102,3 +97,10 @@ VidHub 还有一个优势，就是可以 Emby 直连。网络上有很多 Emby �
 * [App Store](https://apps.apple.com/cn/app/vidhub-%E9%AB%98%E6%B8%85%E5%BD%B1%E7%89%87%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8-%E7%9B%B4%E8%BF%9E%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98/id1659622164)
 
 目前 VidHub 免费使用，开发者更新频繁，有什么功能需求可以留言，青小蛙帮忙转发给开发者。
+
+---
+
+## Highlights
+
+> **VidHub** 在 App Store 的介绍页面上，副标题是：高清影片视频播放器，直连阿里云盘、百度网盘，管理家庭影院库，播放器直连播放多种网盘和Nas上的影片。 [⤴️](https://omnivore.app/me/infuse-vid-hub-18c8fcc5654#53578376-27a1-4f4b-ada2-951391504df7)  ^53578376
+

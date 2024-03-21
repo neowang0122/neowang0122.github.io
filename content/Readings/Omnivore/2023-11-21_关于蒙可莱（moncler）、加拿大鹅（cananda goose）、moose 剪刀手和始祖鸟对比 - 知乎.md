@@ -19,35 +19,6 @@ date_saved: 2023-11-21 03:38:59
 
 date_published: 2020-02-11 07:37:00
 
-## Highlights
-
-> 蒙可莱、蒙口、moncler，是欧洲品牌，记忆中好像是意大利的?主打“时尚、轻柔、保暖”填充鹅绒，价格最高 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#8dbced13-6b38-4ce9-a591-88ca69baa29f)  ^8dbced13
-
-> 个人不喜欢亮面，容易脏，其次就是价格 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#7470d901-6ec1-4ad1-a5df-bebd580c1e95)  ^7470d901
-
-> moose剪刀手，加拿大品牌，和大鹅一样，填充物也是加拿大灰头雁，毛领据说是狐狸毛 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#f2ec7266-ce02-47b8-8a1c-a6519aa349b4)  ^f2ec7266
-
-> 衣服真是好看，意境很美。价格比鹅略便宜一点点，但是一个明显的缺点是比鹅要重。相比于鹅穿的人较少，肯定懂得人也较少，不会显得那么俗，面子还是要的。
-> 
-> 加拿大鹅、cananda goose，填充物不是鹅绒 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#5f16892a-ad7c-4e37-b118-a7cf64f3ebf0)  ^5f16892a
-
-> 买鹅绒还是蒙可莱，高端品牌1万往下走的价格只能是加拿大灰头雁 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#3e8e6f58-d6a4-48cd-b798-fbc30939b3f0)  ^3e8e6f58
-
-> 北京冬天，我上班早，经常6点之前就出发了，里面穿一秋衣，外面套一鹅，简单暖和，我相信其他几个品牌也有同样的功效，毕竟到了这个价位，保暖肯定是没得说的。保暖是一方面，另外一方面就是让你进入温暖的速度 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#c92d18f8-1734-4ea1-903d-c7d5d8c26859)  ^c92d18f8
-
-> 而大鹅穿上就立马见效，不超过半分钟，非常暖和 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#4765e216-4e40-4843-a3a5-8a373ec613a1)  ^4765e216
-
-> 大鹅也沉，也大，穿它开车比较挤，开车前，需要先把衣服脱了放在车后排座位，当然这个操作是下班穿着毛衣 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#cf89b775-d40f-424c-9dbd-5c34ff20aa08)  ^cf89b775
-
-> 鹅不怕水，耐造，这点非常关键，大冬天，穿一篮球服，外面套一个鹅，奔进室内馆，这酸爽，打球的男生都懂，鹅往旁边一放，有土了，拍拍就掉 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#0c19afe5-14a4-407c-8812-4f43149b7daf)  ^0c19afe5
-
-> 然后再加45到90可以干洗一次，如果你足够爱惜，两年洗一次就够 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#8d48b5d9-50dc-4adb-b8d0-378a98c27c9b)  ^8d48b5d9
-
-> 总结一下 ，鹅，外观单一一些，适合高大男生，和蒙可莱正好相对，走粗犷路线的同学，暖和使用，两年一洗，耐脏，维修简单，终身保修，时间长点，需要一个月左右，价格亲民 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#803f0b84-f853-4cdf-a6ff-4267daadc4c9)  ^803f0b84
-
-> 做工确实是细，也真手工，时间长了你会发现不同部位的线头长短不一，正常。还有一个，细节很到位，比如手腕处会有一个松紧领，护住手腕不进风，很舒服，口袋很大且是粘贴的那种，很方便，男生手本来就大，那东西方便且不容易掉，拉链细节也不错，不会出现其他各种羽绒服卡住，或卡在内衬上甚至夹破内衬，露出羽毛的情况 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#29a9a615-38fe-447b-80c1-1aaf3b964636)  ^29a9a615
-
-
 --- 
 
 # Full Content: 
@@ -99,3 +70,34 @@ date_published: 2020-02-11 07:37:00
 关于蒙可莱（moncler）、加拿大鹅（cananda goose）、moose 剪刀手和始祖鸟对比
 
 Baymax 的文章 74 赞同
+
+---
+
+## Highlights
+
+> 蒙可莱、蒙口、moncler，是欧洲品牌，记忆中好像是意大利的?主打“时尚、轻柔、保暖”填充鹅绒，价格最高 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#8dbced13-6b38-4ce9-a591-88ca69baa29f)  ^8dbced13
+
+> 个人不喜欢亮面，容易脏，其次就是价格 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#7470d901-6ec1-4ad1-a5df-bebd580c1e95)  ^7470d901
+
+> moose剪刀手，加拿大品牌，和大鹅一样，填充物也是加拿大灰头雁，毛领据说是狐狸毛 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#f2ec7266-ce02-47b8-8a1c-a6519aa349b4)  ^f2ec7266
+
+> 衣服真是好看，意境很美。价格比鹅略便宜一点点，但是一个明显的缺点是比鹅要重。相比于鹅穿的人较少，肯定懂得人也较少，不会显得那么俗，面子还是要的。
+> 
+> 加拿大鹅、cananda goose，填充物不是鹅绒 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#5f16892a-ad7c-4e37-b118-a7cf64f3ebf0)  ^5f16892a
+
+> 买鹅绒还是蒙可莱，高端品牌1万往下走的价格只能是加拿大灰头雁 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#3e8e6f58-d6a4-48cd-b798-fbc30939b3f0)  ^3e8e6f58
+
+> 北京冬天，我上班早，经常6点之前就出发了，里面穿一秋衣，外面套一鹅，简单暖和，我相信其他几个品牌也有同样的功效，毕竟到了这个价位，保暖肯定是没得说的。保暖是一方面，另外一方面就是让你进入温暖的速度 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#c92d18f8-1734-4ea1-903d-c7d5d8c26859)  ^c92d18f8
+
+> 而大鹅穿上就立马见效，不超过半分钟，非常暖和 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#4765e216-4e40-4843-a3a5-8a373ec613a1)  ^4765e216
+
+> 大鹅也沉，也大，穿它开车比较挤，开车前，需要先把衣服脱了放在车后排座位，当然这个操作是下班穿着毛衣 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#cf89b775-d40f-424c-9dbd-5c34ff20aa08)  ^cf89b775
+
+> 鹅不怕水，耐造，这点非常关键，大冬天，穿一篮球服，外面套一个鹅，奔进室内馆，这酸爽，打球的男生都懂，鹅往旁边一放，有土了，拍拍就掉 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#0c19afe5-14a4-407c-8812-4f43149b7daf)  ^0c19afe5
+
+> 然后再加45到90可以干洗一次，如果你足够爱惜，两年洗一次就够 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#8d48b5d9-50dc-4adb-b8d0-378a98c27c9b)  ^8d48b5d9
+
+> 总结一下 ，鹅，外观单一一些，适合高大男生，和蒙可莱正好相对，走粗犷路线的同学，暖和使用，两年一洗，耐脏，维修简单，终身保修，时间长点，需要一个月左右，价格亲民 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#803f0b84-f853-4cdf-a6ff-4267daadc4c9)  ^803f0b84
+
+> 做工确实是细，也真手工，时间长了你会发现不同部位的线头长短不一，正常。还有一个，细节很到位，比如手腕处会有一个松紧领，护住手腕不进风，很舒服，口袋很大且是粘贴的那种，很方便，男生手本来就大，那东西方便且不容易掉，拉链细节也不错，不会出现其他各种羽绒服卡住，或卡在内衬上甚至夹破内衬，露出羽毛的情况 [⤴️](https://omnivore.app/me/moncler-cananda-goose-moose-18bf1085914#29a9a615-38fe-447b-80c1-1aaf3b964636)  ^29a9a615
+

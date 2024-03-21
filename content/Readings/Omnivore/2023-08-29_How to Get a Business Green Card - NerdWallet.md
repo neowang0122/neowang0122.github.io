@@ -19,49 +19,6 @@ date_saved: 2023-08-29 12:50:49
 
 date_published: 2021-04-29 13:35:57
 
-## Highlights
-
-> ### EB-1 green card for extraordinary people
-> 
-> There are three groups that qualify for the EB-1:
-> 
-> * People with extraordinary achievement
-> * Outstanding researchers and professors
-> * Managers and executives
-> 
-> Because the last two groups require a job offer, we want to set our lofty sights to the first group: people with extraordinary achievement. [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#d3a657ef-3a70-4b2f-951e-7a13510f6b1b)  ^d3a657ef
-
-> Keep in mind that the EB-1 is a very difficult business green card to get your hands on. That’s why this next option is a common way to get your green card through your business. [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#f3b82b0d-4dd3-4026-ba8a-9b27f78ce6bc)  ^f3b82b0d
-
-> ### EB-2 green card with a national interest waiver
-> 
-> As the most popular employment-based green card by far, the EB-2 is also meant for three kinds of people:
-> 
-> * People with exceptional ability
-> * Advanced degree holders
-> * National Interest Waiver holders [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#8daa4d91-077a-481a-9418-ac55b6585a72)  ^8daa4d91
-
-> However, the National Interest Waiver (or NIW) lets you file a petition for yourself, bypassing the job offer and recruitment requirement. This is perfect for small business owners, who otherwise would not be able to apply without an employer.
-> 
-> While this is great news, the requirements for the NIW can be pretty steep. In order to qualify, you need to convince the USCIS of three things:
-> 
-> * Your business will have a substantial positive impact on the U.S. economy, culture, society, education, technology, etc.
-> * You are capable of making the business succeed. This can be shown by past successes, financial capital, or a specialized degree.
-> * That the United States would stand to benefit from waiving the job offer requirement.
-> 
-> You might need to gather some letters of recommendation from experienced colleagues or former employers in order to prove that you’re able to make the business succeed. Two years of experience can also go a long way in convincing the USCIS that you’re qualified. [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#3eafecc4-5b47-4268-95e7-560b83e12d86)  ^3eafecc4
-
-> an immigration attorney [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#a9647168-56ce-4d31-b8b2-039dc514df36)  ^a9647168
-
-> ### How much do you need to invest for a business green card?
-> 
-> The reason this green card is less popular is the amount of money that needs to be invested. The USCIS requires at least a [$1 million investment](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/about-the-eb-5-visa-classification) in order to qualify. However, if you are starting your business in a rural area or an area with high unemployment, the minimum will be set to $500,000\. You will also have to show that their new business will provide positions for 10 full-time employees as well. [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#ad7ee179-980d-4942-8ee1-f33daddb63fe)  ^ad7ee179
-
-> Many entrepreneurs might want to consider the EB-2 National Interest Waiver as an option. However, if you are among those people that can qualify for either the EB-1 or the EB-5 green cards, there is a whole host of advantages that come along with these more prestigious options. [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#7adbac4c-07ee-42fe-b6ea-5286906c6bbb)  ^7adbac4c
-
-> USCIS website. [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#e84e09ab-613c-4f2d-a7ad-49b373490397)  ^e84e09ab
-
-
 --- 
 
 # Full Content: 
@@ -153,3 +110,48 @@ If none of the green card options above are applicable, you aren't completely ou
 The eligibility categories for getting a green card include through a family member, through employment, as a refugee or asylum seeker if applicable, and more. You can find the whole list of eligibility categories on the [USCIS website.](https://www.uscis.gov/greencard/eligibility-categories)
 
 This article originally appeared on JustBusiness, a subsidiary of NerdWallet. 
+
+---
+
+## Highlights
+
+> ### EB-1 green card for extraordinary people
+> 
+> There are three groups that qualify for the EB-1:
+> 
+> * People with extraordinary achievement
+> * Outstanding researchers and professors
+> * Managers and executives
+> 
+> Because the last two groups require a job offer, we want to set our lofty sights to the first group: people with extraordinary achievement. [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#d3a657ef-3a70-4b2f-951e-7a13510f6b1b)  ^d3a657ef
+
+> Keep in mind that the EB-1 is a very difficult business green card to get your hands on. That’s why this next option is a common way to get your green card through your business. [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#f3b82b0d-4dd3-4026-ba8a-9b27f78ce6bc)  ^f3b82b0d
+
+> ### EB-2 green card with a national interest waiver
+> 
+> As the most popular employment-based green card by far, the EB-2 is also meant for three kinds of people:
+> 
+> * People with exceptional ability
+> * Advanced degree holders
+> * National Interest Waiver holders [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#8daa4d91-077a-481a-9418-ac55b6585a72)  ^8daa4d91
+
+> However, the National Interest Waiver (or NIW) lets you file a petition for yourself, bypassing the job offer and recruitment requirement. This is perfect for small business owners, who otherwise would not be able to apply without an employer.
+> 
+> While this is great news, the requirements for the NIW can be pretty steep. In order to qualify, you need to convince the USCIS of three things:
+> 
+> * Your business will have a substantial positive impact on the U.S. economy, culture, society, education, technology, etc.
+> * You are capable of making the business succeed. This can be shown by past successes, financial capital, or a specialized degree.
+> * That the United States would stand to benefit from waiving the job offer requirement.
+> 
+> You might need to gather some letters of recommendation from experienced colleagues or former employers in order to prove that you’re able to make the business succeed. Two years of experience can also go a long way in convincing the USCIS that you’re qualified. [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#3eafecc4-5b47-4268-95e7-560b83e12d86)  ^3eafecc4
+
+> an immigration attorney [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#a9647168-56ce-4d31-b8b2-039dc514df36)  ^a9647168
+
+> ### How much do you need to invest for a business green card?
+> 
+> The reason this green card is less popular is the amount of money that needs to be invested. The USCIS requires at least a [$1 million investment](https://www.uscis.gov/working-in-the-united-states/permanent-workers/employment-based-immigration-fifth-preference-eb-5/about-the-eb-5-visa-classification) in order to qualify. However, if you are starting your business in a rural area or an area with high unemployment, the minimum will be set to $500,000\. You will also have to show that their new business will provide positions for 10 full-time employees as well. [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#ad7ee179-980d-4942-8ee1-f33daddb63fe)  ^ad7ee179
+
+> Many entrepreneurs might want to consider the EB-2 National Interest Waiver as an option. However, if you are among those people that can qualify for either the EB-1 or the EB-5 green cards, there is a whole host of advantages that come along with these more prestigious options. [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#7adbac4c-07ee-42fe-b6ea-5286906c6bbb)  ^7adbac4c
+
+> USCIS website. [⤴️](https://omnivore.app/me/how-to-get-a-business-green-card-nerd-wallet-18a423476e5#e84e09ab-613c-4f2d-a7ad-49b373490397)  ^e84e09ab
+

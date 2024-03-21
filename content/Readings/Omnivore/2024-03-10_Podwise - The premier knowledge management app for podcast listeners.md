@@ -15,11 +15,6 @@ date_saved: 2024-03-10 18:06:38
 date_saved: 2024-03-10 18:06:38
 
 
-## Highlights
-
-> Podwise | The premier knowledge management app for podcast listeners [⤴️](https://omnivore.app/me/podwise-the-premier-knowledge-management-app-for-podcast-listene-18e2a67511f#ca04543a-3c06-41d3-9f2f-1f4281acb998)  ^ca04543a
-
-
 --- 
 
 # Full Content: 
@@ -138,3 +133,10 @@ $142.80 Billed Annually
 \* All episodes from the most-followed podcasts will be automatically processed by Podwise.
 
 \* We offer a 7-day money-back guarantee. Please refer to our [refund policy](https://podwise.ai/refund) for details.
+
+---
+
+## Highlights
+
+> Podwise | The premier knowledge management app for podcast listeners [⤴️](https://omnivore.app/me/podwise-the-premier-knowledge-management-app-for-podcast-listene-18e2a67511f#ca04543a-3c06-41d3-9f2f-1f4281acb998)  ^ca04543a
+

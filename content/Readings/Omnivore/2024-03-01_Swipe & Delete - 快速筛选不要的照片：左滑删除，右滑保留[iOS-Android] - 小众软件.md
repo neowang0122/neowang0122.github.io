@@ -21,11 +21,6 @@ date_saved: 2024-03-01 03:50:02
 
 date_published: 2024-03-01 03:50:02
 
-## Highlights
-
-> **Swipe & Delete** 是一款专门用来筛选不要的照片的工具，支持 iPhone 与 Android，就像你用的那些软件一样：左滑删除，右滑保留，按月选择，干净利落。@[Appinn](https://www.appinn.com/swipe-and-delete/) [⤴️](https://omnivore.app/me/swipe-delete-i-os-android-18dfa0cbc5b#d9845e87-f54f-46d1-9b5d-80c4816790df)  ^d9845e87
-
-
 --- 
 
 # Full Content: 
@@ -78,3 +73,10 @@ Swipe & Delete 目前还是完全免费的，无内购，主要还是为了清�
 * [ ![Wikiscope - 用 AR 寻找身边的维基百科文章[iPhone] 3](https://proxy-prod.omnivore-image-cache.app/115x115,sSxUCm35sl3dVIViwFXLjCCfsI-G5HBXA9wTUjyN1H5M/https://www.appinn.com/wp-content/uploads/2019/10/wikiscope.jpgo_-115x115.jpg "Wikiscope - 用 AR 寻找身边的维基百科文章[iPhone] 3") ](https://www.appinn.com/wikiscope-ar-for-iphone/ "Wikiscope – 用 AR 寻找身边的维基百科文章[iPhone]")
 * [ ![1Password for Android - 本地密码管理器[Android] 4](https://proxy-prod.omnivore-image-cache.app/115x115,s7uLVvsUJ01k5SS4dExbppsD9aHGmt-Nj2QWt1aqHc0A/https://www.appinn.com/wp-content/uploads/2014-09-25-11-22-05.pngo_-115x115.png "1Password for Android - 本地密码管理器[Android] 4") ](https://www.appinn.com/1password-for-android/ "1Password for Android – 本地密码管理器[Android]")
 * [ ![一个木函 - 超过 50 款功能的 Android 工具合集，只有 1MB 5](https://proxy-prod.omnivore-image-cache.app/115x115,shJ7rEp-WjK9J4sQrOIAsD4EzFPtx6I_6ndrX39qp9P0/https://www.appinn.com/wp-content/uploads/photo_2018-06-03_00-56-42.jpgo_-115x115.jpg "一个木函 - 超过 50 款功能的 Android 工具合集，只有 1MB 5") ](https://www.appinn.com/one-woodenletter/ "一个木函 – 超过 50 款功能的 Android 工具合集，只有 1MB")
+
+---
+
+## Highlights
+
+> **Swipe & Delete** 是一款专门用来筛选不要的照片的工具，支持 iPhone 与 Android，就像你用的那些软件一样：左滑删除，右滑保留，按月选择，干净利落。@[Appinn](https://www.appinn.com/swipe-and-delete/) [⤴️](https://omnivore.app/me/swipe-delete-i-os-android-18dfa0cbc5b#d9845e87-f54f-46d1-9b5d-80c4816790df)  ^d9845e87
+

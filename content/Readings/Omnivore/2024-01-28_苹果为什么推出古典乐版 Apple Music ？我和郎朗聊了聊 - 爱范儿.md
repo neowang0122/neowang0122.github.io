@@ -21,19 +21,6 @@ date_saved: 2024-01-28 23:55:35
 
 date_published: 2024-01-26 02:25:22
 
-## Highlights
-
-> 苹果在 2001 年发布 iPod，2003 年推出 iTunes 音乐商店，iPod 和 iTunes 软硬件结合。一个能装 1000 首歌曲、听 10 小时的「小砖块」，在随身听面前弯道超车，引领了数字音乐的下载时代。 [⤴️](https://omnivore.app/me/apple-music-18d4502d2f6#0d72a303-39eb-49a0-a249-6a6bb87a3e57)  ^0d72a303
-
-> 从牛仔裤口袋里掏出 iPod 的乔布斯说服了全世界，iPod 的存在并不只是为了播放歌曲，更重要的是改变了人们发现、聆听和分享音乐的方式。 [⤴️](https://omnivore.app/me/apple-music-18d4502d2f6#d69f63a9-216f-459a-8ebe-2f8e3ce51e7f)  ^d69f63a9
-
-> 2007 年 iPhone 面世，一切又变了模样，音乐播放器的功能放入了多指触控的智能手机，iTunes 启发了下载和购买 app 的 App Store。
-> 
-> 当在线播放的时代到来，苹果再次自我革命，收购音乐流媒体服务，一次是 2014 年 ，收购 Beats Music，即 Apple Music 的前身；一次是 2021 年 ，收购 Primephonic，为 Apple Music 古典乐打基础。 [⤴️](https://omnivore.app/me/apple-music-18d4502d2f6#bb9149f0-89ae-49f4-b138-c2874202bb6d)  ^bb9149f0
-
-> 2015 年，Apple Music 和 iPhone 接替 iTunes 和 iPod 成为黄金组合，一推出就有 3000 万曲库，用在线播放和按月订阅续写了流媒体时代的音乐消费。 [⤴️](https://omnivore.app/me/apple-music-18d4502d2f6#b0978bb9-0d66-482d-aa49-3a0cff55020a)  ^b0978bb9
-
-
 --- 
 
 # Full Content: 
@@ -231,3 +218,18 @@ Apple Music 在 2021 年推出无损音频和采用杜比全景声技术的空�
 音乐是流动的建筑，也是战胜时间的艺术。它依赖于媒介，又超脱于历史，同一部伟大作品，总会被世世代代地演奏。此刻在你我耳畔响起的音乐，可能创作于 500 年前，但全新的录音昨天刚刚面世。
 
 大提琴家马友友曾说，古典音乐以及所有文化，从根本上讲都是关于联系、关于跨越时空建立理解的纽带。当我们更容易找到某个古典音乐作品，或者因为某张专辑爱上古典音乐，就是以技术牵起的缘分，续写人类文明的华章。
+
+---
+
+## Highlights
+
+> 苹果在 2001 年发布 iPod，2003 年推出 iTunes 音乐商店，iPod 和 iTunes 软硬件结合。一个能装 1000 首歌曲、听 10 小时的「小砖块」，在随身听面前弯道超车，引领了数字音乐的下载时代。 [⤴️](https://omnivore.app/me/apple-music-18d4502d2f6#0d72a303-39eb-49a0-a249-6a6bb87a3e57)  ^0d72a303
+
+> 从牛仔裤口袋里掏出 iPod 的乔布斯说服了全世界，iPod 的存在并不只是为了播放歌曲，更重要的是改变了人们发现、聆听和分享音乐的方式。 [⤴️](https://omnivore.app/me/apple-music-18d4502d2f6#d69f63a9-216f-459a-8ebe-2f8e3ce51e7f)  ^d69f63a9
+
+> 2007 年 iPhone 面世，一切又变了模样，音乐播放器的功能放入了多指触控的智能手机，iTunes 启发了下载和购买 app 的 App Store。
+> 
+> 当在线播放的时代到来，苹果再次自我革命，收购音乐流媒体服务，一次是 2014 年 ，收购 Beats Music，即 Apple Music 的前身；一次是 2021 年 ，收购 Primephonic，为 Apple Music 古典乐打基础。 [⤴️](https://omnivore.app/me/apple-music-18d4502d2f6#bb9149f0-89ae-49f4-b138-c2874202bb6d)  ^bb9149f0
+
+> 2015 年，Apple Music 和 iPhone 接替 iTunes 和 iPod 成为黄金组合，一推出就有 3000 万曲库，用在线播放和按月订阅续写了流媒体时代的音乐消费。 [⤴️](https://omnivore.app/me/apple-music-18d4502d2f6#b0978bb9-0d66-482d-aa49-3a0cff55020a)  ^b0978bb9
+

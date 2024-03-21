@@ -15,19 +15,6 @@ date_saved: 2023-08-11 07:11:16
 date_saved: 2023-08-11 07:11:16
 
 
-## Highlights
-
-> 在此推荐一门不算分的神课CS2110（Object Oriented Programming-Java &amp; Data Structure）@david Gries，Cornell国宝级教授，与Dijsktra为友，专注CS基础教育三十年，带了100学期CS2110，邓布利多一般的存在，每节课后和答疑啥的老头讲得特别好！这个课从作业设置到课程内容到补充资料，牛逼一词是难以形容它的优秀的。一门真正由浅入深的神课，600多人的大课堂节节课座无虚席。来康村以前试图上过一点Berkely 61B，也是用Java讲Data Structure，个人拙见比CS2110差远了！！如果你也是一个对CS屁也不懂的Newbee，选这个做启蒙课程，你会飞速进步哒\~ [⤴️](https://omnivore.app/me/cs-cornell-ece-m-eng-master-2018-189e44b22ee#517306a5-c5c5-4149-bdf4-e6174c49970d)  ^517306a5
-
-> 如果秋季入学，打算summer intern：第一学期GPA要好，第二学期课要少（使劲刷题），几分钟想不出来马上看答案。 [⤴️](https://omnivore.app/me/cs-cornell-ece-m-eng-master-2018-189e44b22ee#983b98e4-bb93-4b0a-bcce-b21a2193eb83)  ^983b98e4
-
-> 三学期take几门课合适：
-> 
-> 5门ECE + 4\~6门CS + Degree Report [⤴️](https://omnivore.app/me/cs-cornell-ece-m-eng-master-2018-189e44b22ee#e37fed21-7d11-444b-8bb4-8e7130fcc8af)  ^e37fed21
-
-> 上述那门『其他学院的课』不是随便选的，学院会发一张表划定范围，叫做Outside ECE Approved Core Course。比如 [⤴️](https://omnivore.app/me/cs-cornell-ece-m-eng-master-2018-189e44b22ee#78cad0c5-9c63-4bbd-a5db-d35537df162e)  ^78cad0c5
-
-
 --- 
 
 # Full Content: 
@@ -171,3 +158,18 @@ Credit to lpj0522
 预约服务请加小助理微信：895718791（注明：留学申请；不提供免费咨询）
 
 DS/BA/CS/MIS精华文章整理：<http://www.bossqiao.com/>
+
+---
+
+## Highlights
+
+> 在此推荐一门不算分的神课CS2110（Object Oriented Programming-Java &amp; Data Structure）@david Gries，Cornell国宝级教授，与Dijsktra为友，专注CS基础教育三十年，带了100学期CS2110，邓布利多一般的存在，每节课后和答疑啥的老头讲得特别好！这个课从作业设置到课程内容到补充资料，牛逼一词是难以形容它的优秀的。一门真正由浅入深的神课，600多人的大课堂节节课座无虚席。来康村以前试图上过一点Berkely 61B，也是用Java讲Data Structure，个人拙见比CS2110差远了！！如果你也是一个对CS屁也不懂的Newbee，选这个做启蒙课程，你会飞速进步哒\~ [⤴️](https://omnivore.app/me/cs-cornell-ece-m-eng-master-2018-189e44b22ee#517306a5-c5c5-4149-bdf4-e6174c49970d)  ^517306a5
+
+> 如果秋季入学，打算summer intern：第一学期GPA要好，第二学期课要少（使劲刷题），几分钟想不出来马上看答案。 [⤴️](https://omnivore.app/me/cs-cornell-ece-m-eng-master-2018-189e44b22ee#983b98e4-bb93-4b0a-bcce-b21a2193eb83)  ^983b98e4
+
+> 三学期take几门课合适：
+> 
+> 5门ECE + 4\~6门CS + Degree Report [⤴️](https://omnivore.app/me/cs-cornell-ece-m-eng-master-2018-189e44b22ee#e37fed21-7d11-444b-8bb4-8e7130fcc8af)  ^e37fed21
+
+> 上述那门『其他学院的课』不是随便选的，学院会发一张表划定范围，叫做Outside ECE Approved Core Course。比如 [⤴️](https://omnivore.app/me/cs-cornell-ece-m-eng-master-2018-189e44b22ee#78cad0c5-9c63-4bbd-a5db-d35537df162e)  ^78cad0c5
+

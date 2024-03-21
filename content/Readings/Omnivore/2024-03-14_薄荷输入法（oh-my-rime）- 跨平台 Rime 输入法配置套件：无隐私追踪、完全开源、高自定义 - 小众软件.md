@@ -21,11 +21,6 @@ date_saved: 2024-03-14 13:36:18
 
 date_published: 2024-03-14 04:07:49
 
-## Highlights
-
-> **oh-my-rime** 输入法是一款基于 Rime 输入法引擎的跨平台输入法配置套件，也叫**薄荷输入法**，可以直接导入现有 Rime 输入法中，拥有拼音、双拼、五笔，支持浅色/深色皮肤，简繁输入、中英文混合输入、Emoji、颜文字、反查输入等功能，以及拥有很多词库。@[Appinn](https://www.appinn.com/oh-my-rime/) [⤴️](https://omnivore.app/me/oh-my-rime-rime-18e3c1d86c3#a03b437e-5028-452c-b377-288cffdf95d0)  ^a03b437e
-
-
 --- 
 
 # Full Content: 
@@ -92,3 +87,10 @@ oh-my-rime 是一套快速初始化 Rime 输入法的配置模板，开发者 @*
 ---
 
 原文：https://www.appinn.com/oh-my-rime/
+
+---
+
+## Highlights
+
+> **oh-my-rime** 输入法是一款基于 Rime 输入法引擎的跨平台输入法配置套件，也叫**薄荷输入法**，可以直接导入现有 Rime 输入法中，拥有拼音、双拼、五笔，支持浅色/深色皮肤，简繁输入、中英文混合输入、Emoji、颜文字、反查输入等功能，以及拥有很多词库。@[Appinn](https://www.appinn.com/oh-my-rime/) [⤴️](https://omnivore.app/me/oh-my-rime-rime-18e3c1d86c3#a03b437e-5028-452c-b377-288cffdf95d0)  ^a03b437e
+

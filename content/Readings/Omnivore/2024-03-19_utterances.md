@@ -15,11 +15,6 @@ date_saved: 2024-03-19 23:22:04
 date_saved: 2024-03-19 23:22:04
 
 
-## Highlights
-
-> utterances [⤴️](https://omnivore.app/me/utterances-18e59e1586c#2adafa47-d456-4684-b31a-09f132d5467b)  ^2adafa47
-
-
 --- 
 
 # Full Content: 
@@ -49,3 +44,10 @@ To comment, users must authorize the utterances app to post on their behalf usin
 * **[and many more...](https://github.com/topics/utterances)**
 
 ## try it out 👇👇👇
+
+---
+
+## Highlights
+
+> utterances [⤴️](https://omnivore.app/me/utterances-18e59e1586c#2adafa47-d456-4684-b31a-09f132d5467b)  ^2adafa47
+

@@ -21,15 +21,6 @@ date_saved: 2024-03-03 02:44:03
 
 date_published: 2024-03-03 02:44:03
 
-## Highlights
-
-> 为什么 Spotify 属于「阅读器」类型 app，从 Apple 此前发布的[新闻稿](https://www.apple.com.cn/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/)可以看出，对于「阅读器」类型 app 的定义为：
-> 
-> > 阅读器 App 提供数字杂志、报纸、书籍、音频、音乐和视频的预付费内容或内容订阅。
-> 
-> 因此，包括 Spotify、YouTube Music、Netflix、Disney+ 等在内的服务类 app，均属于「阅读器」类型 app，可以享受相关规定权益。 [⤴️](https://omnivore.app/me/spotify-apple-18e04490e76#fa96c2e1-6b09-441d-8de2-8d9a7fa21322)  ^fa96c2e1
-
-
 --- 
 
 # Full Content: 
@@ -117,3 +108,14 @@ Spotify 与 Apple 之争，看似已经到了尾声，而欧盟委员会对于 A
 * [App Store 生态日渐完善，离不开背后它的支持：与开发者聊应用审核](https://sspai.com/post/75316)
 * [Apple 向开发者的一次「大让步」：App Store 即将迎来重要更新](https://sspai.com/post/68571)
 * [Apple 公布 App Store 小型企业计划，分成比例下调至 15%](https://sspai.com/post/63686)
+
+---
+
+## Highlights
+
+> 为什么 Spotify 属于「阅读器」类型 app，从 Apple 此前发布的[新闻稿](https://www.apple.com.cn/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/)可以看出，对于「阅读器」类型 app 的定义为：
+> 
+> > 阅读器 App 提供数字杂志、报纸、书籍、音频、音乐和视频的预付费内容或内容订阅。
+> 
+> 因此，包括 Spotify、YouTube Music、Netflix、Disney+ 等在内的服务类 app，均属于「阅读器」类型 app，可以享受相关规定权益。 [⤴️](https://omnivore.app/me/spotify-apple-18e04490e76#fa96c2e1-6b09-441d-8de2-8d9a7fa21322)  ^fa96c2e1
+

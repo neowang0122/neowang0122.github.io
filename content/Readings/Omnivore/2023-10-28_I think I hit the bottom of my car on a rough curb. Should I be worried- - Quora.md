@@ -15,34 +15,6 @@ date_saved: 2023-10-28 04:08:51
 date_saved: 2023-10-28 04:08:51
 
 
-## Highlights
-
-> There are tons (obviously), but in my mind these are the worst:
-> 
-> 1\. Not using an adblocker. [⤴️](https://omnivore.app/me/https-www-quora-com-i-think-i-hit-the-bottom-of-my-car-on-a-roug-18b75540edc#bf410f8a-cedf-464a-9580-dee5fe58a77d)  ^bf410f8a
-
-> A good ad blocker will eliminate virtually all of the ads you’d see on the internet. [⤴️](https://omnivore.app/me/https-www-quora-com-i-think-i-hit-the-bottom-of-my-car-on-a-roug-18b75540edc#addce688-4470-4b06-af27-5c681b7bafc4)  ^addce688
-
-> 2\. Overspending when online shopping.
-> 
-> You might be surprised how often you’re overpaying on Amazon and elsewhere.
-> 
-> Big stores like Amazon know that no one has time to price shop through dozens of sites, so there's often no incentive for them to offer bargain prices.
-> 
-> I typically hate browser extensions with a fiery passion, but if you don’t have [Capital One Shopping](https://betterbuck.net/view-desktop.php?offer=capitalone&country=USA&subid=Q-Dumbest-Internet-Mistakes "betterbuck.net") installed yet, do yourself a favor and [grab it](https://betterbuck.net/view-desktop.php?offer=capitalone&country=USA&subid=Q-Dumbest-Internet-Mistakes "betterbuck.net").
-> 
-> When you shop online (on Amazon or elsewhere) it will:
-> 
-> 1. Auto-apply coupon codes for you to save you money
-> 2. Compare prices from other sellers to make sure you’re not missing out on a better deal [⤴️](https://omnivore.app/me/https-www-quora-com-i-think-i-hit-the-bottom-of-my-car-on-a-roug-18b75540edc#02642f31-8873-493f-a548-d0a86ff3afc4)  ^02642f31
-
-> 3\. Not dealing with credit card debt.
-> 
-> Debt can make you feel hopeless—even if you’re responsible about making payments on time, the interest sometimes prevents you from paying off the debt. [⤴️](https://omnivore.app/me/https-www-quora-com-i-think-i-hit-the-bottom-of-my-car-on-a-roug-18b75540edc#838730b7-0efc-42f5-b011-a2f85d014156)  ^838730b7
-
-> 4\. Not getting a financial advisor. [⤴️](https://omnivore.app/me/https-www-quora-com-i-think-i-hit-the-bottom-of-my-car-on-a-roug-18b75540edc#6da0540b-aea1-4729-8484-f0202a654cf6)  ^6da0540b
-
-
 --- 
 
 # Full Content: 
@@ -142,3 +114,33 @@ I usually use Survey Junkie ([link here](https://betterbuck.net/view-desktop.php
 [Here's the form I used to sign up](https://betterbuck.net/view-desktop.php?offer=survey-junkie&country=USA&subid=Q-Dumbest-Internet-Mistakes "betterbuck.net") \- I think it took me maybe 1-2 minutes tops.
 
 So there you have it, the dumbest mistakes people make online. Don't be one of those people! Stay safe and smart out there.
+
+---
+
+## Highlights
+
+> There are tons (obviously), but in my mind these are the worst:
+> 
+> 1\. Not using an adblocker. [⤴️](https://omnivore.app/me/https-www-quora-com-i-think-i-hit-the-bottom-of-my-car-on-a-roug-18b75540edc#bf410f8a-cedf-464a-9580-dee5fe58a77d)  ^bf410f8a
+
+> A good ad blocker will eliminate virtually all of the ads you’d see on the internet. [⤴️](https://omnivore.app/me/https-www-quora-com-i-think-i-hit-the-bottom-of-my-car-on-a-roug-18b75540edc#addce688-4470-4b06-af27-5c681b7bafc4)  ^addce688
+
+> 2\. Overspending when online shopping.
+> 
+> You might be surprised how often you’re overpaying on Amazon and elsewhere.
+> 
+> Big stores like Amazon know that no one has time to price shop through dozens of sites, so there's often no incentive for them to offer bargain prices.
+> 
+> I typically hate browser extensions with a fiery passion, but if you don’t have [Capital One Shopping](https://betterbuck.net/view-desktop.php?offer=capitalone&country=USA&subid=Q-Dumbest-Internet-Mistakes "betterbuck.net") installed yet, do yourself a favor and [grab it](https://betterbuck.net/view-desktop.php?offer=capitalone&country=USA&subid=Q-Dumbest-Internet-Mistakes "betterbuck.net").
+> 
+> When you shop online (on Amazon or elsewhere) it will:
+> 
+> 1. Auto-apply coupon codes for you to save you money
+> 2. Compare prices from other sellers to make sure you’re not missing out on a better deal [⤴️](https://omnivore.app/me/https-www-quora-com-i-think-i-hit-the-bottom-of-my-car-on-a-roug-18b75540edc#02642f31-8873-493f-a548-d0a86ff3afc4)  ^02642f31
+
+> 3\. Not dealing with credit card debt.
+> 
+> Debt can make you feel hopeless—even if you’re responsible about making payments on time, the interest sometimes prevents you from paying off the debt. [⤴️](https://omnivore.app/me/https-www-quora-com-i-think-i-hit-the-bottom-of-my-car-on-a-roug-18b75540edc#838730b7-0efc-42f5-b011-a2f85d014156)  ^838730b7
+
+> 4\. Not getting a financial advisor. [⤴️](https://omnivore.app/me/https-www-quora-com-i-think-i-hit-the-bottom-of-my-car-on-a-roug-18b75540edc#6da0540b-aea1-4729-8484-f0202a654cf6)  ^6da0540b
+

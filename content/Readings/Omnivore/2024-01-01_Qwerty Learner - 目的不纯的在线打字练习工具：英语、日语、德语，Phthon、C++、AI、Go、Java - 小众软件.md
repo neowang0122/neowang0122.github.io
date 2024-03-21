@@ -21,15 +21,6 @@ date_saved: 2024-01-01 04:14:42
 
 date_published: 2024-01-01 04:14:42
 
-## Highlights
-
-> Qwerty [⤴️](https://omnivore.app/me/qwerty-learner-phthon-c-ai-go-java-18cc4f33ff8#ba21ce92-3d7e-4d21-9912-6fd7fa490fb2)  ^ba21ce92
-
-> Qwerty Learner – 目的不纯的在线打字练习工具：英语、日语、德语，Phthon、C++、AI、Go、Java [⤴️](https://omnivore.app/me/qwerty-learner-phthon-c-ai-go-java-18cc4f33ff8#a78fc895-e45c-4543-be53-2c3806a82894)  ^a78fc895
-
-> 而 Qwerty Learner 似乎有点更上一层的意思，它通过打字练习让用户练习对应的常用词汇 [⤴️](https://omnivore.app/me/qwerty-learner-phthon-c-ai-go-java-18cc4f33ff8#53d4a2c0-31cb-4438-a4fb-52293758e85b)  ^53d4a2c0
-
-
 --- 
 
 # Full Content: 
@@ -80,3 +71,14 @@ date_published: 2024-01-01 04:14:42
 * [ ![TweetDeck - 基于 AIR 的 Twitter 客户端 3](https://proxy-prod.omnivore-image-cache.app/115x115,sMIfYbKm2VTp3gGevu38nPXb99lETghOqJl9CvKGvg1c/https://www.appinn.com/wp-content/uploads/medium-252-115x115.jpg "TweetDeck - 基于 AIR 的 Twitter 客户端 4") ](https://www.appinn.com/adobe-air-tweetdeck-twitter-client/ "TweetDeck – 基于 AIR 的 Twitter 客户端")
 * [ ![边敲木鱼边看球 - 仿真木鱼：给喜欢的世界杯球队加油[iPhone/Web] 4](https://proxy-prod.omnivore-image-cache.app/115x115,sYBgBF6lSWccBEq118i7mM_7qfTz7GY1pZ66e5CKIeMU/https://www.appinn.com/wp-content/uploads/2022/12/muyu.jpgo_-115x115.jpg "边敲木鱼边看球 - 仿真木鱼：给喜欢的世界杯球队加油[iPhone/Web] 5") ](https://www.appinn.com/muyu-shijiebei/ "边敲木鱼边看球 – 仿真木鱼：给喜欢的世界杯球队加油[iPhone/Web]")
 * [ ![IFTTT 新增 新浪微博 频道 5](https://proxy-prod.omnivore-image-cache.app/115x115,sRtYbtzEeet-vqGy5LCY_UAXNdA1rBvA1ty4mvujNM78/https://www.appinn.com/wp-content/uploads/2019/05/2014-10-09-12-03-36.pngo_-115x115.png "IFTTT 新增 新浪微博 频道 6") ](https://www.appinn.com/ifttt-add-the-sina-weibo-channel/ "IFTTT 新增 新浪微博 频道")
+
+---
+
+## Highlights
+
+> Qwerty [⤴️](https://omnivore.app/me/qwerty-learner-phthon-c-ai-go-java-18cc4f33ff8#ba21ce92-3d7e-4d21-9912-6fd7fa490fb2)  ^ba21ce92
+
+> Qwerty Learner – 目的不纯的在线打字练习工具：英语、日语、德语，Phthon、C++、AI、Go、Java [⤴️](https://omnivore.app/me/qwerty-learner-phthon-c-ai-go-java-18cc4f33ff8#a78fc895-e45c-4543-be53-2c3806a82894)  ^a78fc895
+
+> 而 Qwerty Learner 似乎有点更上一层的意思，它通过打字练习让用户练习对应的常用词汇 [⤴️](https://omnivore.app/me/qwerty-learner-phthon-c-ai-go-java-18cc4f33ff8#53d4a2c0-31cb-4438-a4fb-52293758e85b)  ^53d4a2c0
+

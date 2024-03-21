@@ -15,43 +15,6 @@ date_saved: 2023-09-19 15:42:23
 date_saved: 2023-09-19 15:42:23
 
 
-## Highlights
-
-> **身伤害责任险／Bodily Injury Liability**： [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#f4b359a6-954a-4b54-9111-f725ed61d225)  ^f4b359a6
-
-> 一般agent都会推荐至少买到$25,000 \~ $50,000 的这档。绝大部分州都规定人身伤害责任险必须购买。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#b29c8d15-30ac-44a6-a8ec-a1d670af0924)  ^b29c8d15
-
-> **②医疗费用保险／Medical Payments or Personal Injury Protection**：用来赔付驾驶者自己和车上乘客的医疗费用的保险，范围一般包括医疗费、误工费和殡葬费等。一般的建议是，如果自己本身已经有了较好的医疗保险，可以不买，但如果车上有还其他乘客，这项还是需要的。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#dc963e93-8acf-451a-87ca-7c38e130c180)  ^dc963e93
-
-> **碰撞险／Collision**：购买碰撞险的时候，一般会让你选择自付额度（Deductible），范围在$250到$1000之间。自付额，也叫免赔额，是指如果发生碰撞，保险公司只赔付超过自付额之外的费用。也就是说，如果选择了&amp;250的的自付额，出险后，你要自掏腰包先付完这250刀，超过的部分才由保险公司负责。所以自付额越高，保费自然就越低。**新车还是推荐买下collision。** [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#b2472056-d299-4655-bc8a-e3cbc1227f31)  ^b2472056
-
-> **⑥无保险或保险不足驾驶人保险／Uninsured and Underinsured Motorists Coverage**：这项保险是买来赔付给你自己的。行车在路上，万一不幸被一个‘裸奔’的司机撞了，他自己太穷没钱赔给你，或者肇事司机的保险保额不够赔偿你的损失，又或者被肇事逃逸了，这个保险就会赔钱给你。此外，如果你在走路的时候发生上述的情形，这种情况它是也保。在有些州，这项保险是强制购买的。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#510b0a20-bbda-4faf-8e54-69ad5708ce30)  ^510b0a20
-
-> 根据我的经验，GEICO 和 State Farm 是仅有的两家即使驾龄不足三年，也有可能拿到半保(Liability)$400/半年左右的汽车保险公司 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#32857250-a4b8-4d9c-9617-53b3a24a54cc)  ^32857250
-
-> **State Farm**
-> 
-> 个人不太喜欢用State Farm，因为线上功能很弱，也没有自己的客服。基本上除了缴费，事事都要找Agent。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#0ef36b59-6c8d-42bc-8bb5-a5630f708373)  ^0ef36b59
-
-> 为了避免在理赔的时候出现问题，还是尽量从Progressive，Geico，Allstate，State Farm，Farmers，Costco（Ameriprise） [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#a72d83b2-6ad3-40f3-aba7-1e8a39385031)  ^a72d83b2
-
-> 车险是跟着车走的。如果开朋友的车出了险，那么朋友的保险将作为Primary Liability（优先赔付保险），而你自己的保险则是Secondary Liability（二次赔付），即当Primary的赔付额不够用的时候，才使用Secondary的。所以，一个人是可以在自己没有车险的情况下，向朋友借车开上路，只要朋友有给车上保险。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#6efee0e3-239e-4ad0-9fb4-a550a2940eb6)  ^6efee0e3
-
-> 向朋友借车，是给朋友造成很大的风险。
-> 
-> 借车给朋友也请三思而行，一旦出险，出险记录肯定是有的，涨保费也是必然的了，被起诉的话你肯定也是逃脱不了关系。
-> 
-> 总之，**把车借给别人开，无论是有偿的还是无偿的，都是风险极大的一件事情**。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#b9c467c8-6ea4-4bb6-bbf4-7882da652d71)  ^b9c467c8
-
-> 因为美国的车险是半年一买的，所以切记，**购买汽车保险，尤其是小公司的车险的时候，一定要问清楚如果提前终止是否有罚金**，罚金多少等，能留下邮件等证明材料，合同里也要看清楚有关Plan Cancellation部分的条款是怎么写的，任何疑问，问清楚再签字。有的黑心保险公司，你提前终止车险，还是会收你整个半年的钱的。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#adb0ad7b-a561-42ea-8a92-e15ae9e5806f)  ^adb0ad7b
-
-> 车里必须要放的证明有：保险卡和车辆注册；
-> 
-> 随身携带：驾照；
-> 
-> Title：你对这辆车所有权的证明，这个要在家里藏好哦。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#efa9c33e-545c-44b4-923c-a0f835d26d92)  ^efa9c33e
-
-
 --- 
 
 # Full Content: 
@@ -210,3 +173,42 @@ Title：你对这辆车所有权的证明，这个要在家里藏好哦。
 从踏上美国这片土地开始，有许许多多全新的事物需要学习和适应，每当行事之前，都会大量查阅网上相关信息和阅读官方说明，这些文章便都是基于这些经历所得，分享出来希望对各位有所帮助，绝非法律建议。美国律法博大精深，通用规则下是各种exceptions套exceptions，针对个人的和针对公司的也不尽相同，绝非三言两语能够说明，且又时常变更。本人终归精力有限，也非专业人士，归根到底，每个人情况不甚相同，最终还请查看官方说明和咨询各方专业人士为准。**站内文章版权所有，如想转载，[请先联系本站管理员](https://www.blogus123.com/contact/)**。
 
 [Top](#) 
+
+---
+
+## Highlights
+
+> **身伤害责任险／Bodily Injury Liability**： [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#f4b359a6-954a-4b54-9111-f725ed61d225)  ^f4b359a6
+
+> 一般agent都会推荐至少买到$25,000 \~ $50,000 的这档。绝大部分州都规定人身伤害责任险必须购买。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#b29c8d15-30ac-44a6-a8ec-a1d670af0924)  ^b29c8d15
+
+> **②医疗费用保险／Medical Payments or Personal Injury Protection**：用来赔付驾驶者自己和车上乘客的医疗费用的保险，范围一般包括医疗费、误工费和殡葬费等。一般的建议是，如果自己本身已经有了较好的医疗保险，可以不买，但如果车上有还其他乘客，这项还是需要的。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#dc963e93-8acf-451a-87ca-7c38e130c180)  ^dc963e93
+
+> **碰撞险／Collision**：购买碰撞险的时候，一般会让你选择自付额度（Deductible），范围在$250到$1000之间。自付额，也叫免赔额，是指如果发生碰撞，保险公司只赔付超过自付额之外的费用。也就是说，如果选择了&amp;250的的自付额，出险后，你要自掏腰包先付完这250刀，超过的部分才由保险公司负责。所以自付额越高，保费自然就越低。**新车还是推荐买下collision。** [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#b2472056-d299-4655-bc8a-e3cbc1227f31)  ^b2472056
+
+> **⑥无保险或保险不足驾驶人保险／Uninsured and Underinsured Motorists Coverage**：这项保险是买来赔付给你自己的。行车在路上，万一不幸被一个‘裸奔’的司机撞了，他自己太穷没钱赔给你，或者肇事司机的保险保额不够赔偿你的损失，又或者被肇事逃逸了，这个保险就会赔钱给你。此外，如果你在走路的时候发生上述的情形，这种情况它是也保。在有些州，这项保险是强制购买的。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#510b0a20-bbda-4faf-8e54-69ad5708ce30)  ^510b0a20
+
+> 根据我的经验，GEICO 和 State Farm 是仅有的两家即使驾龄不足三年，也有可能拿到半保(Liability)$400/半年左右的汽车保险公司 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#32857250-a4b8-4d9c-9617-53b3a24a54cc)  ^32857250
+
+> **State Farm**
+> 
+> 个人不太喜欢用State Farm，因为线上功能很弱，也没有自己的客服。基本上除了缴费，事事都要找Agent。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#0ef36b59-6c8d-42bc-8bb5-a5630f708373)  ^0ef36b59
+
+> 为了避免在理赔的时候出现问题，还是尽量从Progressive，Geico，Allstate，State Farm，Farmers，Costco（Ameriprise） [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#a72d83b2-6ad3-40f3-aba7-1e8a39385031)  ^a72d83b2
+
+> 车险是跟着车走的。如果开朋友的车出了险，那么朋友的保险将作为Primary Liability（优先赔付保险），而你自己的保险则是Secondary Liability（二次赔付），即当Primary的赔付额不够用的时候，才使用Secondary的。所以，一个人是可以在自己没有车险的情况下，向朋友借车开上路，只要朋友有给车上保险。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#6efee0e3-239e-4ad0-9fb4-a550a2940eb6)  ^6efee0e3
+
+> 向朋友借车，是给朋友造成很大的风险。
+> 
+> 借车给朋友也请三思而行，一旦出险，出险记录肯定是有的，涨保费也是必然的了，被起诉的话你肯定也是逃脱不了关系。
+> 
+> 总之，**把车借给别人开，无论是有偿的还是无偿的，都是风险极大的一件事情**。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#b9c467c8-6ea4-4bb6-bbf4-7882da652d71)  ^b9c467c8
+
+> 因为美国的车险是半年一买的，所以切记，**购买汽车保险，尤其是小公司的车险的时候，一定要问清楚如果提前终止是否有罚金**，罚金多少等，能留下邮件等证明材料，合同里也要看清楚有关Plan Cancellation部分的条款是怎么写的，任何疑问，问清楚再签字。有的黑心保险公司，你提前终止车险，还是会收你整个半年的钱的。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#adb0ad7b-a561-42ea-8a92-e15ae9e5806f)  ^adb0ad7b
+
+> 车里必须要放的证明有：保险卡和车辆注册；
+> 
+> 随身携带：驾照；
+> 
+> Title：你对这辆车所有权的证明，这个要在家里藏好哦。 [⤴️](https://omnivore.app/me/geico-progressive-state-farm-allstate-18aaef71893#efa9c33e-545c-44b4-923c-a0f835d26d92)  ^efa9c33e
+

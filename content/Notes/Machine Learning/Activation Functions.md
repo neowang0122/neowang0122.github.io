@@ -1,12 +1,10 @@
----
-author: LYY
----
-tags: #publishedNote
-Author: #people/LYY
+Author: #people/LYY 
 
 ---
 
-# 1 Sigmoid
+# Activation Functions 
+
+## Sigmoid
 
 Transfer logit $z$ to a probability by mapping $z$ to $(0,1)$.
 
@@ -24,7 +22,7 @@ $$
 $$
 It means $z \uparrow, p \uparrow$ . 
 
-# 2 SoftMax
+## SoftMax
 
 Transfer logits $z_i$ to probabilities by normalizing sequence $z_i$ to $(0,1)$, where the summation is equal to 1.
 
@@ -51,7 +49,7 @@ $$
 $$
 It means $z_j \uparrow, p_k \downarrow$ . 
 
-# 3 Odds
+## Odds
 
 **Introduction**:
 - Win rate: 4 to 1, odds = {number of wins}/{number of loses} = 4
@@ -118,6 +116,3 @@ h_i &= \frac{\partial^2 L}{\partial^2 log(odds_i )} \\
 \end{align*}
 $$
 
-$$
-
-$$

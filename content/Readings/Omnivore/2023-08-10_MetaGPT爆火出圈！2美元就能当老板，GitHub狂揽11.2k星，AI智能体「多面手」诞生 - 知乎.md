@@ -19,31 +19,6 @@ date_saved: 2023-08-10 07:36:57
 
 date_published: 2023-08-06 20:00:00
 
-## Highlights
-
-> MetaGPT爆火出圈 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-648482813-189df3c29d6#b79f88c6-1f13-4590-a024-40135064bae9)  ^b79f88c6
-
-> 与AutoGPT类似，但针对产品需求、设计、竞争分析、API和文档量身定制 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-648482813-189df3c29d6#fe526680-9dca-4004-a5f7-12f928760094)  ^fe526680
-
-> 地址：[https://github.com/geekan/MetaGPT](https://link.zhihu.com/?target=https%3A//github.com/geekan/MetaGPT)
-> 
-> 最重要的是，只输入老板一句话的需求，它就能输出软件公司的整个流程，以及精心安排的SOP。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-648482813-189df3c29d6#d4923fce-2454-44e6-a7d9-5cc96c4bddf8)  ^d4923fce
-
-> **示例（均由GPT-4生成）**
-> 
-> 比如，输入python startup.py "写个类似今日头条的推荐系统"，就会获得一系列输出，其一是数据结构与API设计：
-> 
-> ![](https://proxy-prod.omnivore-image-cache.app/1080x345,slDbyUis78G9fF0GTiHcDwNCIsmnz0ecuorbIxv2OIpg/https://pic4.zhimg.com/v2-5bda343b6ecc35f41528d2c8abbc60cb_b.jpg)
-> 
-> 生成一个包含分析和设计的示例大约需要0.2美元（GPT-4 API的费用），而一个完整的项目大约需要2.0美元 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-648482813-189df3c29d6#06f36122-a08f-46a6-bf06-03760a212275)  ^06f36122
-
-> MetaGPT的方法展示了，将高层次任务分解为由不同角色，比如产品经理、架构师、项目经理、工程师，处理的详细可操作组件的能力。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-648482813-189df3c29d6#1c4005af-b91e-4d75-92ff-34cb1635293c)  ^1c4005af
-
-> **平台或工具的偏好**
-> 
-> 你可以在陈述需求时，说明自己想要使用的平台或工具。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-648482813-189df3c29d6#89cfb9d4-830e-4057-aeab-0b08edf7019c)  ^89cfb9d4
-
-
 --- 
 
 # Full Content: 
@@ -355,3 +330,30 @@ async def startup(idea: str, investment: float = 3.0, n_round: int = 5):
 [https://github.com/geekan/MetaGPT](https://link.zhihu.com/?target=https%3A//github.com/geekan/MetaGPT)
 
 [https://twitter.com/99aico/status/1684249002437668864](https://link.zhihu.com/?target=https%3A//twitter.com/99aico/status/1684249002437668864)
+
+---
+
+## Highlights
+
+> MetaGPT爆火出圈 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-648482813-189df3c29d6#b79f88c6-1f13-4590-a024-40135064bae9)  ^b79f88c6
+
+> 与AutoGPT类似，但针对产品需求、设计、竞争分析、API和文档量身定制 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-648482813-189df3c29d6#fe526680-9dca-4004-a5f7-12f928760094)  ^fe526680
+
+> 地址：[https://github.com/geekan/MetaGPT](https://link.zhihu.com/?target=https%3A//github.com/geekan/MetaGPT)
+> 
+> 最重要的是，只输入老板一句话的需求，它就能输出软件公司的整个流程，以及精心安排的SOP。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-648482813-189df3c29d6#d4923fce-2454-44e6-a7d9-5cc96c4bddf8)  ^d4923fce
+
+> **示例（均由GPT-4生成）**
+> 
+> 比如，输入python startup.py "写个类似今日头条的推荐系统"，就会获得一系列输出，其一是数据结构与API设计：
+> 
+> ![](https://proxy-prod.omnivore-image-cache.app/1080x345,slDbyUis78G9fF0GTiHcDwNCIsmnz0ecuorbIxv2OIpg/https://pic4.zhimg.com/v2-5bda343b6ecc35f41528d2c8abbc60cb_b.jpg)
+> 
+> 生成一个包含分析和设计的示例大约需要0.2美元（GPT-4 API的费用），而一个完整的项目大约需要2.0美元 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-648482813-189df3c29d6#06f36122-a08f-46a6-bf06-03760a212275)  ^06f36122
+
+> MetaGPT的方法展示了，将高层次任务分解为由不同角色，比如产品经理、架构师、项目经理、工程师，处理的详细可操作组件的能力。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-648482813-189df3c29d6#1c4005af-b91e-4d75-92ff-34cb1635293c)  ^1c4005af
+
+> **平台或工具的偏好**
+> 
+> 你可以在陈述需求时，说明自己想要使用的平台或工具。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-648482813-189df3c29d6#89cfb9d4-830e-4057-aeab-0b08edf7019c)  ^89cfb9d4
+

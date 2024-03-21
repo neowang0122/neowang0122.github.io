@@ -17,25 +17,6 @@ date_saved: 2023-07-21 02:04:59
 
 date_published: 2020-08-21 20:00:00
 
-## Highlights
-
-> 其次 Apple New 的首页新闻都是被新闻专业人士筛选过展现的（我从一个从事新闻业工作的朋友听到的）。虽然突发新闻抢不了先机（也没必要），但是新闻的专业性还有阅读性是可以保证的 [⤴️](https://omnivore.app/me/app-subscriptions-two-circles-189770d2b99#125a900d-ea48-47e0-b352-b020ca0fe0ef)  ^125a900d
-
-> 尤其是我很喜欢 Apple New+ 推送给我的老牌杂志长文，比如 ProPublica 和 The Atlantic。每篇花上大约十到二十分钟的阅读很有收获。 [⤴️](https://omnivore.app/me/app-subscriptions-two-circles-189770d2b99#2a43839d-6934-4d4b-bbe9-fe0486eb8b4d)  ^2a43839d
-
-> 上述的两个优势其实只需要一个苹果设备就可以拥有，而促使我订阅 Apple News+ 的原因是可以一站式看不少报刊杂志。我可以看的包含但不限于：The Wall Street Journal (Newspaper), The New Yorker (Magzines), Top Gear (Car), Bloomberg Business (Finance)... [⤴️](https://omnivore.app/me/app-subscriptions-two-circles-189770d2b99#6e44631a-b124-41bb-aab5-285f7b12dc91)  ^6e44631a
-
-> Inoreader 是一个 RSS 平台，在[少数派上](https://sspai.com/post/58041)提到过多次了。RSS 最大的好处就是把信息通过一个链接集合在了一个平台上，让我不必点开每个网站阅读全文再来判断，是真正的学术效率利器。对我来说最大用处就是订阅各个学术期刊的更新了。每天早上泡好咖啡之后就一边浏览各大期刊最新发表的文章一边喝咖啡摸鱼，不到 15 分钟就能掌握 ASAP [⤴️](https://omnivore.app/me/app-subscriptions-two-circles-189770d2b99#72bbffa7-7f2d-4063-8f18-449384b584c9)  ^72bbffa7
-
-> ## [滴答清单](https://dida365.com/)
-> 
-> * 国区价格：¥139/年
-> * 评分：7/10
-> * 适用：全平台轻量文字工作的效率管理软件
-> 
-> 现在效率软件多如牛毛，我也使用过不少。一开始用过 Todolist 一类免费版本，也用过 Things 3 买断制 APP，去年开始换到了奇妙清单。最大动机还是对全平台的要求。Things 3 的界面和使用逻辑我是最喜欢的，但是不提供 Windows 版本。滴答清单总体而言做的非常优秀，兼顾最基础的 todo 功能还有轻量写作需求。高级版本丰富了提醒功能和日历小部件。最让我惊喜的是，滴答清单虽然拥有众多功能，但是依然可以有最简单的方法随时随地记下我需要做的事情，再到之后进行填充。 [⤴️](https://omnivore.app/me/app-subscriptions-two-circles-189770d2b99#28ee3026-7fc1-4771-835c-2931e9d951a7)  ^28ee3026
-
-
 --- 
 
 # Full Content: 
@@ -209,3 +190,24 @@ Bear 在中国又叫熊掌记，大概三四年前（？）我就开始使用了
 ```
 
 My anger matters, so does yours. 
+
+---
+
+## Highlights
+
+> 其次 Apple New 的首页新闻都是被新闻专业人士筛选过展现的（我从一个从事新闻业工作的朋友听到的）。虽然突发新闻抢不了先机（也没必要），但是新闻的专业性还有阅读性是可以保证的 [⤴️](https://omnivore.app/me/app-subscriptions-two-circles-189770d2b99#125a900d-ea48-47e0-b352-b020ca0fe0ef)  ^125a900d
+
+> 尤其是我很喜欢 Apple New+ 推送给我的老牌杂志长文，比如 ProPublica 和 The Atlantic。每篇花上大约十到二十分钟的阅读很有收获。 [⤴️](https://omnivore.app/me/app-subscriptions-two-circles-189770d2b99#2a43839d-6934-4d4b-bbe9-fe0486eb8b4d)  ^2a43839d
+
+> 上述的两个优势其实只需要一个苹果设备就可以拥有，而促使我订阅 Apple News+ 的原因是可以一站式看不少报刊杂志。我可以看的包含但不限于：The Wall Street Journal (Newspaper), The New Yorker (Magzines), Top Gear (Car), Bloomberg Business (Finance)... [⤴️](https://omnivore.app/me/app-subscriptions-two-circles-189770d2b99#6e44631a-b124-41bb-aab5-285f7b12dc91)  ^6e44631a
+
+> Inoreader 是一个 RSS 平台，在[少数派上](https://sspai.com/post/58041)提到过多次了。RSS 最大的好处就是把信息通过一个链接集合在了一个平台上，让我不必点开每个网站阅读全文再来判断，是真正的学术效率利器。对我来说最大用处就是订阅各个学术期刊的更新了。每天早上泡好咖啡之后就一边浏览各大期刊最新发表的文章一边喝咖啡摸鱼，不到 15 分钟就能掌握 ASAP [⤴️](https://omnivore.app/me/app-subscriptions-two-circles-189770d2b99#72bbffa7-7f2d-4063-8f18-449384b584c9)  ^72bbffa7
+
+> ## [滴答清单](https://dida365.com/)
+> 
+> * 国区价格：¥139/年
+> * 评分：7/10
+> * 适用：全平台轻量文字工作的效率管理软件
+> 
+> 现在效率软件多如牛毛，我也使用过不少。一开始用过 Todolist 一类免费版本，也用过 Things 3 买断制 APP，去年开始换到了奇妙清单。最大动机还是对全平台的要求。Things 3 的界面和使用逻辑我是最喜欢的，但是不提供 Windows 版本。滴答清单总体而言做的非常优秀，兼顾最基础的 todo 功能还有轻量写作需求。高级版本丰富了提醒功能和日历小部件。最让我惊喜的是，滴答清单虽然拥有众多功能，但是依然可以有最简单的方法随时随地记下我需要做的事情，再到之后进行填充。 [⤴️](https://omnivore.app/me/app-subscriptions-two-circles-189770d2b99#28ee3026-7fc1-4771-835c-2931e9d951a7)  ^28ee3026
+

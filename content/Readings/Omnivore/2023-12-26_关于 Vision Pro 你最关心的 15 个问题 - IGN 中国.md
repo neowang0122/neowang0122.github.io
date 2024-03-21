@@ -19,25 +19,6 @@ date_saved: 2023-12-26 12:43:00
 
 date_published: 2023-06-08 00:40:52
 
-## Highlights
-
-> 例如在体验演示中，通过 Vision Pro 的摄像头还原周围的实景画面，从观看的视感来看，很难说这究竟是实时传送的画面还是通过虚拟计算后还原的画面，你要很仔细盯着看才能看出区别 [⤴️](https://omnivore.app/me/vision-pro-15-ign-18ca7390304#00e8550c-836e-4b6f-967f-61c67e937345)  ^00e8550c
-
-> 而在浏览器上看到的文字，无论是英文还是中文，字体都非常清晰，与平时在 MacBook 上看到的效果几无差距 [⤴️](https://omnivore.app/me/vision-pro-15-ign-18ca7390304#911598fd-d999-4433-ae61-67ca677e2e45)  ^911598fd
-
-> 电池包上有一个 USB-C 接口可以外接电源提供无限续航，工作人员明确表示该接口只提供充电不提供数据传输功能。 [⤴️](https://omnivore.app/me/vision-pro-15-ign-18ca7390304#bb6f80eb-e65d-4460-9901-668bb837c930)  ^bb6f80eb
-
-> **Q：用 Vision Pro 看电影的效果如何？**
-> 
-> A：非常好。由于 Vision Pro 的 micro-oled 显示屏有着超越目前所有 VR 头显的显示效果，所以在观看影片时看不到任何颗粒感或者纱窗感，它就像在正常的 MacBook 显示屏上看视频的效果一样清晰。另外，在观看电影时可以通过旋转数码表冠屏蔽掉外部环境显示而进入沉浸式观影，你想象一下在电影院里关掉所有灯光只看屏幕的效果，就是如此身临其境。并且可以选择与银幕之间的距离，就像你在电影院选择前排还是后排观影一样。我敢说任何人用 Vision Pro 看过电影后就会再也不想在其他头戴设备上看视频了。 [⤴️](https://omnivore.app/me/vision-pro-15-ign-18ca7390304#fa01bf1b-a97d-4dfc-97cf-3edae3025653)  ^fa01bf1b
-
-> 从单一产品的角度看，Vision Pro 是一款相当激进的产品，它的激进程度毫不亚于 2007 年扔掉了实体按键和采用手指触控的初代 iPhone，但这种激进程度更多体现在产品用料和硬件技能上，甚至有点「大力出奇迹」的意思，让人感觉苹果使出了浑身解数动用了十几年来的沉淀与积累做出了这台 Vision Pro，不仅让当前的产品体验傲视群雄，也让公布的价格惊为天人。 [⤴️](https://omnivore.app/me/vision-pro-15-ign-18ca7390304#720640f1-6702-4290-99f3-b5bda9f15c03)  ^720640f1
-
-> 但将 Vision Pro 放入到苹果所有的产品生态中去看的话，又会让人觉得这对于苹果来说是一款顺理成章的产品，在 Vision Pro 身上看到的是苹果在此之前在所有产品上的技术投入都在它身上开花结果，视网膜屏、空间音效、LiDAR 传感器、触控操作、Face ID……等等这些技术最终在 Vision Pro 身上融为一体，浑然天成。 [⤴️](https://omnivore.app/me/vision-pro-15-ign-18ca7390304#baac6fa0-7039-46a2-bd09-0e7e5a3f970a)  ^baac6fa0
-
-> 正如 iPhone 虽是苹果创造，但 iPhone 的成功也要归功于背后千千万万的应用开发者那样，Vision Pro 是苹果为空间计算设备夯下的基石，这个设备是否能成为真正革命性的设备，也要看在未来的时间里有多少应用开发者能为它量身打造具备革命性体验的应用。苹果反正已经举起了这面大旗，毕竟离正式发售还有大半年时间，就看有多少应用开发者能为之振臂一呼一拥而上了。 [⤴️](https://omnivore.app/me/vision-pro-15-ign-18ca7390304#bbaa7877-df64-42e9-bb6d-f6c2e89db6c6)  ^bbaa7877
-
-
 --- 
 
 # Full Content: 
@@ -137,3 +118,24 @@ A：这是一个很难回答的问题。从产品设计的角度来说，Vision 
 文章提及
 
 ![](https://proxy-prod.omnivore-image-cache.app/0x0,s7MM-Dy-DUumyVn-b5L05pKs6T1hYICieGrwAd7YTSxQ/https://www.ign.com.cn/sm/t/ign_cn/cover/a/apple-visi/apple-vision-pro_xd6n.128.jpg "Apple Vision Pro") 
+
+---
+
+## Highlights
+
+> 例如在体验演示中，通过 Vision Pro 的摄像头还原周围的实景画面，从观看的视感来看，很难说这究竟是实时传送的画面还是通过虚拟计算后还原的画面，你要很仔细盯着看才能看出区别 [⤴️](https://omnivore.app/me/vision-pro-15-ign-18ca7390304#00e8550c-836e-4b6f-967f-61c67e937345)  ^00e8550c
+
+> 而在浏览器上看到的文字，无论是英文还是中文，字体都非常清晰，与平时在 MacBook 上看到的效果几无差距 [⤴️](https://omnivore.app/me/vision-pro-15-ign-18ca7390304#911598fd-d999-4433-ae61-67ca677e2e45)  ^911598fd
+
+> 电池包上有一个 USB-C 接口可以外接电源提供无限续航，工作人员明确表示该接口只提供充电不提供数据传输功能。 [⤴️](https://omnivore.app/me/vision-pro-15-ign-18ca7390304#bb6f80eb-e65d-4460-9901-668bb837c930)  ^bb6f80eb
+
+> **Q：用 Vision Pro 看电影的效果如何？**
+> 
+> A：非常好。由于 Vision Pro 的 micro-oled 显示屏有着超越目前所有 VR 头显的显示效果，所以在观看影片时看不到任何颗粒感或者纱窗感，它就像在正常的 MacBook 显示屏上看视频的效果一样清晰。另外，在观看电影时可以通过旋转数码表冠屏蔽掉外部环境显示而进入沉浸式观影，你想象一下在电影院里关掉所有灯光只看屏幕的效果，就是如此身临其境。并且可以选择与银幕之间的距离，就像你在电影院选择前排还是后排观影一样。我敢说任何人用 Vision Pro 看过电影后就会再也不想在其他头戴设备上看视频了。 [⤴️](https://omnivore.app/me/vision-pro-15-ign-18ca7390304#fa01bf1b-a97d-4dfc-97cf-3edae3025653)  ^fa01bf1b
+
+> 从单一产品的角度看，Vision Pro 是一款相当激进的产品，它的激进程度毫不亚于 2007 年扔掉了实体按键和采用手指触控的初代 iPhone，但这种激进程度更多体现在产品用料和硬件技能上，甚至有点「大力出奇迹」的意思，让人感觉苹果使出了浑身解数动用了十几年来的沉淀与积累做出了这台 Vision Pro，不仅让当前的产品体验傲视群雄，也让公布的价格惊为天人。 [⤴️](https://omnivore.app/me/vision-pro-15-ign-18ca7390304#720640f1-6702-4290-99f3-b5bda9f15c03)  ^720640f1
+
+> 但将 Vision Pro 放入到苹果所有的产品生态中去看的话，又会让人觉得这对于苹果来说是一款顺理成章的产品，在 Vision Pro 身上看到的是苹果在此之前在所有产品上的技术投入都在它身上开花结果，视网膜屏、空间音效、LiDAR 传感器、触控操作、Face ID……等等这些技术最终在 Vision Pro 身上融为一体，浑然天成。 [⤴️](https://omnivore.app/me/vision-pro-15-ign-18ca7390304#baac6fa0-7039-46a2-bd09-0e7e5a3f970a)  ^baac6fa0
+
+> 正如 iPhone 虽是苹果创造，但 iPhone 的成功也要归功于背后千千万万的应用开发者那样，Vision Pro 是苹果为空间计算设备夯下的基石，这个设备是否能成为真正革命性的设备，也要看在未来的时间里有多少应用开发者能为它量身打造具备革命性体验的应用。苹果反正已经举起了这面大旗，毕竟离正式发售还有大半年时间，就看有多少应用开发者能为之振臂一呼一拥而上了。 [⤴️](https://omnivore.app/me/vision-pro-15-ign-18ca7390304#bbaa7877-df64-42e9-bb6d-f6c2e89db6c6)  ^bbaa7877
+

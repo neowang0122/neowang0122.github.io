@@ -19,35 +19,6 @@ date_saved: 2023-07-28 00:37:21
 
 date_published: 2018-07-14 08:51:19
 
-## Highlights
-
-> 个人非常不Social，这对找工作是不好的。跟同学交流哪个公司在找人、面试难度怎么样，还有跟HR和同事的交流，都是少不了的 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#763ada90-fd87-4467-ad58-4bfc2e5fcca5)  ^763ada90
-
-> 康村的MEng项目是一年，一共需要30学分毕业，每学期15分 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#2a40ef4c-2e6d-4ac2-975f-053f2d712288)  ^2a40ef4c
-
-> 项目可以延长一个学期，这样的话一共需要36学分毕业。需要注意的是如果前两个学期已经拿了36学分，就会爆炸，因为已经达到毕业标准，不能延期了。延期的话平均一学期只需要12学分…我第二学期就是只选了12学分，然后就会空余好多好多时间去刷题找实习… [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#6f2a2e99-e204-4ed4-8701-9ec3a61a4ae2)  ^6f2a2e99
-
-> 更加令人欣喜的是我们村还支持秋季实习，也就是第三个学期不上课，去实习，然后第四学期（春季）再回来上课 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#124105f1-30e0-4a66-9b12-682fd9838c53)  ^124105f1
-
-> **关于选课：**
-> 
-> 政策是每学期要选2门ECE的Core Course。不过有一个学期可以用一门其他学院的课来代替一门ECE Core [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#431f9296-d792-4980-aa78-b115290f2e07)  ^431f9296
-
-> 我上过的ECE的比较软的课有5470 Computer Vision (C/Python)和5725 Embedded OS(竟然是在Linux写Python)。 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#cb909987-0bdb-4605-8cae-1600c4c85bfe)  ^cb909987
-
-> 如果想用不在表上的课，需要上交一个petition。我曾经亲身实验过，成功把不在表上的CS的Computer Vision变成了一门Outside...Core Course。 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#070c01ec-30e2-4f75-9625-48b6f1d5787e)  ^070c01ec
-
-> 上课 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#ed6ae37a-1dfb-47ab-bc45-5d38a37d2c7e)  ^ed6ae37a
-
-> 另外一个很好的地方是我们一入学就会开始选题选导师，做一个为期一年的MEng project。我们ECE是不分track的，做的这个项目可能一定程度上会决定你的concentration。另外这个项目的导师就会一直作为你的academic advisor。硬件的课题当然是很多的，软件的也有不少。我自己做的跟computer vision相关。其他有些课题是跟machine learning相关。每个学期需要跟导师商量这个项目想要拿多少学分。每1个学分意味着每周4到5小时的工作量。这个项目在简历上一定是值得大写一笔的，而且跟导师的关系也会很近，可能获得工作机会什么的（有些公司是会跟教授们要人的） [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#fcd0a780-9c51-4412-8867-26621cd0799b)  ^fcd0a780
-
-> 因为真的远，如果在公交车上看书的话会收获很大的 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#e82869ae-0f13-40c6-96ae-a73bd2347797)  ^e82869ae
-
-> 总体来说就是项目时间短，但也允许延期和秋季实习，选课相对自由，适合转码，只要精力跟得上，而且不分track，想干嘛干嘛，还有一个MEng project极大地丰富简历并拉近与导师的距离，也有语言课帮助适应生活。其实找工作的话一方面是充实简历，另一方面还是大量刷题，都是要看个人造化的 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#da3937d2-c621-43a7-96b5-1c81bb6050c9)  ^da3937d2
-
-> 我们的学费是固定的，不是按学分算，所以课选得越多越划算 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#ef0edf20-712a-43d0-b196-39d882119e3a)  ^ef0edf20
-
-
 --- 
 
 # Full Content: 
@@ -151,3 +122,34 @@ x
 
 上一篇：[UCLA CS master项目介绍](https://www.1point3acres.com/bbs/thread-433198-1-1.html "UCLA CS master项目介绍")  
 下一篇：[NYU Courant 两年感受](https://www.1point3acres.com/bbs/thread-434091-1-1.html "NYU Courant 两年感受")
+
+---
+
+## Highlights
+
+> 个人非常不Social，这对找工作是不好的。跟同学交流哪个公司在找人、面试难度怎么样，还有跟HR和同事的交流，都是少不了的 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#763ada90-fd87-4467-ad58-4bfc2e5fcca5)  ^763ada90
+
+> 康村的MEng项目是一年，一共需要30学分毕业，每学期15分 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#2a40ef4c-2e6d-4ac2-975f-053f2d712288)  ^2a40ef4c
+
+> 项目可以延长一个学期，这样的话一共需要36学分毕业。需要注意的是如果前两个学期已经拿了36学分，就会爆炸，因为已经达到毕业标准，不能延期了。延期的话平均一学期只需要12学分…我第二学期就是只选了12学分，然后就会空余好多好多时间去刷题找实习… [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#6f2a2e99-e204-4ed4-8701-9ec3a61a4ae2)  ^6f2a2e99
+
+> 更加令人欣喜的是我们村还支持秋季实习，也就是第三个学期不上课，去实习，然后第四学期（春季）再回来上课 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#124105f1-30e0-4a66-9b12-682fd9838c53)  ^124105f1
+
+> **关于选课：**
+> 
+> 政策是每学期要选2门ECE的Core Course。不过有一个学期可以用一门其他学院的课来代替一门ECE Core [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#431f9296-d792-4980-aa78-b115290f2e07)  ^431f9296
+
+> 我上过的ECE的比较软的课有5470 Computer Vision (C/Python)和5725 Embedded OS(竟然是在Linux写Python)。 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#cb909987-0bdb-4605-8cae-1600c4c85bfe)  ^cb909987
+
+> 如果想用不在表上的课，需要上交一个petition。我曾经亲身实验过，成功把不在表上的CS的Computer Vision变成了一门Outside...Core Course。 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#070c01ec-30e2-4f75-9625-48b6f1d5787e)  ^070c01ec
+
+> 上课 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#ed6ae37a-1dfb-47ab-bc45-5d38a37d2c7e)  ^ed6ae37a
+
+> 另外一个很好的地方是我们一入学就会开始选题选导师，做一个为期一年的MEng project。我们ECE是不分track的，做的这个项目可能一定程度上会决定你的concentration。另外这个项目的导师就会一直作为你的academic advisor。硬件的课题当然是很多的，软件的也有不少。我自己做的跟computer vision相关。其他有些课题是跟machine learning相关。每个学期需要跟导师商量这个项目想要拿多少学分。每1个学分意味着每周4到5小时的工作量。这个项目在简历上一定是值得大写一笔的，而且跟导师的关系也会很近，可能获得工作机会什么的（有些公司是会跟教授们要人的） [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#fcd0a780-9c51-4412-8867-26621cd0799b)  ^fcd0a780
+
+> 因为真的远，如果在公交车上看书的话会收获很大的 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#e82869ae-0f13-40c6-96ae-a73bd2347797)  ^e82869ae
+
+> 总体来说就是项目时间短，但也允许延期和秋季实习，选课相对自由，适合转码，只要精力跟得上，而且不分track，想干嘛干嘛，还有一个MEng project极大地丰富简历并拉近与导师的距离，也有语言课帮助适应生活。其实找工作的话一方面是充实简历，另一方面还是大量刷题，都是要看个人造化的 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#da3937d2-c621-43a7-96b5-1c81bb6050c9)  ^da3937d2
+
+> 我们的学费是固定的，不是按学分算，所以课选得越多越划算 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-1899ac97670#ef0edf20-712a-43d0-b196-39d882119e3a)  ^ef0edf20
+

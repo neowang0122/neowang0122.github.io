@@ -21,24 +21,6 @@ date_saved: 2023-12-16 05:54:26
 
 date_published: 2023-12-15 19:00:00
 
-## Highlights
-
-> Chinese e-commerce retailers Temu and Shein have both won over the US market with their ultra-low-cost goods. Temu was this year’s [most downloaded](https://links.morningbrew.com/c/flm?mblid=3ed97bc977e5&mbcid=33715642.3573266&mid=1f4660240f65a00f40c621ae6f9ce93a) free app in Apple’s App Store, and Shein is gearing up for a monster IPO next year. But they each see a major obstacle keeping them from total domination: the other.
-> 
-> In their feud’s latest development, Temu [filed](https://links.morningbrew.com/c/fln?mblid=448e59ad827f&mbcid=33715642.3573266&mid=1f4660240f65a00f40c621ae6f9ce93a) a 100-page lawsuit on Wednesday alleging that Shein has been using “mafia-style” tactics to intimidate suppliers and has brought unfounded copyright claims to curb Temu’s growth in the US. [⤴️](https://omnivore.app/me/railroaded-18c72435512#311e86e6-ac1c-48a4-8033-7aa4fe4d780d)  ^311e86e6
-
-> Temu, which became available in the US in September 2022, is currently winning the battle between the two to become the US’ destination for ultrafast fashion and goods.
-> 
-> * In November, Temu had three times more US sales than Shein.
-> * Data from Q2 shows users spent a daily average of 18 minutes on Temu’s app, almost double the time spent on US-based rivals like eBay and Amazon. [⤴️](https://omnivore.app/me/railroaded-18c72435512#b854e580-6abf-4435-a8a7-dc3aa0eb2b8a)  ^b854e580
-
-> **They’re not each other’s only nemesis:** With their growth in the US has come scrutiny of how they keep their prices so low, and both Shein and Temu have faced accusations of forced labor. Shein has also come under fire from designers who accuse it of stealing their IP._—MM_ [⤴️](https://omnivore.app/me/railroaded-18c72435512#c7a98826-9fd9-47b9-b0dc-2ede4fa4f739)  ^c7a98826
-
-> **Shipping giants are avoiding the Red Sea.** Following attacks on commercial ships by Houthi militants off the coast of Yemen, two of the world’s biggest shipping companies, Maersk and Hapag-Lloyd, said they have [paused](https://links.morningbrew.com/c/fls?mblid=464df7986d8c&mbcid=33715642.3573266&mid=1f4660240f65a00f40c621ae6f9ce93a) sending their ships through the Red Sea and will reroute around Africa. If you’re asking, “Who are the Houthis?”: They’re a militant group considered part of Iran’s “Axis of Resistance” around Israel, which also includes Hamas and Lebanon-based Hezbollah. Their [⤴️](https://omnivore.app/me/railroaded-18c72435512#2d0fff21-d60d-4abf-9b5b-a561b95d4b99)  ^2d0fff21
-
-> According to the International Chamber of Shipping trade group, 12% of global trade passes through the Red Sea. [⤴️](https://omnivore.app/me/railroaded-18c72435512#b7b06444-3108-4e68-bd55-a67ee8faaaf2)  ^b7b06444
-
-
 --- 
 
 # Full Content: 
@@ -249,3 +231,23 @@ View our privacy policy[here](https://links.morningbrew.com/c/6Oy?mbcid=33715642
 
 Copyright © 2023 Morning Brew. All rights reserved.  
 22 W 19th St, 4th Floor, New York, NY 10011
+
+---
+
+## Highlights
+
+> Chinese e-commerce retailers Temu and Shein have both won over the US market with their ultra-low-cost goods. Temu was this year’s [most downloaded](https://links.morningbrew.com/c/flm?mblid=3ed97bc977e5&mbcid=33715642.3573266&mid=1f4660240f65a00f40c621ae6f9ce93a) free app in Apple’s App Store, and Shein is gearing up for a monster IPO next year. But they each see a major obstacle keeping them from total domination: the other.
+> 
+> In their feud’s latest development, Temu [filed](https://links.morningbrew.com/c/fln?mblid=448e59ad827f&mbcid=33715642.3573266&mid=1f4660240f65a00f40c621ae6f9ce93a) a 100-page lawsuit on Wednesday alleging that Shein has been using “mafia-style” tactics to intimidate suppliers and has brought unfounded copyright claims to curb Temu’s growth in the US. [⤴️](https://omnivore.app/me/railroaded-18c72435512#311e86e6-ac1c-48a4-8033-7aa4fe4d780d)  ^311e86e6
+
+> Temu, which became available in the US in September 2022, is currently winning the battle between the two to become the US’ destination for ultrafast fashion and goods.
+> 
+> * In November, Temu had three times more US sales than Shein.
+> * Data from Q2 shows users spent a daily average of 18 minutes on Temu’s app, almost double the time spent on US-based rivals like eBay and Amazon. [⤴️](https://omnivore.app/me/railroaded-18c72435512#b854e580-6abf-4435-a8a7-dc3aa0eb2b8a)  ^b854e580
+
+> **They’re not each other’s only nemesis:** With their growth in the US has come scrutiny of how they keep their prices so low, and both Shein and Temu have faced accusations of forced labor. Shein has also come under fire from designers who accuse it of stealing their IP._—MM_ [⤴️](https://omnivore.app/me/railroaded-18c72435512#c7a98826-9fd9-47b9-b0dc-2ede4fa4f739)  ^c7a98826
+
+> **Shipping giants are avoiding the Red Sea.** Following attacks on commercial ships by Houthi militants off the coast of Yemen, two of the world’s biggest shipping companies, Maersk and Hapag-Lloyd, said they have [paused](https://links.morningbrew.com/c/fls?mblid=464df7986d8c&mbcid=33715642.3573266&mid=1f4660240f65a00f40c621ae6f9ce93a) sending their ships through the Red Sea and will reroute around Africa. If you’re asking, “Who are the Houthis?”: They’re a militant group considered part of Iran’s “Axis of Resistance” around Israel, which also includes Hamas and Lebanon-based Hezbollah. Their [⤴️](https://omnivore.app/me/railroaded-18c72435512#2d0fff21-d60d-4abf-9b5b-a561b95d4b99)  ^2d0fff21
+
+> According to the International Chamber of Shipping trade group, 12% of global trade passes through the Red Sea. [⤴️](https://omnivore.app/me/railroaded-18c72435512#b7b06444-3108-4e68-bd55-a67ee8faaaf2)  ^b7b06444
+

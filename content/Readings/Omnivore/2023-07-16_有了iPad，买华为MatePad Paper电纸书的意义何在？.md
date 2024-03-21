@@ -19,13 +19,6 @@ date_saved: 2023-07-16 12:46:41
 
 date_published: 2022-05-05 06:08:00
 
-## Highlights
-
-> 我有iPad或者其他平板电脑，买华为MatePad Paper的意义何在？ [⤴️](https://omnivore.app/me/i-pad-mate-pad-paper-1895f98e006#2f1ec09d-9510-453a-b47b-9d9ac1ab85c3)  ^2f1ec09d
-
-> 读书这样获取知识、学习是一件反人性的事情，需要很大的毅力，需要能耐得住寂寞，忍得住诱惑，这是华为MatePad Paper这样电纸书发明的初衷。 [⤴️](https://omnivore.app/me/i-pad-mate-pad-paper-1895f98e006#a2256460-422d-409d-af70-08a97e6961e0)  ^a2256460
-
-
 --- 
 
 # Full Content: 
@@ -66,3 +59,12 @@ date_published: 2022-05-05 06:08:00
 
 8，也要说一下它的“声音”能力，双扬声器，用华为MatePad Paper播放音乐也不错。当然场景是这样的：可以边听着轻音乐边读书；可以听书，比如孩子可以用它来听睡前故事等等。  
 9，说了这么多，华为MatePad Paper的目标人群已经很清晰：**如果你是阅读爱好者，需要阅读大量书、文献、资料等，华为MatePad Paper很适合你；如果你平时工作经常记笔记，或者需要随时记录思考灵感，华为MatePad Paper；对于孩子们，更是很适合，因为可以屏蔽诱惑，还不伤眼。**
+
+---
+
+## Highlights
+
+> 我有iPad或者其他平板电脑，买华为MatePad Paper的意义何在？ [⤴️](https://omnivore.app/me/i-pad-mate-pad-paper-1895f98e006#2f1ec09d-9510-453a-b47b-9d9ac1ab85c3)  ^2f1ec09d
+
+> 读书这样获取知识、学习是一件反人性的事情，需要很大的毅力，需要能耐得住寂寞，忍得住诱惑，这是华为MatePad Paper这样电纸书发明的初衷。 [⤴️](https://omnivore.app/me/i-pad-mate-pad-paper-1895f98e006#a2256460-422d-409d-af70-08a97e6961e0)  ^a2256460
+

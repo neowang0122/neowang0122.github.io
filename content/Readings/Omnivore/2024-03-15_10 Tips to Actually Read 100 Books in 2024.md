@@ -19,71 +19,6 @@ date_saved: 2024-03-15 09:58:32
 date_saved: 2024-03-15 09:58:32
 
 
-## Highlights
-
-> 10 Tips to Actually Read 100 Books in 2024 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#3ab4ce0a-9bfd-4cff-9705-05140759b82c)  ^3ab4ce0a
-
-> 📚 阅读自己喜欢的书籍 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#6d00062c-2f1a-4dc6-97fe-71c6850d1c98)  ^6d00062c
-
-> 📖 放弃不喜欢的书籍，不要强迫自己读完 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#74aba047-162f-4072-ad69-cee94e3d853f)  ^74aba047
-
-> 🎧 使用有声读物，可以在做其他事情时进行阅读 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#04471658-2e38-4cb5-9c45-8604d1c78d20)  ^04471658
-
-> 📱 设计数字环境，将阅读应用程序放在主屏幕上 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#fb16218a-c68a-4024-a65d-c83c9a11541e)  ^fb16218a
-
-> 📚 使用Goodreads等应用程序来游戏化阅读过程 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#241a4e0d-fe47-4feb-b3b3-8472b97b4271)  ^241a4e0d
-
-> 📖 改变自己的身份，将自己视为一个读书的人 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#bb7ceb73-19f6-4602-8d7b-cb0096e43f71)  ^bb7ceb73
-
-> 重要的是 你实际上正在阅读并且你正在 享受这个过程 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#379e8f13-70ac-4259-bef6-675b2493f040)  ^379e8f13
-
-> 投资者
-> 
-> \## Tip 1 - Read what you love [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#6ac10324-faac-4b1d-a772-fa43dcb6f0d6)  ^6ac10324
-
-> 企业家 Naval ravikant 的名言之一， 他说读你喜欢的东西，直到你 喜欢为止 阅读 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#0e42e5ea-3828-4fdb-bdaa-63ea97e3ec08)  ^0e42e5ea
-
-> 是
-> 
-> \## Tip 2 - Quit books [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#d5535fe1-7c84-4656-9d3b-f7e058ab1a91)  ^d5535fe1
-
-> 当你还在阅读书籍时，放弃书籍实际上是可以的， [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#b43e74eb-b655-418c-8373-d70ac8a286e8)  ^b43e74eb
-
-> 多
-> 
-> \## Tip 4 - Read multiple books [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#e3cb859d-821d-4ea0-b172-8f031a30c6ac)  ^e3cb859d
-
-> \## Tip 5 - Listen to audiobooks [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#06288460-cf97-4aaf-bdac-69e65ff4c77a)  ^06288460
-
-> \## Tip 6 - Shape your environment [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#c214f060-2596-4e2a-9030-f2095f358790)  ^c214f060
-
-> 有用的做法是以 鼓励我阅读的方式设计我的 iPhone 主屏幕 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#6e1574ed-da18-49ec-b395-2e0882f1b2d7)  ^6e1574ed
-
-> 现在在我的 主屏幕上我有一个
-> 
-> 日历 我有我的习惯追踪器 我 有我的待办事项列表应用程序 我有 Kindle 应用程序，也有 readwise 阅读器应用程序 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#930a4cac-33ca-4302-b9e7-2d59ad35acb0)  ^930a4cac
-
-> \## Tip 7 - Use a kindle [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#63122f8e-b03f-42cb-afcd-6a3ae62c7da2)  ^63122f8e
-
-> \## Tip 8 - Gamify with goodreads [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#a99cd1fe-fd01-4ebd-9f8d-0d469797a2fe)  ^a99cd1fe
-
-> \## Tip 9 - Change your identity
-> 
-> 九是改变你的身份，这是 詹姆斯·克利尔 在《原子习惯》中经常谈到的事情，如果你 确实想养成一种对
-> 
-> 你特别有好处的习惯，你想 从身份层面开始，那么 阅读更多内容会更容易 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#b8df5d64-0419-4862-b115-7775cc5929a7)  ^b8df5d64
-
-> 如果你 认为自己是一个读了很多
-> 
-> 书的人，或者如果你认为自己是一个读者， 而不是告诉自己 你的身份是一个 不读书的人，比如哦，我不
-> 
-> 读书，或者我 从来不读书，就像所有 这些事情都在削弱 你对自己所说的话，所以 阅读更多书籍的一个相当简单的方法就是
-> 
-> 转变为这样的身份：我是一个 读书的人，我是一个抽出 时间读书的人 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#5f086ecc-846d-469d-bfa6-25176f0054dc)  ^5f086ecc
-
-> \## Tip 10 - Stop caring about the numbers [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#757478d0-eb2b-41f4-b35a-4647b4794f87)  ^757478d0
-
-
 --- 
 
 # Full Content: 
@@ -395,3 +330,70 @@ Goodreads 就像一个 亚马逊旗下的读者社交网络， 有点幼稚，�
 我想看看 这里的这个视频，它是关于 如何记住你 读过的所有内容的，非常感谢你的观看，
 
 我们将在下一个视频中再见， 再见
+
+---
+
+## Highlights
+
+> 10 Tips to Actually Read 100 Books in 2024 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#3ab4ce0a-9bfd-4cff-9705-05140759b82c)  ^3ab4ce0a
+
+> 📚 阅读自己喜欢的书籍 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#6d00062c-2f1a-4dc6-97fe-71c6850d1c98)  ^6d00062c
+
+> 📖 放弃不喜欢的书籍，不要强迫自己读完 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#74aba047-162f-4072-ad69-cee94e3d853f)  ^74aba047
+
+> 🎧 使用有声读物，可以在做其他事情时进行阅读 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#04471658-2e38-4cb5-9c45-8604d1c78d20)  ^04471658
+
+> 📱 设计数字环境，将阅读应用程序放在主屏幕上 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#fb16218a-c68a-4024-a65d-c83c9a11541e)  ^fb16218a
+
+> 📚 使用Goodreads等应用程序来游戏化阅读过程 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#241a4e0d-fe47-4feb-b3b3-8472b97b4271)  ^241a4e0d
+
+> 📖 改变自己的身份，将自己视为一个读书的人 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#bb7ceb73-19f6-4602-8d7b-cb0096e43f71)  ^bb7ceb73
+
+> 重要的是 你实际上正在阅读并且你正在 享受这个过程 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#379e8f13-70ac-4259-bef6-675b2493f040)  ^379e8f13
+
+> 投资者
+> 
+> \## Tip 1 - Read what you love [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#6ac10324-faac-4b1d-a772-fa43dcb6f0d6)  ^6ac10324
+
+> 企业家 Naval ravikant 的名言之一， 他说读你喜欢的东西，直到你 喜欢为止 阅读 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#0e42e5ea-3828-4fdb-bdaa-63ea97e3ec08)  ^0e42e5ea
+
+> 是
+> 
+> \## Tip 2 - Quit books [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#d5535fe1-7c84-4656-9d3b-f7e058ab1a91)  ^d5535fe1
+
+> 当你还在阅读书籍时，放弃书籍实际上是可以的， [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#b43e74eb-b655-418c-8373-d70ac8a286e8)  ^b43e74eb
+
+> 多
+> 
+> \## Tip 4 - Read multiple books [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#e3cb859d-821d-4ea0-b172-8f031a30c6ac)  ^e3cb859d
+
+> \## Tip 5 - Listen to audiobooks [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#06288460-cf97-4aaf-bdac-69e65ff4c77a)  ^06288460
+
+> \## Tip 6 - Shape your environment [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#c214f060-2596-4e2a-9030-f2095f358790)  ^c214f060
+
+> 有用的做法是以 鼓励我阅读的方式设计我的 iPhone 主屏幕 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#6e1574ed-da18-49ec-b395-2e0882f1b2d7)  ^6e1574ed
+
+> 现在在我的 主屏幕上我有一个
+> 
+> 日历 我有我的习惯追踪器 我 有我的待办事项列表应用程序 我有 Kindle 应用程序，也有 readwise 阅读器应用程序 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#930a4cac-33ca-4302-b9e7-2d59ad35acb0)  ^930a4cac
+
+> \## Tip 7 - Use a kindle [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#63122f8e-b03f-42cb-afcd-6a3ae62c7da2)  ^63122f8e
+
+> \## Tip 8 - Gamify with goodreads [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#a99cd1fe-fd01-4ebd-9f8d-0d469797a2fe)  ^a99cd1fe
+
+> \## Tip 9 - Change your identity
+> 
+> 九是改变你的身份，这是 詹姆斯·克利尔 在《原子习惯》中经常谈到的事情，如果你 确实想养成一种对
+> 
+> 你特别有好处的习惯，你想 从身份层面开始，那么 阅读更多内容会更容易 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#b8df5d64-0419-4862-b115-7775cc5929a7)  ^b8df5d64
+
+> 如果你 认为自己是一个读了很多
+> 
+> 书的人，或者如果你认为自己是一个读者， 而不是告诉自己 你的身份是一个 不读书的人，比如哦，我不
+> 
+> 读书，或者我 从来不读书，就像所有 这些事情都在削弱 你对自己所说的话，所以 阅读更多书籍的一个相当简单的方法就是
+> 
+> 转变为这样的身份：我是一个 读书的人，我是一个抽出 时间读书的人 [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#5f086ecc-846d-469d-bfa6-25176f0054dc)  ^5f086ecc
+
+> \## Tip 10 - Stop caring about the numbers [⤴️](https://omnivore.app/me/10-tips-to-actually-read-100-books-in-2024-18e42683ff1#757478d0-eb2b-41f4-b35a-4647b4794f87)  ^757478d0
+

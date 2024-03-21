@@ -19,64 +19,6 @@ date_saved: 2023-11-13 16:04:06
 
 date_published: 2022-12-06 19:00:00
 
-## Highlights
-
-> In around 250 words, an abstract summarizes the entire study and generates reader interest in your paper. An introduction is the first section of your paper. It covers background information, sets the context for your research, and is longer than an abstract (500 words or more). [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#0d753a1a-81cd-498b-9e57-d0b1372f366b)  ^0d753a1a
-
-> The key difference between an abstract and an introduction is their purpose: 
-> 
-> * An abstract is an advertisement.
-> * An introduction is a hook. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#6e6e9536-247d-43b5-bfd7-3e91d38d681b)  ^6e6e9536
-
-> If you think of an abstract as an advertisement, it should be brief and summarize your paper entirely. People will have to spend their time (maybe even their money) reading your paper. So, your abstract should give them an initial idea of why your paper is relevant to them and what they can expect to learn.
-> 
-> Alternatively, thinking of your introduction as a “hook” means it’s the key to holding the long-term attention of a reader (once they’ve chosen to read your paper). An introduction isn’t about giving all of the research details, it’s about setting the scene for why the details matter. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#f6fe945d-65e7-44a5-9da3-cedf55af539f)  ^f6fe945d
-
-> Beyond purpose, the table below outlines the differences between abstracts and introductions:
-> 
-> ![Comparison table between abstract and introduction](https://proxy-prod.omnivore-image-cache.app/0x0,sD8nV0I6kCHx781jRqc5_esLDjVtZK3nhz2sR6JflE-g/https://fourwaves.com/media/ta2dvc0m/comparison-table.jpg?rmode=min&width=1560&format=jpeg&quality=90&bgcolor=fff&rnd=133174947815600000) 
-> 
-> Comparison table showing the key differences between an abstract and an introduction. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#4224e1b2-271b-4bc2-9bc5-c37b59a33427)  ^4224e1b2
-
-> focus on answering the same set of key questions for prospective readers:
-> 
-> * **Context/Background:** Why is this topic and this research important?
-> * **Objective:** What questions are you trying to answer in your research?
-> * **Methods/Design:** What are the basic details of your research? In general, how did you go about answering the research questions?
-> * **Results:** What answers did you find? Were there any other observations?
-> * **Conclusion/Takeaways:** Were your results expected? Is more research needed? [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#f9c6c357-e960-4cd3-8680-8595d17e830f)  ^f9c6c357
-
-> ### **Keep your abstract clear and concise**
-> 
-> Your abstract should efficiently deliver information in a way that non-specialists can understand. Detailed descriptions and scientific slang terms don’t belong here. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#fb23e893-915b-4cd0-80ca-47c0982b8469)  ^fb23e893
-
-> check specific author guidelines to know if there’s a word limit for your abstract (250 words is a common limit). [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#6020ce73-4b96-4c34-a00e-5ab5c20affda)  ^6020ce73
-
-> ### **3\. Beat writer’s block by outlining your paper**
-> 
-> Just because your abstract is the first thing people will read doesn’t mean it’s the first thing you have to write. It’s helpful to have an outline or loose draft of your entire paper before you [write your abstract](https://www.aje.com/arc/make-great-first-impression-6-tips-writing-strong-abstract/). Highlight the most important points in each section, then use them to help frame your abstract. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#9ee1b1b9-61e2-4591-b060-7fe3e6594008)  ^9ee1b1b9
-
-> gives context to your research and makes it clear why your reader should care. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#86ec9b6e-c6fc-4071-86b0-01d25b7477eb)  ^86ec9b6e
-
-> introduction should cover key questions slightly differently (and in more detail) than your abstract:
-> 
-> * Why is your field of research important?
-> * What background information is needed to understand your research (include references where applicable)?
-> * What earlier research impacts the context of your own or helps with understanding your research process?
-> * How is your research innovative or original?
-> * What are the sections included in the rest of the paper? [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#d9b99025-b971-4058-9a24-f3a007ea8aab)  ^d9b99025
-
-> writing or outlining that part of the story early (and before you forget the details) can help provide accurate context. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#61b0c75b-20f0-4ba9-a58e-2804719d8e17)  ^61b0c75b
-
-> ### **3\. Consider your introduction’s tone and tense**
-> 
-> Use a formal, impersonal tone and speak primarily in the present tense. [Double-check the tense used](https://www.ehu.eus/ccwintco/uploads/e/ef/How%5Fto%5Fwrite%5Fa%5Fgood%5Fintroduction.pdf) in each sentence or example since there’s a chance you’ll talk about past research in contrast with new processes. Avoid using emotional appeals as they are more suitable for conference presentations and public speaking. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#2e68122b-69d0-4a3b-bc14-201ed286dc19)  ^2e68122b
-
-> ### **Where can I find examples of abstracts and introductions?**
-> 
-> [This article by Kibin](https://www.kibin.com/essay-writing-blog/10-good-abstract-examples/) has 10 top-notch abstract examples to get you started. For a step-by-step guide to help you write an introduction, take a look at [this article by Scribbr](https://www.scribbr.com/research-paper/research-paper-introduction/) [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#1f72a516-929e-4acc-9056-6e5c5ca79396)  ^1f72a516
-
-
 --- 
 
 # Full Content: 
@@ -200,3 +142,63 @@ Now that you know the key differences between an abstract and an introduction, i
 [ The Best Oxford Abstracts Alternative for Abstract Management and Peer Reviews](https://fourwaves.com/blog/oxford-abstract-alternative/)
 
  Oxford Abstracts is a popular platform for managing abstract submissions and peer reviews for conferences and academic events. However, the rapidly ev...
+
+---
+
+## Highlights
+
+> In around 250 words, an abstract summarizes the entire study and generates reader interest in your paper. An introduction is the first section of your paper. It covers background information, sets the context for your research, and is longer than an abstract (500 words or more). [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#0d753a1a-81cd-498b-9e57-d0b1372f366b)  ^0d753a1a
+
+> The key difference between an abstract and an introduction is their purpose: 
+> 
+> * An abstract is an advertisement.
+> * An introduction is a hook. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#6e6e9536-247d-43b5-bfd7-3e91d38d681b)  ^6e6e9536
+
+> If you think of an abstract as an advertisement, it should be brief and summarize your paper entirely. People will have to spend their time (maybe even their money) reading your paper. So, your abstract should give them an initial idea of why your paper is relevant to them and what they can expect to learn.
+> 
+> Alternatively, thinking of your introduction as a “hook” means it’s the key to holding the long-term attention of a reader (once they’ve chosen to read your paper). An introduction isn’t about giving all of the research details, it’s about setting the scene for why the details matter. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#f6fe945d-65e7-44a5-9da3-cedf55af539f)  ^f6fe945d
+
+> Beyond purpose, the table below outlines the differences between abstracts and introductions:
+> 
+> ![Comparison table between abstract and introduction](https://proxy-prod.omnivore-image-cache.app/0x0,sD8nV0I6kCHx781jRqc5_esLDjVtZK3nhz2sR6JflE-g/https://fourwaves.com/media/ta2dvc0m/comparison-table.jpg?rmode=min&width=1560&format=jpeg&quality=90&bgcolor=fff&rnd=133174947815600000) 
+> 
+> Comparison table showing the key differences between an abstract and an introduction. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#4224e1b2-271b-4bc2-9bc5-c37b59a33427)  ^4224e1b2
+
+> focus on answering the same set of key questions for prospective readers:
+> 
+> * **Context/Background:** Why is this topic and this research important?
+> * **Objective:** What questions are you trying to answer in your research?
+> * **Methods/Design:** What are the basic details of your research? In general, how did you go about answering the research questions?
+> * **Results:** What answers did you find? Were there any other observations?
+> * **Conclusion/Takeaways:** Were your results expected? Is more research needed? [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#f9c6c357-e960-4cd3-8680-8595d17e830f)  ^f9c6c357
+
+> ### **Keep your abstract clear and concise**
+> 
+> Your abstract should efficiently deliver information in a way that non-specialists can understand. Detailed descriptions and scientific slang terms don’t belong here. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#fb23e893-915b-4cd0-80ca-47c0982b8469)  ^fb23e893
+
+> check specific author guidelines to know if there’s a word limit for your abstract (250 words is a common limit). [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#6020ce73-4b96-4c34-a00e-5ab5c20affda)  ^6020ce73
+
+> ### **3\. Beat writer’s block by outlining your paper**
+> 
+> Just because your abstract is the first thing people will read doesn’t mean it’s the first thing you have to write. It’s helpful to have an outline or loose draft of your entire paper before you [write your abstract](https://www.aje.com/arc/make-great-first-impression-6-tips-writing-strong-abstract/). Highlight the most important points in each section, then use them to help frame your abstract. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#9ee1b1b9-61e2-4591-b060-7fe3e6594008)  ^9ee1b1b9
+
+> gives context to your research and makes it clear why your reader should care. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#86ec9b6e-c6fc-4071-86b0-01d25b7477eb)  ^86ec9b6e
+
+> introduction should cover key questions slightly differently (and in more detail) than your abstract:
+> 
+> * Why is your field of research important?
+> * What background information is needed to understand your research (include references where applicable)?
+> * What earlier research impacts the context of your own or helps with understanding your research process?
+> * How is your research innovative or original?
+> * What are the sections included in the rest of the paper? [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#d9b99025-b971-4058-9a24-f3a007ea8aab)  ^d9b99025
+
+> writing or outlining that part of the story early (and before you forget the details) can help provide accurate context. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#61b0c75b-20f0-4ba9-a58e-2804719d8e17)  ^61b0c75b
+
+> ### **3\. Consider your introduction’s tone and tense**
+> 
+> Use a formal, impersonal tone and speak primarily in the present tense. [Double-check the tense used](https://www.ehu.eus/ccwintco/uploads/e/ef/How%5Fto%5Fwrite%5Fa%5Fgood%5Fintroduction.pdf) in each sentence or example since there’s a chance you’ll talk about past research in contrast with new processes. Avoid using emotional appeals as they are more suitable for conference presentations and public speaking. [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#2e68122b-69d0-4a3b-bc14-201ed286dc19)  ^2e68122b
+
+> ### **Where can I find examples of abstracts and introductions?**
+> 
+> [This article by Kibin](https://www.kibin.com/essay-writing-blog/10-good-abstract-examples/) has 10 top-notch abstract examples to get you started. For a step-by-step guide to help you write an introduction, take a look at [this article by Scribbr](https://www.scribbr.com/research-paper/research-paper-introduction/) [⤴️](https://omnivore.app/me/abstract-vs-introduction-what-is-the-actual-difference-18bca7faa75#1f72a516-929e-4acc-9056-6e5c5ca79396)  ^1f72a516
+

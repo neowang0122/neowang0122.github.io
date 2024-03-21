@@ -17,65 +17,6 @@ date_saved: 2023-08-01 01:46:18
 date_saved: 2023-08-01 01:46:18
 
 
-## Highlights
-
-> ## 使用场景
-> 
-> 假设你现在积累了一众笔记，这些笔记之间除了双链还有一些关联，现在你想要一个目录，可以一目了然的聚合这些笔记。
-> 
-> 以下是一些场景：
-> 
-> * 生成 **包含同样关键字的笔记** 的目录
-> * 生成 **同一个标签的笔记** 的目录
-> * 生成 **同一个作者的书目** 的目录 [⤴️](https://omnivore.app/me/obsidian-dataview-189afa20779#3ad4d8ff-edc5-4e5f-92b5-2307568ef999)  ^3ad4d8ff
-
-> Dataview 可以生成 MOC，或者你也可以跟我一样，不去管 MOC 是什么，就把它当作一个目录。
-> 
-> 我们知道，目录是一篇文章的概览。**Dataview 其实生成了你的多篇文章目录**。 [⤴️](https://omnivore.app/me/obsidian-dataview-189afa20779#a8c39107-b6ec-468b-9aff-b4483118193a)  ^a8c39107
-
-> yml 语法大概长这样：
-> 
-> ```yaml
-> ---
-> title: 
-> author: 
-> tags: []
-> ---
-> ```
-> 
-> yml 的规则：
-> 
-> 1. 只要写在 6 个横杠符号之间，yml 就可以被识别。够简单吧？
-> 2. 必须写在文件最上方 [⤴️](https://omnivore.app/me/obsidian-dataview-189afa20779#6ad52188-34b7-415e-8f95-7d268fad9e87)  ^6ad52188
-
-> ### Dataview 使用 yml 的元素
-> 
-> where 和 sort 就可以直接使用你在 yml 中设置的 key 了。看看下面的写法：
-> 
-> ```applescript
-> ```dataview
-> list 
-> from ""
-> where contains(作者 ,"鲁迅")
-> ```
-> ``` [⤴️](https://omnivore.app/me/obsidian-dataview-189afa20779#efc76ab0-87fe-48e1-b9f4-4e74d9605175)  ^efc76ab0
-
-> 不过我们的语法有一点小小的改动。既然是 table，那么列名就必不可少。
-> 
-> 先贴一下代码看看吧:
-> 
-> ![](https://proxy-prod.omnivore-image-cache.app/0x0,sdVw2jv5uV9sVY-hxtaMYSBjx9ltLYPEN-KnivqxA6ac/https://i.loli.net/2021/08/08/Xm4DFryzwWnsA61.png)
-> 
-> 上面唯一的变化就是 table 这一行：  
-> `table author,from,tags` 。table 后面这三个字段就是我为表格设计的列。而 author 是我为笔记中的作者元素，from 是书籍来源，tags 是标签。这三个元素都写在来 yml，如今被 Dataview 识别，就可以展现我想要的列表。
-> 
-> where 条件里，我写的匹配字段是 `type`，这也是我 yml 里面的元素，表示输入内容，自定义了三个值：book、page、video。 [⤴️](https://omnivore.app/me/obsidian-dataview-189afa20779#1d2b7ba2-a468-4ca5-9bc6-115d84e8773d)  ^1d2b7ba2
-
-> where 条件里，我写的匹配字段是 `type`，这也是我 yml 里面的元素，表示输入内容，自定义了三个值：book、page、video。
-> 
-> sort 这句，用 author 字段排序，后面跟了一个 `desc`，表示倒序。 [⤴️](https://omnivore.app/me/obsidian-dataview-189afa20779#cdba678d-da4c-4737-834c-f3d5f7430a2f)  ^cdba678d
-
-
 --- 
 
 # Full Content: 
@@ -290,3 +231,64 @@ where contains(作者 ,"鲁迅")
 \> 想申请成为少数派作者？[冲！](https://sspai.com/apply/writing)
 
 © 本文著作权归作者所有，并授权少数派独家使用，未经少数派许可，不得转载使用。
+
+---
+
+## Highlights
+
+> ## 使用场景
+> 
+> 假设你现在积累了一众笔记，这些笔记之间除了双链还有一些关联，现在你想要一个目录，可以一目了然的聚合这些笔记。
+> 
+> 以下是一些场景：
+> 
+> * 生成 **包含同样关键字的笔记** 的目录
+> * 生成 **同一个标签的笔记** 的目录
+> * 生成 **同一个作者的书目** 的目录 [⤴️](https://omnivore.app/me/obsidian-dataview-189afa20779#3ad4d8ff-edc5-4e5f-92b5-2307568ef999)  ^3ad4d8ff
+
+> Dataview 可以生成 MOC，或者你也可以跟我一样，不去管 MOC 是什么，就把它当作一个目录。
+> 
+> 我们知道，目录是一篇文章的概览。**Dataview 其实生成了你的多篇文章目录**。 [⤴️](https://omnivore.app/me/obsidian-dataview-189afa20779#a8c39107-b6ec-468b-9aff-b4483118193a)  ^a8c39107
+
+> yml 语法大概长这样：
+> 
+> ```yaml
+> ---
+> title: 
+> author: 
+> tags: []
+> ---
+> ```
+> 
+> yml 的规则：
+> 
+> 1. 只要写在 6 个横杠符号之间，yml 就可以被识别。够简单吧？
+> 2. 必须写在文件最上方 [⤴️](https://omnivore.app/me/obsidian-dataview-189afa20779#6ad52188-34b7-415e-8f95-7d268fad9e87)  ^6ad52188
+
+> ### Dataview 使用 yml 的元素
+> 
+> where 和 sort 就可以直接使用你在 yml 中设置的 key 了。看看下面的写法：
+> 
+> ```applescript
+> ```dataview
+> list 
+> from ""
+> where contains(作者 ,"鲁迅")
+> ```
+> ``` [⤴️](https://omnivore.app/me/obsidian-dataview-189afa20779#efc76ab0-87fe-48e1-b9f4-4e74d9605175)  ^efc76ab0
+
+> 不过我们的语法有一点小小的改动。既然是 table，那么列名就必不可少。
+> 
+> 先贴一下代码看看吧:
+> 
+> ![](https://proxy-prod.omnivore-image-cache.app/0x0,sdVw2jv5uV9sVY-hxtaMYSBjx9ltLYPEN-KnivqxA6ac/https://i.loli.net/2021/08/08/Xm4DFryzwWnsA61.png)
+> 
+> 上面唯一的变化就是 table 这一行：  
+> `table author,from,tags` 。table 后面这三个字段就是我为表格设计的列。而 author 是我为笔记中的作者元素，from 是书籍来源，tags 是标签。这三个元素都写在来 yml，如今被 Dataview 识别，就可以展现我想要的列表。
+> 
+> where 条件里，我写的匹配字段是 `type`，这也是我 yml 里面的元素，表示输入内容，自定义了三个值：book、page、video。 [⤴️](https://omnivore.app/me/obsidian-dataview-189afa20779#1d2b7ba2-a468-4ca5-9bc6-115d84e8773d)  ^1d2b7ba2
+
+> where 条件里，我写的匹配字段是 `type`，这也是我 yml 里面的元素，表示输入内容，自定义了三个值：book、page、video。
+> 
+> sort 这句，用 author 字段排序，后面跟了一个 `desc`，表示倒序。 [⤴️](https://omnivore.app/me/obsidian-dataview-189afa20779#cdba678d-da4c-4737-834c-f3d5f7430a2f)  ^cdba678d
+

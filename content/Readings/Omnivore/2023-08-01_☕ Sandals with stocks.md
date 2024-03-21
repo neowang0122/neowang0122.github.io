@@ -19,25 +19,6 @@ date_saved: 2023-08-01 05:42:21
 date_saved: 2023-08-01 05:42:21
 
 
-## Highlights
-
-> Sandals [⤴️](https://omnivore.app/me/sandals-with-stocks-189b07a2005#d27d42de-e5c7-4b12-8475-d83285192036)  ^d27d42de
-
-> It was the S&amp;P 500’s fifth-straight month of gains, giving the index its best streak since 2021. [⤴️](https://omnivore.app/me/sandals-with-stocks-189b07a2005#20157150-3349-4eb6-add3-04f4041f7d29)  ^20157150
-
-> dubbed [⤴️](https://omnivore.app/me/sandals-with-stocks-189b07a2005#ba07433d-05db-48e5-92b4-262da87a2330)  ^ba07433d
-
-> billion [⤴️](https://omnivore.app/me/sandals-with-stocks-189b07a2005#2c08f5e7-b12c-4749-a6b5-4d12e87d8132)  ^2c08f5e7
-
-> Why invest in Miso? The same reason Ecolab and others have: Miso’s AI-powered robotics suite is revolutionizing the $675b global fast food industry.
-> 
-> Top restaurant brands are already automating with Miso. Its platform tech can double kitchen output while helping restaurants [unlock up to 3x more profits](https://links.morningbrew.com/c/a7f?lp=text3&amp;mbadid=7bc7f96e96e059be38d04d776d882a42&amp;mbadv=a&amp;mblid=4792b1be14a5&amp;mbcid=32252485.4284952&amp;mid=1f4660240f65a00f40c621ae6f9ce93a). [⤴️](https://omnivore.app/me/sandals-with-stocks-189b07a2005#c9f56f6b-cfec-4e5a-8f95-2a0754d4033d)  ^c9f56f6b
-
-> The delays and cost overruns have led some experts to oppose new nuclear plant construction as impractical, but the public is warming up to the energy source. Recent polls [show](https://links.morningbrew.com/c/a7o?mblid=60670cb84e41&amp;mbcid=32252485.4284952&amp;mid=1f4660240f65a00f40c621ae6f9ce93a) the highest level of support for nuclear power in a decade. It currently supplies almost 50% of US carbon-free electricity, and many experts believe it’s an essential clean energy supplement to wind and solar. [⤴️](https://omnivore.app/me/sandals-with-stocks-189b07a2005#b1a2b30e-f0e9-4b20-857b-e749f049c067)  ^b1a2b30e
-
-> **Other countries are also going nuclear…**two new nuclear energy projects were announced in Canada this month, while China plans to build at least six to eight new reactors a year. [⤴️](https://omnivore.app/me/sandals-with-stocks-189b07a2005#33bf402a-186a-43e2-bda8-29a0f8cdd9df)  ^33bf402a
-
-
 --- 
 
 # Full Content: 
@@ -187,3 +168,24 @@ Dried potatoes, Vegetable oil, Corn flour, Corn starch, Rice flour, Sugars (malt
 **✢ A Note From Miso**
 
 _Miso Robotics is Testing the Waters pursuant to Regulation Crowdfunding._
+
+---
+
+## Highlights
+
+> Sandals [⤴️](https://omnivore.app/me/sandals-with-stocks-189b07a2005#d27d42de-e5c7-4b12-8475-d83285192036)  ^d27d42de
+
+> It was the S&amp;P 500’s fifth-straight month of gains, giving the index its best streak since 2021. [⤴️](https://omnivore.app/me/sandals-with-stocks-189b07a2005#20157150-3349-4eb6-add3-04f4041f7d29)  ^20157150
+
+> dubbed [⤴️](https://omnivore.app/me/sandals-with-stocks-189b07a2005#ba07433d-05db-48e5-92b4-262da87a2330)  ^ba07433d
+
+> billion [⤴️](https://omnivore.app/me/sandals-with-stocks-189b07a2005#2c08f5e7-b12c-4749-a6b5-4d12e87d8132)  ^2c08f5e7
+
+> Why invest in Miso? The same reason Ecolab and others have: Miso’s AI-powered robotics suite is revolutionizing the $675b global fast food industry.
+> 
+> Top restaurant brands are already automating with Miso. Its platform tech can double kitchen output while helping restaurants [unlock up to 3x more profits](https://links.morningbrew.com/c/a7f?lp=text3&amp;mbadid=7bc7f96e96e059be38d04d776d882a42&amp;mbadv=a&amp;mblid=4792b1be14a5&amp;mbcid=32252485.4284952&amp;mid=1f4660240f65a00f40c621ae6f9ce93a). [⤴️](https://omnivore.app/me/sandals-with-stocks-189b07a2005#c9f56f6b-cfec-4e5a-8f95-2a0754d4033d)  ^c9f56f6b
+
+> The delays and cost overruns have led some experts to oppose new nuclear plant construction as impractical, but the public is warming up to the energy source. Recent polls [show](https://links.morningbrew.com/c/a7o?mblid=60670cb84e41&amp;mbcid=32252485.4284952&amp;mid=1f4660240f65a00f40c621ae6f9ce93a) the highest level of support for nuclear power in a decade. It currently supplies almost 50% of US carbon-free electricity, and many experts believe it’s an essential clean energy supplement to wind and solar. [⤴️](https://omnivore.app/me/sandals-with-stocks-189b07a2005#b1a2b30e-f0e9-4b20-857b-e749f049c067)  ^b1a2b30e
+
+> **Other countries are also going nuclear…**two new nuclear energy projects were announced in Canada this month, while China plans to build at least six to eight new reactors a year. [⤴️](https://omnivore.app/me/sandals-with-stocks-189b07a2005#33bf402a-186a-43e2-bda8-29a0f8cdd9df)  ^33bf402a
+

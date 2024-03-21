@@ -19,37 +19,6 @@ date_saved: 2023-08-09 09:00:17
 
 date_published: 2023-08-06 20:00:00
 
-## Highlights
-
-> Rewind [\[1\]](#ref%5F1)就解决一件事：[搜索](https://www.zhihu.com/search?q=%E6%90%9C%E7%B4%A2&amp;search%5Fsource=Entity&amp;hybrid%5Fsearch%5Fsource=Entity&amp;hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3154780738%7D)。搜索在你电脑/手机屏幕上存在过的任何内容。**Rewind 给我一种当年第一次遇到 everything 的感觉，丝滑、流畅，在无数信息的碎片里，提取出我最需要的那个** [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-616051314-answer-3154780738-189da621c0f#e1654f90-5b27-49d4-afea-8172508d5fe3)  ^e1654f90
-
-> Rewind正在构建一个解决方案来解决这个问题，它通过在本地（和私密地）捕捉你所看到、听到和说的内容，并使其可搜索。今天，Rewind推出了一款Mac[桌面应用程序](https://www.zhihu.com/search?q=%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F&amp;search%5Fsource=Entity&amp;hybrid%5Fsearch%5Fsource=Entity&amp;hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3154780738%7D)。当你搜索一个特定的词语时，你会看到它在哪里发生的每一个事件，以及在发生这个结果时打开的其他内容（例如，在“[西海岸](https://www.zhihu.com/search?q=%E8%A5%BF%E6%B5%B7%E5%B2%B8&amp;search%5Fsource=Entity&amp;hybrid%5Fsearch%5Fsource=Entity&amp;hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3154780738%7D)销售”被提及的Zoom通话的部分，以及当讨论发生时你正在查看的仪表板）。由于它利用了自动[语音识别](https://www.zhihu.com/search?q=%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB&amp;search%5Fsource=Entity&amp;hybrid%5Fsearch%5Fsource=Entity&amp;hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3154780738%7D)和OCR技术，Rewind可以在不与其他应用程序集成的情况下运行 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-616051314-answer-3154780738-189da621c0f#14564fc6-c28c-4759-a471-bd5caccbf3ca)  ^14564fc6
-
-> Rewind 的官方关于数据隐私[\[3\]](#ref%5F3)是这么说的：
-> 
-> 为了您的隐私，您的屏幕和音频录音都存储在本地，并且永远不会离开您的 Mac。如果您选择使用我们的会议摘要或询问倒带功能，则仅相关的基于文本的数据会发送到[云端](https://www.zhihu.com/search?q=%E4%BA%91%E7%AB%AF&amp;search%5Fsource=Entity&amp;hybrid%5Fsearch%5Fsource=Entity&amp;hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3154780738%7D)。我们在您的 Mac 本地进行压缩和自动语音识别 (ASR) [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-616051314-answer-3154780738-189da621c0f#31526ebe-cf59-48d1-9be6-a6b9629fa586)  ^31526ebe
-
-> 我猜肯定不只我一个人有过这样的设想，就是能有一个工具可以**记录**下来所有我看到的（视频/图像）、听到的（语音），以及写下来（文本）的内容，并在我需要的时候能快速的**检索**到对应的内容。
-> 
-> 因为现在信息爆炸，每天要看很多信息，有的时候在一个视频或一篇文章中看到有用的东西觉得记住了，但是日后想引用这些内容的时候又忘记是在哪里看到的了 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-616051314-answer-3154780738-189da621c0f#4b54a9e1-695a-4cb0-bafe-405ad31da0d0)  ^4b54a9e1
-
-> 这个对普通用户作用不大，类似电脑的本地搜索一下，但对于情报机构作用就大，可以精确画像你这个人的所有，包括你的各种习惯，然后使用人工智能分析，非常省事，他们的服务需要存储一个你的概要数据就行了。
-> 
-> 这样精确画像你这个人的所有，后面可以把你的数据卖给广告商，情报部门之类。
-> 
-> 相当于使用人工智能提取你的个人在手机的各个方面的信息。
-> 
-> 你看俄罗斯公家部门都禁止使用了Iphone这种，因为透明性太小了。
-> 
-> 如果有什么问题直接问chatgpt之类的就行了，如我要解决编程问题直接问chatgpt，要解决办公问题直接问，不需要关联大量的个人信息。
-> 
-> 没有必要把自己的整个手机的信息让人工智能全面分析，很多数据对用户解决问题没有任何帮助，只是把你的个人数据做精确的用户画像，精确的信息索引和分析，这个对用户隐私数据是巨大的危害。
-> 
-> 后面这个公司，只需要向有关部分出售数据，就可以收入不菲，但用户数据一旦泄露无法再回到过去，今年美国情报部门本身内部都泄露了大量信息，不要说这种出售的数据了。
-> 
-> 照片，Safari浏览记录这些可以精确画像个人用户，你每天访问那些网站，拍了那些照片，这些都是非常隐私的数据，可以反向推导出你是谁，你的很多个人信息，并使用社交网络分析法，获取到你的整个社会网络信息，并进行大数据关联分析。 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-616051314-answer-3154780738-189da621c0f#55715211-6fbd-4401-9cc9-a8cdaef0dc57)  ^55715211
-
-
 --- 
 
 # Full Content: 
@@ -169,3 +138,36 @@ Rewind 把这个 AI 问答功能称作 Ask Rewind[\[4\]](#ref%5F4)：
 ==后面这个公司，只需要向有关部分出售数据，就可以收入不菲，但用户数据一旦泄露无法再回到过去，今年美国情报部门本身内部都泄露了大量信息，不要说这种出售的数据了。==
 
 ==照片，Safari浏览记录这些可以精确画像个人用户，你每天访问那些网站，拍了那些照片，这些都是非常隐私的数据，可以反向推导出你是谁，你的很多个人信息，并使用社交网络分析法，获取到你的整个社会网络信息，并进行大数据关联分析。==
+
+---
+
+## Highlights
+
+> Rewind [\[1\]](#ref%5F1)就解决一件事：[搜索](https://www.zhihu.com/search?q=%E6%90%9C%E7%B4%A2&amp;search%5Fsource=Entity&amp;hybrid%5Fsearch%5Fsource=Entity&amp;hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3154780738%7D)。搜索在你电脑/手机屏幕上存在过的任何内容。**Rewind 给我一种当年第一次遇到 everything 的感觉，丝滑、流畅，在无数信息的碎片里，提取出我最需要的那个** [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-616051314-answer-3154780738-189da621c0f#e1654f90-5b27-49d4-afea-8172508d5fe3)  ^e1654f90
+
+> Rewind正在构建一个解决方案来解决这个问题，它通过在本地（和私密地）捕捉你所看到、听到和说的内容，并使其可搜索。今天，Rewind推出了一款Mac[桌面应用程序](https://www.zhihu.com/search?q=%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F&amp;search%5Fsource=Entity&amp;hybrid%5Fsearch%5Fsource=Entity&amp;hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3154780738%7D)。当你搜索一个特定的词语时，你会看到它在哪里发生的每一个事件，以及在发生这个结果时打开的其他内容（例如，在“[西海岸](https://www.zhihu.com/search?q=%E8%A5%BF%E6%B5%B7%E5%B2%B8&amp;search%5Fsource=Entity&amp;hybrid%5Fsearch%5Fsource=Entity&amp;hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3154780738%7D)销售”被提及的Zoom通话的部分，以及当讨论发生时你正在查看的仪表板）。由于它利用了自动[语音识别](https://www.zhihu.com/search?q=%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB&amp;search%5Fsource=Entity&amp;hybrid%5Fsearch%5Fsource=Entity&amp;hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3154780738%7D)和OCR技术，Rewind可以在不与其他应用程序集成的情况下运行 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-616051314-answer-3154780738-189da621c0f#14564fc6-c28c-4759-a471-bd5caccbf3ca)  ^14564fc6
+
+> Rewind 的官方关于数据隐私[\[3\]](#ref%5F3)是这么说的：
+> 
+> 为了您的隐私，您的屏幕和音频录音都存储在本地，并且永远不会离开您的 Mac。如果您选择使用我们的会议摘要或询问倒带功能，则仅相关的基于文本的数据会发送到[云端](https://www.zhihu.com/search?q=%E4%BA%91%E7%AB%AF&amp;search%5Fsource=Entity&amp;hybrid%5Fsearch%5Fsource=Entity&amp;hybrid%5Fsearch%5Fextra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A3154780738%7D)。我们在您的 Mac 本地进行压缩和自动语音识别 (ASR) [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-616051314-answer-3154780738-189da621c0f#31526ebe-cf59-48d1-9be6-a6b9629fa586)  ^31526ebe
+
+> 我猜肯定不只我一个人有过这样的设想，就是能有一个工具可以**记录**下来所有我看到的（视频/图像）、听到的（语音），以及写下来（文本）的内容，并在我需要的时候能快速的**检索**到对应的内容。
+> 
+> 因为现在信息爆炸，每天要看很多信息，有的时候在一个视频或一篇文章中看到有用的东西觉得记住了，但是日后想引用这些内容的时候又忘记是在哪里看到的了 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-616051314-answer-3154780738-189da621c0f#4b54a9e1-695a-4cb0-bafe-405ad31da0d0)  ^4b54a9e1
+
+> 这个对普通用户作用不大，类似电脑的本地搜索一下，但对于情报机构作用就大，可以精确画像你这个人的所有，包括你的各种习惯，然后使用人工智能分析，非常省事，他们的服务需要存储一个你的概要数据就行了。
+> 
+> 这样精确画像你这个人的所有，后面可以把你的数据卖给广告商，情报部门之类。
+> 
+> 相当于使用人工智能提取你的个人在手机的各个方面的信息。
+> 
+> 你看俄罗斯公家部门都禁止使用了Iphone这种，因为透明性太小了。
+> 
+> 如果有什么问题直接问chatgpt之类的就行了，如我要解决编程问题直接问chatgpt，要解决办公问题直接问，不需要关联大量的个人信息。
+> 
+> 没有必要把自己的整个手机的信息让人工智能全面分析，很多数据对用户解决问题没有任何帮助，只是把你的个人数据做精确的用户画像，精确的信息索引和分析，这个对用户隐私数据是巨大的危害。
+> 
+> 后面这个公司，只需要向有关部分出售数据，就可以收入不菲，但用户数据一旦泄露无法再回到过去，今年美国情报部门本身内部都泄露了大量信息，不要说这种出售的数据了。
+> 
+> 照片，Safari浏览记录这些可以精确画像个人用户，你每天访问那些网站，拍了那些照片，这些都是非常隐私的数据，可以反向推导出你是谁，你的很多个人信息，并使用社交网络分析法，获取到你的整个社会网络信息，并进行大数据关联分析。 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-616051314-answer-3154780738-189da621c0f#55715211-6fbd-4401-9cc9-a8cdaef0dc57)  ^55715211
+

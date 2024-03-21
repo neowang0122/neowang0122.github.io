@@ -19,54 +19,6 @@ date_saved: 2023-12-06 19:30:15
 
 date_published: 2021-11-10 17:26:00
 
-## Highlights
-
-> 这款Alpha SV夹克设有**内嵌式RECCO®反射器，有助于紧急搜救**。头盔兼容StormHood™兜帽、腋下拉链和拼接结构可在山区地形中活动自如。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#f7be0e45-b8ad-4f9e-b9e3-2260a06e3850)  ^f7be0e45
-
-> GORE-TEX PRO升级面料，设有RECCO®反射器和定制TPU拉链头。
-> 
-> **sv里面是没有雪裙的** [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#03134c20-a73d-4120-a7fe-fcda28da6194)  ^03134c20
-
-> 这款Rush夹克专为高山而设计，既具有防护、耐久性，又不失轻薄、舒适的性能。采用融合超耐磨技术的 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#57570fbf-c547-41c9-9a37-821cbccd371a)  ^57570fbf
-
-> 这款是有雪裙的,防止雪进入上衣或裤子里 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#c727cf03-2d50-4766-87ab-e38849b102bb)  ^c727cf03
-
-> beta 就是比alpha差一丢丢的款式,价格差了近2000,是属于**轻便型**选手,这款不是gore—tex pro [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#08782e0d-bcaa-443c-adb9-8ed85853afa6)  ^08782e0d
-
-> > 适合1.预算有限又想体验始祖鸟的雪友,可以把这款当成**入门款**
-> 
-> ###  [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#480375a3-6a06-427f-8951-72e0ba6fbfbb)  ^480375a3
-
-> 采用融合超耐磨技术的GORE-TEX PRO面料，持久耐磨。头盔兼容DropHood™兜帽设有增加防护的内侧领子，内嵌式RECCO®反射器有助于紧急搜救 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#8a70c2b5-503c-4403-bc4e-8294a85548c8)  ^8a70c2b5
-
-> * 3L经编针织技术N40p-X GORE-TEX面料
-> * Coreloft™ 100 g/m²保暖材料
-> * Coreloft™ Compact 60 g/m²保暖材料
-> * 750蓬松度灰鹅绒 (69g - M)
-> 
-> > 总结:这款macai 是有内置保暖层的,价格贵的离谱,个人觉得不是去特别冷的地方,其实这款并不好,为什么呢?因为我们如果穿三层不会那么臃肿,而且中间层是可以脱换的,但是这种直接就带有中间层的滑雪服又重又厚,如果面临脱了**又冷穿上又热的尴尬情况就会很难受,所以我的建议是不是特别冷的地方还是三层保暖原理,去锁住温度** [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#bdee800b-fd26-48a9-ae5e-351df28b7029)  ^bdee800b
-
-> ## **懒人党的福音**
-> 
-> ![](https://proxy-prod.omnivore-image-cache.app/1290x923,s5iuANWMvbacLSD9KypIjEMGNouRivy0067YtGFv6DAg/https://pic2.zhimg.com/v2-6d7e25ef1a69f7a5efb8e1f696565ac9_b.jpg) [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#931adb98-7c27-4c58-92ab-5a57734690a0)  ^931adb98
-
-> **雪裙的作用**:防止摔倒的时候雪进入到我们的里面衣服去
-> 
-> **解决办法**:1:不摔跤 2:穿背带裤 (新手建议也是穿背带裤的,因为这个可以有效的防止雪进入裤子或衣服里面 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#eb8684fc-3f4d-4cac-a176-68365171436c)  ^eb8684fc
-
-> 最外层的DWR防泼水涂层(把水摊开)、专用的清洗剂+DWR
-> 
-> 1. 放进洗衣机单独洗:40度热水+专用洗衣液=洗和漂洗2次 **不要选择脱水甩干**
-> 
-> **注意:漂洗两次让洗衣液洗干净**
-> 
-> 拿起衣服,稍微挤压一点水分 然后选择60度-80度的烘干(一定要选择烘干机:效果)
-> 
-> **DWR会因为高温而恢复一些性能**
-> 
-> 如果想要恢复更多的DWR防水性,那么你可以放入买的官方防泼水剂,大概两个瓶盖,然后洗完然后再烘干 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#34715b33-07e8-4941-8796-4386b6b9390b)  ^34715b33
-
-
 --- 
 
 # Full Content: 
@@ -247,3 +199,53 @@ Gore-Tex:放大看就是很多小孔,**据说小孔比小水滴小一万倍,比�
 【新手白嫖滑雪教练指南】[怎样白嫖滑雪教练指南](https://zhuanlan.zhihu.com/p/410390331)
 
 【付费选购指南】[\[雪板问题付费咨询\] Capita doa Burton custom、 Nitro team 三块高品质雪板咨询问题 ](https://zhuanlan.zhihu.com/p/408132814) 教学也可以问
+
+---
+
+## Highlights
+
+> 这款Alpha SV夹克设有**内嵌式RECCO®反射器，有助于紧急搜救**。头盔兼容StormHood™兜帽、腋下拉链和拼接结构可在山区地形中活动自如。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#f7be0e45-b8ad-4f9e-b9e3-2260a06e3850)  ^f7be0e45
+
+> GORE-TEX PRO升级面料，设有RECCO®反射器和定制TPU拉链头。
+> 
+> **sv里面是没有雪裙的** [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#03134c20-a73d-4120-a7fe-fcda28da6194)  ^03134c20
+
+> 这款Rush夹克专为高山而设计，既具有防护、耐久性，又不失轻薄、舒适的性能。采用融合超耐磨技术的 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#57570fbf-c547-41c9-9a37-821cbccd371a)  ^57570fbf
+
+> 这款是有雪裙的,防止雪进入上衣或裤子里 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#c727cf03-2d50-4766-87ab-e38849b102bb)  ^c727cf03
+
+> beta 就是比alpha差一丢丢的款式,价格差了近2000,是属于**轻便型**选手,这款不是gore—tex pro [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#08782e0d-bcaa-443c-adb9-8ed85853afa6)  ^08782e0d
+
+> > 适合1.预算有限又想体验始祖鸟的雪友,可以把这款当成**入门款**
+> 
+> ###  [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#480375a3-6a06-427f-8951-72e0ba6fbfbb)  ^480375a3
+
+> 采用融合超耐磨技术的GORE-TEX PRO面料，持久耐磨。头盔兼容DropHood™兜帽设有增加防护的内侧领子，内嵌式RECCO®反射器有助于紧急搜救 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#8a70c2b5-503c-4403-bc4e-8294a85548c8)  ^8a70c2b5
+
+> * 3L经编针织技术N40p-X GORE-TEX面料
+> * Coreloft™ 100 g/m²保暖材料
+> * Coreloft™ Compact 60 g/m²保暖材料
+> * 750蓬松度灰鹅绒 (69g - M)
+> 
+> > 总结:这款macai 是有内置保暖层的,价格贵的离谱,个人觉得不是去特别冷的地方,其实这款并不好,为什么呢?因为我们如果穿三层不会那么臃肿,而且中间层是可以脱换的,但是这种直接就带有中间层的滑雪服又重又厚,如果面临脱了**又冷穿上又热的尴尬情况就会很难受,所以我的建议是不是特别冷的地方还是三层保暖原理,去锁住温度** [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#bdee800b-fd26-48a9-ae5e-351df28b7029)  ^bdee800b
+
+> ## **懒人党的福音**
+> 
+> ![](https://proxy-prod.omnivore-image-cache.app/1290x923,s5iuANWMvbacLSD9KypIjEMGNouRivy0067YtGFv6DAg/https://pic2.zhimg.com/v2-6d7e25ef1a69f7a5efb8e1f696565ac9_b.jpg) [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#931adb98-7c27-4c58-92ab-5a57734690a0)  ^931adb98
+
+> **雪裙的作用**:防止摔倒的时候雪进入到我们的里面衣服去
+> 
+> **解决办法**:1:不摔跤 2:穿背带裤 (新手建议也是穿背带裤的,因为这个可以有效的防止雪进入裤子或衣服里面 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#eb8684fc-3f4d-4cac-a176-68365171436c)  ^eb8684fc
+
+> 最外层的DWR防泼水涂层(把水摊开)、专用的清洗剂+DWR
+> 
+> 1. 放进洗衣机单独洗:40度热水+专用洗衣液=洗和漂洗2次 **不要选择脱水甩干**
+> 
+> **注意:漂洗两次让洗衣液洗干净**
+> 
+> 拿起衣服,稍微挤压一点水分 然后选择60度-80度的烘干(一定要选择烘干机:效果)
+> 
+> **DWR会因为高温而恢复一些性能**
+> 
+> 如果想要恢复更多的DWR防水性,那么你可以放入买的官方防泼水剂,大概两个瓶盖,然后洗完然后再烘干 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-429543324-18c41ae943c#34715b33-07e8-4941-8796-4386b6b9390b)  ^34715b33
+

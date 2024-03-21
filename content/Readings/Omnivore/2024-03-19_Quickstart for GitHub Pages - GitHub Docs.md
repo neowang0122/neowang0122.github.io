@@ -15,11 +15,6 @@ date_saved: 2024-03-19 22:06:19
 date_saved: 2024-03-19 22:06:19
 
 
-## Highlights
-
-> username.github.io [⤴️](https://omnivore.app/me/quickstart-for-git-hub-pages-git-hub-docs-18e599bff5e#963827dd-0d9d-45d2-9de6-dff6dc58febb)  ^963827dd
-
-
 --- 
 
 # Full Content: 
@@ -69,3 +64,10 @@ description: Bookmark this to keep an eye on my project updates!
 For more information about how to add additional pages to your site, see "[Adding content to your GitHub Pages site using Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll#about-content-in-jekyll-sites)."
 
 For more information about setting up a GitHub Pages site with Jekyll, see "[About GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)."
+
+---
+
+## Highlights
+
+> username.github.io [⤴️](https://omnivore.app/me/quickstart-for-git-hub-pages-git-hub-docs-18e599bff5e#963827dd-0d9d-45d2-9de6-dff6dc58febb)  ^963827dd
+

@@ -21,11 +21,6 @@ date_saved: 2024-02-28 03:26:05
 
 date_published: 2024-02-28 03:26:05
 
-## Highlights
-
-> **Jane Reader** 是一款现代化的 epub 阅读器，拥有 Windows 与 macOS（Intel、M1）客户端，简洁、清爽，支持自动多栏、多主题、直排模式等，开发者想要提供「媲美于印刷书籍的阅读体验」 [⤴️](https://omnivore.app/me/jane-reader-epub-win-mac-os-18deedfd52f#2d423696-262b-413e-972e-955e36e59473)  ^2d423696
-
-
 --- 
 
 # Full Content: 
@@ -71,3 +66,10 @@ Jane Reader 目前提供以下功能：
 ---
 
 原文：https://www.appinn.com/jane-reader/
+
+---
+
+## Highlights
+
+> **Jane Reader** 是一款现代化的 epub 阅读器，拥有 Windows 与 macOS（Intel、M1）客户端，简洁、清爽，支持自动多栏、多主题、直排模式等，开发者想要提供「媲美于印刷书籍的阅读体验」 [⤴️](https://omnivore.app/me/jane-reader-epub-win-mac-os-18deedfd52f#2d423696-262b-413e-972e-955e36e59473)  ^2d423696
+

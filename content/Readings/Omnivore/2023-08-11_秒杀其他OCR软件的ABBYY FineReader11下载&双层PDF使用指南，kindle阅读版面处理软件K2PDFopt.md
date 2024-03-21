@@ -15,25 +15,6 @@ date_saved: 2023-08-11 10:14:00
 date_saved: 2023-08-11 10:14:00
 
 
-## Highlights
-
-> 双层PDF太方便了，可以直接取词、查找，即使OCR有个别错误也不会影响阅读观感 [⤴️](https://omnivore.app/me/ocr-abbyy-fine-reader-11-pdf-kindle-k-2-pd-fopt-189e4f26e4f#cd45c994-9aec-458b-bea7-f54c49f60c8d)  ^cd45c994
-
-> 双层PDF的设置在工具-选项-保存-PDF-保存方式-页面图像下方的文本。 [⤴️](https://omnivore.app/me/ocr-abbyy-fine-reader-11-pdf-kindle-k-2-pd-fopt-189e4f26e4f#f198bb03-331e-4788-8026-7bb6030a0e76)  ^f198bb03
-
-> 如果是电脑上阅读的PDF，建议还是选择&lt;图像设置>下的&lt;最佳质量>
-> 
-> 另:&lt;保存>-下的&lt;启用标记的PDF>选项也很有用，可以保留之前在PDF的写写画画 [⤴️](https://omnivore.app/me/ocr-abbyy-fine-reader-11-pdf-kindle-k-2-pd-fopt-189e4f26e4f#da82cdbe-9c07-4e0c-b40e-4b2789191876)  ^da82cdbe
-
-> 再介绍个PDF分割处理软件，方便在kindle上阅读的K2PDFopt [⤴️](https://omnivore.app/me/ocr-abbyy-fine-reader-11-pdf-kindle-k-2-pd-fopt-189e4f26e4f#eb4d2a61-1618-48c4-8900-cd8b61c97fc3)  ^eb4d2a61
-
-> 使用的方法是先将PDF用K2PDFopt处理，然后再OCR，这样在kindle上阅读时就足够大了，也可以方便的划线标记。  
-> 使用介绍和 [⤴️](https://omnivore.app/me/ocr-abbyy-fine-reader-11-pdf-kindle-k-2-pd-fopt-189e4f26e4f#7d08d3f7-7f58-44a7-8c94-127b0a968da8)  ^7d08d3f7
-
-> 什么是双层PDF文件？  
-> PDF文件是一种具有多层结构的格式文件，其特点是：文件既可以是文本型的（比如由word生成的文件），也可以是图像型的（比如由扫描生成的文件）；双层PDF文件是指文件内容既包含文本层，也包含图像层，且其位置上下一一相对应。 [⤴️](https://omnivore.app/me/ocr-abbyy-fine-reader-11-pdf-kindle-k-2-pd-fopt-189e4f26e4f#1b3e58a1-419c-450c-a7ce-0a39a80aa7c3)  ^1b3e58a1
-
-
 --- 
 
 # Full Content: 
@@ -98,3 +79,24 @@ date_saved: 2023-08-11 10:14:00
 
 使用双层PDF文件有什么好处？  
 PDF文件格式已成为国际标准，越来越多的行业和单位正在使用它。其特点是具有多层结构，包括图层和文字层，这样，既可以100%保留原始版面效果（包括公章、签名），又可以通过下层的文字信息支持选择、复制、全文检索等功能。因此，双层PDF同时兼顾视觉效果和检索方便性，极大地方便了电子文件的管理。
+
+---
+
+## Highlights
+
+> 双层PDF太方便了，可以直接取词、查找，即使OCR有个别错误也不会影响阅读观感 [⤴️](https://omnivore.app/me/ocr-abbyy-fine-reader-11-pdf-kindle-k-2-pd-fopt-189e4f26e4f#cd45c994-9aec-458b-bea7-f54c49f60c8d)  ^cd45c994
+
+> 双层PDF的设置在工具-选项-保存-PDF-保存方式-页面图像下方的文本。 [⤴️](https://omnivore.app/me/ocr-abbyy-fine-reader-11-pdf-kindle-k-2-pd-fopt-189e4f26e4f#f198bb03-331e-4788-8026-7bb6030a0e76)  ^f198bb03
+
+> 如果是电脑上阅读的PDF，建议还是选择&lt;图像设置>下的&lt;最佳质量>
+> 
+> 另:&lt;保存>-下的&lt;启用标记的PDF>选项也很有用，可以保留之前在PDF的写写画画 [⤴️](https://omnivore.app/me/ocr-abbyy-fine-reader-11-pdf-kindle-k-2-pd-fopt-189e4f26e4f#da82cdbe-9c07-4e0c-b40e-4b2789191876)  ^da82cdbe
+
+> 再介绍个PDF分割处理软件，方便在kindle上阅读的K2PDFopt [⤴️](https://omnivore.app/me/ocr-abbyy-fine-reader-11-pdf-kindle-k-2-pd-fopt-189e4f26e4f#eb4d2a61-1618-48c4-8900-cd8b61c97fc3)  ^eb4d2a61
+
+> 使用的方法是先将PDF用K2PDFopt处理，然后再OCR，这样在kindle上阅读时就足够大了，也可以方便的划线标记。  
+> 使用介绍和 [⤴️](https://omnivore.app/me/ocr-abbyy-fine-reader-11-pdf-kindle-k-2-pd-fopt-189e4f26e4f#7d08d3f7-7f58-44a7-8c94-127b0a968da8)  ^7d08d3f7
+
+> 什么是双层PDF文件？  
+> PDF文件是一种具有多层结构的格式文件，其特点是：文件既可以是文本型的（比如由word生成的文件），也可以是图像型的（比如由扫描生成的文件）；双层PDF文件是指文件内容既包含文本层，也包含图像层，且其位置上下一一相对应。 [⤴️](https://omnivore.app/me/ocr-abbyy-fine-reader-11-pdf-kindle-k-2-pd-fopt-189e4f26e4f#1b3e58a1-419c-450c-a7ce-0a39a80aa7c3)  ^1b3e58a1
+

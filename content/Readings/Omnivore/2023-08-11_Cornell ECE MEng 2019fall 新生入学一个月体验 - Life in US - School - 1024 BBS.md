@@ -17,19 +17,6 @@ date_saved: 2023-08-11 07:11:00
 
 date_published: 2019-10-05 02:07:14
 
-## Highlights
-
-> 在工学院核心上课区域附近有大概五六个食堂，平时基本都开到晚上七点半，除了大食堂学校里各个地方还开着各种cafe，卖的小零食咖啡muffin，taco，sandwich基本不会饿着，除了食堂还可以走路10分钟去collegetown 吃中餐日料韩料啥的。 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-2019-fall-life-in-us-school-1024-bbs-189e44ae2c9#08fae5bd-8a07-4115-9146-a98a1cf8399c)  ^08fae5bd
-
-> 平时工作日公交比较频繁，10分钟一班车，晚上从学校回家也有公交车 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-2019-fall-life-in-us-school-1024-bbs-189e44ae2c9#4ab2ee4b-e5b5-4a4f-8a96-df6657bf3a2e)  ^4ab2ee4b
-
-> CE计算机工程（芯片，计算机架构等等），嵌入式软件开发（单片机编程软硬件结合），模拟电路，大规模集成电路等等这些课都很棒，老师实力雄厚，风评出了名的好，比如一年365天穿着同一件沙滩花衬衫的Bruce land [⤴️](https://omnivore.app/me/cornell-ece-m-eng-2019-fall-life-in-us-school-1024-bbs-189e44ae2c9#4188832d-bbbd-4706-9e69-9060ab0a38e6)  ^4188832d
-
-> 今年秋天除了database 和 NLP比较难选上，其他课比如ML 算法 操作系统都可以选的上 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-2019-fall-life-in-us-school-1024-bbs-189e44ae2c9#bdc65aca-9f30-4780-9e76-756631fb9429)  ^bdc65aca
-
-> cs的课想选也基本都能选上，但不要指望通过上课来补上各种基础，因为上的cs的课难度并不小（cs2110除外）而且节奏非常紧，比如operating system就上到让人分分钟想drop [⤴️](https://omnivore.app/me/cornell-ece-m-eng-2019-fall-life-in-us-school-1024-bbs-189e44ae2c9#16d3bde3-8869-49bb-852c-95c0d68656b9)  ^16d3bde3
-
-
 --- 
 
 # Full Content: 
@@ -71,3 +58,18 @@ date_published: 2019-10-05 02:07:14
 **你们学校周围，治安环境如何？学校在信息公布、提高校园安全方面，做的怎么样？** :
 
 伊萨卡总体是一个很宁静的小镇，镇上居民也都很友好，校园和镇里基本上是白人占大多数，有少部分黑人，偶尔会有校警报道有抢劫事件发生但基本没有恶性伤人事件
+
+---
+
+## Highlights
+
+> 在工学院核心上课区域附近有大概五六个食堂，平时基本都开到晚上七点半，除了大食堂学校里各个地方还开着各种cafe，卖的小零食咖啡muffin，taco，sandwich基本不会饿着，除了食堂还可以走路10分钟去collegetown 吃中餐日料韩料啥的。 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-2019-fall-life-in-us-school-1024-bbs-189e44ae2c9#08fae5bd-8a07-4115-9146-a98a1cf8399c)  ^08fae5bd
+
+> 平时工作日公交比较频繁，10分钟一班车，晚上从学校回家也有公交车 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-2019-fall-life-in-us-school-1024-bbs-189e44ae2c9#4ab2ee4b-e5b5-4a4f-8a96-df6657bf3a2e)  ^4ab2ee4b
+
+> CE计算机工程（芯片，计算机架构等等），嵌入式软件开发（单片机编程软硬件结合），模拟电路，大规模集成电路等等这些课都很棒，老师实力雄厚，风评出了名的好，比如一年365天穿着同一件沙滩花衬衫的Bruce land [⤴️](https://omnivore.app/me/cornell-ece-m-eng-2019-fall-life-in-us-school-1024-bbs-189e44ae2c9#4188832d-bbbd-4706-9e69-9060ab0a38e6)  ^4188832d
+
+> 今年秋天除了database 和 NLP比较难选上，其他课比如ML 算法 操作系统都可以选的上 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-2019-fall-life-in-us-school-1024-bbs-189e44ae2c9#bdc65aca-9f30-4780-9e76-756631fb9429)  ^bdc65aca
+
+> cs的课想选也基本都能选上，但不要指望通过上课来补上各种基础，因为上的cs的课难度并不小（cs2110除外）而且节奏非常紧，比如operating system就上到让人分分钟想drop [⤴️](https://omnivore.app/me/cornell-ece-m-eng-2019-fall-life-in-us-school-1024-bbs-189e44ae2c9#16d3bde3-8869-49bb-852c-95c0d68656b9)  ^16d3bde3
+

@@ -19,17 +19,6 @@ date_saved: 2023-11-30 12:25:13
 date_saved: 2023-11-30 12:25:13
 
 
-## Highlights
-
-> The Great and Painful Loss of Henry Kissinger [⤴️](https://omnivore.app/me/the-great-and-painful-loss-of-henry-kissinger-18c214360d4#e68cdfd9-c3c0-47e4-b5d3-59089e55bf29)  ^e68cdfd9
-
-> Henry was and will remain a hero of mine, and many others, in an era of great cynicism when we no longer have heroes in public life. [⤴️](https://omnivore.app/me/the-great-and-painful-loss-of-henry-kissinger-18c214360d4#5041cdbb-e9e5-483a-83a5-5c0be3e21e15)  ^5041cdbb
-
-> He had an unparalleled perspective. No living person had simultaneously studied history as deeply, been as profoundly involved in shaping it, known personally and influenced as many world leaders, and more generously shared meaningful insights than Henry Kissinger. [⤴️](https://omnivore.app/me/the-great-and-painful-loss-of-henry-kissinger-18c214360d4#3b18a688-ae98-4394-85aa-529eceba5bf0)  ^3b18a688
-
-> We shared a passion for history and for understanding what is happening now, but from different perspectives learned through our different experiences—his from the geopolitical and mine from the economic. [⤴️](https://omnivore.app/me/the-great-and-painful-loss-of-henry-kissinger-18c214360d4#e41e74f7-baed-4b5a-b223-72518e8da918)  ^e41e74f7
-
-
 --- 
 
 # Full Content: 
@@ -50,3 +39,16 @@ Not a subscriber but want to receive updates from Ray?
 Click [**HERE**](https://principles.us13.list-manage.com/subscribe?u=f817138263fa3d3dec4ad231d&id=08ee8ce394) to subscribe.
 
 ![](https://proxy-prod.omnivore-image-cache.app/120x0,sHGcLRJWnt7f0MXjVwaOrK6Ci-HS41ScUZZG1MEzPk8k/https://gallery.mailchimp.com/f817138263fa3d3dec4ad231d/images/b2631a62-d79a-4605-8484-828fa0ce4981.png) 
+
+---
+
+## Highlights
+
+> The Great and Painful Loss of Henry Kissinger [⤴️](https://omnivore.app/me/the-great-and-painful-loss-of-henry-kissinger-18c214360d4#e68cdfd9-c3c0-47e4-b5d3-59089e55bf29)  ^e68cdfd9
+
+> Henry was and will remain a hero of mine, and many others, in an era of great cynicism when we no longer have heroes in public life. [⤴️](https://omnivore.app/me/the-great-and-painful-loss-of-henry-kissinger-18c214360d4#5041cdbb-e9e5-483a-83a5-5c0be3e21e15)  ^5041cdbb
+
+> He had an unparalleled perspective. No living person had simultaneously studied history as deeply, been as profoundly involved in shaping it, known personally and influenced as many world leaders, and more generously shared meaningful insights than Henry Kissinger. [⤴️](https://omnivore.app/me/the-great-and-painful-loss-of-henry-kissinger-18c214360d4#3b18a688-ae98-4394-85aa-529eceba5bf0)  ^3b18a688
+
+> We shared a passion for history and for understanding what is happening now, but from different perspectives learned through our different experiences—his from the geopolitical and mine from the economic. [⤴️](https://omnivore.app/me/the-great-and-painful-loss-of-henry-kissinger-18c214360d4#e41e74f7-baed-4b5a-b223-72518e8da918)  ^e41e74f7
+

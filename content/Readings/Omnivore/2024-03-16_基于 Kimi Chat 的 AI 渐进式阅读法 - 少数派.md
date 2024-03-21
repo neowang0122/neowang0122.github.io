@@ -21,122 +21,6 @@ date_saved: 2024-03-16 05:08:45
 
 date_published: 2024-03-13 03:30:14
 
-## Highlights
-
-> 我每天需要处理大量的文章。社交媒体推荐的文章、RSS 订阅的文章、主动搜索到的文章…
-> 
-> 因为有大量的信息要处理，我的 read it later 文章也越来越多。两年多来，我的 cubox 里的待读文章，已经攒到了 4800 篇。
-> 
-> 但我并不会为此感到焦虑，这些文章成了一个经过我筛选的“图书馆”，当我需要的时候，我可以在里面找到自己想要的文章进行阅读。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#7c73bc31-d043-4bc4-88b2-5b76ffa22ce8)  ^7c73bc31
-
-> 在没有 AI 之前，我的文章处理步骤是这样的：
-> 
-> 粗略阅读，筛选信息
-> 
-> 经过筛选的信息，阅读其中一部分/全文阅读
-> 
-> 阅读过后记录「文献笔记」 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#88bdc876-7d0a-41f2-8c0a-4f8efd4f7e8b)  ^88bdc876
-
-> 有了AI 以后，大语言模型(LLM)可以帮助我们处理文章，提高筛选文章和阅读文章的效率。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#a397f150-d371-45b7-a7de-0e5245003a78)  ^a397f150
-
-> 大语言模型的能力：
-> 
-> 聊天机器人：对话
-> 
-> 总结类应用：总结信息/提取信息
-> 
-> 扩展类应用：续写
-> 
-> 推理类应用：情绪判断、主题判断
-> 
-> 转化类应用：翻译、格式转换、纠错
-> 
-> ——来自吴恩达的 ChatGPT 教程 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#fc40a887-6b6d-46c6-8a33-d90b3941d434)  ^fc40a887
-
-> #### **模型选择**
-> 
-> 首先先选择大模型，我选择的是 Kimi Chat
-> 
-> 而对比国内的一众大模型厂商，Kimichat 的长文本能力(long-context)是最好的。文章一般的字数一般都比较多，依赖大模型的长文本能力来处理。
-> 
-> 对比海外的大模型，比如同样支持操场文本的 Claude ，Kimi Chat 对中文的支持更好。
-> 
-> Kimi Chat 现在可以免费使用，并且支持 Web、H5、APP、微信小程序等多终端，哪里都能用。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#58b0e79f-bda7-4cdd-87bf-2ccce218fb31)  ^58b0e79f
-
-> ### **第一步 了解文章**
-> 
-> 筛选信息时，我的判断步骤是：
-> 
-> 判断信息质量，只读高质量文章
-> 
-> 是否是自己需要的？读完能学到什么？
-> 
-> 是否是当下需要的？不是当下需要的，先存起来，”read it later“。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#c84a1f35-8bad-42b3-9768-bd80ffe7d5ba)  ^c84a1f35
-
-> 以这篇文章[《**一套搭建部门知识库的方法》**](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzU5ODMyNDEyNw==&mid=2247498679&idx=1&sn=64540679934377f8c50f7465734a3d2b&chksm=fe475d47c930d45143cd5dee5d08aa5991ebaaef80f940a2c8b97b57085e434a8331c0261611&mpshare=1&scene=1&srcid=0305gyPSFT5Bvrs05U2owDHU&sharer%5Fshareinfo=f75334a327d8b24aa7fb940071398d0b&sharer%5Fshareinfo%5Ffirst=f75334a327d8b24aa7fb940071398d0b#rd)为例
-> 
-> 使用 prompt 发给 kimichat
-> 
-> ```asciidoc
-> 让我们一步一步思考，阅读我提供的内容，并做出以下操作：
-> 第一步，提取文章的元数据
-> - 标题：
-> - 作者：
-> - 标签：（阅读文章内容后给文章打上标签，标签通常是领域、学科或专有名词）
-> 第二步、一句话总结这篇文文章；
-> 第三步，总结文章内容并写成摘要；
-> 第四步，越详细地列举文章的大纲，越详细越好；
-> 
-> {{文章链接}}
-> ``` [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#a2ceec40-a394-44bd-a2dd-008384b65fbb)  ^a2ceec40
-
-> 总结得不错， 第一步，请详细叙述大纲中每一部分的内容， 第二步，总结文章的结论； 第三步，列举读这篇文章，我可以学到哪些知识？ 第四步，针对文章的内容，提出三个用户在阅读的过程中可能会有的疑问。 请用 markdown 格式返回所有内容； [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#b9351e46-abbd-48f9-aca1-a6519d094f3d)  ^b9351e46
-
-> 第三步，是在了解文章的详细信息后，对文章的进一步的进阶阅读。
-> 
-> 这一步是非常个性化的，你可以根据你的需要，向 AI 发出指令。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#050dad83-01be-4350-aa95-975a9d52e44b)  ^050dad83
-
-> #### **01 对不懂的问题进行追问**
-> 
-> 紧接这第二步的到的结果，如果你对文章中你不理解的部分发起疑问。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#b30fe474-de3f-41a0-8dfd-eaccecb277f3)  ^b30fe474
-
-> #### **02 专有名词解释**
-> 
-> 如果文章中有你不理解的名词，可以向 AI 询问其释义。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#1666a28f-f9ae-4ee1-93c3-6549ea696f41)  ^1666a28f
-
-> 在网络的流行方法中，有时会将专有名词加在 prompt 中，但我认为，实际上在你感兴趣的文章中，不了解的专有名词还是少数的，AI 也不知道你不认识哪个专有名词，就会把很多名词都解释出来。这导致了大量输出 token 数的浪费 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#f9774ce5-73cb-468e-a4ea-ec6b54911cba)  ^f9774ce5
-
-> 并且在让 AI 阅读文章，生成内容的过程中，加入大量本不属于文章内容的专有名词解释，这样的上下文可能会误导 AI 的总结效果，让 AI 产生更多的幻觉。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#908d83cd-e2ca-462a-8c5f-b44d1d8004e1)  ^908d83cd
-
-> 03 用高中生可以听懂的语言解释 XXX [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#881030c5-63f6-4c89-bd55-cd8dfa706ea8)  ^881030c5
-
-> #### **04 提取金句和写推荐语**
-> 
-> 金句和推荐语方便你向朋友们推荐文章。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#3fe08a0a-87e6-4e81-ab47-52208e364f15)  ^3fe08a0a
-
-> 05 作者独到的见解？ [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#36bb339d-2873-40e7-a877-e5ee52162f17)  ^36bb339d
-
-> 在阅读文章的过程中，收集已有的”常识“是平常的知识的补充。但倘若可以从文章中读到作者独到的见解，”反常识“的内容，那兼职就是赚到了。因为”反常识“，往往需要人亲身经历后才能总结出来。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#cc62bbff-64f6-40be-b471-465638a43257)  ^cc62bbff
-
-> #### **06 XXX观点在原文中的描述是什么?请打印出来**
-> 
-> 如果你对总结中的某个观点的内容感兴趣，可以自己阅读原文，也可以直接让 AI 打印文章中关于某个观点的原话 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#683044a9-7a1f-46c5-8fd7-3c92c9bff130)  ^683044a9
-
-> 如果你经常阅读文章，你可以讲这些 prompt 放到输入法的“自定义短语”中，在阅读时快捷输入 prompt [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#fbbab36a-8a32-40fd-b192-46393659d5e6)  ^fbbab36a
-
-> AI 阅读的缺点 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#22a63b76-f83c-4047-9520-fe2a8e48a89d)  ^22a63b76
-
-> AI 只能根据文字的数量来评估内容的重要性，有时候会误判 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#d43979e2-873c-4158-ac2f-bd56b93a9e7c)  ^d43979e2
-
-> AI 总结存在一定幻觉 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#4e273a09-f6f5-43d7-a148-546b9a1f0d67)  ^4e273a09
-
-> **AI 更擅长处理结构化的信息，而在面对非结构化信息时，总结效果较差。**例如，AI 在总结访谈类内容，会议记录这样口语化的内容时，总结的效果会稍差一些 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#2de0b4d4-fa78-4f06-9a03-2bf6c61615d1)  ^2de0b4d4
-
-> **AI 无法完全取代你的思考**
-> 
-> AI 只能辅助你更好的阅读，但无法完全替代你亲自去阅读并产生的思考。如果读到你想了解的具体的知识点，最好的方法还是亲自去阅读原文，理解，这样学习的效果会更好。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#f1b14e0b-f420-4544-932f-a96bd97ead12)  ^f1b14e0b
-
-
 --- 
 
 # Full Content: 
@@ -361,3 +245,121 @@ date_published: 2024-03-13 03:30:14
 最后，**==AI 无法完全取代你的思考==**
 
 ==AI 只能辅助你更好的阅读，但无法完全替代你亲自去阅读并产生的思考。如果读到你想了解的具体的知识点，最好的方法还是亲自去阅读原文，理解，这样学习的效果会更好。==
+
+---
+
+## Highlights
+
+> 我每天需要处理大量的文章。社交媒体推荐的文章、RSS 订阅的文章、主动搜索到的文章…
+> 
+> 因为有大量的信息要处理，我的 read it later 文章也越来越多。两年多来，我的 cubox 里的待读文章，已经攒到了 4800 篇。
+> 
+> 但我并不会为此感到焦虑，这些文章成了一个经过我筛选的“图书馆”，当我需要的时候，我可以在里面找到自己想要的文章进行阅读。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#7c73bc31-d043-4bc4-88b2-5b76ffa22ce8)  ^7c73bc31
+
+> 在没有 AI 之前，我的文章处理步骤是这样的：
+> 
+> 粗略阅读，筛选信息
+> 
+> 经过筛选的信息，阅读其中一部分/全文阅读
+> 
+> 阅读过后记录「文献笔记」 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#88bdc876-7d0a-41f2-8c0a-4f8efd4f7e8b)  ^88bdc876
+
+> 有了AI 以后，大语言模型(LLM)可以帮助我们处理文章，提高筛选文章和阅读文章的效率。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#a397f150-d371-45b7-a7de-0e5245003a78)  ^a397f150
+
+> 大语言模型的能力：
+> 
+> 聊天机器人：对话
+> 
+> 总结类应用：总结信息/提取信息
+> 
+> 扩展类应用：续写
+> 
+> 推理类应用：情绪判断、主题判断
+> 
+> 转化类应用：翻译、格式转换、纠错
+> 
+> ——来自吴恩达的 ChatGPT 教程 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#fc40a887-6b6d-46c6-8a33-d90b3941d434)  ^fc40a887
+
+> #### **模型选择**
+> 
+> 首先先选择大模型，我选择的是 Kimi Chat
+> 
+> 而对比国内的一众大模型厂商，Kimichat 的长文本能力(long-context)是最好的。文章一般的字数一般都比较多，依赖大模型的长文本能力来处理。
+> 
+> 对比海外的大模型，比如同样支持操场文本的 Claude ，Kimi Chat 对中文的支持更好。
+> 
+> Kimi Chat 现在可以免费使用，并且支持 Web、H5、APP、微信小程序等多终端，哪里都能用。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#58b0e79f-bda7-4cdd-87bf-2ccce218fb31)  ^58b0e79f
+
+> ### **第一步 了解文章**
+> 
+> 筛选信息时，我的判断步骤是：
+> 
+> 判断信息质量，只读高质量文章
+> 
+> 是否是自己需要的？读完能学到什么？
+> 
+> 是否是当下需要的？不是当下需要的，先存起来，”read it later“。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#c84a1f35-8bad-42b3-9768-bd80ffe7d5ba)  ^c84a1f35
+
+> 以这篇文章[《**一套搭建部门知识库的方法》**](http://mp.weixin.qq.com/s?%5F%5Fbiz=MzU5ODMyNDEyNw==&mid=2247498679&idx=1&sn=64540679934377f8c50f7465734a3d2b&chksm=fe475d47c930d45143cd5dee5d08aa5991ebaaef80f940a2c8b97b57085e434a8331c0261611&mpshare=1&scene=1&srcid=0305gyPSFT5Bvrs05U2owDHU&sharer%5Fshareinfo=f75334a327d8b24aa7fb940071398d0b&sharer%5Fshareinfo%5Ffirst=f75334a327d8b24aa7fb940071398d0b#rd)为例
+> 
+> 使用 prompt 发给 kimichat
+> 
+> ```asciidoc
+> 让我们一步一步思考，阅读我提供的内容，并做出以下操作：
+> 第一步，提取文章的元数据
+> - 标题：
+> - 作者：
+> - 标签：（阅读文章内容后给文章打上标签，标签通常是领域、学科或专有名词）
+> 第二步、一句话总结这篇文文章；
+> 第三步，总结文章内容并写成摘要；
+> 第四步，越详细地列举文章的大纲，越详细越好；
+> 
+> {{文章链接}}
+> ``` [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#a2ceec40-a394-44bd-a2dd-008384b65fbb)  ^a2ceec40
+
+> 总结得不错， 第一步，请详细叙述大纲中每一部分的内容， 第二步，总结文章的结论； 第三步，列举读这篇文章，我可以学到哪些知识？ 第四步，针对文章的内容，提出三个用户在阅读的过程中可能会有的疑问。 请用 markdown 格式返回所有内容； [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#b9351e46-abbd-48f9-aca1-a6519d094f3d)  ^b9351e46
+
+> 第三步，是在了解文章的详细信息后，对文章的进一步的进阶阅读。
+> 
+> 这一步是非常个性化的，你可以根据你的需要，向 AI 发出指令。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#050dad83-01be-4350-aa95-975a9d52e44b)  ^050dad83
+
+> #### **01 对不懂的问题进行追问**
+> 
+> 紧接这第二步的到的结果，如果你对文章中你不理解的部分发起疑问。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#b30fe474-de3f-41a0-8dfd-eaccecb277f3)  ^b30fe474
+
+> #### **02 专有名词解释**
+> 
+> 如果文章中有你不理解的名词，可以向 AI 询问其释义。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#1666a28f-f9ae-4ee1-93c3-6549ea696f41)  ^1666a28f
+
+> 在网络的流行方法中，有时会将专有名词加在 prompt 中，但我认为，实际上在你感兴趣的文章中，不了解的专有名词还是少数的，AI 也不知道你不认识哪个专有名词，就会把很多名词都解释出来。这导致了大量输出 token 数的浪费 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#f9774ce5-73cb-468e-a4ea-ec6b54911cba)  ^f9774ce5
+
+> 并且在让 AI 阅读文章，生成内容的过程中，加入大量本不属于文章内容的专有名词解释，这样的上下文可能会误导 AI 的总结效果，让 AI 产生更多的幻觉。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#908d83cd-e2ca-462a-8c5f-b44d1d8004e1)  ^908d83cd
+
+> 03 用高中生可以听懂的语言解释 XXX [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#881030c5-63f6-4c89-bd55-cd8dfa706ea8)  ^881030c5
+
+> #### **04 提取金句和写推荐语**
+> 
+> 金句和推荐语方便你向朋友们推荐文章。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#3fe08a0a-87e6-4e81-ab47-52208e364f15)  ^3fe08a0a
+
+> 05 作者独到的见解？ [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#36bb339d-2873-40e7-a877-e5ee52162f17)  ^36bb339d
+
+> 在阅读文章的过程中，收集已有的”常识“是平常的知识的补充。但倘若可以从文章中读到作者独到的见解，”反常识“的内容，那兼职就是赚到了。因为”反常识“，往往需要人亲身经历后才能总结出来。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#cc62bbff-64f6-40be-b471-465638a43257)  ^cc62bbff
+
+> #### **06 XXX观点在原文中的描述是什么?请打印出来**
+> 
+> 如果你对总结中的某个观点的内容感兴趣，可以自己阅读原文，也可以直接让 AI 打印文章中关于某个观点的原话 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#683044a9-7a1f-46c5-8fd7-3c92c9bff130)  ^683044a9
+
+> 如果你经常阅读文章，你可以讲这些 prompt 放到输入法的“自定义短语”中，在阅读时快捷输入 prompt [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#fbbab36a-8a32-40fd-b192-46393659d5e6)  ^fbbab36a
+
+> AI 阅读的缺点 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#22a63b76-f83c-4047-9520-fe2a8e48a89d)  ^22a63b76
+
+> AI 只能根据文字的数量来评估内容的重要性，有时候会误判 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#d43979e2-873c-4158-ac2f-bd56b93a9e7c)  ^d43979e2
+
+> AI 总结存在一定幻觉 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#4e273a09-f6f5-43d7-a148-546b9a1f0d67)  ^4e273a09
+
+> **AI 更擅长处理结构化的信息，而在面对非结构化信息时，总结效果较差。**例如，AI 在总结访谈类内容，会议记录这样口语化的内容时，总结的效果会稍差一些 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#2de0b4d4-fa78-4f06-9a03-2bf6c61615d1)  ^2de0b4d4
+
+> **AI 无法完全取代你的思考**
+> 
+> AI 只能辅助你更好的阅读，但无法完全替代你亲自去阅读并产生的思考。如果读到你想了解的具体的知识点，最好的方法还是亲自去阅读原文，理解，这样学习的效果会更好。 [⤴️](https://omnivore.app/me/kimi-chat-ai-18e37baf18c#f1b14e0b-f420-4544-932f-a96bd97ead12)  ^f1b14e0b
+

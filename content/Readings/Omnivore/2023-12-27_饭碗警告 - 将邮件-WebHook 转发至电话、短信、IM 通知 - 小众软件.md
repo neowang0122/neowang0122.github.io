@@ -19,11 +19,6 @@ date_saved: 2023-12-27 01:57:54
 
 date_published: 2023-12-27 01:57:54
 
-## Highlights
-
-> **饭碗警告**是一个非常实用的信息转发工具，它能够将你收到的邮件、WebHook 推送转发至电话、短信、Telegram 通知、App 通知，甚至再转发到邮件，或者 WebHook。 [⤴️](https://omnivore.app/me/web-hook-im-18caa66b690#a8d9706b-a5e7-4d6e-ad8f-02576cb7a216)  ^a8d9706b
-
-
 --- 
 
 # Full Content: 
@@ -96,3 +91,10 @@ date_published: 2023-12-27 01:57:54
 饭碗，应该是 forward 的意思 😂
 
 那个，你有转发消息的需求嘛？
+
+---
+
+## Highlights
+
+> **饭碗警告**是一个非常实用的信息转发工具，它能够将你收到的邮件、WebHook 推送转发至电话、短信、Telegram 通知、App 通知，甚至再转发到邮件，或者 WebHook。 [⤴️](https://omnivore.app/me/web-hook-im-18caa66b690#a8d9706b-a5e7-4d6e-ad8f-02576cb7a216)  ^a8d9706b
+

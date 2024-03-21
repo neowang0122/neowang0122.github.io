@@ -19,11 +19,6 @@ date_saved: 2024-03-09 15:41:05
 
 date_published: 2020-04-16 05:16:00
 
-## Highlights
-
-> MAC如何彻底卸载ADOBE/PHOTOSHOP [⤴️](https://omnivore.app/me/2020-mac-adobe-photoshop-18e24f2a443#010d0433-808d-4888-9752-420b9bf2ec0d)  ^010d0433
-
-
 --- 
 
 # Full Content: 
@@ -87,3 +82,10 @@ Goldsmiths, UoL
 ​
 
 分享
+
+---
+
+## Highlights
+
+> MAC如何彻底卸载ADOBE/PHOTOSHOP [⤴️](https://omnivore.app/me/2020-mac-adobe-photoshop-18e24f2a443#010d0433-808d-4888-9752-420b9bf2ec0d)  ^010d0433
+

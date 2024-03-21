@@ -19,11 +19,6 @@ date_saved: 2024-03-11 16:50:45
 
 date_published: 2021-04-13 20:15:16
 
-## Highlights
-
-> Copy the **catalog file (Catalog.lrcat)**, the **previews folder (Previews.lrdata)**, and the **Smart previews folder (Smart Previews.lrdata).** [⤴️](https://omnivore.app/me/how-to-move-a-lightroom-catalog-to-an-external-hard-drive-pfre-18e2f4834c2#b114e039-6844-44f4-836b-818948a105bb)  ^b114e039
-
-
 --- 
 
 # Full Content: 
@@ -150,3 +145,10 @@ If Lightroom doesn’t recognize the catalog on your external hard drive after l
 ## Conclusion
 
 Having your catalog on an external drive[ makes your photo management process easier](https://photographyforrealestate.net/what-client-management-software-do-real-estate-photographers-use-2/). Just make sure to use a good quality hard drive so that Lightroom’s performance isn’t harmed. I hope that my step-by-step guide on moving Lightroom's catalog safely onto your hard drive will be helpful for you. 
+
+---
+
+## Highlights
+
+> Copy the **catalog file (Catalog.lrcat)**, the **previews folder (Previews.lrdata)**, and the **Smart previews folder (Smart Previews.lrdata).** [⤴️](https://omnivore.app/me/how-to-move-a-lightroom-catalog-to-an-external-hard-drive-pfre-18e2f4834c2#b114e039-6844-44f4-836b-818948a105bb)  ^b114e039
+

@@ -17,19 +17,6 @@ date_saved: 2024-03-15 20:34:44
 
 date_published: 2021-09-14 04:43:19
 
-## Highlights
-
-> luck.
-> 
-> [![grafik](https://proxy-prod.omnivore-image-cache.app/690x420,sESVV3igKmJFPmSDZWuR_wWpzVHHsFnwXirUndxUujQA/https://forum.obsidian.md/uploads/default/optimized/3X/f/c/fce087c925f4b18cd99da1fca6017e1006d8b681_2_690x420.png)](https://forum.obsidian.md/uploads/default/original/3X/f/c/fce087c925f4b18cd99da1fca6017e1006d8b681.png "grafik")
-> 
-> Does the Page Preview plugin only adress the editor and not the preview window) [⤴️](https://omnivore.app/me/remove-the-requirement-to-press-ctrl-cmd-to-preview-on-hover-in--18e44aeb667#1b98441f-a783-44f8-b6f0-35e715d7c14e)  ^1b98441f
-
-> Where it says ‘Preview’ in your image, toggle that option off. [⤴️](https://omnivore.app/me/remove-the-requirement-to-press-ctrl-cmd-to-preview-on-hover-in--18e44aeb667#8a4085ed-2dac-4127-b963-5d339d99d2fa)  ^8a4085ed
-
-> I have to say that for me this labelling is really consufing. I wouldn’t expect to have to turn off “preview” to get “preview”. It would actually be nice if the sentence that was on top as a heading “Require Ctrl to trigger page preview on hover” actually replaces the text “Preview” where there is a checkmark. The heading could simply be “Page preview plugin”. [⤴️](https://omnivore.app/me/remove-the-requirement-to-press-ctrl-cmd-to-preview-on-hover-in--18e44aeb667#70f20176-52c2-4a5a-ba63-8a1d02c495cd)  ^70f20176
-
-
 --- 
 
 # Full Content: 
@@ -70,3 +57,18 @@ Okay, that does it. I tried turning the whole plugin off and as expected it turn
 ==I have to say that for me this labelling is really consufing. I wouldn’t expect to have to turn off “preview” to get “preview”. It would actually be nice if the sentence that was on top as a heading “Require Ctrl to trigger page preview on hover” actually replaces the text “Preview” where there is a checkmark. The heading could simply be “Page preview plugin”.==
 
 This topic was automatically closed 24 hours after the last reply. New replies are no longer allowed.
+
+---
+
+## Highlights
+
+> luck.
+> 
+> [![grafik](https://proxy-prod.omnivore-image-cache.app/690x420,sESVV3igKmJFPmSDZWuR_wWpzVHHsFnwXirUndxUujQA/https://forum.obsidian.md/uploads/default/optimized/3X/f/c/fce087c925f4b18cd99da1fca6017e1006d8b681_2_690x420.png)](https://forum.obsidian.md/uploads/default/original/3X/f/c/fce087c925f4b18cd99da1fca6017e1006d8b681.png "grafik")
+> 
+> Does the Page Preview plugin only adress the editor and not the preview window) [⤴️](https://omnivore.app/me/remove-the-requirement-to-press-ctrl-cmd-to-preview-on-hover-in--18e44aeb667#1b98441f-a783-44f8-b6f0-35e715d7c14e)  ^1b98441f
+
+> Where it says ‘Preview’ in your image, toggle that option off. [⤴️](https://omnivore.app/me/remove-the-requirement-to-press-ctrl-cmd-to-preview-on-hover-in--18e44aeb667#8a4085ed-2dac-4127-b963-5d339d99d2fa)  ^8a4085ed
+
+> I have to say that for me this labelling is really consufing. I wouldn’t expect to have to turn off “preview” to get “preview”. It would actually be nice if the sentence that was on top as a heading “Require Ctrl to trigger page preview on hover” actually replaces the text “Preview” where there is a checkmark. The heading could simply be “Page preview plugin”. [⤴️](https://omnivore.app/me/remove-the-requirement-to-press-ctrl-cmd-to-preview-on-hover-in--18e44aeb667#70f20176-52c2-4a5a-ba63-8a1d02c495cd)  ^70f20176
+

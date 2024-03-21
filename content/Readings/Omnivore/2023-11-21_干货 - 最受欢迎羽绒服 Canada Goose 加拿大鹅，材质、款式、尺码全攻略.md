@@ -19,11 +19,6 @@ date_saved: 2023-11-21 03:45:03
 
 date_published: 2019-12-16 19:00:00
 
-## Highlights
-
-> Canada Goose 款式主要分为几大系列： Parkas（派克大衣） ， Bombers（飞行员夹克） ， Lightweight（轻量羽绒服/夹克）， Raincoats（雨衣/防风衣）。**其中最受欢迎的是Parkas和Bombers系列，今天就着重讲这两个系列。** [⤴️](https://omnivore.app/me/https-m-dealmoon-com-guide-759234-x-from-site-us-18bf10dd880#5d0d56da-481e-4dd2-bc3c-ae7ea34c246a)  ^5d0d56da
-
-
 --- 
 
 # Full Content: 
@@ -232,3 +227,10 @@ Canada Goose   **款型** 主要分为三种：
 本文由   **爱说话的Miss咕** 原创编辑，未经许可不得转载，否则将进行追究。部分图片来自于网络版权属于原作者。
 
 ![new banner](https://proxy-prod.omnivore-image-cache.app/0x0,snSBZTwLeusd3otOzJmVhsZ0_WkjTZFYXr0_B-qC6aHM/https://imgcache.dealmoon.com/thumbimg.dealmoon.com/dealmoon/014/5e1/6dc/aab28750689a1e99d53e9ed.jpg_1080_0_3_8c03.jpg)
+
+---
+
+## Highlights
+
+> Canada Goose 款式主要分为几大系列： Parkas（派克大衣） ， Bombers（飞行员夹克） ， Lightweight（轻量羽绒服/夹克）， Raincoats（雨衣/防风衣）。**其中最受欢迎的是Parkas和Bombers系列，今天就着重讲这两个系列。** [⤴️](https://omnivore.app/me/https-m-dealmoon-com-guide-759234-x-from-site-us-18bf10dd880#5d0d56da-481e-4dd2-bc3c-ae7ea34c246a)  ^5d0d56da
+

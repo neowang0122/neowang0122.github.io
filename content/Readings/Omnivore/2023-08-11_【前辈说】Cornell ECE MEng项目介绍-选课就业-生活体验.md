@@ -19,25 +19,6 @@ date_saved: 2023-08-11 07:01:19
 
 date_published: 2020-03-23 00:38:00
 
-## Highlights
-
-> ECE5725 Embedded Operating System [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#94cb26bd-e8da-4e85-8828-52fbba974ac3)  ^94cb26bd
-
-> 这段经历写到简历中的话也是很吸睛的 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#c8fe4e4b-29d5-4aaf-9ff0-1d00c87094b1)  ^c8fe4e4b
-
-> CS4410 Operating System。 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#ac013a3f-6f7e-4f2b-a85c-cb5304d01afd)  ^ac013a3f
-
-> 更为重要的是后来在面试的过程中，对方的很多问题在这门课中都学到过 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#36c947b0-678b-4fe7-bf83-e03c9512a01b)  ^36c947b0
-
-> 不算学分的神课，**对于那些转专业学习CS专业的同学是很有帮助的，**那就是**CS2110**（Object Oriented Programming-Java &amp; Data Structure）@david Gries，他是cornell国宝级别的存在，他专注于CS基础教育三十年，带了100学期的CS2110，是大神一般的存在，而他每节课都讲得很好。这个课从作业设置到课程内容以及补充资料，都是十分优秀的，这也是一门真正由浅入深的神课，600人的大课节节座无虚席也很可以说明问题。所以对于那些CS没有什么基础的同学来说，这是一门很好的启蒙课程，学了之后大家的进步也会十分的迅速。 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#b013b218-1a8d-4e51-86cf-ac6865ded792)  ^b013b218
-
-> 还有就是这里的体育课我很推荐，其中包括了滑雪、爬树、马术、划船等有趣的内容，大家有机会一定要尝试一下。 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#0e79e330-5013-4d77-b7ec-4926c79f457a)  ^0e79e330
-
-> **我建议同学们可以集中一个月把LeetcodeShaun起来，每天3-5题就可以，坚持一个月左右就会有收获**。 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#ac790965-75b0-44e0-8349-195cf22b0d47)  ^ac790965
-
-> 如果大家秋季入学打算summer intern，第一学期GPA要刷好，第二学期课要少选一些专注刷题 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#802c4b9e-dcd8-4462-b324-597229dd9195)  ^802c4b9e
-
-
 --- 
 
 # Full Content: 
@@ -101,3 +82,24 @@ CS项目作为留学申请的最热门专业，每年都会有很多的同学申
 ## 生活感受
 
 最后是一些其他生活方面的问题了，首先康奈尔的地理位置比较偏僻，坐落在Ithaca小村，不过这样大家可以更专心于学习，同时房租很低，一个月只要900美金左右。但是这样也有一些麻烦，首先就是附近没有超市，因此基本一星期才能采购一次，另外就是对onsite不是很友好。因为我当时不是很喜欢social，所以生活上没有什么其他要说的了，总之这个项目还是很不错的，我也希望我写的这些文字可以帮助到同学们，最后我也祝愿同学们都能申请到自己心仪的项目。
+
+---
+
+## Highlights
+
+> ECE5725 Embedded Operating System [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#94cb26bd-e8da-4e85-8828-52fbba974ac3)  ^94cb26bd
+
+> 这段经历写到简历中的话也是很吸睛的 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#c8fe4e4b-29d5-4aaf-9ff0-1d00c87094b1)  ^c8fe4e4b
+
+> CS4410 Operating System。 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#ac013a3f-6f7e-4f2b-a85c-cb5304d01afd)  ^ac013a3f
+
+> 更为重要的是后来在面试的过程中，对方的很多问题在这门课中都学到过 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#36c947b0-678b-4fe7-bf83-e03c9512a01b)  ^36c947b0
+
+> 不算学分的神课，**对于那些转专业学习CS专业的同学是很有帮助的，**那就是**CS2110**（Object Oriented Programming-Java &amp; Data Structure）@david Gries，他是cornell国宝级别的存在，他专注于CS基础教育三十年，带了100学期的CS2110，是大神一般的存在，而他每节课都讲得很好。这个课从作业设置到课程内容以及补充资料，都是十分优秀的，这也是一门真正由浅入深的神课，600人的大课节节座无虚席也很可以说明问题。所以对于那些CS没有什么基础的同学来说，这是一门很好的启蒙课程，学了之后大家的进步也会十分的迅速。 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#b013b218-1a8d-4e51-86cf-ac6865ded792)  ^b013b218
+
+> 还有就是这里的体育课我很推荐，其中包括了滑雪、爬树、马术、划船等有趣的内容，大家有机会一定要尝试一下。 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#0e79e330-5013-4d77-b7ec-4926c79f457a)  ^0e79e330
+
+> **我建议同学们可以集中一个月把LeetcodeShaun起来，每天3-5题就可以，坚持一个月左右就会有收获**。 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#ac790965-75b0-44e0-8349-195cf22b0d47)  ^ac790965
+
+> 如果大家秋季入学打算summer intern，第一学期GPA要刷好，第二学期课要少选一些专注刷题 [⤴️](https://omnivore.app/me/cornell-ece-m-eng-189e4420584#802c4b9e-dcd8-4462-b324-597229dd9195)  ^802c4b9e
+

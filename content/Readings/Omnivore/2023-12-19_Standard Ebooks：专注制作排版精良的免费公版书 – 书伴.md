@@ -19,14 +19,6 @@ date_saved: 2023-12-19 11:39:13
 
 date_published: 2023-12-19 11:39:13
 
-## Highlights
-
-> Standard Ebooks 是一个集重制精美公版电子书、维护精品电子书制作规范以及开发电子书制作工具于一身的公益组织。以“为真正的爱书人精心制作免费而自由的电子书”为愿景。 [⤴️](https://omnivore.app/me/standard-ebooks-18c83bdc11b#557af347-899f-42a9-8905-704bd34a8885)  ^557af347
-
-> * **官方网站**：[https://standardebooks.org](https://standardebooks.org/)
-> * **项目主页**： [⤴️](https://omnivore.app/me/standard-ebooks-18c83bdc11b#6c6445a0-63c7-4fc7-b7d0-6586f82b625e)  ^6c6445a0
-
-
 --- 
 
 # Full Content: 
@@ -100,3 +92,13 @@ Standard Ebooks 在“[Standard Ebooks and the public domain](https://standardeb
 © 「[书伴](https://bookfere.com/)」原创文章，转载请注明出处及原文链接：<https://bookfere.com/post/1084.html>
 
 支持书伴创作更多高质量文章，**[捐助书伴](https://bookfere.com/donate "让金钱为有意义的事情出一分力！")**
+
+---
+
+## Highlights
+
+> Standard Ebooks 是一个集重制精美公版电子书、维护精品电子书制作规范以及开发电子书制作工具于一身的公益组织。以“为真正的爱书人精心制作免费而自由的电子书”为愿景。 [⤴️](https://omnivore.app/me/standard-ebooks-18c83bdc11b#557af347-899f-42a9-8905-704bd34a8885)  ^557af347
+
+> * **官方网站**：[https://standardebooks.org](https://standardebooks.org/)
+> * **项目主页**： [⤴️](https://omnivore.app/me/standard-ebooks-18c83bdc11b#6c6445a0-63c7-4fc7-b7d0-6586f82b625e)  ^6c6445a0
+

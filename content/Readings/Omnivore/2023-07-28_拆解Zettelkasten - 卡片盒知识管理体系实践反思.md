@@ -19,81 +19,6 @@ date_saved: 2023-07-28 07:50:20
 
 date_published: 2020-07-25 11:21:00
 
-## Highlights
-
-> 我跟[Tiago Forte](https://link.zhihu.com/?target=https%3A//fortelabs.co/blog/how-to-take-smart-notes/)写的一样，很早很早就放弃了记笔记，甚至放弃了看书，为什么? 是因为我是一个懒惰的人吗？没错。第二个原因是，我无法把所学所得更好的结合起来，只能信奉读书之后把书忘记之后留下来东西才是真正有用的东西。直到 [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#fc287d7b-a8ba-4e6c-993c-6865d70efa32)  ^fc287d7b
-
-> Zettelkasten在不同语境中有多重含义，我想把包含内容的最广的情况做一个定义：**Zettelkasten是一种针对学术写作的知识管理方法论**，我把这个方法论拆分2个部分：**工作流**和**笔记方式**。Zettelkasten本身也是德文的卡片盒的意思，也单独只这整个方法论里存储Permanent Notes的地方 [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#e52a974f-aa4d-46fd-b61e-ee852440f921)  ^e52a974f
-
-> 目标是让Zettelkasten变成一个辅助持续增进知识体系的**大脑义肢**，由于我们的大脑中的挂念的项目（Working Menory）的极限是4 - 6个，一个合适的外部辅助设备帮助我们提取不同时间不同领域的知识是非常必要的。
-> 
-> ### 关于Zettelkasten的笔记方式
-> 
-> 完成了定义之后，接下来是我对两大部分的简单描述。首先我们看一下现在最被人所关注的**笔记方式**，根据How to Take Smart Nots \[^1\] （以下简称How to）第一章，以下是我抽取拆分出来的步骤:
-> 
-> 1. 写临时note：包括记录自己感兴趣的idea/Fleeting notes/Project Notes，我统称它们为临时Notes，最终都要舍弃
-> 2. 写Literature Notes，用自己的话对临时notes进行“翻译”，通过一种可以像他人解释的方式
-> 3. 写Permanent Notes（[Andy Matuschak](https://link.zhihu.com/?target=https%3A//andymatuschak.org/)叫它们[Evergreen Notes](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) \[^2\]，一个我觉得更好的名字），找出跟已有卡片的关联、标记，放入一个存放地方，也就是德文zettelkasten， 也就是英文的slip-box，中文会叫滑箱。 [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#787bb1b0-f78d-416e-a1c7-c38b86291b88)  ^787bb1b0
-
-> ### 关于Zettelkasten的工作流
-> 
-> 通过对多个文章提出的拆分，我构建了一个完整的Zettelkasten流程，其中包含以下部分：
-> 
-> 前置流程：
-> 
-> * 材料Inbox，收集需要处理的学习资料(文章，书籍，视频，Podcast)
-> * 对材料进行筛选，确定值得学习的材料，学习顺序优先级别分配
-> * 从系统内部自下而上制定你的课题、问题和研究项目。
-> 
-> 学习，阅读，笔记，写作：
-> 
-> * 使用**笔记方式**进行对所研究项目进行学习，阅读，完成对材料理解
-> * 针对你制订的课题，把笔记变成能够合并输出草稿。
-> * 编辑和校对你的稿子。
-> * 可以多个项目并行处理，尽可能的充分利用脑力
-> 
-> 后置流程：
-> 
-> * 定期打开滑箱，从滑箱中找到适合继续发展的idea，放入inbox当中
-> * 清理无用的临时Notes
-> 
-> 本文无意深入以上步骤的执行细节，但更希望引起对Zettelkasten爱好者的注意的是：**实现自己的Zettelkasten工作流至关重要**，只有在拥有设计过工作流和笔记方式完整结合的状态下，Zettelkasten才能发挥其应有的作用。在How to的多个章节当中都强调了工作流是卢曼实现其惊人高质量的输出的关键。在开始构建一个属于自己的Zettelkasten的时候，一个正确的预期是：它是一个需要长期严格执行才能起效知识管理工作流。 [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#fdb1dc01-1903-43ce-8c66-2046a2db4d1e)  ^fdb1dc01
-
-> Just because writing is not a linear process doesn’t mean we should go about it haphazardly. We need a _workflow_ – a repeatable process for collecting, organizing, and sharing ideas.  
->  \-- [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing.](https://link.zhihu.com/?target=https%3A//fortelabs.co/blog/how-to-take-smart-notes/) \[^4\]Principle #4: Our tools and techniques are only as valuable as the workflow. [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#73c18c48-746a-434b-89b8-83c8adb8a7e2)  ^73c18c48
-
-> 流程作用是什么？它可以推动你，让你轻松前进。我们需要工作流程让我们达到专注的心流状态，也是理解困难知识所需要的前提。正如How to所提到的：一个好的、有条理的工作流程，让我们重新掌握了主导权，增加了我们在正确的时间做正确事情的自由度。而构建一个属于自己的工作流系统是个不小的挑战，对于大部分人来说这个挑战在于：**本来就没有一个完整的知识管理工作流。**
-> 
-> 可以通过以下一些我总结的问题来判断现有的知识管理流程是否已经完备：
-> 
-> * 是否在各种情景下都可以使用有效方式捕捉素材？
-> * 是否对待读材料有合适的管理方式？是否能够不定期清空待读材料？
-> * 是否建立了自己的关注领域清单，并且建立对应的项目？
-> * 是否知道如何为任何项目快速建立下一步行动？
-> * 是否有种合理的方式检验自己对知识的理解？
-> * 是否确认现有正在执行系统/习惯能可以长期执行？
-> * 是否确定现有系统在遭遇中断甚至奔溃之后可以很快恢复？
-> 
-> 一个良好的工作流程需要有无限游戏的价值观和构建长期习惯的能力。尤其是Zettelkasten的效果是需要在大量的阅读输入，大量的笔记，反复的链接思考之后才能看出效果。这样的前提下，符合个人特点的知识工作流程更加显得重要。 [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#5c47fda7-085e-44e8-9e9e-4b7fae280635)  ^5c47fda7
-
-> Permanent Notes的问题是我在第一次接触Zettelkasten就一直缠绕着我许久的问题：我到底应该怎么写Permanent Notes? How to中给出了它的清晰定义，但是没有给出合适的例子。结合How to的定义和Andy Matuschak的 [Evergreen Notes](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) 和 [Simon Eskildsen](https://link.zhihu.com/?target=https%3A//twitter.com/sirupsen) 在 How to Make Yourself Into a Learning Machine\[^3\] 中的例子，我得出以下一些Permanent Notes的关键特征：
-> 
-> * 有合适的标题
-> * 以给别人阅读的前提来书写的
-> * 使用完整句子的句子编写
-> * 标记对应的参考资料/来源项目/对应的Literature note
-> * 精确，清晰，简短，是一个完整知识逻辑
-> * 可以做到不再需要之前的临时notes
-> * 标准化格式和流程
-> * 随着数量的扩大，它们之间存在的关系持续更新 [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#e5cf83ec-9c90-4e12-ad60-17537fda07c5)  ^e5cf83ec
-
-> **Permanent Notes就是一篇篇以能够直接公布为目的逻辑完备的小文章，并且需要不停的更新他们之间的可能存在的逻辑关系，共同点，冲突点**。意味着Permanent Notes的输出其实并不简单：
-> 
-> 1. 它迫使你通过写作思考，也通过思考来推进写作。这点是符合在How to中提到的把**写作当做最重要的事情**的原则。
-> 2. 它迫使你思考笔记之间的意义联系。在进行知识链接的时候，需要做的是事情不是把建立一个物理链接，而重要的是意义链接，它们的逻辑关系，可能产生的影响，是否有矛盾的地方。这些意义上的链接思考是宝贵的。
-> 3. 同时通过最后一点可以非常清楚的解释这为什么Evergreen Notes是一个更好的名字，Permanent Notes其实并不Permanent。在知识深度和广度不断增大的时候，已经被放进滑箱中的任何Notes都有被再次更新的机会。 [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#791abcac-2427-4f5f-8e6f-feec9cb14c40)  ^791abcac
-
-
 --- 
 
 # Full Content: 
@@ -222,3 +147,80 @@ date_published: 2020-07-25 11:21:00
 Introduction to Luhmann’s Zettelkastenthinking and its technical implementation [https://strengejacke.files.wordpress.com/2015/10/introduction-into-luhmanns-zettelkasten-thinking.pdf](https://link.zhihu.com/?target=https%3A//strengejacke.files.wordpress.com/2015/10/introduction-into-luhmanns-zettelkasten-thinking.pdf)
 
 原文链接：
+
+---
+
+## Highlights
+
+> 我跟[Tiago Forte](https://link.zhihu.com/?target=https%3A//fortelabs.co/blog/how-to-take-smart-notes/)写的一样，很早很早就放弃了记笔记，甚至放弃了看书，为什么? 是因为我是一个懒惰的人吗？没错。第二个原因是，我无法把所学所得更好的结合起来，只能信奉读书之后把书忘记之后留下来东西才是真正有用的东西。直到 [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#fc287d7b-a8ba-4e6c-993c-6865d70efa32)  ^fc287d7b
+
+> Zettelkasten在不同语境中有多重含义，我想把包含内容的最广的情况做一个定义：**Zettelkasten是一种针对学术写作的知识管理方法论**，我把这个方法论拆分2个部分：**工作流**和**笔记方式**。Zettelkasten本身也是德文的卡片盒的意思，也单独只这整个方法论里存储Permanent Notes的地方 [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#e52a974f-aa4d-46fd-b61e-ee852440f921)  ^e52a974f
+
+> 目标是让Zettelkasten变成一个辅助持续增进知识体系的**大脑义肢**，由于我们的大脑中的挂念的项目（Working Menory）的极限是4 - 6个，一个合适的外部辅助设备帮助我们提取不同时间不同领域的知识是非常必要的。
+> 
+> ### 关于Zettelkasten的笔记方式
+> 
+> 完成了定义之后，接下来是我对两大部分的简单描述。首先我们看一下现在最被人所关注的**笔记方式**，根据How to Take Smart Nots \[^1\] （以下简称How to）第一章，以下是我抽取拆分出来的步骤:
+> 
+> 1. 写临时note：包括记录自己感兴趣的idea/Fleeting notes/Project Notes，我统称它们为临时Notes，最终都要舍弃
+> 2. 写Literature Notes，用自己的话对临时notes进行“翻译”，通过一种可以像他人解释的方式
+> 3. 写Permanent Notes（[Andy Matuschak](https://link.zhihu.com/?target=https%3A//andymatuschak.org/)叫它们[Evergreen Notes](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) \[^2\]，一个我觉得更好的名字），找出跟已有卡片的关联、标记，放入一个存放地方，也就是德文zettelkasten， 也就是英文的slip-box，中文会叫滑箱。 [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#787bb1b0-f78d-416e-a1c7-c38b86291b88)  ^787bb1b0
+
+> ### 关于Zettelkasten的工作流
+> 
+> 通过对多个文章提出的拆分，我构建了一个完整的Zettelkasten流程，其中包含以下部分：
+> 
+> 前置流程：
+> 
+> * 材料Inbox，收集需要处理的学习资料(文章，书籍，视频，Podcast)
+> * 对材料进行筛选，确定值得学习的材料，学习顺序优先级别分配
+> * 从系统内部自下而上制定你的课题、问题和研究项目。
+> 
+> 学习，阅读，笔记，写作：
+> 
+> * 使用**笔记方式**进行对所研究项目进行学习，阅读，完成对材料理解
+> * 针对你制订的课题，把笔记变成能够合并输出草稿。
+> * 编辑和校对你的稿子。
+> * 可以多个项目并行处理，尽可能的充分利用脑力
+> 
+> 后置流程：
+> 
+> * 定期打开滑箱，从滑箱中找到适合继续发展的idea，放入inbox当中
+> * 清理无用的临时Notes
+> 
+> 本文无意深入以上步骤的执行细节，但更希望引起对Zettelkasten爱好者的注意的是：**实现自己的Zettelkasten工作流至关重要**，只有在拥有设计过工作流和笔记方式完整结合的状态下，Zettelkasten才能发挥其应有的作用。在How to的多个章节当中都强调了工作流是卢曼实现其惊人高质量的输出的关键。在开始构建一个属于自己的Zettelkasten的时候，一个正确的预期是：它是一个需要长期严格执行才能起效知识管理工作流。 [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#fdb1dc01-1903-43ce-8c66-2046a2db4d1e)  ^fdb1dc01
+
+> Just because writing is not a linear process doesn’t mean we should go about it haphazardly. We need a _workflow_ – a repeatable process for collecting, organizing, and sharing ideas.  
+>  \-- [How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing.](https://link.zhihu.com/?target=https%3A//fortelabs.co/blog/how-to-take-smart-notes/) \[^4\]Principle #4: Our tools and techniques are only as valuable as the workflow. [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#73c18c48-746a-434b-89b8-83c8adb8a7e2)  ^73c18c48
+
+> 流程作用是什么？它可以推动你，让你轻松前进。我们需要工作流程让我们达到专注的心流状态，也是理解困难知识所需要的前提。正如How to所提到的：一个好的、有条理的工作流程，让我们重新掌握了主导权，增加了我们在正确的时间做正确事情的自由度。而构建一个属于自己的工作流系统是个不小的挑战，对于大部分人来说这个挑战在于：**本来就没有一个完整的知识管理工作流。**
+> 
+> 可以通过以下一些我总结的问题来判断现有的知识管理流程是否已经完备：
+> 
+> * 是否在各种情景下都可以使用有效方式捕捉素材？
+> * 是否对待读材料有合适的管理方式？是否能够不定期清空待读材料？
+> * 是否建立了自己的关注领域清单，并且建立对应的项目？
+> * 是否知道如何为任何项目快速建立下一步行动？
+> * 是否有种合理的方式检验自己对知识的理解？
+> * 是否确认现有正在执行系统/习惯能可以长期执行？
+> * 是否确定现有系统在遭遇中断甚至奔溃之后可以很快恢复？
+> 
+> 一个良好的工作流程需要有无限游戏的价值观和构建长期习惯的能力。尤其是Zettelkasten的效果是需要在大量的阅读输入，大量的笔记，反复的链接思考之后才能看出效果。这样的前提下，符合个人特点的知识工作流程更加显得重要。 [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#5c47fda7-085e-44e8-9e9e-4b7fae280635)  ^5c47fda7
+
+> Permanent Notes的问题是我在第一次接触Zettelkasten就一直缠绕着我许久的问题：我到底应该怎么写Permanent Notes? How to中给出了它的清晰定义，但是没有给出合适的例子。结合How to的定义和Andy Matuschak的 [Evergreen Notes](https://link.zhihu.com/?target=https%3A//notes.andymatuschak.org/z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C) 和 [Simon Eskildsen](https://link.zhihu.com/?target=https%3A//twitter.com/sirupsen) 在 How to Make Yourself Into a Learning Machine\[^3\] 中的例子，我得出以下一些Permanent Notes的关键特征：
+> 
+> * 有合适的标题
+> * 以给别人阅读的前提来书写的
+> * 使用完整句子的句子编写
+> * 标记对应的参考资料/来源项目/对应的Literature note
+> * 精确，清晰，简短，是一个完整知识逻辑
+> * 可以做到不再需要之前的临时notes
+> * 标准化格式和流程
+> * 随着数量的扩大，它们之间存在的关系持续更新 [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#e5cf83ec-9c90-4e12-ad60-17537fda07c5)  ^e5cf83ec
+
+> **Permanent Notes就是一篇篇以能够直接公布为目的逻辑完备的小文章，并且需要不停的更新他们之间的可能存在的逻辑关系，共同点，冲突点**。意味着Permanent Notes的输出其实并不简单：
+> 
+> 1. 它迫使你通过写作思考，也通过思考来推进写作。这点是符合在How to中提到的把**写作当做最重要的事情**的原则。
+> 2. 它迫使你思考笔记之间的意义联系。在进行知识链接的时候，需要做的是事情不是把建立一个物理链接，而重要的是意义链接，它们的逻辑关系，可能产生的影响，是否有矛盾的地方。这些意义上的链接思考是宝贵的。
+> 3. 同时通过最后一点可以非常清楚的解释这为什么Evergreen Notes是一个更好的名字，Permanent Notes其实并不Permanent。在知识深度和广度不断增大的时候，已经被放进滑箱中的任何Notes都有被再次更新的机会。 [⤴️](https://omnivore.app/me/zettelkasten-1899c55dcfa#791abcac-2427-4f5f-8e6f-feec9cb14c40)  ^791abcac
+

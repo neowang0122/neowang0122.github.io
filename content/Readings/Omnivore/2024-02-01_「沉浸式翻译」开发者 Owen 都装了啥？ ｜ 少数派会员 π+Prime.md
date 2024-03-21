@@ -21,38 +21,6 @@ date_saved: 2024-02-01 13:37:38
 
 date_published: 2024-01-31 04:38:46
 
-## Highlights
-
-> 沉浸式翻译」可能是近两年来在中文用户群体中最受关注的浏览器扩展之一，以其直观的「对照式」呈现方式、方便的操作、以及对细节体验的重视受到了好评。 [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#5b1b32e2-eff1-4615-9bce-d6da5c18ab47)  ^5b1b32e2
-
-> 我不带手机上床，录音笔能帮我记录一些可能第二天会忘记的睡前沉思。 [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#27e8507e-e04d-49f1-b951-0c56f3cb3ed8)  ^27e8507e
-
-> 浏览器 和 Neovim 编辑器，一个用来搜索和阅读，一个用来写所有的东西。我在浏览器装了  [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#aa3c44a6-37ac-4fe7-8b40-d86ea6726fc6)  ^aa3c44a6
-
-> Vimium 插件，用于在浏览器上使用 Vim 的键盘操作比如 j,k 上下滑动，这极大的提高了浏览效率。 [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#a91541fa-0b26-4298-8b5e-663d08488b82)  ^a91541fa
-
-> 必备的浏览器插件一个是 uBlock Origin，另一个当然就是沉浸式翻译。 [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#f687533a-1a50-4073-8887-8f23ad010397)  ^f687533a
-
-> Alfred 也是我最重要的工具之一，我主要用它做以下 4 件最高频的事：
-> 
-> 1. 作为启动器，我打开任何应用都是通过它；
-> 2. 作为剪贴板管理器，快速找到历史复制记录，然后快速粘贴；
-> 3. 作为文本片段（snippets）管理器，比如我的邮箱地址，还有我写博客的 Markdown 文件里的 YAML 头信息（可以包含变量，比如今天的日期）；
-> 4. 作为中英快速翻译器，我对市面上的 Alfred 翻译 workflow 都不满意，所以自己做了一个，设置为不需要关键词触发的默认动作，自动根据中英文进行互译，默认操作是朗读。 [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#198f1e3e-1ea6-4ef8-a393-a80bb790f469)  ^198f1e3e
-
-> 我使用 KeePassXC 来管理大多数密码，并且将加密后的文件托管在一个私有的 GitHub 仓库里。
-> 
-> 截屏工具用的是 CleanShot，除了用于快速截屏、录屏，也用来美化截图（保持一种设计感还挺重要的）。
-> 
-> ##  [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#33cf903a-45f0-455c-ab73-d3682b7e6308)  ^33cf903a
-
-> ## 你平时的工作习惯是怎样的？有什么特别的时间管理技巧吗？
-> 
-> 我的工作习惯可能没有什么参考性：我几乎是自然睡，自然醒，每隔几个月可能会轮换一次日夜颠倒。 [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#a272b5bb-d79b-44bb-85d5-0916a4cad5f2)  ^a272b5bb
-
-> 上床从来不带手机，因为一旦有手机在床上，就会杀掉我晚上睡觉之前和早上醒来之后的很多时间。我宁愿把这些时间浪费在电脑上，而不是手机。即使是消磨时间，同样的时间，我在电脑上获得的消遣量要远远大于手机 [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#bfc89bbf-2b79-4d60-b033-52fbfe16e2a1)  ^bfc89bbf
-
-
 --- 
 
 # Full Content: 
@@ -117,3 +85,37 @@ date_published: 2024-01-31 04:38:46
 中
 
 大
+
+---
+
+## Highlights
+
+> 沉浸式翻译」可能是近两年来在中文用户群体中最受关注的浏览器扩展之一，以其直观的「对照式」呈现方式、方便的操作、以及对细节体验的重视受到了好评。 [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#5b1b32e2-eff1-4615-9bce-d6da5c18ab47)  ^5b1b32e2
+
+> 我不带手机上床，录音笔能帮我记录一些可能第二天会忘记的睡前沉思。 [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#27e8507e-e04d-49f1-b951-0c56f3cb3ed8)  ^27e8507e
+
+> 浏览器 和 Neovim 编辑器，一个用来搜索和阅读，一个用来写所有的东西。我在浏览器装了  [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#aa3c44a6-37ac-4fe7-8b40-d86ea6726fc6)  ^aa3c44a6
+
+> Vimium 插件，用于在浏览器上使用 Vim 的键盘操作比如 j,k 上下滑动，这极大的提高了浏览效率。 [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#a91541fa-0b26-4298-8b5e-663d08488b82)  ^a91541fa
+
+> 必备的浏览器插件一个是 uBlock Origin，另一个当然就是沉浸式翻译。 [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#f687533a-1a50-4073-8887-8f23ad010397)  ^f687533a
+
+> Alfred 也是我最重要的工具之一，我主要用它做以下 4 件最高频的事：
+> 
+> 1. 作为启动器，我打开任何应用都是通过它；
+> 2. 作为剪贴板管理器，快速找到历史复制记录，然后快速粘贴；
+> 3. 作为文本片段（snippets）管理器，比如我的邮箱地址，还有我写博客的 Markdown 文件里的 YAML 头信息（可以包含变量，比如今天的日期）；
+> 4. 作为中英快速翻译器，我对市面上的 Alfred 翻译 workflow 都不满意，所以自己做了一个，设置为不需要关键词触发的默认动作，自动根据中英文进行互译，默认操作是朗读。 [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#198f1e3e-1ea6-4ef8-a393-a80bb790f469)  ^198f1e3e
+
+> 我使用 KeePassXC 来管理大多数密码，并且将加密后的文件托管在一个私有的 GitHub 仓库里。
+> 
+> 截屏工具用的是 CleanShot，除了用于快速截屏、录屏，也用来美化截图（保持一种设计感还挺重要的）。
+> 
+> ##  [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#33cf903a-45f0-455c-ab73-d3682b7e6308)  ^33cf903a
+
+> ## 你平时的工作习惯是怎样的？有什么特别的时间管理技巧吗？
+> 
+> 我的工作习惯可能没有什么参考性：我几乎是自然睡，自然醒，每隔几个月可能会轮换一次日夜颠倒。 [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#a272b5bb-d79b-44bb-85d5-0916a4cad5f2)  ^a272b5bb
+
+> 上床从来不带手机，因为一旦有手机在床上，就会杀掉我晚上睡觉之前和早上醒来之后的很多时间。我宁愿把这些时间浪费在电脑上，而不是手机。即使是消磨时间，同样的时间，我在电脑上获得的消遣量要远远大于手机 [⤴️](https://omnivore.app/me/owen-p-prime-18d5f92d482#bfc89bbf-2b79-4d60-b033-52fbfe16e2a1)  ^bfc89bbf
+

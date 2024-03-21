@@ -19,62 +19,6 @@ date_saved: 2024-03-21 01:32:47
 
 date_published: 2024-03-10 20:00:00
 
-## Highlights
-
-> Vercel 这个 AI 爆发的时代获得了非常好的业务增长。虽然前端看似和 AI 没关系，但是现在 LLM 省掉了很多后端工作，诸多 AI app 在寻找 PMF 的过程中最需要的就是快速 launch 产品，产品总是需要前端工作，Vercel 作为最流行的 web hosting 服务，自然获得了大量的用户 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#14ff207c-c7d3-41f3-9b7b-eb671ff93467)  ^14ff207c
-
-> 他谈了 Vercel 在找到 PMF 道路上的一些经验和教训，很有 Insight，几点 takeaways：  
-> 1\. Vercel 成功的一个关键策略是简化其产品和服务，专注于前端云服务而不是尝试提供所有类型的云服务，这使得公司能够更好地满足目标市场的需求 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#582f49fe-f2ac-47ac-bf82-15f32d36da19)  ^582f49fe
-
-> 3\. 速度不如加速度重要 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#e40d16ad-9d8a-469a-b691-0f77fe605d70)  ^e40d16ad
-
-> 4\. 不要低估集成（Integration）的力量 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#1e79c35e-1266-4a6b-94f7-07f9fc4dccbc)  ^1e79c35e
-
-> 5\. 对于一个新产品，应该确保传递的 messaging 是和听众相关的 — 而不是在一开始就尝试去定义一个新的 category [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#64c7f468-f2b6-43e8-94e7-14a4df74720f)  ^64c7f468
-
-> Next.js，超过 850,000 的开发者使用它来构建拥有数十亿全球用户的网站，如 ChatGPT、TikTok 和 Notion [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#a8740292-6306-47eb-93de-0c90467c36f2)  ^a8740292
-
-> 他的创业之旅，以及后来成为 Vercel 的基础，正式开始于 2010 年他的第一家创业公司 Cloudup。“Cloudup 在许多方面是 Vercel 的早期灵感，”他说，“因为它的一个杀手级特性是，你会得到一个坐落在你菜单栏的应用，你可以拖放任何文件甚至一整个文件夹，它会立即给你一个超链接。这是在互联网上分享任何东西并与他人协作的最简单方式。而且你实际上可以拖放一整个文件夹，如果这些文件是 HTML，你会得到一个非常高性能的静态托管。”当 Cloudup 还处于私人测试阶段时，Rauch 将它展示给了 WordPress 的创始人，他之所以能与之建立联系，多亏了他在开源社区的参与。“当我向他展示 Cloudup 时，他认为这在 WordPress 的上下文中非常有意义，因为他们已经在现代化前端层投入了大量精力。他们非常感兴趣于实时技术的协作，以便你可以去 WordPress 编辑帖子，这后来成为了他们为 WordPress 5.0 建立的基于区块的编辑器的基础。”WordPress 的母公司 Automattic 实际上在 Cloudup 对公众开放之前就收购了 Rauch 的公司。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#a9bf8c55-3c74-4089-9866-c8b2b64ed2dd)  ^a9bf8c55
-
-> 为什么云对开发者来说这么难用？“在 WordPress，他们投入了数百万美元成为 [http://Wordpress.com](https://link.zhihu.com/?target=http%3A//Wordpress.com) 的托管专家。但增加任何增量新应用、产品或功能都极其繁琐，”Rauch 说。当一切都在一个代码库中（一个“大块”）时，数据库和代码是如此紧密地绑定在一起，以至于它限制了开发者可以做什么。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#2ef014e3-c368-4ab6-9588-09c1816fd266)  ^2ef014e3
-
-> It was hard to get that freedom as a developer. I wanted to try new frameworks, new frontend solutions, but I was constrained within the confines of a monolithic solution. [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#1cb8af17-6a83-4b05-ac60-89d665f15126)  ^1cb8af17
-
-> 我意识到我将来构建的任何框架都应该没有妥协。它应该能够构建从小网站到可以扩展的任何东西 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#b4b83112-5249-4183-8be9-e61375e5dab3)  ^b4b83112
-
-> Everything around me had failed to fulfill the cloud’s promise of making development faster. So I decided I was going to make deploying software completely instantaneous and give that power back to the developer. [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#586ffaae-5969-4911-a0ef-55c03e3a43ac)  ^586ffaae
-
-> 如果 Rauch，一个独立开发者，在为他的一人公司构建一个高度动态的网站时都在挣扎，那么想象一下接下来的 100,000 家企业在数字化转型时会遇到的困难，因为他们所构建的技术正在落后。因此，他的解决方案将是一个特别针对前端（他的专长和用户实际看到的部分）的部署平台，它会使开发者更容易、更快、更可靠地将他们的项目推向世界。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#92aa8dab-acf7-429c-b307-200c3eb7cd90)  ^92aa8dab
-
-> 但编写一个成功的开源项目和构建一个成功的商业往往在一个关键方面相互冲突：钱。大多数开源软件都是免费提供的，并不打算永远盈利。那些确实这样做的，面临的选择很有限。“当你尝试从开源转向商业时，那里并没有太多创意。你要么走开放核心，即你基本上限制了免费功能，或者你使用某种许可证，允许你提供功能但限制它们的使用和部署。”作为开源社区的成员，这让 Rauch 感到不舒服，他不想限制他的 Next.js 客户。所以，他采取了一种新鲜的方法。
-> 
-> > **_You have to align the value creation of open source with the value creation of the business that supports that open source project._** [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#47957ee6-b4c1-4200-8ed6-6fd09840b742)  ^47957ee6
-
-> 在我们的案例中，我们开发了一个全球范围内的基础设施业务 Vercel，旨在不仅仅是托管产品，而是完全外包那些使用我们系统的公司的团队所值得的责任，”他说。这是它的工作原理：直到今天，任何人都可以免费使用 Next.js 框架的全部内容。如果他们想要他们的项目托管在一个专为 Next.js 构建的平台上，一个可以增强他们所构建内容的平台，他们支付 Vercel 以获得升级。而且因为 Next.js 仍然是开源的，如果客户决定他们想要将他们的工作负载从 Vercel 上移除并自行托管，他们可以自由地这样做。他们不会被锁定在单一供应商那里。“所以这对公司来说在基础设施方面是一个非常简单的等式：‘我是否建立一个大约 20 名软件工程师的团队？或者我把这交给 Vercel 让他们来处理 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#3bd6bdfb-b566-490e-94f9-f086922bce67)  ^3bd6bdfb
-
-> > **_If I were to do it over again, I would do it the same way: using open source. And I would continue to invest in making the product as free and available as possible._**
-> 
-> Rauch 设法在他的产品之间创造了出色的协同效应：广受欢迎的 Next.js，仍然是开源的，为 Vercel 成为一个收入产生的互补产品做好了铺垫，因为 Next.js 的用户自然会倾向于为该框架构建的平台。反过来，Vercel 的收入资助了 Next.js 的维护。这对软件及其客户来说是双赢的。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#7654e328-417f-4549-832b-2a2a1088d793)  ^7654e328
-
-> One signal of product-market fit that I recommend you pay attention to: When something is really needed, you’ll find there are lots of very intelligent people at other organizations trying to build a version of it. [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#20b70789-b147-48a3-a9d7-455c83418bc0)  ^20b70789
-
-> Next.js 的一个方面让一些人感到不安？它使用服务器端渲染，与更受欢迎的客户端渲染背道而驰 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#583cccdd-1038-45ae-a698-5ebfc26011d1)  ^583cccdd
-
-> 相比堆更多的功能，不如在更少的功能上最大到极致 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#9fd58dcc-1c27-4c51-b719-b59020833c2b)  ^9fd58dcc
-
-> Rauch 坦白说自己对速度着迷，所以这对他来说是一个特别重要的工具。“这在我的职业生涯中表现的方式是，有时候解决方案是构建更少，更加专注 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#6f3ee310-9965-40cb-9707-1c36176521e8)  ^6f3ee310
-
-> 不要低估集成（Integration）的力量 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#e42c07a5-3b87-4519-9875-da1d9f037c07)  ^e42c07a5
-
-> 更好的说法是，‘我们不解决那套问题，但我们整合进你已经购买的解决方案中。’你的优势可以在于你不构建的东西，而是你与之整合的东西。如果你想逆向工程 Vercel 的产品市场契合，这尤其如此，”Rauch 说。“这是我们增长的关键解锁。而不是说，‘顺便说一下，我们也有一个 Git 托管服务。请使用我们的。’我们可以说，‘Vercel 有 Git 集成，所以你可以部署你的 GitHub 或 GitLab 项目与我们一起。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#5a82bb7e-4a09-4c93-9d03-5750210067fb)  ^5a82bb7e
-
-> 对于一个新产品，应该确保传递的 messaging 是和听众相关的 — 而不是尝试去定义一个新的 category [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#1954fa6f-8cc4-4603-9bdd-c5feed3144db)  ^1954fa6f
-
-> In the early days, your priority should be to make your product relatable. If you’ve got a small team, only three landing pages and you're kicking the tires on an earlier version of the product, giving yourself some very lofty tagline ends up playing against you because no one knows what you do yet, so they don’t understand. [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#69f48599-6cb7-4815-a1cf-9913eb092518)  ^69f48599
-
-> 关于‘AI 将取代 A、B 和 C’的讨论太多了。我认为 AI 将作为人类潜力的加速器。作为一个程序员，我的很多任务都非常乏味、非常手动。AI 把那些事情从我的盘子上拿走，还生成了灵感的想法，让我可以更有创造力， [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#ce4bc579-10af-47ac-a64c-e3fa5416d488)  ^ce4bc579
-
-
 --- 
 
 # Full Content: 
@@ -171,3 +115,61 @@ Rauch 的第一家创业公司 Cloudup 实际上是作为一个特定行业垂�
 ## **展望未来**
 
 今天，Vercel 是一家 D 轮创业公司，总融资额达到 3.13 亿美元。随着公司的增长，它已经扩展到两个产品类别的产品供应：托管基础设施和开发者体验（DX）平台。并且在 2023 年，Vercel 在人工智能上下了重注，发布了 v0。“有了 v0，我们正在开创我们称之为‘生成式 UI’的概念。你用纯英文输入文本提示，我们给你真实的 React 和 Tailwind 代码，完全按照你所描述的执行。AI 是我们将如何改进开发者体验、使开发者更加生产力和帮助公司更快迭代的下一个前沿。”对于有抱负的创业者，Rauch 看到了利用 AI 和向前端服务转移的巨大机会来抢占市场份额。正如我们在这个系列中一次又一次地覆盖的那样，产品市场契合是一个移动的目标，Rauch 希望将他的 PMF 课程应用于构建和规模这个新的迭代。“关于‘AI 将取代 A、B 和 C’的讨论太多了。我认为 AI 将作为人类潜力的加速器。作为一个程序员，我的很多任务都非常乏味、非常手动。AI 把那些事情从我的盘子上拿走，还生成了灵感的想法，让我可以更有创造力，”Rauch 说。“显然，作为一个平台，我们是偏见的，因为我们看到了在构建 AI 产品上的如此多的兴奋。但即使作为一个企业家，我也对所有这些因为 AI 而上市的新产品感到非常兴奋，如果你愿意超越关注过去产品是如何构建的。”
+
+---
+
+## Highlights
+
+> Vercel 这个 AI 爆发的时代获得了非常好的业务增长。虽然前端看似和 AI 没关系，但是现在 LLM 省掉了很多后端工作，诸多 AI app 在寻找 PMF 的过程中最需要的就是快速 launch 产品，产品总是需要前端工作，Vercel 作为最流行的 web hosting 服务，自然获得了大量的用户 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#14ff207c-c7d3-41f3-9b7b-eb671ff93467)  ^14ff207c
+
+> 他谈了 Vercel 在找到 PMF 道路上的一些经验和教训，很有 Insight，几点 takeaways：  
+> 1\. Vercel 成功的一个关键策略是简化其产品和服务，专注于前端云服务而不是尝试提供所有类型的云服务，这使得公司能够更好地满足目标市场的需求 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#582f49fe-f2ac-47ac-bf82-15f32d36da19)  ^582f49fe
+
+> 3\. 速度不如加速度重要 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#e40d16ad-9d8a-469a-b691-0f77fe605d70)  ^e40d16ad
+
+> 4\. 不要低估集成（Integration）的力量 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#1e79c35e-1266-4a6b-94f7-07f9fc4dccbc)  ^1e79c35e
+
+> 5\. 对于一个新产品，应该确保传递的 messaging 是和听众相关的 — 而不是在一开始就尝试去定义一个新的 category [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#64c7f468-f2b6-43e8-94e7-14a4df74720f)  ^64c7f468
+
+> Next.js，超过 850,000 的开发者使用它来构建拥有数十亿全球用户的网站，如 ChatGPT、TikTok 和 Notion [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#a8740292-6306-47eb-93de-0c90467c36f2)  ^a8740292
+
+> 他的创业之旅，以及后来成为 Vercel 的基础，正式开始于 2010 年他的第一家创业公司 Cloudup。“Cloudup 在许多方面是 Vercel 的早期灵感，”他说，“因为它的一个杀手级特性是，你会得到一个坐落在你菜单栏的应用，你可以拖放任何文件甚至一整个文件夹，它会立即给你一个超链接。这是在互联网上分享任何东西并与他人协作的最简单方式。而且你实际上可以拖放一整个文件夹，如果这些文件是 HTML，你会得到一个非常高性能的静态托管。”当 Cloudup 还处于私人测试阶段时，Rauch 将它展示给了 WordPress 的创始人，他之所以能与之建立联系，多亏了他在开源社区的参与。“当我向他展示 Cloudup 时，他认为这在 WordPress 的上下文中非常有意义，因为他们已经在现代化前端层投入了大量精力。他们非常感兴趣于实时技术的协作，以便你可以去 WordPress 编辑帖子，这后来成为了他们为 WordPress 5.0 建立的基于区块的编辑器的基础。”WordPress 的母公司 Automattic 实际上在 Cloudup 对公众开放之前就收购了 Rauch 的公司。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#a9bf8c55-3c74-4089-9866-c8b2b64ed2dd)  ^a9bf8c55
+
+> 为什么云对开发者来说这么难用？“在 WordPress，他们投入了数百万美元成为 [http://Wordpress.com](https://link.zhihu.com/?target=http%3A//Wordpress.com) 的托管专家。但增加任何增量新应用、产品或功能都极其繁琐，”Rauch 说。当一切都在一个代码库中（一个“大块”）时，数据库和代码是如此紧密地绑定在一起，以至于它限制了开发者可以做什么。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#2ef014e3-c368-4ab6-9588-09c1816fd266)  ^2ef014e3
+
+> It was hard to get that freedom as a developer. I wanted to try new frameworks, new frontend solutions, but I was constrained within the confines of a monolithic solution. [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#1cb8af17-6a83-4b05-ac60-89d665f15126)  ^1cb8af17
+
+> 我意识到我将来构建的任何框架都应该没有妥协。它应该能够构建从小网站到可以扩展的任何东西 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#b4b83112-5249-4183-8be9-e61375e5dab3)  ^b4b83112
+
+> Everything around me had failed to fulfill the cloud’s promise of making development faster. So I decided I was going to make deploying software completely instantaneous and give that power back to the developer. [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#586ffaae-5969-4911-a0ef-55c03e3a43ac)  ^586ffaae
+
+> 如果 Rauch，一个独立开发者，在为他的一人公司构建一个高度动态的网站时都在挣扎，那么想象一下接下来的 100,000 家企业在数字化转型时会遇到的困难，因为他们所构建的技术正在落后。因此，他的解决方案将是一个特别针对前端（他的专长和用户实际看到的部分）的部署平台，它会使开发者更容易、更快、更可靠地将他们的项目推向世界。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#92aa8dab-acf7-429c-b307-200c3eb7cd90)  ^92aa8dab
+
+> 但编写一个成功的开源项目和构建一个成功的商业往往在一个关键方面相互冲突：钱。大多数开源软件都是免费提供的，并不打算永远盈利。那些确实这样做的，面临的选择很有限。“当你尝试从开源转向商业时，那里并没有太多创意。你要么走开放核心，即你基本上限制了免费功能，或者你使用某种许可证，允许你提供功能但限制它们的使用和部署。”作为开源社区的成员，这让 Rauch 感到不舒服，他不想限制他的 Next.js 客户。所以，他采取了一种新鲜的方法。
+> 
+> > **_You have to align the value creation of open source with the value creation of the business that supports that open source project._** [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#47957ee6-b4c1-4200-8ed6-6fd09840b742)  ^47957ee6
+
+> 在我们的案例中，我们开发了一个全球范围内的基础设施业务 Vercel，旨在不仅仅是托管产品，而是完全外包那些使用我们系统的公司的团队所值得的责任，”他说。这是它的工作原理：直到今天，任何人都可以免费使用 Next.js 框架的全部内容。如果他们想要他们的项目托管在一个专为 Next.js 构建的平台上，一个可以增强他们所构建内容的平台，他们支付 Vercel 以获得升级。而且因为 Next.js 仍然是开源的，如果客户决定他们想要将他们的工作负载从 Vercel 上移除并自行托管，他们可以自由地这样做。他们不会被锁定在单一供应商那里。“所以这对公司来说在基础设施方面是一个非常简单的等式：‘我是否建立一个大约 20 名软件工程师的团队？或者我把这交给 Vercel 让他们来处理 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#3bd6bdfb-b566-490e-94f9-f086922bce67)  ^3bd6bdfb
+
+> > **_If I were to do it over again, I would do it the same way: using open source. And I would continue to invest in making the product as free and available as possible._**
+> 
+> Rauch 设法在他的产品之间创造了出色的协同效应：广受欢迎的 Next.js，仍然是开源的，为 Vercel 成为一个收入产生的互补产品做好了铺垫，因为 Next.js 的用户自然会倾向于为该框架构建的平台。反过来，Vercel 的收入资助了 Next.js 的维护。这对软件及其客户来说是双赢的。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#7654e328-417f-4549-832b-2a2a1088d793)  ^7654e328
+
+> One signal of product-market fit that I recommend you pay attention to: When something is really needed, you’ll find there are lots of very intelligent people at other organizations trying to build a version of it. [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#20b70789-b147-48a3-a9d7-455c83418bc0)  ^20b70789
+
+> Next.js 的一个方面让一些人感到不安？它使用服务器端渲染，与更受欢迎的客户端渲染背道而驰 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#583cccdd-1038-45ae-a698-5ebfc26011d1)  ^583cccdd
+
+> 相比堆更多的功能，不如在更少的功能上最大到极致 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#9fd58dcc-1c27-4c51-b719-b59020833c2b)  ^9fd58dcc
+
+> Rauch 坦白说自己对速度着迷，所以这对他来说是一个特别重要的工具。“这在我的职业生涯中表现的方式是，有时候解决方案是构建更少，更加专注 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#6f3ee310-9965-40cb-9707-1c36176521e8)  ^6f3ee310
+
+> 不要低估集成（Integration）的力量 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#e42c07a5-3b87-4519-9875-da1d9f037c07)  ^e42c07a5
+
+> 更好的说法是，‘我们不解决那套问题，但我们整合进你已经购买的解决方案中。’你的优势可以在于你不构建的东西，而是你与之整合的东西。如果你想逆向工程 Vercel 的产品市场契合，这尤其如此，”Rauch 说。“这是我们增长的关键解锁。而不是说，‘顺便说一下，我们也有一个 Git 托管服务。请使用我们的。’我们可以说，‘Vercel 有 Git 集成，所以你可以部署你的 GitHub 或 GitLab 项目与我们一起。 [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#5a82bb7e-4a09-4c93-9d03-5750210067fb)  ^5a82bb7e
+
+> 对于一个新产品，应该确保传递的 messaging 是和听众相关的 — 而不是尝试去定义一个新的 category [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#1954fa6f-8cc4-4603-9bdd-c5feed3144db)  ^1954fa6f
+
+> In the early days, your priority should be to make your product relatable. If you’ve got a small team, only three landing pages and you're kicking the tires on an earlier version of the product, giving yourself some very lofty tagline ends up playing against you because no one knows what you do yet, so they don’t understand. [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#69f48599-6cb7-4815-a1cf-9913eb092518)  ^69f48599
+
+> 关于‘AI 将取代 A、B 和 C’的讨论太多了。我认为 AI 将作为人类潜力的加速器。作为一个程序员，我的很多任务都非常乏味、非常手动。AI 把那些事情从我的盘子上拿走，还生成了灵感的想法，让我可以更有创造力， [⤴️](https://omnivore.app/me/https-zhuanlan-zhihu-com-p-686484613-18e5f7b5658#ce4bc579-10af-47ac-a64c-e3fa5416d488)  ^ce4bc579
+

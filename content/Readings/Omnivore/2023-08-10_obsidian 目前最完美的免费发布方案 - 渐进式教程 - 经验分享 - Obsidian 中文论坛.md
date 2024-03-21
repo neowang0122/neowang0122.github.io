@@ -17,11 +17,6 @@ date_saved: 2023-08-10 16:33:40
 
 date_published: 2022-07-14 04:37:29
 
-## Highlights
-
-> 总之，有钱就选官方服务准没错。其次，综合对比后，我选择了jekyll方案1 [⤴️](https://omnivore.app/me/https-forum-zh-obsidian-md-t-topic-8852-189e12796f6#61ce9287-d2d0-43e3-a0ac-51fdd89fcf87)  ^61ce9287
-
-
 --- 
 
 # Full Content: 
@@ -149,3 +144,10 @@ cloudflare Page也支持从仓库直接拉去构建，访问速度应该会更�
 我是打算用 ob 写好，然后构建使用 gitbook 的形式 push 到 github pages
 
 ###  想阅读更多？请浏览[经验分享](https://forum-zh.obsidian.md/c/8-category/8)中的其他话题或[查看最新话题](https://forum-zh.obsidian.md/latest)。
+
+---
+
+## Highlights
+
+> 总之，有钱就选官方服务准没错。其次，综合对比后，我选择了jekyll方案1 [⤴️](https://omnivore.app/me/https-forum-zh-obsidian-md-t-topic-8852-189e12796f6#61ce9287-d2d0-43e3-a0ac-51fdd89fcf87)  ^61ce9287
+

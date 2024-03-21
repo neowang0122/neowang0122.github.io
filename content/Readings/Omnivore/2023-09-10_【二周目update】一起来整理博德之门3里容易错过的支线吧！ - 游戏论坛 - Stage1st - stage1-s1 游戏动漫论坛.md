@@ -17,67 +17,6 @@ date_saved: 2023-09-10 16:51:58
 date_saved: 2023-09-10 16:51:58
 
 
-## Highlights
-
-> 进入修道院，或者熔炉附近的升降梯就会进入下一章，**林地所有任务都会断** [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#c67b97fd-b6b7-4807-a5e2-d47b4d6114e8)  ^c67b97fd
-
-> 一般来说要在此之前尽量把所有任务做完，但想收明萨拉又不想屠林地的话可以直接不管林地，进入下一个区域 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#796019de-200d-4a43-b834-7561f9da2761)  ^796019de
-
-> 目前提夫林和明萨拉是明确冲突的 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#199ad0fd-d76c-498c-aebe-bd385583dbee)  ^199ad0fd
-
-> 不帮林地会导致卡拉克的剧情断掉。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#1fe45886-b532-416a-9953-2245b17b55af)  ^1fe45886
-
-> 一周目还是老老实实帮林地吧，这样体验的剧情是最多的。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#a1562f1c-0a25-4324-bf50-f7c2856e3abb)  ^a1562f1c
-
-> 林地提夫林孩子的支线，bug相当多。  
-> 不推荐被偷走行李，目前找不回来。推荐阿斯代伦和马蒂斯玩，然后当场抓包。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#3dd48eff-8e69-4f3d-8994-671f9210028c)  ^3dd48eff
-
-> 对摩尔礼貌一点。虽然他很欠打，但后面还有他的剧情。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#8f89e264-68d3-480d-9fcf-fd9e09688282)  ^8f89e264
-
-> 偷卡哈的箱子，会触发调查卡哈的任务。  
-> 在卡哈悔改之后再去偷雕像，可以从摩尔获得装备同时又不触发屠林地剧情 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#db668c1d-0ede-4f56-b01a-ea44bb9804f1)  ^db668c1d
-
-> 林地门口为了要不要跑路吵的不可开交三人组，必须让他们留下，否则第二章会少很多npc。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#cd008e1b-537b-4261-816b-0c77914b33b5)  ^cd008e1b
-
-> 首先请在病村风车救下侏儒，他在熔炉有后续，还很长 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#7533051b-d6c2-4e8e-aa27-93c13e4d8c54)  ^7533051b
-
-> 其次在坐船之前，请务必去蘑菇村救下侏儒，否则她会变僵尸 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#7588690e-6494-4493-9a79-19637fa8c666)  ^7588690e
-
-> 完美的路线是帮灰矮人，事先与老大交易拿一半的钱，干掉监视之眼，让灰矮人一起上，最后可以嘴炮救侏儒 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#d43a51d2-27d7-4380-a49a-fb5f39b7dd73)  ^d43a51d2
-
-> 剩下的容易错过的任务不多。**把图舔干净，能嘴炮就嘴炮，人能救就救，能留后续就留后续，这些能做到，完美其实不难。** [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#848860d3-7b5d-48ff-b346-0bb1365f4eab)  ^848860d3
-
-> 枭熊洞穴支线，小枭熊不要杀，并且要保证信徒存活。这样后面可以养小枭熊。另外看见人了去长休的话，两名教徒会走掉的。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#e781dd84-0904-48ce-90db-fe5ca58b7459)  ^e781dd84
-
-> 如果遇到酒店失火了，请第一时间去救人，不然会死，和熔炉真魂者的逻辑类似。另外最好操作威尔，是威尔相关的人。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#bcb3efb4-b1dd-4285-b5af-728aaa38f9ca)  ^bcb3efb4
-
-> 散塔林会任务可能有时间限制，他们被炎拳发现，正准备炸掉基地。  
-> 这个任务的难点救下两位npc的同时，还要选对正确的选项，问出通行口令，并嘴炮拿箱子卖掉换钱。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#a8379fa2-5fbc-4c91-bc74-a08b33dd231b)  ^a8379fa2
-
-> 法师塔顶楼有个**食人魔力量棍棒（力量设为19）**做的凳子。 你要把凳子砸碎才能拿到。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#e0895ab6-a508-41a9-87b3-32e10addd9d4)  ^e0895ab6
-
-> 养育间的机器，建议主角做，每次检定没过都会减少属性，全过以后会获得一个用附赠动作夺心魔技能的buff [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#c353a35f-a136-402f-8e77-8a0990019317)  ^c353a35f
-
-> 推荐路线 不一定完美 先去找医生净化，到最后欺骗医生净化完成。再找队长，提出单独面对审判官。给审判官看遗物，会让你见到红龙女王，进入星界。  
-> 出星界后，红龙女王要灭口，直接开打。审判官的房间有密道，通往传说武器 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#3338cea6-05a3-4cd6-bffb-d03c404dc396)  ^3338cea6
-
-> 扬基蛋别给第二章开头的女人。剧透给扬基蛋她会死，第三章给光照会能拿钱 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#35320558-b3dc-4caa-a11a-619527f88718)  ^35320558
-
-> 莎尔神殿最终阶段以后，无法返回第一章。第三 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#b9244791-931a-4cfd-a5b3-4d0fd43a76ce)  ^b9244791
-
-> 这一章最重要的是反隐形，请带好影心，昼明术很有用。  
-> 第二重要的是嘴炮，信莎尔的智商都不太高，大多数可以嘴炮。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#bc1d6f26-9640-4c26-89a1-1e938a21f663)  ^bc1d6f26
-
-> 推荐放妖精走，第三章有后续。
-> 
-> 米左拉的交易，推荐威尔直接解除契约。
-> 
-> 监狱的人需要在莎尔神殿之前救 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#d54ce3e3-11ec-4f27-993a-7169f7d4e427)  ^d54ce3e3
-
-> 全只能从正门进，难度挺高的。  
-> 不知道提前杀有什么结果，会不会影响散塔林会商人之类的。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#688d0c91-435f-4f20-b757-71f4936ac695)  ^688d0c91
-
-
 --- 
 
 # Full Content: 
@@ -285,3 +224,66 @@ ok，正式开始。
 您需要 [登录](https://bbs.saraba1st.com/2b/member.php?mod=logging&action=login) 才可以下载或查看，没有帐号？[立即注册](https://bbs.saraba1st.com/2b/member.php?mod=register "注册帐号") 
 
 x 
+
+---
+
+## Highlights
+
+> 进入修道院，或者熔炉附近的升降梯就会进入下一章，**林地所有任务都会断** [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#c67b97fd-b6b7-4807-a5e2-d47b4d6114e8)  ^c67b97fd
+
+> 一般来说要在此之前尽量把所有任务做完，但想收明萨拉又不想屠林地的话可以直接不管林地，进入下一个区域 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#796019de-200d-4a43-b834-7561f9da2761)  ^796019de
+
+> 目前提夫林和明萨拉是明确冲突的 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#199ad0fd-d76c-498c-aebe-bd385583dbee)  ^199ad0fd
+
+> 不帮林地会导致卡拉克的剧情断掉。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#1fe45886-b532-416a-9953-2245b17b55af)  ^1fe45886
+
+> 一周目还是老老实实帮林地吧，这样体验的剧情是最多的。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#a1562f1c-0a25-4324-bf50-f7c2856e3abb)  ^a1562f1c
+
+> 林地提夫林孩子的支线，bug相当多。  
+> 不推荐被偷走行李，目前找不回来。推荐阿斯代伦和马蒂斯玩，然后当场抓包。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#3dd48eff-8e69-4f3d-8994-671f9210028c)  ^3dd48eff
+
+> 对摩尔礼貌一点。虽然他很欠打，但后面还有他的剧情。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#8f89e264-68d3-480d-9fcf-fd9e09688282)  ^8f89e264
+
+> 偷卡哈的箱子，会触发调查卡哈的任务。  
+> 在卡哈悔改之后再去偷雕像，可以从摩尔获得装备同时又不触发屠林地剧情 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#db668c1d-0ede-4f56-b01a-ea44bb9804f1)  ^db668c1d
+
+> 林地门口为了要不要跑路吵的不可开交三人组，必须让他们留下，否则第二章会少很多npc。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#cd008e1b-537b-4261-816b-0c77914b33b5)  ^cd008e1b
+
+> 首先请在病村风车救下侏儒，他在熔炉有后续，还很长 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#7533051b-d6c2-4e8e-aa27-93c13e4d8c54)  ^7533051b
+
+> 其次在坐船之前，请务必去蘑菇村救下侏儒，否则她会变僵尸 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#7588690e-6494-4493-9a79-19637fa8c666)  ^7588690e
+
+> 完美的路线是帮灰矮人，事先与老大交易拿一半的钱，干掉监视之眼，让灰矮人一起上，最后可以嘴炮救侏儒 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#d43a51d2-27d7-4380-a49a-fb5f39b7dd73)  ^d43a51d2
+
+> 剩下的容易错过的任务不多。**把图舔干净，能嘴炮就嘴炮，人能救就救，能留后续就留后续，这些能做到，完美其实不难。** [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#848860d3-7b5d-48ff-b346-0bb1365f4eab)  ^848860d3
+
+> 枭熊洞穴支线，小枭熊不要杀，并且要保证信徒存活。这样后面可以养小枭熊。另外看见人了去长休的话，两名教徒会走掉的。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#e781dd84-0904-48ce-90db-fe5ca58b7459)  ^e781dd84
+
+> 如果遇到酒店失火了，请第一时间去救人，不然会死，和熔炉真魂者的逻辑类似。另外最好操作威尔，是威尔相关的人。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#bcb3efb4-b1dd-4285-b5af-728aaa38f9ca)  ^bcb3efb4
+
+> 散塔林会任务可能有时间限制，他们被炎拳发现，正准备炸掉基地。  
+> 这个任务的难点救下两位npc的同时，还要选对正确的选项，问出通行口令，并嘴炮拿箱子卖掉换钱。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#a8379fa2-5fbc-4c91-bc74-a08b33dd231b)  ^a8379fa2
+
+> 法师塔顶楼有个**食人魔力量棍棒（力量设为19）**做的凳子。 你要把凳子砸碎才能拿到。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#e0895ab6-a508-41a9-87b3-32e10addd9d4)  ^e0895ab6
+
+> 养育间的机器，建议主角做，每次检定没过都会减少属性，全过以后会获得一个用附赠动作夺心魔技能的buff [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#c353a35f-a136-402f-8e77-8a0990019317)  ^c353a35f
+
+> 推荐路线 不一定完美 先去找医生净化，到最后欺骗医生净化完成。再找队长，提出单独面对审判官。给审判官看遗物，会让你见到红龙女王，进入星界。  
+> 出星界后，红龙女王要灭口，直接开打。审判官的房间有密道，通往传说武器 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#3338cea6-05a3-4cd6-bffb-d03c404dc396)  ^3338cea6
+
+> 扬基蛋别给第二章开头的女人。剧透给扬基蛋她会死，第三章给光照会能拿钱 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#35320558-b3dc-4caa-a11a-619527f88718)  ^35320558
+
+> 莎尔神殿最终阶段以后，无法返回第一章。第三 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#b9244791-931a-4cfd-a5b3-4d0fd43a76ce)  ^b9244791
+
+> 这一章最重要的是反隐形，请带好影心，昼明术很有用。  
+> 第二重要的是嘴炮，信莎尔的智商都不太高，大多数可以嘴炮。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#bc1d6f26-9640-4c26-89a1-1e938a21f663)  ^bc1d6f26
+
+> 推荐放妖精走，第三章有后续。
+> 
+> 米左拉的交易，推荐威尔直接解除契约。
+> 
+> 监狱的人需要在莎尔神殿之前救 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#d54ce3e3-11ec-4f27-993a-7169f7d4e427)  ^d54ce3e3
+
+> 全只能从正门进，难度挺高的。  
+> 不知道提前杀有什么结果，会不会影响散塔林会商人之类的。 [⤴️](https://omnivore.app/me/update-3-stage-1-st-stage-1-s-1-18a80dd8efa#688d0c91-435f-4f20-b757-71f4936ac695)  ^688d0c91
+

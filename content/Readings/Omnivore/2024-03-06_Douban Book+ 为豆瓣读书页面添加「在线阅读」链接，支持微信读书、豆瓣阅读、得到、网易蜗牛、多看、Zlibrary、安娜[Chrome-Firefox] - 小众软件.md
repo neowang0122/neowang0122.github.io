@@ -21,11 +21,6 @@ date_saved: 2024-03-06 06:02:56
 
 date_published: 2024-03-06 06:02:56
 
-## Highlights
-
-> Douban Book+ 为豆瓣读书页面添加「在线阅读」链接，支持微信读书、豆瓣阅读、得到、网易蜗牛、多看、Zlibrary、安娜 [⤴️](https://omnivore.app/me/douban-book-zlibrary-chrome-firefox-18e13cef5af#c3ffc9ff-7071-4a07-aacb-e8b6a7c3535d)  ^c3ffc9ff
-
-
 --- 
 
 # Full Content: 
@@ -96,3 +91,10 @@ date_published: 2024-03-06 06:02:56
 * [ ![把 Windows Defender 装进 Chrome 这招行不行？ 2](https://proxy-prod.omnivore-image-cache.app/115x115,sgPqCUOnyHWDRshiO9o6SXZo4Lg3uARaNbVB_DnL5dRU/https://www.appinn.com/wp-content/uploads/2018-04-1810-55-04.pngo_-115x115.png "把 Windows Defender 装进 Chrome 这招行不行？ 3") ](https://www.appinn.com/windows-defender-browser-protection/ "把 Windows Defender 装进 Chrome 这招行不行？")
 * [ ![Refgen - 为个人知识整理和笔记生成来源引用链接[Chrome] 3](https://proxy-prod.omnivore-image-cache.app/115x115,sUiTjb2s3Kq6jh-wxFa1PxEZc3r6IxdotLkpBzt2rAC4/https://www.appinn.com/wp-content/uploads/2022/01/refgen.jpgo_-115x115.jpg "Refgen - 为个人知识整理和笔记生成来源引用链接[Chrome] 4") ](https://www.appinn.com/refgen/ "Refgen – 为个人知识整理和笔记生成来源引用链接[Chrome]")
 * [ ![Chromarks - 支持书签检索的 Chrome 书签扩展 4](https://proxy-prod.omnivore-image-cache.app/115x115,sYxKmKj7seMByzdbUTNxxTmPY0f24HaNcpB_12US5jpA/https://www.appinn.com/wp-content/uploads/chromarks-115x115.jpg "Chromarks - 支持书签检索的 Chrome 书签扩展 5") ](https://www.appinn.com/chromarks/ "Chromarks – 支持书签检索的 Chrome 书签扩展")
+
+---
+
+## Highlights
+
+> Douban Book+ 为豆瓣读书页面添加「在线阅读」链接，支持微信读书、豆瓣阅读、得到、网易蜗牛、多看、Zlibrary、安娜 [⤴️](https://omnivore.app/me/douban-book-zlibrary-chrome-firefox-18e13cef5af#c3ffc9ff-7071-4a07-aacb-e8b6a7c3535d)  ^c3ffc9ff
+

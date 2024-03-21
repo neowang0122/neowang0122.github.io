@@ -19,21 +19,6 @@ date_saved: 2023-12-06 07:24:32
 date_saved: 2023-12-06 07:24:32
 
 
-## Highlights
-
-> Not because I no longer use Obsidian, I use it every single day, but because I saw myself starting to no longer enjoy **only** making videos about it. [⤴️](https://omnivore.app/me/why-i-stopped-making-obsidian-videos-18c3f16413f#88619fc9-6b94-40cb-9e66-09529f3fe1c8)  ^88619fc9
-
-> I began to realize that if I continued down this path, I would become more obsessed with flashy new plugins and adding needless complexity to Obsidian, rather than actually using it. [⤴️](https://omnivore.app/me/why-i-stopped-making-obsidian-videos-18c3f16413f#4e5d4967-0486-4b88-9fd7-a96e7d45d862)  ^4e5d4967
-
-> my [Mac Apps video](https://substack.com/redirect/1ae15d9b-4159-4031-8278-e59cfc963ca0?j=eyJ1IjoiMnkycXRhIn0.nuzIT9a4BeQSNYg8gdQVbZ5ZSwrFjuJ7f2hzSpwFB-Y) is the best performer I’ve had.
-> 
-> I love making videos and I hope to continue making them for many years, but I think it's super important to remain interested in what you’re doing. Even at the expense of lower views. [⤴️](https://omnivore.app/me/why-i-stopped-making-obsidian-videos-18c3f16413f#421a923e-352f-4379-9d0d-cd5aa2195be2)  ^421a923e
-
-> **Creator -** [Dodford](https://substack.com/redirect/8b10034f-ff84-4ac5-8b8b-675dd11ddef8?j=eyJ1IjoiMnkycXRhIn0.nuzIT9a4BeQSNYg8gdQVbZ5ZSwrFjuJ7f2hzSpwFB-Y) \- If you’re into cinema, Dodford makes probably the best actor-focused documentaries I’ve seen on YouTube. They’re masterpieces.
-> 
-> **App** \- [Workspaces](https://substack.com/redirect/78deb04e-4f81-4676-b656-111b00fa3107?j=eyJ1IjoiMnkycXRhIn0.nuzIT9a4BeQSNYg8gdQVbZ5ZSwrFjuJ7f2hzSpwFB-Y) \- Great app to easily go between different workspaces on your Mac. [⤴️](https://omnivore.app/me/why-i-stopped-making-obsidian-videos-18c3f16413f#4be71042-14a9-43d5-a21a-b10d136cd2e2)  ^4be71042
-
-
 --- 
 
 # Full Content: 
@@ -77,3 +62,20 @@ _A handful of new finds that I think are worth sharing._
 That's all I found worthy of sharing.
 
 Thanks for reading :)
+
+---
+
+## Highlights
+
+> Not because I no longer use Obsidian, I use it every single day, but because I saw myself starting to no longer enjoy **only** making videos about it. [⤴️](https://omnivore.app/me/why-i-stopped-making-obsidian-videos-18c3f16413f#88619fc9-6b94-40cb-9e66-09529f3fe1c8)  ^88619fc9
+
+> I began to realize that if I continued down this path, I would become more obsessed with flashy new plugins and adding needless complexity to Obsidian, rather than actually using it. [⤴️](https://omnivore.app/me/why-i-stopped-making-obsidian-videos-18c3f16413f#4e5d4967-0486-4b88-9fd7-a96e7d45d862)  ^4e5d4967
+
+> my [Mac Apps video](https://substack.com/redirect/1ae15d9b-4159-4031-8278-e59cfc963ca0?j=eyJ1IjoiMnkycXRhIn0.nuzIT9a4BeQSNYg8gdQVbZ5ZSwrFjuJ7f2hzSpwFB-Y) is the best performer I’ve had.
+> 
+> I love making videos and I hope to continue making them for many years, but I think it's super important to remain interested in what you’re doing. Even at the expense of lower views. [⤴️](https://omnivore.app/me/why-i-stopped-making-obsidian-videos-18c3f16413f#421a923e-352f-4379-9d0d-cd5aa2195be2)  ^421a923e
+
+> **Creator -** [Dodford](https://substack.com/redirect/8b10034f-ff84-4ac5-8b8b-675dd11ddef8?j=eyJ1IjoiMnkycXRhIn0.nuzIT9a4BeQSNYg8gdQVbZ5ZSwrFjuJ7f2hzSpwFB-Y) \- If you’re into cinema, Dodford makes probably the best actor-focused documentaries I’ve seen on YouTube. They’re masterpieces.
+> 
+> **App** \- [Workspaces](https://substack.com/redirect/78deb04e-4f81-4676-b656-111b00fa3107?j=eyJ1IjoiMnkycXRhIn0.nuzIT9a4BeQSNYg8gdQVbZ5ZSwrFjuJ7f2hzSpwFB-Y) \- Great app to easily go between different workspaces on your Mac. [⤴️](https://omnivore.app/me/why-i-stopped-making-obsidian-videos-18c3f16413f#4be71042-14a9-43d5-a21a-b10d136cd2e2)  ^4be71042
+

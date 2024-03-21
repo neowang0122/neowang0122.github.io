@@ -17,29 +17,6 @@ date_saved: 2024-03-10 17:34:19
 date_saved: 2024-03-10 17:34:19
 
 
-## Highlights
-
-> 目前 HDR 主流格式中目前最受好评的，是由美国杜比实验室推出的 Dolby Vision（杜比视界）HDR 标准，原因是因为其采用了 12bit 色深，并支持动态数据源结构，显示效果自然要比非动态元数据的 HDR 技术更为出色 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#52fe497d-04c0-4e95-ac57-e7c6ea84ae37)  ^52fe497d
-
-> 配合上近几年杜比一直在推广的 Dolby Atmos（杜比全景声），可以说在民用高端影音市场杜比有着巨大的影响力，比如视频流媒体巨头 Netflix 从去年开始几乎所有 Originals 原创剧除了标配 4K Ultra HD 以外，都支持杜比视界和杜比全景声。简称「**双杜**」。如果你的显示设备支持这两种格式，那么片源将会优先以此格式播放，如果不支持则会以 HDR10 或者 SDR 格式播放 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#19dc0f20-6a2b-4567-b386-1533383fd0ee)  ^19dc0f20
-
-> 如果你经常喜欢逛商场看电影，也会发现这两年「**杜比影院**」正在不断扩张，需要注意的是杜比全景声厅并不是杜比影院，一般来说杜比影院同时具备杜比全景声和杜比视界两种技术，在影厅入口处会有很大的「[Dolby Cinema](https://sspai.com/link?target=https%3A%2F%2Forigin-www.dolby.com%2Fcn%2Fzh%2Fplatforms%2Fdolby-cinema.html)」标志。 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#b508e2fe-e15b-4168-bf2c-ea91c72255e9)  ^b508e2fe
-
-> 得益于杜比视界的对比度能高达 1000000:1 从而显示出非常纯净的黑色，以及观看 3D 电影时亮度能达到 14FL 和观看 2D 电影时亮度能达到 31FL 这两大特点，杜比影院也受到很多影迷的追捧。不过有人欢喜有人忧，这个时候有一家公司就很焦虑了，那就是目前线下影院市场的老大：IMAX [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#21d06dc5-0fcc-45e9-b912-edd36066f70a)  ^21d06dc5
-
-> 感受到危机的 IMAX 在两年前决定与同样是杜比竞争对手的 DTS 联手推出了 IMAX Enhanced 认证标准，需要解释的是，这并不像 Dolby Vision 和 Dolby Atmos 是一种技术，而是一个认证，不论是碟片、流媒体还是播放器材都必须同时支持 HDR10 / HDR10+ 和 DTS:X 这两种音视频技术，缺一不可。 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#a1b6c31a-d140-483e-bcf3-2374242878e6)  ^a1b6c31a
-
-> IMAX Enhanced 的特点分别是高画质、高音质、以及**超大画幅**，还有 IMAX 拍摄的一些独家纪录片。 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#c54a34bb-79f0-435b-930f-f2c8ab52a219)  ^c54a34bb
-
-> 不过想要与杜比抗衡，最重要的还是在于内容，目前 IMAX Enhanced 片源主要有两种，第一种是由 IMAX 摄影机拍摄的电影和纪录片，最直观的感受就是画面比例更大，内容更多，视觉上自然也更享受。但这类电影数量非常少，截止 2019 年只有[《复仇者联盟3：无限战争》](https://sspai.com/link?target=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt4154756%2Ftechnical%3Fref%5F%3Dtt%5Fdt%5Fspec)和[《复仇者联盟4：终局之战》](https://sspai.com/link?target=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt4154796%2Ftechnical%3Fref%5F%3Dtt%5Fdt%5Fspec)这两部电影是全程由数字 IMAX 摄影机拍摄的。可惜 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#cb1e7ff0-41e8-4991-af6d-dd357f7b3a42)  ^cb1e7ff0
-
-> 这两部电影在 IMAX 影厅播放时会以 1.9:1 比例播放，而杜比影院和其他所有影院都是以传统 2.35:1 比例播放，前者比后者的画面整整多了 26% 左右，沉浸感可想而知 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#62f17cad-c069-4a13-a862-d7cd2c972432)  ^62f17cad
-
-> 第二种是由 [IMAX DMR](https://sspai.com/link?target=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2FIMAX%5FDMR%25E5%25BD%25B1%25E7%2589%2587%25E5%2588%2597%25E8%25A1%25A8) 技术转换成 IMAX 规格的电影，这类电影数量就很多了，但大多数和我们平时看到的电影比例一样，都只是 2.35:1 比例而已，其目的是为了让这类电影能在 IMAX 影院放映。不过像《蜘蛛侠：英雄远征》这部电影，虽然大部分片段是以传统 2.35:1 比例播放，但在特殊场景就会转换成 IMAX 数字版画幅 1.9:1 比例呈现给观众。 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#679b5332-7d43-42e9-ba8a-76f9757a2607)  ^679b5332
-
-> 所以 IMAX Enhanced 最有价值的地方并不是在于更好的画质和更好的音质，因为这些从技术上来讲和杜比视界 / 杜比全景声拉不开质的差距。那么 IMAX Enhanced 真正的杀手锏是什么？没错，就是独占画幅。因为我们家里的电视不论你是 1080p 还是 4K 还是 8K 分辨率，长宽比都是 16:9 比例，换算过来也就是 1.78:1 比例，如果播放 2.35:1 比例电影的话，电视屏幕的上下两边会呈现大量黑边，这样就会显得浪费了很多空间，而 IMAX Enhanced 的出现则会解决这个问题的存在。 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#be555c08-4cba-4ce8-9bcc-1d98210f17e5)  ^be555c08
-
-
 --- 
 
 # Full Content: 
@@ -239,3 +216,28 @@ Privilege 4K app
 \> 下载少数派 [ 客户端 ](https://sspai.com/page/client)、关注 [ 少数派公众号 ](https://sspai.com/s/J71e)，了解更妙的数字生活 🍃
 
 © 本文著作权归作者所有，并授权少数派独家使用，未经少数派许可，不得转载使用。
+
+---
+
+## Highlights
+
+> 目前 HDR 主流格式中目前最受好评的，是由美国杜比实验室推出的 Dolby Vision（杜比视界）HDR 标准，原因是因为其采用了 12bit 色深，并支持动态数据源结构，显示效果自然要比非动态元数据的 HDR 技术更为出色 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#52fe497d-04c0-4e95-ac57-e7c6ea84ae37)  ^52fe497d
+
+> 配合上近几年杜比一直在推广的 Dolby Atmos（杜比全景声），可以说在民用高端影音市场杜比有着巨大的影响力，比如视频流媒体巨头 Netflix 从去年开始几乎所有 Originals 原创剧除了标配 4K Ultra HD 以外，都支持杜比视界和杜比全景声。简称「**双杜**」。如果你的显示设备支持这两种格式，那么片源将会优先以此格式播放，如果不支持则会以 HDR10 或者 SDR 格式播放 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#19dc0f20-6a2b-4567-b386-1533383fd0ee)  ^19dc0f20
+
+> 如果你经常喜欢逛商场看电影，也会发现这两年「**杜比影院**」正在不断扩张，需要注意的是杜比全景声厅并不是杜比影院，一般来说杜比影院同时具备杜比全景声和杜比视界两种技术，在影厅入口处会有很大的「[Dolby Cinema](https://sspai.com/link?target=https%3A%2F%2Forigin-www.dolby.com%2Fcn%2Fzh%2Fplatforms%2Fdolby-cinema.html)」标志。 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#b508e2fe-e15b-4168-bf2c-ea91c72255e9)  ^b508e2fe
+
+> 得益于杜比视界的对比度能高达 1000000:1 从而显示出非常纯净的黑色，以及观看 3D 电影时亮度能达到 14FL 和观看 2D 电影时亮度能达到 31FL 这两大特点，杜比影院也受到很多影迷的追捧。不过有人欢喜有人忧，这个时候有一家公司就很焦虑了，那就是目前线下影院市场的老大：IMAX [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#21d06dc5-0fcc-45e9-b912-edd36066f70a)  ^21d06dc5
+
+> 感受到危机的 IMAX 在两年前决定与同样是杜比竞争对手的 DTS 联手推出了 IMAX Enhanced 认证标准，需要解释的是，这并不像 Dolby Vision 和 Dolby Atmos 是一种技术，而是一个认证，不论是碟片、流媒体还是播放器材都必须同时支持 HDR10 / HDR10+ 和 DTS:X 这两种音视频技术，缺一不可。 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#a1b6c31a-d140-483e-bcf3-2374242878e6)  ^a1b6c31a
+
+> IMAX Enhanced 的特点分别是高画质、高音质、以及**超大画幅**，还有 IMAX 拍摄的一些独家纪录片。 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#c54a34bb-79f0-435b-930f-f2c8ab52a219)  ^c54a34bb
+
+> 不过想要与杜比抗衡，最重要的还是在于内容，目前 IMAX Enhanced 片源主要有两种，第一种是由 IMAX 摄影机拍摄的电影和纪录片，最直观的感受就是画面比例更大，内容更多，视觉上自然也更享受。但这类电影数量非常少，截止 2019 年只有[《复仇者联盟3：无限战争》](https://sspai.com/link?target=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt4154756%2Ftechnical%3Fref%5F%3Dtt%5Fdt%5Fspec)和[《复仇者联盟4：终局之战》](https://sspai.com/link?target=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt4154796%2Ftechnical%3Fref%5F%3Dtt%5Fdt%5Fspec)这两部电影是全程由数字 IMAX 摄影机拍摄的。可惜 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#cb1e7ff0-41e8-4991-af6d-dd357f7b3a42)  ^cb1e7ff0
+
+> 这两部电影在 IMAX 影厅播放时会以 1.9:1 比例播放，而杜比影院和其他所有影院都是以传统 2.35:1 比例播放，前者比后者的画面整整多了 26% 左右，沉浸感可想而知 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#62f17cad-c069-4a13-a862-d7cd2c972432)  ^62f17cad
+
+> 第二种是由 [IMAX DMR](https://sspai.com/link?target=https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2FIMAX%5FDMR%25E5%25BD%25B1%25E7%2589%2587%25E5%2588%2597%25E8%25A1%25A8) 技术转换成 IMAX 规格的电影，这类电影数量就很多了，但大多数和我们平时看到的电影比例一样，都只是 2.35:1 比例而已，其目的是为了让这类电影能在 IMAX 影院放映。不过像《蜘蛛侠：英雄远征》这部电影，虽然大部分片段是以传统 2.35:1 比例播放，但在特殊场景就会转换成 IMAX 数字版画幅 1.9:1 比例呈现给观众。 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#679b5332-7d43-42e9-ba8a-76f9757a2607)  ^679b5332
+
+> 所以 IMAX Enhanced 最有价值的地方并不是在于更好的画质和更好的音质，因为这些从技术上来讲和杜比视界 / 杜比全景声拉不开质的差距。那么 IMAX Enhanced 真正的杀手锏是什么？没错，就是独占画幅。因为我们家里的电视不论你是 1080p 还是 4K 还是 8K 分辨率，长宽比都是 16:9 比例，换算过来也就是 1.78:1 比例，如果播放 2.35:1 比例电影的话，电视屏幕的上下两边会呈现大量黑边，这样就会显得浪费了很多空间，而 IMAX Enhanced 的出现则会解决这个问题的存在。 [⤴️](https://omnivore.app/me/imax-enhanced-18e2a49bd96#be555c08-4cba-4ce8-9bcc-1d98210f17e5)  ^be555c08
+

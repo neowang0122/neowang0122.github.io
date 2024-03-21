@@ -19,13 +19,6 @@ date_saved: 2024-03-10 19:38:42
 
 date_published: 2023-11-14 21:43:46
 
-## Highlights
-
-> My kindle library only shows the books I've bought directly from the kindle store on my kindle, but none of the books I've transferred from Calibre. [⤴️](https://omnivore.app/me/all-the-books-transferred-from-calibre-have-disappeared-on-my-ki-18e2abb9a21#a171a416-4b32-4e2c-be76-dddd7ca4ad57)  ^a171a416
-
-> This happened yesterday when I put it on wifi mode for the first time in a month. [⤴️](https://omnivore.app/me/all-the-books-transferred-from-calibre-have-disappeared-on-my-ki-18e2abb9a21#db67c0f5-f408-454b-9a67-58509f991086)  ^db67c0f5
-
-
 --- 
 
 # Full Content: 
@@ -43,3 +36,12 @@ date_published: 2023-11-14 21:43:46
  Now I feel really lost as what to do, and how to get back all those books with my personal highlights, bookmarks, and reading placement.
 
  Can somebody help ?
+
+---
+
+## Highlights
+
+> My kindle library only shows the books I've bought directly from the kindle store on my kindle, but none of the books I've transferred from Calibre. [⤴️](https://omnivore.app/me/all-the-books-transferred-from-calibre-have-disappeared-on-my-ki-18e2abb9a21#a171a416-4b32-4e2c-be76-dddd7ca4ad57)  ^a171a416
+
+> This happened yesterday when I put it on wifi mode for the first time in a month. [⤴️](https://omnivore.app/me/all-the-books-transferred-from-calibre-have-disappeared-on-my-ki-18e2abb9a21#db67c0f5-f408-454b-9a67-58509f991086)  ^db67c0f5
+

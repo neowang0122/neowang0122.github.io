@@ -19,11 +19,6 @@ date_saved: 2023-08-01 10:11:12
 
 date_published: 2013-08-09 07:24:00
 
-## Highlights
-
-> 简单的一句话，一个时代会诞生一个时代的王者，如果这个王者可以常青，后续的追赶者只能另辟蹊径或者等待下一个时代的到来。 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-21453852-answer-18280490-189b17022cc#4911e1cc-c3e5-4917-92b8-507581d60d79)  ^4911e1cc
-
-
 --- 
 
 # Full Content: 
@@ -55,3 +50,10 @@ date_published: 2013-08-09 07:24:00
 windows笔记本支持的游戏多，软件多，方便。
 
 iphone支持的游戏多，软件多，方便。
+
+---
+
+## Highlights
+
+> 简单的一句话，一个时代会诞生一个时代的王者，如果这个王者可以常青，后续的追赶者只能另辟蹊径或者等待下一个时代的到来。 [⤴️](https://omnivore.app/me/https-www-zhihu-com-question-21453852-answer-18280490-189b17022cc#4911e1cc-c3e5-4917-92b8-507581d60d79)  ^4911e1cc
+

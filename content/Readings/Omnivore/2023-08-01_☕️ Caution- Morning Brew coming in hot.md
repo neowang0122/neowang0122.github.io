@@ -19,15 +19,6 @@ date_saved: 2023-08-01 04:21:07
 date_saved: 2023-08-01 04:21:07
 
 
-## Highlights
-
-> Caution: Morning Brew coming in hot [⤴️](https://omnivore.app/me/caution-morning-brew-coming-in-hot-189b02fc1d1#8e540b42-99d6-4436-b635-b9a0df96f392)  ^8e540b42
-
-> the best darn newsletter covering the business world, the tech world, the finance world, and the world world. It’s a lot of power, so use it wisely.
-> 
-> See you in your inbox tomorrow morning. [⤴️](https://omnivore.app/me/caution-morning-brew-coming-in-hot-189b02fc1d1#decd0255-f0fc-4a8e-930d-b8c5efdb63b1)  ^decd0255
-
-
 --- 
 
 # Full Content: 
@@ -86,3 +77,14 @@ If you have any questions or feedback, don't hesitate to reach out to us by resp
 You were sent this message because you opted-in and subscribed to Morning Brew. To stop getting emails like this, [click here](https://link.morningbrew.com/click/64c8c07094cba70001cd249d/aHR0cDovL2xpbmsubW9ybmluZ2JyZXcuY29tL2pvaW4vNXo4L3RoYW5reW91LSZoYXNoPWI0MzMxNmU4Y2FmNTM3OTQxZWI1YWM5YmJiOTBjZjVmP3NhaWx0aHJ1X2xpc3RzW3t1KA/64c8bf6a3232916337034a48Babe8bb4a). To unsubscribe from all Morning Brew emails, [click here](https://link.morningbrew.com/click/64c8c07094cba70001cd249d/aHR0cHM6Ly93d3cubW9ybmluZ2JyZXcuY29tL2FjY291bnQvYUo4YktlTGhUWjg3cFQ3cFFXNnNwdDdEL2VkaXQ/64c8bf6a3232916337034a48B76956d18).
 
 Morning Brew // 22 W 19th St, 8th Floor, New York, NY 10011
+
+---
+
+## Highlights
+
+> Caution: Morning Brew coming in hot [⤴️](https://omnivore.app/me/caution-morning-brew-coming-in-hot-189b02fc1d1#8e540b42-99d6-4436-b635-b9a0df96f392)  ^8e540b42
+
+> the best darn newsletter covering the business world, the tech world, the finance world, and the world world. It’s a lot of power, so use it wisely.
+> 
+> See you in your inbox tomorrow morning. [⤴️](https://omnivore.app/me/caution-morning-brew-coming-in-hot-189b02fc1d1#decd0255-f0fc-4a8e-930d-b8c5efdb63b1)  ^decd0255
+

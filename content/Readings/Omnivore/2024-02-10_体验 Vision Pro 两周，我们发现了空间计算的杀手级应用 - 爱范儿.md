@@ -21,43 +21,6 @@ date_saved: 2024-02-10 05:00:49
 
 date_published: 2024-02-10 05:00:49
 
-## Highlights
-
-> 每次长时间佩戴 Vision Pro，苹果肌的压力属实有点大，但眼睛反而不会太累，最主要的原因是：界面被设计成眼睛喜欢的样子。
-> 
-> 首先，Vision Pro 所有界面都会出现在屏幕的正中央，这里是看东西最舒服的区域，减少了颈部和身体的移动，也减少了眼球大范围的转动。 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#c7c273b6-2112-4e8c-82a9-da6c12a02f5c)  ^c7c273b6
-
-> Vision Pro 对「中心」的重视。
-> 
-> 一方面， Vision Pro 采用了大量的圆形（圆圈、药丸形、圆角矩形）和柔和的界面曲线。没有棱角不仅不刺眼，而且还有助于精准识别，因为圆形可以把目光下意识地集中在目标的正中央。 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#ac1f583a-d70f-4623-b748-6e86488eced1)  ^ac1f583a
-
-> 而且苹果还规定了 visionOS 每一个图标的大小和间距：用于眼部交互的图标总大小不能小于 60pt，并且图标之间的间隔需要在 16pt 以上。这样的要求可以帮助眼睛快速定位，同时也减少了「看错」的可能。 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#93739e5c-a800-4ba4-9f1f-046bb012e1ef)  ^93739e5c
-
-> 影音娱乐，杀手级应用 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#e7153d03-e1d0-48f3-a8fb-3337359cd8b7)  ^e7153d03
-
-> 众多评测对 Vision Pro 的其他功能褒贬不一，但在观影效果上却保持了高度一致：惊艳。 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#9fc3eadc-4f01-49f3-baa4-1f6121816dd2)  ^9fc3eadc
-
-> 著名拆解团队 iFixit 将 Vision Pro 拆开后用显微镜观察发现，屏幕区域的像素值为 3660×3200px，相当于每平方英寸里装了 230 万个像素
-> 
-> ![](https://proxy-prod.omnivore-image-cache.app/1199x686,sPnaOkwCod_LSIYxY_NsgnfRxSpnXehqcDdetMRwEhp8/https://s3.ifanr.com/wp-content/uploads/2024/02/app12.jpg!720)
-> 
-> 更具体的类比，苹果在 Vision Pro 上，将 54 个像素塞到了 iPhone 15 Pro Max 的一个像素里。 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#49b3afb1-617d-4397-8ca0-190c6236e5d5)  ^49b3afb1
-
-> 好画质+好应用，是 Vision Pro 建立生态大厦的下一步，其中体育观赛感受的升级，是最明显的变化之一。
-> 
-> 如果你经常观看体育赛事，有几个痛点你大概率遇到过：
-> 
-> * 赛事信息显示不全，得分、助攻、犯规、暂停数、效率值等数据不可在同一屏幕兼得；
-> * 同时进行的不同场次很难在一个设备里并行观看；
-> * 比赛内容几乎完全由导播说得算，观众一般只能被动接受。 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#192ac59a-0bdc-4712-aea3-837cd5a77065)  ^192ac59a
-
-> 许多人在讨论 Vision Pro 是否会成为下一个 iPhone，就像当年对 iPad 定位的担忧一样，起码从目前的使用场景看，它不会也不可能替代手机的地位，因为二者从来都不是一个赛道的竞品。
-> 
-> iPhone 的便携性，是最大的优势，可随身携带、随时拿出、站着坐着躺着都能用，不受时间和空间的束缚，作为「全才并非专家」的 iPhone 或者说手机，也不能胜任所有工作 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#5345aa30-c499-4b12-a8cf-40bff4db1c48)  ^5345aa30
-
-> 从苹果给出的几大定位，不难看出 Vision Pro 或者说空间计算最大的用武之地，就是「沉浸式」的场景：巨幕观影，一比一呈现的霸王龙，NBA 的场内观赛视角，可在任意位置摆放的网页与界面 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#3577c215-fff0-4acf-9576-3bbafec4f5bc)  ^3577c215
-
-
 --- 
 
 # Full Content: 
@@ -272,3 +235,42 @@ Vision Pro 亦然，在找准它的适用场景的同时，其实也在回答一
 ![](https://proxy-prod.omnivore-image-cache.app/1080x608,s1rnyby-Lx3wfxgwRxn67Hqn0122TvI4iO_ZTWnuWX5g/https://s3.ifanr.com/wp-content/uploads/2024/02/app4.jpg!720)
 
 更重要的是，这台苹果头显将人与空间、现实与虚拟完美的串联起来，我们用眼睛实现导航、用双手进行操控、用语音充当输入，再利用超 4K 的显示屏和三维渲染实现输出，一起构建了 Vision Pro「人本位」的交互生态。
+
+---
+
+## Highlights
+
+> 每次长时间佩戴 Vision Pro，苹果肌的压力属实有点大，但眼睛反而不会太累，最主要的原因是：界面被设计成眼睛喜欢的样子。
+> 
+> 首先，Vision Pro 所有界面都会出现在屏幕的正中央，这里是看东西最舒服的区域，减少了颈部和身体的移动，也减少了眼球大范围的转动。 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#c7c273b6-2112-4e8c-82a9-da6c12a02f5c)  ^c7c273b6
+
+> Vision Pro 对「中心」的重视。
+> 
+> 一方面， Vision Pro 采用了大量的圆形（圆圈、药丸形、圆角矩形）和柔和的界面曲线。没有棱角不仅不刺眼，而且还有助于精准识别，因为圆形可以把目光下意识地集中在目标的正中央。 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#ac1f583a-d70f-4623-b748-6e86488eced1)  ^ac1f583a
+
+> 而且苹果还规定了 visionOS 每一个图标的大小和间距：用于眼部交互的图标总大小不能小于 60pt，并且图标之间的间隔需要在 16pt 以上。这样的要求可以帮助眼睛快速定位，同时也减少了「看错」的可能。 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#93739e5c-a800-4ba4-9f1f-046bb012e1ef)  ^93739e5c
+
+> 影音娱乐，杀手级应用 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#e7153d03-e1d0-48f3-a8fb-3337359cd8b7)  ^e7153d03
+
+> 众多评测对 Vision Pro 的其他功能褒贬不一，但在观影效果上却保持了高度一致：惊艳。 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#9fc3eadc-4f01-49f3-baa4-1f6121816dd2)  ^9fc3eadc
+
+> 著名拆解团队 iFixit 将 Vision Pro 拆开后用显微镜观察发现，屏幕区域的像素值为 3660×3200px，相当于每平方英寸里装了 230 万个像素
+> 
+> ![](https://proxy-prod.omnivore-image-cache.app/1199x686,sPnaOkwCod_LSIYxY_NsgnfRxSpnXehqcDdetMRwEhp8/https://s3.ifanr.com/wp-content/uploads/2024/02/app12.jpg!720)
+> 
+> 更具体的类比，苹果在 Vision Pro 上，将 54 个像素塞到了 iPhone 15 Pro Max 的一个像素里。 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#49b3afb1-617d-4397-8ca0-190c6236e5d5)  ^49b3afb1
+
+> 好画质+好应用，是 Vision Pro 建立生态大厦的下一步，其中体育观赛感受的升级，是最明显的变化之一。
+> 
+> 如果你经常观看体育赛事，有几个痛点你大概率遇到过：
+> 
+> * 赛事信息显示不全，得分、助攻、犯规、暂停数、效率值等数据不可在同一屏幕兼得；
+> * 同时进行的不同场次很难在一个设备里并行观看；
+> * 比赛内容几乎完全由导播说得算，观众一般只能被动接受。 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#192ac59a-0bdc-4712-aea3-837cd5a77065)  ^192ac59a
+
+> 许多人在讨论 Vision Pro 是否会成为下一个 iPhone，就像当年对 iPad 定位的担忧一样，起码从目前的使用场景看，它不会也不可能替代手机的地位，因为二者从来都不是一个赛道的竞品。
+> 
+> iPhone 的便携性，是最大的优势，可随身携带、随时拿出、站着坐着躺着都能用，不受时间和空间的束缚，作为「全才并非专家」的 iPhone 或者说手机，也不能胜任所有工作 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#5345aa30-c499-4b12-a8cf-40bff4db1c48)  ^5345aa30
+
+> 从苹果给出的几大定位，不难看出 Vision Pro 或者说空间计算最大的用武之地，就是「沉浸式」的场景：巨幕观影，一比一呈现的霸王龙，NBA 的场内观赛视角，可在任意位置摆放的网页与界面 [⤴️](https://omnivore.app/me/vision-pro-18d930ac361#3577c215-fff0-4acf-9576-3bbafec4f5bc)  ^3577c215
+

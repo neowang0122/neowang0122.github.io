@@ -21,25 +21,6 @@ date_saved: 2024-01-15 23:59:25
 
 date_published: 2024-01-15 23:59:25
 
-## Highlights
-
-> **Podcast Generator** 是一款用 PHP 编写的开源**播客**内容发布与管理系统，专为播客发布与管理而设计。让播客作者可以很轻松的上传剧集。不过有用户将其用来管理自己的有声书，并在其他设备上收听 [⤴️](https://omnivore.app/me/podcast-generator-18d117ebcde#6441271c-5d20-42e0-9de1-aaf91781a8ef)  ^6441271c
-
-> 如果有 [NAS](https://www.appinn.com/tag/nas/) 或者服务器，还可以自建播客，我是用 Podcast Generator 在我 Nas 上建了个播客然后自己用苹果自带的播客 App 在手机上听下载的有声小说。 [⤴️](https://omnivore.app/me/podcast-generator-18d117ebcde#2e44bbc0-e724-49dc-b367-c2595123253b)  ^2e44bbc0
-
-> Podcast Generator (PG) 是一个用 PHP 编写的开源**播客**内容发布与管理系统，专为播客发布而设计。 [⤴️](https://omnivore.app/me/podcast-generator-18d117ebcde#b402e9f2-92bf-4fa5-a1c5-924ca8a21605)  ^b402e9f2
-
-> 使用 PG 只需要几个步骤，就能实现自己在发布播客这件事，「上传播客内容“就像网络邮件附件一样”来轻松创建播客」。 [⤴️](https://omnivore.app/me/podcast-generator-18d117ebcde#106d90b3-a227-40d2-9bcd-f84c3d1fedf0)  ^106d90b3
-
-> 通过 Docker 搭建，的确比较容易。
-> 
-> docker run -d -p 8080:80 -v ./appdata:/app/PodcastGenerator/appdata vonproteus/podcast-generator
-> 
-> 这一句，就是在你的 Docker 上搭建好了 Podcast Generator，然后通过 IP:8080 访问即可。 [⤴️](https://omnivore.app/me/podcast-generator-18d117ebcde#bce0b9b7-4cb4-47cd-beb7-990482401ea0)  ^bce0b9b7
-
-> 有声书来自免费公共领域有声读物 [LibriVox](https://librivox.org/)。 [⤴️](https://omnivore.app/me/podcast-generator-18d117ebcde#e88734b5-225b-475a-8ac1-d2aad6bdd696)  ^e88734b5
-
-
 --- 
 
 # Full Content: 
@@ -96,3 +77,24 @@ PG 最初是为学术环境开发的，其中教师和讲师通常缺乏技术�
 ---
 
 原文：https://www.appinn.com/podcast-generator/
+
+---
+
+## Highlights
+
+> **Podcast Generator** 是一款用 PHP 编写的开源**播客**内容发布与管理系统，专为播客发布与管理而设计。让播客作者可以很轻松的上传剧集。不过有用户将其用来管理自己的有声书，并在其他设备上收听 [⤴️](https://omnivore.app/me/podcast-generator-18d117ebcde#6441271c-5d20-42e0-9de1-aaf91781a8ef)  ^6441271c
+
+> 如果有 [NAS](https://www.appinn.com/tag/nas/) 或者服务器，还可以自建播客，我是用 Podcast Generator 在我 Nas 上建了个播客然后自己用苹果自带的播客 App 在手机上听下载的有声小说。 [⤴️](https://omnivore.app/me/podcast-generator-18d117ebcde#2e44bbc0-e724-49dc-b367-c2595123253b)  ^2e44bbc0
+
+> Podcast Generator (PG) 是一个用 PHP 编写的开源**播客**内容发布与管理系统，专为播客发布而设计。 [⤴️](https://omnivore.app/me/podcast-generator-18d117ebcde#b402e9f2-92bf-4fa5-a1c5-924ca8a21605)  ^b402e9f2
+
+> 使用 PG 只需要几个步骤，就能实现自己在发布播客这件事，「上传播客内容“就像网络邮件附件一样”来轻松创建播客」。 [⤴️](https://omnivore.app/me/podcast-generator-18d117ebcde#106d90b3-a227-40d2-9bcd-f84c3d1fedf0)  ^106d90b3
+
+> 通过 Docker 搭建，的确比较容易。
+> 
+> docker run -d -p 8080:80 -v ./appdata:/app/PodcastGenerator/appdata vonproteus/podcast-generator
+> 
+> 这一句，就是在你的 Docker 上搭建好了 Podcast Generator，然后通过 IP:8080 访问即可。 [⤴️](https://omnivore.app/me/podcast-generator-18d117ebcde#bce0b9b7-4cb4-47cd-beb7-990482401ea0)  ^bce0b9b7
+
+> 有声书来自免费公共领域有声读物 [LibriVox](https://librivox.org/)。 [⤴️](https://omnivore.app/me/podcast-generator-18d117ebcde#e88734b5-225b-475a-8ac1-d2aad6bdd696)  ^e88734b5
+

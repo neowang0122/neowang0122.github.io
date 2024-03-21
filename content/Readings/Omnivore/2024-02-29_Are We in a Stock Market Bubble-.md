@@ -19,13 +19,6 @@ date_saved: 2024-02-29 13:47:02
 date_saved: 2024-02-29 13:47:02
 
 
-## Highlights
-
-> I have been asked if the stock market is in a bubble, especially the "Magnificent 7." [⤴️](https://omnivore.app/me/are-we-in-a-stock-market-bubble-18df630fcbd#718151f6-25ec-4299-805a-b7278ea9efff)  ^718151f6
-
-> If you don't care to understand the reasoning behind my answers and just want the short answer as to whether 1) the stock market as a whole and 2) the "Magnificent 7” are in a bubble, the answer to both is no. [⤴️](https://omnivore.app/me/are-we-in-a-stock-market-bubble-18df630fcbd#15e7387c-77b9-4d10-90ce-7d2d5316cc34)  ^15e7387c
-
-
 --- 
 
 # Full Content: 
@@ -42,3 +35,12 @@ Not a subscriber but want to receive updates from Ray?
 Click [**HERE**](https://principles.us13.list-manage.com/subscribe?u=f817138263fa3d3dec4ad231d&id=08ee8ce394) to subscribe.
 
 ![](https://proxy-prod.omnivore-image-cache.app/120x0,sHGcLRJWnt7f0MXjVwaOrK6Ci-HS41ScUZZG1MEzPk8k/https://gallery.mailchimp.com/f817138263fa3d3dec4ad231d/images/b2631a62-d79a-4605-8484-828fa0ce4981.png) 
+
+---
+
+## Highlights
+
+> I have been asked if the stock market is in a bubble, especially the "Magnificent 7." [⤴️](https://omnivore.app/me/are-we-in-a-stock-market-bubble-18df630fcbd#718151f6-25ec-4299-805a-b7278ea9efff)  ^718151f6
+
+> If you don't care to understand the reasoning behind my answers and just want the short answer as to whether 1) the stock market as a whole and 2) the "Magnificent 7” are in a bubble, the answer to both is no. [⤴️](https://omnivore.app/me/are-we-in-a-stock-market-bubble-18df630fcbd#15e7387c-77b9-4d10-90ce-7d2d5316cc34)  ^15e7387c
+

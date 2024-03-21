@@ -19,17 +19,6 @@ date_saved: 2023-12-11 20:05:16
 
 date_published: 2023-12-11 20:05:16
 
-## Highlights
-
-> 在马斯克的说法中，Grok 的名字是受到科幻小说《异乡异客》中的「Grok」概念的启发，字面意思是语气词「喝」，但却有着象征着理解、共鸣和人机关系等深层意义 [⤴️](https://omnivore.app/me/chat-gpt-grok-18c5c5cd52f#d3b6b7e5-fcd0-4d86-90ed-e6425bf2ebe5)  ^d3b6b7e5
-
-> 不可否认的是，当舆论事件发生时，X 的信息流通往往是最快的。前一段时间，OpenAI 的宫斗大戏闹得「沸沸扬扬」。Grok 支持实时访问 X 平台，得益于这天然的信息池，你若是想了解一手信息，直接问 Grok 就好啦。 [⤴️](https://omnivore.app/me/chat-gpt-grok-18c5c5cd52f#6cdd61e6-87cf-4dd6-9a5e-33709562877c)  ^6cdd61e6
-
-> Grok 能根据 X 上的实时信息给出最新的答复，而同一个问题中，恢复实时联网功能的 GPT-4 给出的结果却是错误的。 [⤴️](https://omnivore.app/me/chat-gpt-grok-18c5c5cd52f#343fd5a8-02f0-4b17-902e-0023abf5b432)  ^343fd5a8
-
-> 搜集信息只是第一步，彼时当网友让 Grok 总结 OpenAI 过去 36 个小时发生的事情时，它的回答几乎囊括了所有信息，这也让现身评论区的马斯克脸上有光，对 Grok 的摘要功能赞不绝口。 [⤴️](https://omnivore.app/me/chat-gpt-grok-18c5c5cd52f#221f8593-6656-4fad-b26f-37e9fa697b72)  ^221f8593
-
-
 --- 
 
 # Full Content: 
@@ -196,3 +185,16 @@ Grok 最不可告人的惊人秘密是什么？
 1 个人收藏
 
 * ![头像](https://proxy-prod.omnivore-image-cache.app/0x0,sRGaY1G-S6Pab2RWIWCezvnsJFaU3BP7YkXfQ8IE_Mgc/https://media.ifanrusercontent.com/tavatar/88/fa/88fabdfae6607c1d55c0a844058a6028005a966d.jpg)
+
+---
+
+## Highlights
+
+> 在马斯克的说法中，Grok 的名字是受到科幻小说《异乡异客》中的「Grok」概念的启发，字面意思是语气词「喝」，但却有着象征着理解、共鸣和人机关系等深层意义 [⤴️](https://omnivore.app/me/chat-gpt-grok-18c5c5cd52f#d3b6b7e5-fcd0-4d86-90ed-e6425bf2ebe5)  ^d3b6b7e5
+
+> 不可否认的是，当舆论事件发生时，X 的信息流通往往是最快的。前一段时间，OpenAI 的宫斗大戏闹得「沸沸扬扬」。Grok 支持实时访问 X 平台，得益于这天然的信息池，你若是想了解一手信息，直接问 Grok 就好啦。 [⤴️](https://omnivore.app/me/chat-gpt-grok-18c5c5cd52f#6cdd61e6-87cf-4dd6-9a5e-33709562877c)  ^6cdd61e6
+
+> Grok 能根据 X 上的实时信息给出最新的答复，而同一个问题中，恢复实时联网功能的 GPT-4 给出的结果却是错误的。 [⤴️](https://omnivore.app/me/chat-gpt-grok-18c5c5cd52f#343fd5a8-02f0-4b17-902e-0023abf5b432)  ^343fd5a8
+
+> 搜集信息只是第一步，彼时当网友让 Grok 总结 OpenAI 过去 36 个小时发生的事情时，它的回答几乎囊括了所有信息，这也让现身评论区的马斯克脸上有光，对 Grok 的摘要功能赞不绝口。 [⤴️](https://omnivore.app/me/chat-gpt-grok-18c5c5cd52f#221f8593-6656-4fad-b26f-37e9fa697b72)  ^221f8593
+

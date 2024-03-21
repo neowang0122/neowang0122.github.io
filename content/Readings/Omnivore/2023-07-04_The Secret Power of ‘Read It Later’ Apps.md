@@ -21,67 +21,6 @@ date_saved: 2023-07-04 05:02:22
 
 date_published: 2022-01-23 19:00:00
 
-## Highlights
-
-> The fact is, **the ability to read is becoming a source of competitive advantage in the world**. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#44d8a15b-de20-4115-ae2e-831f0b517e59)  ^44d8a15b
-
-> I’m not talking about basic literacy. What has become exceedingly scarce (and therefore, valuable) is the physical, emotional, attentional, and mental capability to sit quietly and direct focused attention for sustained periods of time. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#ad2c3dd7-9a19-4e02-b2b0-45238068703f)  ^ad2c3dd7
-
-> it’s a _trait_ — the inherent and unavoidable experience of modern life characterized by “distractibility, inner frenzy, and impatience.” [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#155dea01-2969-4a31-89ad-910b9e5e13cc)  ^155dea01
-
-> Start Building Your Second Brain [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#a44412f0-599f-4ec5-a6c7-995a89337c8d)  ^a44412f0
-
-> So-called “Read It Later” apps give you the ability to “save” content on the web for later consumption. They are essentially advanced bookmarking apps, pulling in the content from a page to be read or viewed in a cleaner, simpler visual layout. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#795345ca-d9fa-4f74-9b6b-6da832061fa8)  ^795345ca
-
-> The quality of a workflow’s outputs is fundamentally limited by the quality of its inputs. Garbage in, garbage out. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#3a0f6b52-becf-416c-84a3-bf1137c0a122)  ^3a0f6b52
-
-> Using your friends as your primary filter for new ideas ensures you remain the dumbest person in the room, and contribute nothing to the conversation. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#d61d5dc8-f68d-482d-a5dc-9eeabd940dfb)  ^d61d5dc8
-
-> The problem is that our entire digital world is geared toward snackable chunks of low-grade information — photos, tweets, statuses, snaps, feeds, cards, etc. To fight the tide you have to redesign your environment — you have to create affordances. 
-> 
-> > Affordance (n.): a relation between an object and an organism that, through a collection of stimuli, **affords the opportunity for that organism to perform an action.** [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#8bbd3bf3-288f-43a4-aae6-f513c4461981)  ^8bbd3bf3
-
-> David Allen puts it this way: 
-> 
-> > “It’s practical to have organized reading material at hand when you’re on your way to a meeting that may be starting late, a seminar that may have a window of time when nothing is going on, a dentist appointment that may keep you waiting, or, of course, if you’re going to have some time on a train or plane. Those are all great opportunities to browse and work through that kind of reading. People who don’t have their Read/Review material organized can waste a lot of time, since **life is full of weird little windows when it could be used.**” [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#f3633451-6d46-43b2-8994-d8beaf4e960b)  ^f3633451
-
-> The risk of cognitive dissonance at not being able to finish a long article (much less a book) keep us from even beginning it. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#67f1f689-6a3f-4134-8684-3a21973b0c84)  ^67f1f689
-
-> Read It Later apps address this by simply saving your progress in a given article, allowing you to pick back up at a different time, or on a different device, and clearly marking items as “read” once you’re finished. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#800d5889-53f7-4040-aa83-a4d0d9726d43)  ^800d5889
-
-> Procrastination is the most powerful force in the universe. _It will find a way._ [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#23a38be4-e104-48b7-9e7d-2455fbbff96c)  ^23a38be4
-
-> I have a different approach: **waiting periods**. Every time I come across something I may want to read/watch, I’m totally allowed to. No limits! The only requirement is I have to save it to Pocket, and then choose to consume it at a later time. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#a7551354-07db-4a26-8a18-6203932b05aa)  ^a7551354
-
-> I’ve found that even just clicking a link to open the URL, in order to save it to Pocket, is too much of a temptation. The first glimpse of a cute GIF and I’m off to Reddit, completely forgetting my morning email session. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#b6da8850-4e80-4e27-b60a-db06dfec9460)  ^b6da8850
-
-> There’s only one rule: **NO READING OR WATCHING!** [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#35cb8614-cb25-42db-bdf8-91dbddb50f72)  ^35cb8614
-
-> Bringing this back to filtering, not only am I saving time and preserving focus by batch processing both the collection and the consumption of new content, I’m **time-shifting the curation process** to a time better suited for reading, and (most critically) removed from the temptations, stresses, and biopsychosocial hooks that first lured me in. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#b2bac7fd-f2e1-453b-9511-9cfeec2b8308)  ^b2bac7fd
-
-> What I’m essentially doing is creating a buffer. Instead of pushing a new piece of info through from intake to processing to consumption without any scrutiny, I’m creating a pool of options drawn from a longer time period, which allows me to make decisions from a higher perspective, where those decisions are much better aligned with what truly matters to me. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#ee2a81bf-1e3d-4cd3-b0a0-d3f26c5827d0)  ^ee2a81bf
-
-> _hours?!_ Besides the gains from batch processing such a large quantity of emails at once, I believe the main factor was that I evaluated my emails from a longer time horizon and higher perspective, more correctly judging whether something was worth responding to or acting on. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#3906db0a-cb73-47d5-82f8-00f9ef8bb441)  ^3906db0a
-
-> There are drawbacks, which I’ve glossed over until now. The two main ones: 
-> 
-> ####  1\. Formatting issues 
-> 
->  Many sites, including popular ones, aren’t presented correctly within the Pocket app (and I imagine others). There’s always the option of opening the link in a web browser, but this eliminates all the positive affordances and then some. If there wasn’t so much value provided otherwise, this would be a deal breaker. 
-> 
->  The worst part is that, sometimes, the article is cut off or links don’t appear _without any indication that something is amiss_. On Tim Ferriss’ blog, for example, links (of which there are many) are simply removed. 
-> 
->  One solution is to tag problematic items with “desktop” so you know that these need to be read/viewed on your computer. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#0862fc40-7ae6-4612-8da2-8ad98e9b0888)  ^0862fc40
-
-> As the inimitable Venkatesh Rao [has written](http://breakingsmart.com/season-1/), we’re moving from a world of **containers** (companies, departments, semesters, packages, silos) to a world of **streams** (social networks, info feeds, main streets of thriving cities, Twitter). Problems and opportunities alike resist having neat little boxes drawn around them. There’s [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#43464c4d-fa5d-49e4-9ff6-75d8257966d7)  ^43464c4d
-
-> There’s another way to learn faster: assimilate and build on the ideas of others. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#ebbaca1c-d0ff-4db4-acf6-f144449be80d)  ^ebbaca1c
-
-> Reading is the closest thing we have to thinking another’s thoughts. It’s long and sometimes ponderous, but that work is required to wrap yourself in another person’s paradigm. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#8eb1448b-bc22-4e6c-8ee7-318864cb7a87)  ^8eb1448b
-
-> The amazing thing about ideas is that it takes zero time for one to change your paradigm. It happens in time, but takes no time, like an inter-dimensional wormhole, one entangled particle in your brain mirroring its twin across a chasm even more vast than the universe — the chasm between two minds. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#0530fbac-5049-4862-afaf-c1bf42472781)  ^0530fbac
-
-
 --- 
 
 # Full Content: 
@@ -368,3 +307,66 @@ _**Subscribe below to receive free weekly emails with our best new content, or f
  Join 50,000+ people receiving my best ideas on learning, productivity & knowledge management every Tuesday. I'll send you my Top 10 All-Time Articles right away as a thank you. 
 
 * POSTED IN: [Building a Second Brain](https://fortelabs.co/blog/category/topics/building-a-second-brain/), [Curation](https://fortelabs.co/blog/category/topics/curation/), [Free](https://fortelabs.co/blog/category/types/free/), [Note-taking](https://fortelabs.co/blog/category/topics/note-taking/), [Technology](https://fortelabs.co/blog/category/topics/technology/), [Workflow](https://fortelabs.co/blog/category/topics/workflow/)
+
+---
+
+## Highlights
+
+> The fact is, **the ability to read is becoming a source of competitive advantage in the world**. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#44d8a15b-de20-4115-ae2e-831f0b517e59)  ^44d8a15b
+
+> I’m not talking about basic literacy. What has become exceedingly scarce (and therefore, valuable) is the physical, emotional, attentional, and mental capability to sit quietly and direct focused attention for sustained periods of time. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#ad2c3dd7-9a19-4e02-b2b0-45238068703f)  ^ad2c3dd7
+
+> it’s a _trait_ — the inherent and unavoidable experience of modern life characterized by “distractibility, inner frenzy, and impatience.” [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#155dea01-2969-4a31-89ad-910b9e5e13cc)  ^155dea01
+
+> Start Building Your Second Brain [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#a44412f0-599f-4ec5-a6c7-995a89337c8d)  ^a44412f0
+
+> So-called “Read It Later” apps give you the ability to “save” content on the web for later consumption. They are essentially advanced bookmarking apps, pulling in the content from a page to be read or viewed in a cleaner, simpler visual layout. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#795345ca-d9fa-4f74-9b6b-6da832061fa8)  ^795345ca
+
+> The quality of a workflow’s outputs is fundamentally limited by the quality of its inputs. Garbage in, garbage out. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#3a0f6b52-becf-416c-84a3-bf1137c0a122)  ^3a0f6b52
+
+> Using your friends as your primary filter for new ideas ensures you remain the dumbest person in the room, and contribute nothing to the conversation. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#d61d5dc8-f68d-482d-a5dc-9eeabd940dfb)  ^d61d5dc8
+
+> The problem is that our entire digital world is geared toward snackable chunks of low-grade information — photos, tweets, statuses, snaps, feeds, cards, etc. To fight the tide you have to redesign your environment — you have to create affordances. 
+> 
+> > Affordance (n.): a relation between an object and an organism that, through a collection of stimuli, **affords the opportunity for that organism to perform an action.** [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#8bbd3bf3-288f-43a4-aae6-f513c4461981)  ^8bbd3bf3
+
+> David Allen puts it this way: 
+> 
+> > “It’s practical to have organized reading material at hand when you’re on your way to a meeting that may be starting late, a seminar that may have a window of time when nothing is going on, a dentist appointment that may keep you waiting, or, of course, if you’re going to have some time on a train or plane. Those are all great opportunities to browse and work through that kind of reading. People who don’t have their Read/Review material organized can waste a lot of time, since **life is full of weird little windows when it could be used.**” [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#f3633451-6d46-43b2-8994-d8beaf4e960b)  ^f3633451
+
+> The risk of cognitive dissonance at not being able to finish a long article (much less a book) keep us from even beginning it. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#67f1f689-6a3f-4134-8684-3a21973b0c84)  ^67f1f689
+
+> Read It Later apps address this by simply saving your progress in a given article, allowing you to pick back up at a different time, or on a different device, and clearly marking items as “read” once you’re finished. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#800d5889-53f7-4040-aa83-a4d0d9726d43)  ^800d5889
+
+> Procrastination is the most powerful force in the universe. _It will find a way._ [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#23a38be4-e104-48b7-9e7d-2455fbbff96c)  ^23a38be4
+
+> I have a different approach: **waiting periods**. Every time I come across something I may want to read/watch, I’m totally allowed to. No limits! The only requirement is I have to save it to Pocket, and then choose to consume it at a later time. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#a7551354-07db-4a26-8a18-6203932b05aa)  ^a7551354
+
+> I’ve found that even just clicking a link to open the URL, in order to save it to Pocket, is too much of a temptation. The first glimpse of a cute GIF and I’m off to Reddit, completely forgetting my morning email session. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#b6da8850-4e80-4e27-b60a-db06dfec9460)  ^b6da8850
+
+> There’s only one rule: **NO READING OR WATCHING!** [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#35cb8614-cb25-42db-bdf8-91dbddb50f72)  ^35cb8614
+
+> Bringing this back to filtering, not only am I saving time and preserving focus by batch processing both the collection and the consumption of new content, I’m **time-shifting the curation process** to a time better suited for reading, and (most critically) removed from the temptations, stresses, and biopsychosocial hooks that first lured me in. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#b2bac7fd-f2e1-453b-9511-9cfeec2b8308)  ^b2bac7fd
+
+> What I’m essentially doing is creating a buffer. Instead of pushing a new piece of info through from intake to processing to consumption without any scrutiny, I’m creating a pool of options drawn from a longer time period, which allows me to make decisions from a higher perspective, where those decisions are much better aligned with what truly matters to me. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#ee2a81bf-1e3d-4cd3-b0a0-d3f26c5827d0)  ^ee2a81bf
+
+> _hours?!_ Besides the gains from batch processing such a large quantity of emails at once, I believe the main factor was that I evaluated my emails from a longer time horizon and higher perspective, more correctly judging whether something was worth responding to or acting on. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#3906db0a-cb73-47d5-82f8-00f9ef8bb441)  ^3906db0a
+
+> There are drawbacks, which I’ve glossed over until now. The two main ones: 
+> 
+> ####  1\. Formatting issues 
+> 
+>  Many sites, including popular ones, aren’t presented correctly within the Pocket app (and I imagine others). There’s always the option of opening the link in a web browser, but this eliminates all the positive affordances and then some. If there wasn’t so much value provided otherwise, this would be a deal breaker. 
+> 
+>  The worst part is that, sometimes, the article is cut off or links don’t appear _without any indication that something is amiss_. On Tim Ferriss’ blog, for example, links (of which there are many) are simply removed. 
+> 
+>  One solution is to tag problematic items with “desktop” so you know that these need to be read/viewed on your computer. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#0862fc40-7ae6-4612-8da2-8ad98e9b0888)  ^0862fc40
+
+> As the inimitable Venkatesh Rao [has written](http://breakingsmart.com/season-1/), we’re moving from a world of **containers** (companies, departments, semesters, packages, silos) to a world of **streams** (social networks, info feeds, main streets of thriving cities, Twitter). Problems and opportunities alike resist having neat little boxes drawn around them. There’s [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#43464c4d-fa5d-49e4-9ff6-75d8257966d7)  ^43464c4d
+
+> There’s another way to learn faster: assimilate and build on the ideas of others. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#ebbaca1c-d0ff-4db4-acf6-f144449be80d)  ^ebbaca1c
+
+> Reading is the closest thing we have to thinking another’s thoughts. It’s long and sometimes ponderous, but that work is required to wrap yourself in another person’s paradigm. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#8eb1448b-bc22-4e6c-8ee7-318864cb7a87)  ^8eb1448b
+
+> The amazing thing about ideas is that it takes zero time for one to change your paradigm. It happens in time, but takes no time, like an inter-dimensional wormhole, one entangled particle in your brain mirroring its twin across a chasm even more vast than the universe — the chasm between two minds. [⤴️](https://omnivore.app/me/the-secret-power-of-read-it-later-apps-1892023778d#0530fbac-5049-4862-afaf-c1bf42472781)  ^0530fbac
+

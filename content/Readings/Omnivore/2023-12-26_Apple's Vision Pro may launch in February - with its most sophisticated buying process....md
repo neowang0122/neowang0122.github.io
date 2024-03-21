@@ -19,11 +19,6 @@ date_saved: 2023-12-26 12:39:02
 
 date_published: 2023-12-20 16:34:00
 
-## Highlights
-
-> $3,500 Vision Pro [⤴️](https://omnivore.app/me/apple-s-vision-pro-may-launch-in-february-with-its-most-sophisti-18ca73561ad#92a560ba-8607-4bf6-8e0d-cf75d9966723)  ^92a560ba
-
-
 --- 
 
 # Full Content: 
@@ -69,3 +64,10 @@ Apple still has a month -- and maybe longer, depending on how manufacturing goes
 #### Apple
 
 [Editorial standards](https://www.zdnet.com/editorial-guidelines/)
+
+---
+
+## Highlights
+
+> $3,500 Vision Pro [⤴️](https://omnivore.app/me/apple-s-vision-pro-may-launch-in-february-with-its-most-sophisti-18ca73561ad#92a560ba-8607-4bf6-8e0d-cf75d9966723)  ^92a560ba
+

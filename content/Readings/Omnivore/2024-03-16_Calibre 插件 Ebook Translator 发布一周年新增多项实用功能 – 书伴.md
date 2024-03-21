@@ -21,27 +21,6 @@ date_saved: 2024-03-16 09:11:33
 
 date_published: 2024-03-16 09:11:33
 
-## Highlights
-
-> Ebook Translator 是书伴开发的一款 Calibre 插件，可以利用 Google Translate、DeepL 等翻译服务或 ChatGPT、Gemini Pro 等生成式 AI，将不同格式、不同语言的电子书翻译并转制成不同格式的原文与译文对照版本。这不仅方便阅读外语书籍拓展知识面，更是学习外语的好帮手。 [⤴️](https://omnivore.app/me/calibre-ebook-translator-18e480c54a1#1a43bb23-4cf6-4239-97f4-d14d2812e749)  ^1a43bb23
-
-> ## 1、提升翻译速度
-> 
-> 相比初次发布的插件版本，借助异步协程和多线程技术，新版插件的翻译速度得到了显著提升。以内置的翻译引擎 Google (Free) 为例，在一般网络条件及一般计算机性能条件下，翻译内含 **5000** 个段落的电子书仅需不到 **4.5** 分钟的时间。如果你启用了下面将要提到的“**合并翻译**”功能，在设置最长合并字符数为 **1800** 的情况下，翻译同一本书则仅需短短 **0.3** 分钟左右的时间。 [⤴️](https://omnivore.app/me/calibre-ebook-translator-18e480c54a1#5683a698-c26b-41ee-867b-3af40646dbbb)  ^5683a698
-
-> ## 更多翻译引擎
-> 
-> 相比初次发布的版本，新版插件提供了更多内置翻译引擎，包括免费的 Google (Free)、DeepL (Free)、Microsoft Edge (Free)（归功于 [@wanghaosjtu](https://github.com/wanghaosjtu)），以及需填写密钥才能使用的 Google (Basic)、Google (Advanced)、ChatGPT (Azure)、Genimi Pro 有道翻译以及百度翻译。 [⤴️](https://omnivore.app/me/calibre-ebook-translator-18e480c54a1#eb3a8d57-d2c4-4aac-b2c3-8d19191e7a45)  ^eb3a8d57
-
-> ## 更多对照布局
-> 
-> 自插件发布以来，除了仅保留译文外，只有上下两种原文译文对照方式。新版插件添加了左右对照方式（归功于 [@tiropictor](https://github.com/tiropictor)）。不过这两种方式尚处于测试阶段，仅支持有限电子书格式。 [⤴️](https://omnivore.app/me/calibre-ebook-translator-18e480c54a1#d79ddb2d-a153-42cb-b7e6-d3c505da3e86)  ^d79ddb2d
-
-> ## 快捷安装方式
-> 
-> 插件最初发布时，你需要手动下载插件文件并通过 Calibre 的插件管理器加载安装。现在 Calibre 官方插件列表收录了此插件，你可直接在 Calibre 的插件管理器中搜索安装 Ebook Translator。 [⤴️](https://omnivore.app/me/calibre-ebook-translator-18e480c54a1#53faf262-4953-4c28-8a00-45e625291236)  ^53faf262
-
-
 --- 
 
 # Full Content: 
@@ -117,3 +96,26 @@ Ebook Translator 是书伴开发的一款 Calibre 插件，可以利用 Google T
 以上便是 Ebook Translator 过去一年中新增和改进的主要功能，希望新的版本能带给你更好的使用体验，也期待能对你的学习和工作有所帮助。如果你在使用中遇到了问题或有好的建议，欢迎来[项目主页](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin)提交。最后，感谢所有反馈错误、提交功能请求和贡献代码的热心网友。
 
 © 「[书伴](https://bookfere.com/)」原创文章，转载请注明出处及原文链接：<https://bookfere.com/post/1096.html>
+
+---
+
+## Highlights
+
+> Ebook Translator 是书伴开发的一款 Calibre 插件，可以利用 Google Translate、DeepL 等翻译服务或 ChatGPT、Gemini Pro 等生成式 AI，将不同格式、不同语言的电子书翻译并转制成不同格式的原文与译文对照版本。这不仅方便阅读外语书籍拓展知识面，更是学习外语的好帮手。 [⤴️](https://omnivore.app/me/calibre-ebook-translator-18e480c54a1#1a43bb23-4cf6-4239-97f4-d14d2812e749)  ^1a43bb23
+
+> ## 1、提升翻译速度
+> 
+> 相比初次发布的插件版本，借助异步协程和多线程技术，新版插件的翻译速度得到了显著提升。以内置的翻译引擎 Google (Free) 为例，在一般网络条件及一般计算机性能条件下，翻译内含 **5000** 个段落的电子书仅需不到 **4.5** 分钟的时间。如果你启用了下面将要提到的“**合并翻译**”功能，在设置最长合并字符数为 **1800** 的情况下，翻译同一本书则仅需短短 **0.3** 分钟左右的时间。 [⤴️](https://omnivore.app/me/calibre-ebook-translator-18e480c54a1#5683a698-c26b-41ee-867b-3af40646dbbb)  ^5683a698
+
+> ## 更多翻译引擎
+> 
+> 相比初次发布的版本，新版插件提供了更多内置翻译引擎，包括免费的 Google (Free)、DeepL (Free)、Microsoft Edge (Free)（归功于 [@wanghaosjtu](https://github.com/wanghaosjtu)），以及需填写密钥才能使用的 Google (Basic)、Google (Advanced)、ChatGPT (Azure)、Genimi Pro 有道翻译以及百度翻译。 [⤴️](https://omnivore.app/me/calibre-ebook-translator-18e480c54a1#eb3a8d57-d2c4-4aac-b2c3-8d19191e7a45)  ^eb3a8d57
+
+> ## 更多对照布局
+> 
+> 自插件发布以来，除了仅保留译文外，只有上下两种原文译文对照方式。新版插件添加了左右对照方式（归功于 [@tiropictor](https://github.com/tiropictor)）。不过这两种方式尚处于测试阶段，仅支持有限电子书格式。 [⤴️](https://omnivore.app/me/calibre-ebook-translator-18e480c54a1#d79ddb2d-a153-42cb-b7e6-d3c505da3e86)  ^d79ddb2d
+
+> ## 快捷安装方式
+> 
+> 插件最初发布时，你需要手动下载插件文件并通过 Calibre 的插件管理器加载安装。现在 Calibre 官方插件列表收录了此插件，你可直接在 Calibre 的插件管理器中搜索安装 Ebook Translator。 [⤴️](https://omnivore.app/me/calibre-ebook-translator-18e480c54a1#53faf262-4953-4c28-8a00-45e625291236)  ^53faf262
+

@@ -20,13 +20,6 @@ date_saved: 2023-09-07 12:24:03
 date_saved: 2023-09-07 12:24:03
 
 
-## Highlights
-
-> history has shown that there are increased risks, conflicts, and disobedience of the rule and law when there are big disagreements and wide-spread beliefs that the system isn't fair, such as there is now.  [⤴️](https://omnivore.app/me/the-results-from-over-43-000-responses-to-my-questions-18a707531b7#5c0008ef-9804-4a54-872b-9012b309effb)  ^5c0008ef
-
-> the biggest question pertaining to the internal conflict issue is **will there be adherence to the judgements made by those in the "system" when most people don't trust those in the system?** [⤴️](https://omnivore.app/me/the-results-from-over-43-000-responses-to-my-questions-18a707531b7#a1147213-7a86-4daa-bcfa-74e41c33576f)  ^a1147213
-
-
 --- 
 
 # Full Content: 
@@ -52,3 +45,12 @@ To me and those who shared their thinking with me, ==the biggest question pertai
 I look forward to hearing your thoughts on this issue. You can reach out to me directly on [Facebook](https://principles.us13.list-manage.com/track/click?u=f817138263fa3d3dec4ad231d&id=ed4de67d89&e=bc6bf78208 "https://www.facebook.com/raydalio/"), [Instagram](https://principles.us13.list-manage.com/track/click?u=f817138263fa3d3dec4ad231d&id=d4421c8353&e=bc6bf78208 "https://www.instagram.com/raydalio/?hl=en"), [LinkedIn](https://principles.us13.list-manage.com/track/click?u=f817138263fa3d3dec4ad231d&id=d06cd91489&e=bc6bf78208 "https://www.linkedin.com/in/raydalio/"), [Twitter](https://principles.us13.list-manage.com/track/click?u=f817138263fa3d3dec4ad231d&id=3246020c49&e=bc6bf78208 "https://twitter.com/RayDalio")[/X](https://principles.us13.list-manage.com/track/click?u=f817138263fa3d3dec4ad231d&id=59f8631627&e=bc6bf78208), [TikTok](https://principles.us13.list-manage.com/track/click?u=f817138263fa3d3dec4ad231d&id=dde084147d&e=bc6bf78208 "Original URL:https://www.tiktok.com/@principlesbyraydalio?lang=enClick to follow link."), and [Threads](https://principles.us13.list-manage.com/track/click?u=f817138263fa3d3dec4ad231d&id=e2fd742b3d&e=bc6bf78208 "Original URL:https://www.threads.net/@raydalioClick to follow link.").
 
 ![Ray](https://proxy-prod.omnivore-image-cache.app/35x60,sBV54qAhXAAW1065aNdmAzI3A7ZOhHvyCszJt5Wvygqs/https://gallery.mailchimp.com/f817138263fa3d3dec4ad231d/images/421ebd35-2b83-4032-8d52-869abf3d9f92.png) 
+
+---
+
+## Highlights
+
+> history has shown that there are increased risks, conflicts, and disobedience of the rule and law when there are big disagreements and wide-spread beliefs that the system isn't fair, such as there is now.  [⤴️](https://omnivore.app/me/the-results-from-over-43-000-responses-to-my-questions-18a707531b7#5c0008ef-9804-4a54-872b-9012b309effb)  ^5c0008ef
+
+> the biggest question pertaining to the internal conflict issue is **will there be adherence to the judgements made by those in the "system" when most people don't trust those in the system?** [⤴️](https://omnivore.app/me/the-results-from-over-43-000-responses-to-my-questions-18a707531b7#a1147213-7a86-4daa-bcfa-74e41c33576f)  ^a1147213
+

@@ -15,14 +15,6 @@ date_saved: 2024-03-20 05:25:32
 date_saved: 2024-03-20 05:25:32
 
 
-## Highlights
-
-> To add Hypothesis to your website or platform, simply add the following line to the HTML source of your page:  
-> 要将 Hypothesis 添加到您的网站或平台，只需将以下行添加到页面的 HTML 源代码中：
-> 
->  [⤴️](https://omnivore.app/me/embedding-hypothesis-in-websites-and-platforms-hypothesis-18e5b2e1d2e#c16d179d-a719-4f85-a24c-45905041353b)  ^c16d179d
-
-
 --- 
 
 # Full Content: 
@@ -74,3 +66,13 @@ Was this article helpful?
 本文是否有帮助？
 
 ### Related Articles 相关文章
+
+---
+
+## Highlights
+
+> To add Hypothesis to your website or platform, simply add the following line to the HTML source of your page:  
+> 要将 Hypothesis 添加到您的网站或平台，只需将以下行添加到页面的 HTML 源代码中：
+> 
+>  [⤴️](https://omnivore.app/me/embedding-hypothesis-in-websites-and-platforms-hypothesis-18e5b2e1d2e#c16d179d-a719-4f85-a24c-45905041353b)  ^c16d179d
+

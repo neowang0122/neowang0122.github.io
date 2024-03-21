@@ -19,48 +19,6 @@ date_saved: 2023-07-16 11:04:01
 
 date_published: 2023-03-25 20:00:00
 
-## Highlights
-
-> 起初为了方便获取书籍资源和方便的云同步，笔者选择了在用户体验和出版物数量上首屈一指的微信读书 APP，但随着学习的深入，微信读书内的书籍逐渐无法满足我的阅读需要（尤其是外文图书的缺失），更致命的是，微信读书会在部分书籍的版权到期后选择下架书籍，就算已下载到设备里的书，也会随之消失，包括所有的批注和笔记 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#252704fe-0718-4168-9b6b-8f1e7b9dd87e)  ^252704fe
-
-> 本文的目的是构建自由可控数字图书馆和云阅读的解决方案，笔者按照自己的需求将这一方案拆解，可以得到如下的目标：
-> 
-> * 书籍获取来源自由，不受特定平台限制，不能有 [DRM](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Digital%5Frights%5Fmanagement)
-> * 书籍、元数据、笔记统一管理，以科学方法进行分类，以次构建自己的图书馆，笔记支持跨书籍查询
-> * 自由选择阅读平台，支持备份恢复，导入导出笔记，并能在不同的设备（手机、阅读器、平板电脑）上同步阅读进度和最新笔记
-> * 所有数据本地存储，云平台只作为同步和备份使用
-> * 尽量降低成本，或转为一次性开支，避免被订阅捆绑 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#06a25c82-f6b0-424e-9a7c-ae70a878721a)  ^06a25c82
-
-> 1\. 满足以上目标的书籍获取来源有：
-> 
->    * [图灵社区](https://link.zhihu.com/?target=https%3A//www.ituring.com.cn/)、[异步社区](https://link.zhihu.com/?target=https%3A//m.epubit.com/)：只有 IT 类书籍，且数量有限
->    * [古登堡项目](https://link.zhihu.com/?target=https%3A//www.gutenberg.org/)：只有版权过期的图书，且大部分为英文图书
->    * [淘宝](https://link.zhihu.com/?target=https%3A//s.taobao.com/search%3Fq%3D%25E6%2589%25BE%25E4%25B9%25A6)：大部分为 PDF 扫描版，来自图书馆流出，体积较大，无法摘录文字，且收费较高（2\~5 元）
->    * [Libgen](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Library%5FGenesis)：主要是论文，中文书籍较少
->    * [Internet Archive](https://link.zhihu.com/?target=https%3A//archive.org/)：主要是英文书籍，未来尚不明确（[互联网档案馆因开放 140 万册版权图书遭起诉，美国法院裁定该网站无权扫描图书 - IT 之家](https://link.zhihu.com/?target=https%3A//www.ithome.com/0/682/230.htm)）
->    * [Z-Library](https://link.zhihu.com/?target=https%3A//singlelogin.me/)：书籍和论文都有，有大量中文图书，但截至目前访问较为困难 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#18d858c5-0bc1-4fb6-989c-c949534cb4f4)  ^18d858c5
-
-> [Calibre](https://link.zhihu.com/?target=https%3A//calibre-ebook.com/)：开源软件，支持 Windows、macOS、Linux，支持自定义元数据、安装插件、编写脚本 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#f0283130-0352-4397-9bf6-068e88bcbfcc)  ^f0283130
-
-> 为了方便下载书籍，建议注册一个帐号，这样可以使用 Z-Alert 功能求书，还可以直接将书籍发送到邮箱，另外还可以拥有专属域名，避免后续公开域名又被封禁。 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#7912cbb4-642e-4d70-ba1e-59bbe620b6d4)  ^7912cbb4
-
-> 下载书籍之后当然可以直接阅读，但如果读者需要管理自己的书库，尤其当书籍数量超过 1000 本后，对其进行分类和筛选便非常重要。
-> 
-> 考虑到书籍收藏是终生事业，选择自由和开源软件是最优选择，而其中社区最庞大的则是 Calibre。
-> 
-> 打开 Calibre 后，我们可以直接点击左上角的添加书籍，将本地下载好的书籍导入其中。如果书籍是从 Z-Library 下载的，那么其元数据应该基本齐全，但笔者建议修改标签，以满足自己对图书归类的需求。 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#3a60807a-f126-473f-bf2f-4129a7304c9a)  ^3a60807a
-
-> 倘若是在公司等电梯时，排队时，带薪如厕时，拿起手机尚可利用一下闲暇时间，回到家中则最好使用平板电脑、电纸书等设备继续阅读更好。
-> 
-> 这样随时随地阅读的需求，导致了我们需要一个同步书籍和阅读进度的方案。 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#b36da0e8-e0b9-4012-a74a-d0c80f900deb)  ^b36da0e8
-
-> ### 阅读笔记归档
-> 
-> 在阅读完一本书籍后，我们希望将书籍里的批注、划线、笔记整理出来，以便集中查阅。 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#37e3475e-62cb-4443-9039-f7eba162d736)  ^37e3475e
-
-> 用这种方法整理批注和笔记，有助于我们后续写作过程中需要相关素材时能快速找到对应书籍作为参考，让数字图书馆不仅仅作为松鼠党的癖好，而是能够伴随一生的知识库。 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#bc8b0cd3-2854-4c6a-956a-4494464dcc1f)  ^bc8b0cd3
-
-
 --- 
 
 # Full Content: 
@@ -232,3 +190,47 @@ Calibre 的数据目录结构主要由数据库和书籍目录组成，其中最
 ---
 
 > 如果发现内容有谬误，请指正，笔者一定改正；如果觉得笔者的想法和您的想法不同，请尊重彼此的观念差异，并友善地提出您的观点，以让更多读者得到启发。
+
+---
+
+## Highlights
+
+> 起初为了方便获取书籍资源和方便的云同步，笔者选择了在用户体验和出版物数量上首屈一指的微信读书 APP，但随着学习的深入，微信读书内的书籍逐渐无法满足我的阅读需要（尤其是外文图书的缺失），更致命的是，微信读书会在部分书籍的版权到期后选择下架书籍，就算已下载到设备里的书，也会随之消失，包括所有的批注和笔记 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#252704fe-0718-4168-9b6b-8f1e7b9dd87e)  ^252704fe
+
+> 本文的目的是构建自由可控数字图书馆和云阅读的解决方案，笔者按照自己的需求将这一方案拆解，可以得到如下的目标：
+> 
+> * 书籍获取来源自由，不受特定平台限制，不能有 [DRM](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Digital%5Frights%5Fmanagement)
+> * 书籍、元数据、笔记统一管理，以科学方法进行分类，以次构建自己的图书馆，笔记支持跨书籍查询
+> * 自由选择阅读平台，支持备份恢复，导入导出笔记，并能在不同的设备（手机、阅读器、平板电脑）上同步阅读进度和最新笔记
+> * 所有数据本地存储，云平台只作为同步和备份使用
+> * 尽量降低成本，或转为一次性开支，避免被订阅捆绑 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#06a25c82-f6b0-424e-9a7c-ae70a878721a)  ^06a25c82
+
+> 1\. 满足以上目标的书籍获取来源有：
+> 
+>    * [图灵社区](https://link.zhihu.com/?target=https%3A//www.ituring.com.cn/)、[异步社区](https://link.zhihu.com/?target=https%3A//m.epubit.com/)：只有 IT 类书籍，且数量有限
+>    * [古登堡项目](https://link.zhihu.com/?target=https%3A//www.gutenberg.org/)：只有版权过期的图书，且大部分为英文图书
+>    * [淘宝](https://link.zhihu.com/?target=https%3A//s.taobao.com/search%3Fq%3D%25E6%2589%25BE%25E4%25B9%25A6)：大部分为 PDF 扫描版，来自图书馆流出，体积较大，无法摘录文字，且收费较高（2\~5 元）
+>    * [Libgen](https://link.zhihu.com/?target=https%3A//en.wikipedia.org/wiki/Library%5FGenesis)：主要是论文，中文书籍较少
+>    * [Internet Archive](https://link.zhihu.com/?target=https%3A//archive.org/)：主要是英文书籍，未来尚不明确（[互联网档案馆因开放 140 万册版权图书遭起诉，美国法院裁定该网站无权扫描图书 - IT 之家](https://link.zhihu.com/?target=https%3A//www.ithome.com/0/682/230.htm)）
+>    * [Z-Library](https://link.zhihu.com/?target=https%3A//singlelogin.me/)：书籍和论文都有，有大量中文图书，但截至目前访问较为困难 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#18d858c5-0bc1-4fb6-989c-c949534cb4f4)  ^18d858c5
+
+> [Calibre](https://link.zhihu.com/?target=https%3A//calibre-ebook.com/)：开源软件，支持 Windows、macOS、Linux，支持自定义元数据、安装插件、编写脚本 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#f0283130-0352-4397-9bf6-068e88bcbfcc)  ^f0283130
+
+> 为了方便下载书籍，建议注册一个帐号，这样可以使用 Z-Alert 功能求书，还可以直接将书籍发送到邮箱，另外还可以拥有专属域名，避免后续公开域名又被封禁。 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#7912cbb4-642e-4d70-ba1e-59bbe620b6d4)  ^7912cbb4
+
+> 下载书籍之后当然可以直接阅读，但如果读者需要管理自己的书库，尤其当书籍数量超过 1000 本后，对其进行分类和筛选便非常重要。
+> 
+> 考虑到书籍收藏是终生事业，选择自由和开源软件是最优选择，而其中社区最庞大的则是 Calibre。
+> 
+> 打开 Calibre 后，我们可以直接点击左上角的添加书籍，将本地下载好的书籍导入其中。如果书籍是从 Z-Library 下载的，那么其元数据应该基本齐全，但笔者建议修改标签，以满足自己对图书归类的需求。 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#3a60807a-f126-473f-bf2f-4129a7304c9a)  ^3a60807a
+
+> 倘若是在公司等电梯时，排队时，带薪如厕时，拿起手机尚可利用一下闲暇时间，回到家中则最好使用平板电脑、电纸书等设备继续阅读更好。
+> 
+> 这样随时随地阅读的需求，导致了我们需要一个同步书籍和阅读进度的方案。 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#b36da0e8-e0b9-4012-a74a-d0c80f900deb)  ^b36da0e8
+
+> ### 阅读笔记归档
+> 
+> 在阅读完一本书籍后，我们希望将书籍里的批注、划线、笔记整理出来，以便集中查阅。 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#37e3475e-62cb-4443-9039-f7eba162d736)  ^37e3475e
+
+> 用这种方法整理批注和笔记，有助于我们后续写作过程中需要相关素材时能快速找到对应书籍作为参考，让数字图书馆不仅仅作为松鼠党的癖好，而是能够伴随一生的知识库。 [⤴️](https://omnivore.app/me/z-library-calibre-1895f3ae063#bc8b0cd3-2854-4c6a-956a-4494464dcc1f)  ^bc8b0cd3
+
