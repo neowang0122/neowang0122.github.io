@@ -1,6 +1,9 @@
 import { htmlToJsx } from "../../util/jsx"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
-import WalineComment from "../WalineComment";
+import fs from 'fs';
+
+const commentFilePath = '/Users/neowang/Documents/GitHub/neowang0122.github.io/quartz/components/walineComments/comment.html'; // Update the path to your comment.html file
+const comment = fs.readFileSync(commentFilePath, 'utf8');
 
 
 const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
@@ -31,7 +34,9 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
         async>
       </script> */}
       
-      <WalineComment /> 
+      <div dangerouslySetInnerHTML={{ __html: comment }} />
+      
+
       
     </div>
   )

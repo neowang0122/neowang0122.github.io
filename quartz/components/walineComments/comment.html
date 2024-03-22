@@ -1,0 +1,27 @@
+<head>
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+    />
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/@waline/client@v2/dist/waline-meta.css"
+    />
+</head>
+<body>
+    <div id="waline"></div>
+    <script type = "module" >
+        import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
+
+        init ({
+            el: "#waline",
+            serverURL: "https://waline-neowang0122-github-io.vercel.app",
+            // locale, 
+            reaction: true, 
+            emoji: [
+                'https://unpkg.com/@waline/emojis@1.1.0/bmoji',
+            ]
+        })
+    </script>
+</body> 
+        
