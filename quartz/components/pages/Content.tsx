@@ -2,7 +2,7 @@ import { htmlToJsx } from "../../util/jsx"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 import fs from 'fs';
 
-const commentFilePath = '../walineComments/comment.html'; // Update the path to your comment.html file
+const commentFilePath = './walineComments/comment.html'; // Update the path to your comment.html file
 const comment = fs.readFileSync(commentFilePath, 'utf8');
 
 
