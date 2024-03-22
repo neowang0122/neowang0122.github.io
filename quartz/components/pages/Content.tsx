@@ -24,7 +24,8 @@ const comment = `
               reaction: true, 
               emoji: [
                   'https://unpkg.com/@waline/emojis@1.2.0/bilibili',
-              ]
+              ],
+              comment: true, 
           })
       </script>
   </body> 

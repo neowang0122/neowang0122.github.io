@@ -1,7 +1,7 @@
 ---
 title: Welcome to My Digital Garden!
 ---
-## ℹ️ [[Links/About]]     ✅ [[Links/Updates]] 
+## ℹ️ [[Links/About]]  ✅ [[Links/Updates]] 🆘 [Issues](https://github.com/neowang0122/neowang0122.github.io/issues)
 
 --- 
 #### 1 秒加载，真的很快！使用 Ctrl + K 或点击搜索框来快速搜索你想要看的东西吧！
@@ -43,7 +43,7 @@ title: Welcome to My Digital Garden!
 ### [[Readings/BibiGPT]]
 
 --- 
-# 👨‍💻 Coding 
+%% # 👨‍💻 Coding 
 
 <img src="http://ghchart.rshah.org/neowang0122" alt="neowang0122's Github Chart" />
- 
+  %%
