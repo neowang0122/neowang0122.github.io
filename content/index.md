@@ -1,7 +1,7 @@
 ---
 title: Welcome to My Digital Garden!
 ---
-## ℹ️ [[Links/About]]  ✅ [[Links/Updates]] 🆘 [Issues](https://github.com/neowang0122/neowang0122.github.io/issues)
+## ℹ️ [[Links/About]]  ✅ [Updates](https://github.com/neowang0122/neowang0122.github.io/discussions/categories/announcements) 🆘 [Issues](https://github.com/neowang0122/neowang0122.github.io/issues)
 
 --- 
 #### 1 秒加载，真的很快！使用 Ctrl + K 或点击搜索框来快速搜索你想要看的东西吧！
@@ -11,7 +11,7 @@ title: Welcome to My Digital Garden!
 --- 
 # 🖋️ 观点 [[Posts]]
 
-### 📍 [[Posts/Principles]] 
+ ### 📍 [[Posts/Principles]]  
 ### 🧠 [[Posts/Building a Second Brain]]
 
 # 📒 笔记 [[Notes]]
