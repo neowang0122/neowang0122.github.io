@@ -2,9 +2,33 @@ import { htmlToJsx } from "../../util/jsx"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 import fs from 'fs';
 
-const commentFilePath = '/comment.html'; // Update the path to your comment.html file
-const comment = fs.readFileSync(commentFilePath, 'utf8');
+const comment = `
+  <head>
+      <link
+          rel="stylesheet"
+          href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+      />
+      <link
+          rel="stylesheet"
+          href="https://unpkg.com/@waline/client@v2/dist/waline-meta.css"
+      />
+  </head>
+  <body>
+      <div id="waline"></div>
+      <script type = "module" >
+          import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
 
+          init ({
+              el: "#waline",
+              serverURL: "https://waline-neowang0122-github-io.vercel.app",
+              reaction: true, 
+              emoji: [
+                  'https://unpkg.com/@waline/emojis@1.2.0/bilibili',
+              ]
+          })
+      </script>
+  </body> 
+`; 
 
 const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
   const content = htmlToJsx(fileData.filePath!, tree)
@@ -35,9 +59,7 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
       </script> */}
       
       <div dangerouslySetInnerHTML={{ __html: comment }} />
-      
 
-      
     </div>
   )
 }
