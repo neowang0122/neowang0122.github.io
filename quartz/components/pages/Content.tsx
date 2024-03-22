@@ -1,5 +1,7 @@
 import { htmlToJsx } from "../../util/jsx"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
+import WalineComment from "../WalineComment";
+
 
 const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
   const content = htmlToJsx(fileData.filePath!, tree)
@@ -13,7 +15,7 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
       <article class={classString}>{content}</article>
 
       {/* Support for comments using giscus */}
-      <script src="https://giscus.app/client.js"
+      {/* <script src="https://giscus.app/client.js"
         data-repo="neowang0122/neowang0122.github.io"
         data-repo-id="R_kgDOLi3ZYQ"
         data-category="giscus"
@@ -27,7 +29,10 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
         data-lang="en"
         crossorigin="anonymous"
         async>
-      </script>
+      </script> */}
+      
+      <WalineComment /> 
+      
     </div>
   )
 }
