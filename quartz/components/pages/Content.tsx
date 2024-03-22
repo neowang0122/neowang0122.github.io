@@ -14,18 +14,6 @@ const comment = `
       />
   </head>
   <body>
-
-      // <div id="waline-recent"></div>
-      // <script type="module">
-      //   import { RecentComments } from 'https://cdn.jsdelivr.net/npm/@waline/client/dist/waline.mjs';
-      
-      //   RecentComments({
-      //     el: '#waline-recent',
-      //     serverURL: 'https://waline-neowang0122-github-io.vercel.app',
-      //     count: 10,
-      //   });
-      // </script>
-  
       <div id="waline"></div>
       <script type = "module" >
           import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
