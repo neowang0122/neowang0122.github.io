@@ -45,13 +45,14 @@ title: PKM 个人知识管理
 
 关于卡片笔记法的实践，参考[[卡片笔记写作法：如何实现从阅读到写作|卡片笔记写作法 微信读书]] 以及[[申克·阿伦斯-卡片笔记写作法：如何实现从阅读到写作（聪明人如何记笔记，高效记笔记）|申克·阿伦斯-卡片笔记写作法 Kindle]]。此处有两份笔记，主要分两次在 kindle 和微信读书上接力读完。 
 
-%% 
+ 
 # 借助 Obsidian 构建第二大脑 
 
+[[The Structure of My Second Brain.canvas|The Structure of My Second Brain]]
 [[2 Distill/1 Evergreen/工具/Obsidian|Obsidian]]
 [[20240321_1628_54_对比Notion和Obsidian|对比Notion和Obsidian]] 
 
- %%
+ 
 
 %% 
 # My Second Brain 
