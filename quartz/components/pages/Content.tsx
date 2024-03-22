@@ -26,6 +26,7 @@ const comment = `
                   'https://unpkg.com/@waline/emojis@1.2.0/bilibili',
               ],
               comment: true, 
+              pageview: true, 
           })
       </script>
   </body> 
@@ -39,6 +40,8 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
     <div> 
       {/* Support for annotations using hypothes.is */}
       <script src="https://hypothes.is/embed.js" async></script>
+
+      views: <span class="waline-pageview-count" />
 
       <article class={classString}>{content}</article>
 
