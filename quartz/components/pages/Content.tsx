@@ -14,6 +14,18 @@ const comment = `
       />
   </head>
   <body>
+
+      // <div id="waline-recent"></div>
+      // <script type="module">
+      //   import { RecentComments } from 'https://cdn.jsdelivr.net/npm/@waline/client/dist/waline.mjs';
+      
+      //   RecentComments({
+      //     el: '#waline-recent',
+      //     serverURL: 'https://waline-neowang0122-github-io.vercel.app',
+      //     count: 10,
+      //   });
+      // </script>
+  
       <div id="waline"></div>
       <script type = "module" >
           import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
@@ -24,6 +36,7 @@ const comment = `
               reaction: true, 
               emoji: [
                   'https://unpkg.com/@waline/emojis@1.2.0/bilibili',
+                  'https://unpkg.com/@waline/emojis@1.2.0/alus',
               ],
               comment: true, 
               pageview: true, 
@@ -41,9 +54,9 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
       {/* Support for annotations using hypothes.is */}
       <script src="https://hypothes.is/embed.js" async></script>
 
-      views: <span class="waline-pageview-count" />
+      views: <span class="waline-pageview-count" />, comments: <span class="waline-comment-count" />
 
-      <article class={classString}>{content}</article>
+      <article class={classString}>{content}</article> 
 
       {/* Support for comments using giscus */}
       {/* <script src="https://giscus.app/client.js"
