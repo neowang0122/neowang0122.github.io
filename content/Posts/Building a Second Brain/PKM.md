@@ -48,12 +48,10 @@ title: PKM 个人知识管理
  
 # 借助 Obsidian 构建第二大脑 
 
-[[The Structure of My Second Brain.canvas|The Structure of My Second Brain]]
 [[2 Distill/1 Evergreen/工具/Obsidian|Obsidian]]
 [[20240321_1628_54_对比Notion和Obsidian|对比Notion和Obsidian]] 
 
  
-
 %% 
 # My Second Brain 
 

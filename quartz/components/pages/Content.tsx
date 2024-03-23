@@ -1,6 +1,5 @@
 import { htmlToJsx } from "../../util/jsx"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
-import fs from 'fs';
 
 
 const comment = `
@@ -43,9 +42,9 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
       {/* Support for annotations using hypothes.is */}
       <script src="https://hypothes.is/embed.js" async></script>
 
-      <button type="button" id="BackTop" class="toTop-arrow" style="z-index: 100;"></button>
+      {/* <button type="button" id="BackTop" class="toTop-arrow" style="z-index: 100;"></button> */}
 
-      views: <span class="waline-pageview-count" />, comments: <span class="waline-comment-count" />
+      <span class="waline-pageview-count" /> views, <span class="waline-comment-count" /> comments. 
 
       <article class={classString}>{content}</article> 
 

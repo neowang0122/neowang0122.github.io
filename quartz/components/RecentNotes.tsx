@@ -33,6 +33,12 @@ export default ((userOpts?: Partial<Options>) => {
     cfg,
   }: QuartzComponentProps) => {
     const opts = { ...defaultOptions(cfg), ...userOpts }
+
+    // // Only display this component on the index page
+    // if (fileData.slug !== "index") {
+    //   return <></>
+    // }
+
     const pages = allFiles.filter(opts.filter).sort(opts.sort)
     const remaining = Math.max(0, pages.length - opts.limit)
     return (
@@ -41,7 +47,7 @@ export default ((userOpts?: Partial<Options>) => {
         <ul class="recent-ul">
           {pages.slice(0, opts.limit).map((page) => {
             const title = page.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title
-            const tags = page.frontmatter?.tags ?? []
+            // const tags = page.frontmatter?.tags ?? []
 
             return (
               <li class="recent-li">
@@ -58,7 +64,7 @@ export default ((userOpts?: Partial<Options>) => {
                       <Date date={getDate(cfg, page)!} locale={cfg.locale} />
                     </p>
                   )}
-                  <ul class="tags">
+                  {/* <ul class="tags">
                     {tags.map((tag) => (
                       <li>
                         <a
@@ -69,7 +75,7 @@ export default ((userOpts?: Partial<Options>) => {
                         </a>
                       </li>
                     ))}
-                  </ul>
+                  </ul> */}
                 </div>
               </li>
             )

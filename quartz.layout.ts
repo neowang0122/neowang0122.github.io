@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { SimpleSlug } from "./quartz/util/path"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -39,9 +40,20 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
-    // Component.DesktopOnly(Component.Graph()),
+    // Component.Graph(),
     // Component.Backlinks(), 
-    // Component.RecentNotes(),  
+    Component.RecentNotes({ 
+      title: "Recent Writing", 
+      limit: 5, 
+      filter: (f) => 
+        f.slug!.startsWith("Posts/") && !f.slug!.match(/\/index$/) && !f.frontmatter?.noindex, 
+      linkToMore: "./Posts" as SimpleSlug}),  
+    Component.RecentNotes({ 
+      title: "Recent Readings", 
+      limit: 5, 
+      filter: (f) => 
+        f.slug!.startsWith("Readings/") && !f.slug!.match(/\/index$/) && !f.frontmatter?.noindex, 
+      linkToMore: "./Readings" as SimpleSlug}),  
   ],
 }
 
@@ -64,5 +76,19 @@ export const defaultListPageLayout: PageLayout = {
     // Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
+    // Component.Graph(),
+    // Component.Backlinks(), 
+    Component.RecentNotes({ 
+      title: "Recent Writing", 
+      limit: 5, 
+      filter: (f) => 
+        f.slug!.startsWith("Posts/") && !f.slug!.match(/\/index$/) && !f.frontmatter?.noindex, 
+      linkToMore: "./Posts" as SimpleSlug}),  
+    Component.RecentNotes({ 
+      title: "Recent Readings", 
+      limit: 5, 
+      filter: (f) => 
+        f.slug!.startsWith("Readings/") && !f.slug!.match(/\/index$/) && !f.frontmatter?.noindex, 
+      linkToMore: "./Readings" as SimpleSlug}),  
   ],
 }
