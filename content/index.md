@@ -11,8 +11,12 @@ title: Welcome to My Digital Garden!
 --- 
 # 🖋️ 观点 [[Posts]]
 
- ### 📍 [[Posts/Principles]]  
-### 🧠 [[Posts/Building a Second Brain]]
+%%  ### 📍 [[Posts/Principles]]   %%
+### ⛅  [[Posts/Journals]]
+
+### 🧠 Building a Second Brain
+
+👉 [[PKM|PKM 个人知识管理]]
 
 # 📒 笔记 [[Notes]]
 
@@ -40,6 +44,7 @@ title: Welcome to My Digital Garden!
 
 ## 💻 视频/播客 Videos/Podcasts 
 
+### [[Readings/播客内容整理]] 
 ### [[Readings/BibiGPT]]
 
 --- 

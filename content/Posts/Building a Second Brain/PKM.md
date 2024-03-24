@@ -49,7 +49,7 @@ title: PKM 个人知识管理
 # 借助 Obsidian 构建第二大脑 
 
 [[2 Distill/1 Evergreen/工具/Obsidian|Obsidian]]
-[[20240321_1628_54_对比Notion和Obsidian|对比Notion和Obsidian]] 
+[[对比Notion和Obsidian|对比Notion和Obsidian]] 
 
  
 %% 
@@ -72,21 +72,18 @@ title: PKM 个人知识管理
 
 这是曾经一些幼稚的探索。
 
-[[0 Capture/Daily Notes/20230728#今天计划对自己 Obsidian Vault 里面的 深度思考 文件夹做个文件结构上面的调整|今天计划对自己 Obsidian Vault 里面的 深度思考 文件夹做个文件结构上面的调整]]
+[[My Layers|my layers]] 之前根据 building a second brain 梳理的我的笔记结构，目前已过时
+## 👉 [[timeline|时间线]]
 
-[[20240321_1700_53_My Layers|my layers]] 之前根据 building a second brain 梳理的我的笔记结构，目前已过时
-
-## 👉 [[20240321_1610_56_timeline|时间线]]
-
-## [[20240321_1625_53_Markdown 中插入图片的问题|Markdown 中插入图片的问题]]
+## [[Markdown 中插入图片的问题|Markdown 中插入图片的问题]]
 - 就放在临近的 ` {{filename}} _assets ` 文件夹吧，这样挺好的
 
-[[20240321_1616_34_Markdown的一些小功能|当时发掘的小功能]] 
+[[Markdown的一些小功能|当时发掘的小功能]] 
 - 因为目前已经不再使用 typora，所以也没啥用了 
  
 2023 年大部分时候在用的云端存储方案
-- [[20240321_1618_39_Box|Box云盘]] 
+- [[Box|Box云盘]] 
 - [Box官网](https://www.box.com/home)
 
 2022 年的解决方案
-- [[20240321_1727_01_坚果云同步]]
+- [[坚果云同步]]
