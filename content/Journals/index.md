@@ -1,4 +1,4 @@
 ---
 title: Journals
-tag: Journals,Posts
+tag: Journals
 ---

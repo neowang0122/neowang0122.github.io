@@ -9,10 +9,11 @@ title: Welcome to My Digital Garden!
 #### 所有页面都支持==划线高亮==，并保存进你自己的收藏，由 [Hypothesis](https://web.hypothes.is/) 提供支持，快点试试吧！
 
 --- 
+
+# ⛅ 随想 [[Journals]]
 # 🖋️ 观点 [[Posts]]
 
 %%  ### 📍 [[Posts/Principles]]   %%
-### ⛅  [[Posts/Journals]]
 
 ### 🧠 Building a Second Brain
 
