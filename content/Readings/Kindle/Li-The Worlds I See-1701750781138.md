@@ -5,9 +5,9 @@ kindle-sync:
   title: 'The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI'
   author: Fei-Fei Li
   asin: B0BPQSLVL6
-  lastAnnotatedDate: '2023-12-05'
+  lastAnnotatedDate: '2024-03-28'
   bookImageUrl: 'https://m.media-amazon.com/images/I/81blPlUVdyL._SY160.jpg'
-  highlightsCount: 5
+  highlightsCount: 7
 ---
 # The Worlds I See
 ## Metadata
@@ -31,5 +31,12 @@ While the future might indeed be bright, it wouldn’t be so by accident. We’d
 
 ---
 My being the only child and sole financial support of two parents— — location: [93](kindle://book?action=open&asin=B0BPQSLVL6&location=93) ^ref-43574
+
+---
+
+I was certain the future of AI would depend on institutions far beyond science, including education, activism, and, of course, government. — location: [109](kindle://book?action=open&asin=B0BPQSLVL6&location=109) ^ref-16337
+
+---
+The founding ideals of this country, however imperfectly they’ve been practiced in the centuries since, seemed as wise a foundation as any on which to build the future of technology: the dignity of the individual, the intrinsic value of representation, and the belief that human endeavors are best when guided by the many, rather than the few. — location: [111](kindle://book?action=open&asin=B0BPQSLVL6&location=111) ^ref-48601
 
 ---
