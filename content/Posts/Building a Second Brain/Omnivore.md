@@ -2,7 +2,7 @@
 created: 2024-03-17T12:58
 updated: 2024-03-21T18:16
 ---
-^ [[2 Distill/1 Evergreen/工具/软件]] 
+^ [[软件]] 
 
 #status/todo
 
@@ -77,5 +77,27 @@ date_published: {{{datePublished}}}
 
 ```
 
+## Front matter template 
+
+```
+id: {{{id}} }
+title: >
+  {{{title}} }
+{{#author}}
+author: >
+  {{{author}} }
+{{/author}}
+{{#labels.length}}
+tags:
+{{#labels}} - {{{name}} }
+{{/labels}}
+{{/labels.length}}
+date_saved: {{{dateSaved}} }
+{{#datePublished}}
+date_published: {{{datePublished}} }
+{{/datePublished}}
+draft: true
+
+```
 
 

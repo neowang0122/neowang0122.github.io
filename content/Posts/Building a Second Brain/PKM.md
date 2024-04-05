@@ -48,7 +48,7 @@ title: PKM 个人知识管理
  
 # 借助 Obsidian 构建第二大脑 
 
-[[2 Distill/1 Evergreen/工具/Obsidian|Obsidian]]
+[[Obsidian|Obsidian]]
 [[对比Notion和Obsidian|对比Notion和Obsidian]] 
 
  

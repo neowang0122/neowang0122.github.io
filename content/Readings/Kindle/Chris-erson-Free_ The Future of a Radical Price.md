@@ -4,7 +4,7 @@ kindle-sync:
   bookId: '42690'
   title: Free_ The Future of a Radical Price
   author: 克里斯·安德森 Chris Anderson
-  highlightsCount: 13
+  highlightsCount: 19
 ---
 
 # Free_ The Future of a Radical Price
@@ -52,5 +52,24 @@ The abundant marketplace of the Long Tail was enabled by the unlimited “shelf 
 
 ---
 有时人们会间接为产品付款。您正在阅读的免费报纸是由广告支持的，广告是零售商营销预算的一部分，该预算已计入其利润率中，您（或您周围的人）最终将以更昂贵的商品形式支付。你还付出了一点时间的代价，而且，通过被人看到你在读那份报纸，你的声誉也付出了代价。超市的免费停车费是通过产品加价来支付的，而免费样品则是由那些购买付费版本的人补贴的。 — location: [718]() ^ref-13951
+
+---
+
+，康卡斯特向大约 900 万用户提供了免费的机顶盒数字录像机。怎么才能把这笔钱赚回来呢？ — location: [731]() ^ref-50844
+
+---
+免费提供一种产品以销售另一种产品。 — location: [730]() ^ref-10499
+
+---
+添加隐藏费用。 Comcast 向每位新 DVR 客户收取 20 — location: [739]() ^ref-602
+
+---
+美元的安装费。 — location: [740]() ^ref-13977
+
+---
+按月收取订阅费。 Comcast 客户每月支付 14 美元即可使用 DVR 盒。即使康卡斯特为其 DVR 支付 250 美元（这是一个非常高的估计），这些设备也会在 18 个月内收回成本。 — location: [742]() ^ref-10089
+
+---
+追加销售其他服务。康卡斯特希望通过免费 DVR 赢得客户，然后让他们对高速互联网（每月 43 美元，8 MBps）和数字电话（每月 40 美元）等服务产生兴趣。这还不包括按次付费的电影，每部收费 5 美元。 — location: [747]() ^ref-39802
 
 ---

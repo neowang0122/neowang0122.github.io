@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+draft: true
 ---
 # R/China_irl - 習近平的書單（不完全統計）
 
