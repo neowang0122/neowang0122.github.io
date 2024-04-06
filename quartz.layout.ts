@@ -43,11 +43,11 @@ export const defaultContentPageLayout: PageLayout = {
     // Component.Graph(),
     // Component.Backlinks(), 
     Component.RecentNotes({ 
-      title: "Recent Writing", 
+      title: "Recent Journals", 
       limit: 5, 
       filter: (f) => 
-        f.slug!.startsWith("Posts/") && !f.slug!.match(/\/index$/) && !f.frontmatter?.noindex, 
-      linkToMore: "./Posts" as SimpleSlug}),  
+        f.slug!.startsWith("Journals/") && !f.slug!.match(/\/index$/) && !f.frontmatter?.noindex, 
+      linkToMore: "./Journals" as SimpleSlug}),  
     Component.RecentNotes({ 
       title: "Recent Readings", 
       limit: 5, 
@@ -79,11 +79,11 @@ export const defaultListPageLayout: PageLayout = {
     // Component.Graph(),
     // Component.Backlinks(), 
     Component.RecentNotes({ 
-      title: "Recent Writing", 
+      title: "Recent Journals", 
       limit: 5, 
       filter: (f) => 
-        f.slug!.startsWith("Posts/") && !f.slug!.match(/\/index$/) && !f.frontmatter?.noindex, 
-      linkToMore: "./Posts" as SimpleSlug}),  
+        f.slug!.startsWith("Journals/") && !f.slug!.match(/\/index$/) && !f.frontmatter?.noindex, 
+      linkToMore: "./Journals" as SimpleSlug}),  
     Component.RecentNotes({ 
       title: "Recent Readings", 
       limit: 5, 
