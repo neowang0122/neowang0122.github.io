@@ -11,7 +11,7 @@ title: Welcome to My Digital Garden!
 --- 
 
 # ⛅ 随想 [[Journals]]
-# 🖋️ 观点 [[Posts]]
+# 🖋️ 观点 Posts
 
 %%  ### 📍 [[Posts/Principles]]   %%
 
@@ -28,8 +28,8 @@ title: Welcome to My Digital Garden!
 
 ## 📚 书籍 Books
 
-### [[Readings/微信读书]]
 ### [[Readings/Kindle]] 
+### [[Readings/微信读书]]
 
 ### [[Readings/MarginNote]] 
 
@@ -43,10 +43,11 @@ title: Welcome to My Digital Garden!
 
 ### [[Readings/Readwise]]
 
+### [[Readings/Glasp.co]]
+
 ## 💻 视频/播客 Videos/Podcasts 
 
-### [[Readings/播客内容整理]] 
-### [[Readings/BibiGPT]]
+### [[Readings/音视频内容整理]] 
 
 --- 
 %% # 👨‍💻 Coding 
