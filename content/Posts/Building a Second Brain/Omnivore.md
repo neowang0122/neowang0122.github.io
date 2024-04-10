@@ -24,14 +24,14 @@ updated: 2024-03-21T18:16
 
 ## 在 obsidian 中的配置 
 
-[[0 Capture/Daily Notes/20240316|20240316]] 之前的
+[[20240316|20240316]] 之前的
 
 ```
 1 Organize/3 Resources/Omnivore/{{{dateSaved}}} 
 1 Organize/3 Resources/Omnivore/{{{dateSaved}}}/{{{title}}}
 ```
 
-[[0 Capture/0 PeriodicNotes/2024/Daily/03/2024-03-18|2024-03-18]] 目前把笔记迁移到 quartz 之后的
+[[2024-03-18|2024-03-18]] 目前把笔记迁移到 quartz 之后的
 
 ```
 3 Express/Readings/Omnivore
