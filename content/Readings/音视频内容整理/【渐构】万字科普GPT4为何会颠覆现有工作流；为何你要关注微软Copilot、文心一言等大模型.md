@@ -1,9 +1,9 @@
 ---
-dg-publish: true
 updated: 2023-10-28T00:26
 created: 2023-10-28T00:22
 tags:
   - readings/read_it_later
+url: ""
 ---
 # 【BibiGPT】AI 课代表一键总结：[【渐构】万字科普GPT4为何会颠覆现有工作流；为何你要关注微软Copilot、文心一言等大模型](https://bibigpt.co/video/BV1MY4y1R7EN)
 

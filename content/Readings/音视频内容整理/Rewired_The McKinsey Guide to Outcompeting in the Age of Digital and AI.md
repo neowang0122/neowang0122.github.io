@@ -1,3 +1,7 @@
+---
+url: ""
+---
+
 早上听了 Walker 采访 世界著名 AI 专家、麦肯锡数字化高级合伙人 Rodney Zemmel 谈到了他的《华尔街日报》最畅销新书 The McKinsey Guide to Outcompeting in the Age of Digital and AI，一些要点：
 1.人工智能🌊有很多好处，但也有一些缺点：70%的资源被浪费和浪费。由于培训材料存在偏见，人工智能存在偏见。
 AI 幻觉/疯狂想象
