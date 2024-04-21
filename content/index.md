@@ -24,7 +24,12 @@ title: Welcome to My Digital Garden!
 ### 🤖 [[Notes/Machine Learning]]
 
 ---
-# 📖 阅读 Readings
+
+# 📰 我看过的好文章 
+
+## [[Readings/Omnivore]] 
+
+%% # 📖 阅读 Readings
 
 ## 📚 书籍 Books
 
@@ -47,7 +52,7 @@ title: Welcome to My Digital Garden!
 
 ## 💻 视频/播客 Videos/Podcasts 
 
-### [[Readings/音视频内容整理]] 
+### [[Readings/音视频内容整理]]  %%
 
 --- 
 %% # 👨‍💻 Coding 
