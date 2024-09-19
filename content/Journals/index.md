@@ -1,4 +1,0 @@
----
-title: Journals
-tag: Journals
----

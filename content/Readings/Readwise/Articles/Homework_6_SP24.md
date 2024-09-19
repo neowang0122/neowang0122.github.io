@@ -18,3 +18,5 @@ updated: 2024-04-21T02:14
 - m ([View Highlight](https://read.readwise.io/read/01hvwzjx4rzyv0pvc0e3sfyw8b))
 - r each training point, in ([View Highlight](https://read.readwise.io/read/01hvwzz5vta49xzgh3m6fz04fy))
 - hm 2 so that the perceptro ([View Highlight](https://read.readwise.io/read/01hvwzz79m8k3r31116c7jbxmj))
+## New highlights added May 3, 2024 at 10:55 PM
+- existing valid kernels, fo ([View Highlight](https://read.readwise.io/read/01hwyb5aygw6a947y7ak9ap1bv))
