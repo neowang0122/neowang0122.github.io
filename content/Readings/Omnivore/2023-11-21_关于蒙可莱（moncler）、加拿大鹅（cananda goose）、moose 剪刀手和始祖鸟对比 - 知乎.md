@@ -1,7 +1,5 @@
 ---
 id: d0757931-d0b4-4faf-af24-33dd0dc30895
-title: |
-  关于蒙可莱（moncler）、加拿大鹅（cananda goose）、moose 剪刀手和始祖鸟对比 - 知乎
 author: |
   Baymax​关注
 date_saved: 2023-11-21 03:38:59

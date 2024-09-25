@@ -1,7 +1,5 @@
 ---
 id: 0308483d-6e23-4e27-8319-80ac48a668ca
-title: |
-  硅谷的读书人：OpenAI CEO 的阅读清单
 author: |
   凯瑞kerry
 tags:

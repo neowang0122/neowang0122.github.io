@@ -1,7 +1,5 @@
 ---
 id: 6e83ad11-cebb-4d2b-851b-012b0e9d3010
-title: |
-  【前辈说】Cornell ECE MEng项目介绍/选课就业/生活体验
 author: |
   AdmitWrite美国留学​关注
 date_saved: 2023-08-11 07:01:19

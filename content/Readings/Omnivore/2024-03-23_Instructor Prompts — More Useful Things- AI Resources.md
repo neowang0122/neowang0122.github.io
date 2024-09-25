@@ -1,7 +1,5 @@
 ---
 id: 2a5b4e88-504a-4b23-a280-c8e8ecd7052e
-title: |
-  Instructor Prompts — More Useful Things: AI Resources
 tags:
   - chatgptPrompt
 date_saved: 2024-03-23 18:38:41

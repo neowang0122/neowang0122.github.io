@@ -1,7 +1,5 @@
 ---
 id: 17b3e130-dbf0-4704-8f87-4697336b47e5
-title: |
-  套壳之王：Perplexity
 author: |
   黄益贺
 date_saved: 2024-03-24 10:42:11

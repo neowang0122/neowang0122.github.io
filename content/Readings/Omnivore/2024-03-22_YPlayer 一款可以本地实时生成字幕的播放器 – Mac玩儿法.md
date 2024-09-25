@@ -1,7 +1,5 @@
 ---
 id: c38c354e-98d8-45e5-bf7d-a250ee153ffc
-title: |
-  YPlayer 一款可以本地实时生成字幕的播放器 – Mac玩儿法
 author: |
   Mac玩儿法编辑部 共发布31331篇文章
 date_saved: 2024-03-22 13:09:56

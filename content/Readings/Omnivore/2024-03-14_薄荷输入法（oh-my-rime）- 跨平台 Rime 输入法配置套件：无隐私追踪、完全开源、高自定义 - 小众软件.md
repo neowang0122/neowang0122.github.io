@@ -1,7 +1,5 @@
 ---
 id: 54ebf5aa-e1de-11ee-818d-fbddb822e813
-title: |
-  薄荷输入法（oh-my-rime）- 跨平台 Rime 输入法配置套件：无隐私追踪、完全开源、高自定义 - 小众软件
 author: |
   青小蛙
 tags:

@@ -1,7 +1,5 @@
 ---
 id: e5d8c95f-6b75-4126-8d88-d41feeb391ff
-title: |
-  Obsidian 综述 - 新 UI 新征程（v0.16 发布之际） - 少数派
 author: |
   闲者时间_王掌柜
 date_saved: 2023-07-19 10:44:20

@@ -1,7 +1,5 @@
 ---
 id: f9e312d2-65ab-4949-ba32-76e428759e54
-title: |
-  How to Get a Business Green Card - NerdWallet
 author: |
   Priyanka Prakash
 date_saved: 2023-08-29 12:50:49

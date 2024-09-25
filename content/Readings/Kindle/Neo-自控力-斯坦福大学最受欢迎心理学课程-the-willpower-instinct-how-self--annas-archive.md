@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '44702'
+  bookId: "44702"
   title: 自控力-斯坦福大学最受欢迎心理学课程-the-willpower-instinct-how-self--annas-archive
   author: Neo
   highlightsCount: 302

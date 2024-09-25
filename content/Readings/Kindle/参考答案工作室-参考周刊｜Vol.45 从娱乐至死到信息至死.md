@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '48727'
+  bookId: "48727"
   title: 参考周刊｜Vol.45 从娱乐至死到信息至死
   author: 参考答案工作室
   highlightsCount: 40

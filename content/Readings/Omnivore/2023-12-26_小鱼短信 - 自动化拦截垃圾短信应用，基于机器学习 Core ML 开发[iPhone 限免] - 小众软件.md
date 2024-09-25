@@ -1,7 +1,5 @@
 ---
 id: 503dd3ce-a3eb-11ee-8256-4ba3cbd095f6
-title: |
-  小鱼短信 - 自动化拦截垃圾短信应用，基于机器学习 Core ML 开发[iPhone 限免] - 小众软件
 author: |
   青小蛙
 date_saved: 2023-12-26 03:59:20

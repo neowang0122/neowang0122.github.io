@@ -1,7 +1,5 @@
 ---
 id: 422c4573-1f91-4d9b-a89d-11165e5ebe71
-title: |
-  【二周目update】一起来整理博德之门3里容易错过的支线吧！ - 游戏论坛 - Stage1st - stage1/s1 游戏动漫论坛
 author: |
   s1,sarba1st,stage1st
 date_saved: 2023-09-10 16:51:58

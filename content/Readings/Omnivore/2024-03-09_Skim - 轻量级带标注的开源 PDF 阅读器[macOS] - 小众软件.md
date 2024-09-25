@@ -1,7 +1,5 @@
 ---
 id: c646a422-e037-4546-9c59-e2fb5894a823
-title: |
-  Skim - 轻量级带标注的开源 PDF 阅读器[macOS] - 小众软件
 author: |
   青小蛙
 date_saved: 2024-03-09 00:18:43

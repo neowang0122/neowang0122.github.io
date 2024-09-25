@@ -6,8 +6,8 @@ author: Clear, James
 cover: https://res.weread.qq.com/wrepub/CB_2BA0mS0jtDhK6hm6gv0CWEK8_parsecover
 reviewCount: 0
 noteCount: 0
-isbn: null
-category: null
+isbn: 
+category: 
 lastReadDate: 2023-07-19
 ---
 # 元数据

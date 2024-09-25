@@ -1,7 +1,5 @@
 ---
 id: a5d18ba7-fbf6-45cf-8070-5e07c5efdeea
-title: |
-  Kindle PaperWhite5 真实测评：充电一次看5本书？历上最强 Kindle？完爆 KO3？
 author: |
   直树桑​作家，代表作《如何用Kindle高效学习》​关注他
 date_saved: 2023-07-12 20:37:21

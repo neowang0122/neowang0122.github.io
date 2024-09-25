@@ -1,7 +1,5 @@
 ---
 id: 79d2b12f-0a12-bfd4-acf2-129693ebf103
-title: |
-  The results from over 43,000 responses to my questions
 author: |
   Ray Dalio
 tags:

@@ -1,7 +1,5 @@
 ---
 id: 670f337c-e11c-4c8a-a97a-a21c89db861d
-title: |
-  IMAX Enhanced 片源初体验，真的有那么好吗？ - 少数派
 author: |
   Bohao
 date_saved: 2024-03-10 17:34:19

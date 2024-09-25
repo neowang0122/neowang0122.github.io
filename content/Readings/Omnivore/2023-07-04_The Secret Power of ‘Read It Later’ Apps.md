@@ -1,7 +1,5 @@
 ---
 id: 7049bd2d-3798-1a8d-e84a-1ccffb85d096
-title: |
-  The Secret Power of ‘Read It Later’ Apps
 author: |
   Tiago Forte
 tags:

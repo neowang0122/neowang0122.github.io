@@ -1,7 +1,5 @@
 ---
 id: fa557c02-b85b-11ee-9a49-2b52114209b7
-title: |
-  Spotube - 开源、跨平台 Spotify 客户端，无需 Premium 账号，也没有使用 Electron - 小众软件
 author: |
   青小蛙
 tags:

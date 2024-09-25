@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '2295'
+  bookId: "2295"
   title: 必然 The Inevitable
   author: 凯文·凯利 Kevin Kelly
   highlightsCount: 64

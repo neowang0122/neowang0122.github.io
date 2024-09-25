@@ -1,7 +1,7 @@
 ---
 kindle-sync:
-  bookId: '38700'
-  title: '跨越鸿沟，第三版 Crossing the Chasm, 3rd Edition'
+  bookId: "38700"
+  title: 跨越鸿沟，第三版 Crossing the Chasm, 3rd Edition
   author: 杰弗里·摩尔 Geoffrey A. Moore
   highlightsCount: 2
 ---

@@ -4,6 +4,8 @@ title: |
   瞎说什么大实话系列：当投资人开启暴躁模式，疯狂吐槽AI、硅谷、大模型、GPU、Scaling Law、边缘AI……
 author: |
   ShowMeAI研究中心
+tags:
+  - Neo_and_Dana
 date_saved: 2024-09-11 22:54:47
 date_published: 2024-09-11 00:01:00
 draft: true

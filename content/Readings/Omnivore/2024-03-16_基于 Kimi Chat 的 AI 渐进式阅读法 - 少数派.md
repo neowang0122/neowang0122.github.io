@@ -1,7 +1,5 @@
 ---
 id: 0a1ecde6-e133-11ee-94cd-2342d2fd7251
-title: |
-  基于 Kimi Chat 的 AI 渐进式阅读法 - 少数派
 author: |
   潦草学者
 tags:

@@ -1,10 +1,10 @@
 ---
 dg-publish: true
 quickshare-date: 2023-07-30 20:36:04
-quickshare-url: "https://noteshare.space/note/clkpfde741139701mwd0y84jcn#2m5fSdMLF0dh50LLIKKpOMxcaEdg0nNrKx7UFxyEeOk"
+quickshare-url: https://noteshare.space/note/clkpfde741139701mwd0y84jcn#2m5fSdMLF0dh50LLIKKpOMxcaEdg0nNrKx7UFxyEeOk
 kindle-sync:
-  bookId: '20304'
-  title: 'The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness'
+  bookId: "20304"
+  title: "The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness"
   author: Morgan Housel
   highlightsCount: 168
 ---

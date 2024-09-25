@@ -1,7 +1,5 @@
 ---
 id: 1ea6dc5b-8fd2-4803-a56e-2f99a6681774
-title: |
-  拆解Zettelkasten | 卡片盒知识管理体系实践反思
 author: |
   秃一了杂家​关注他
 date_saved: 2023-07-28 07:50:20

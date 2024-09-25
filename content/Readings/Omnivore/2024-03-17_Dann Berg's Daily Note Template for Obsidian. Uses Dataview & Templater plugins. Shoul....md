@@ -1,7 +1,5 @@
 ---
 id: 83c3fba0-4223-4f2b-8e78-dbcbb2bf5fc1
-title: |
-  Dann Berg's Daily Note Template for Obsidian. Uses Dataview & Templater plugins. Should be saved as a Markdown file in Obsidian. Read the full tour: https://dannb.org/blog/2022/obsidian-daily-note-template/
 author: |
   dannberg
 date_saved: 2024-03-17 13:38:23

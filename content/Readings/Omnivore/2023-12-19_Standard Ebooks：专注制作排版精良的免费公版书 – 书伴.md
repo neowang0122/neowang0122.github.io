@@ -1,7 +1,5 @@
 ---
 id: 37f261ac-9eac-11ee-850b-bb489c284f6a
-title: |
-  Standard Ebooks：专注制作排版精良的免费公版书 – 书伴
 author: |
   书伴
 date_saved: 2023-12-19 11:39:13

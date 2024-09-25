@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '51384'
-  title: 'The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI'
+  bookId: "51384"
+  title: "The Worlds I See: Curiosity, Exploration, and Discovery at the Dawn of AI"
   author: Fei-Fei Li
   asin: B0BPQSLVL6
-  lastAnnotatedDate: '2024-03-28'
-  bookImageUrl: 'https://m.media-amazon.com/images/I/81blPlUVdyL._SY160.jpg'
+  lastAnnotatedDate: 2024-03-28
+  bookImageUrl: https://m.media-amazon.com/images/I/81blPlUVdyL._SY160.jpg
   highlightsCount: 7
 ---
 # The Worlds I See

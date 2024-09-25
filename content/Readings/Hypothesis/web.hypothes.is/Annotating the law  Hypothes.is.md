@@ -1,6 +1,6 @@
 ---
 doc_type: hypothesis-highlights
-url: 'https://web.hypothes.is/help/embedding-hypothesis-in-websites-and-platforms/'
+url: https://web.hypothes.is/help/embedding-hypothesis-in-websites-and-platforms/
 ---
 
 # Annotating the law | Hypothes.is

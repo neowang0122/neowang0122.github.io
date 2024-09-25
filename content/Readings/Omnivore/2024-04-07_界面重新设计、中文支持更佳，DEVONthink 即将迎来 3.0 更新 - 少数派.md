@@ -1,7 +1,5 @@
 ---
 id: 2ed70300-ba6f-425f-ac5e-9320c0c71da7
-title: |
-  界面重新设计、中文支持更佳，DEVONthink 即将迎来 3.0 更新 - 少数派
 author: |
   涔C
 date_saved: 2024-04-07 02:01:50

@@ -1,7 +1,5 @@
 ---
 id: 11db91a9-c58c-4259-9155-e21831a0ae3c
-title: |
-  Layering Guide | Arc'teryx
 date_saved: 2023-12-06 23:45:04
 ---
 

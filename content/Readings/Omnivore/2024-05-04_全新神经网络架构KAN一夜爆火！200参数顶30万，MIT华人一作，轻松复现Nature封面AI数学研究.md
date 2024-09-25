@@ -1,7 +1,5 @@
 ---
 id: 46d4ab33-d09a-405e-9acc-4a037242fc69
-title: |
-  全新神经网络架构KAN一夜爆火！200参数顶30万，MIT华人一作，轻松复现Nature封面AI数学研究
 author: |
   关注前沿科技
 date_saved: 2024-05-04 01:25:00

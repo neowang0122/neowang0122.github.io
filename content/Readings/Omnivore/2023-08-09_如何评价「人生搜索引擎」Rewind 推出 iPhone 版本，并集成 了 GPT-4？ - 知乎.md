@@ -1,7 +1,5 @@
 ---
 id: c72502c0-911f-460b-a843-70743cc7656f
-title: |
-  如何评价「人生搜索引擎」Rewind 推出 iPhone 版本，并集成 了 GPT-4？ - 知乎
 author: |
   段小草​​Python话题下的优秀答主​ 关注
 date_saved: 2023-08-09 09:00:17

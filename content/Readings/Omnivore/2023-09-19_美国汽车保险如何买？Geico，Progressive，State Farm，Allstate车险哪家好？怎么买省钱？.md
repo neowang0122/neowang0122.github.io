@@ -1,7 +1,5 @@
 ---
 id: bf3890c5-6865-4830-b33c-75b222376416
-title: |
-  美国汽车保险如何买？Geico，Progressive，State Farm，Allstate车险哪家好？怎么买省钱？
 date_saved: 2023-09-19 15:42:23
 ---
 

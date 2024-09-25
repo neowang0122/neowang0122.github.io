@@ -1,7 +1,5 @@
 ---
 id: 183110d0-10ea-0f0c-b9f6-0398b70e5b84
-title: |
-  ☕ Sandals with stocks
 author: |
   Morning Brew
 tags:

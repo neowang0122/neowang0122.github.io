@@ -6,8 +6,8 @@ author: Steven Kotler
 cover: https://res.weread.qq.com/wrepub/CB_9EACp8CpRC676hf6gX5SC079_parsecover
 reviewCount: 0
 noteCount: 3
-isbn: null
-category: null
+isbn: 
+category: 
 lastReadDate: 2023-07-10
 ---
 # 元数据

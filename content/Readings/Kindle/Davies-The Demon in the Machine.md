@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '50121'
+  bookId: "50121"
   title: The Demon in the Machine
   author: Paul Davies
   highlightsCount: 1

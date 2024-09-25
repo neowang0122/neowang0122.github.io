@@ -1,7 +1,6 @@
 ---
 doc_type: hypothesis-highlights
-url: >-
-  https://neowang0122.github.io/Notes/2-Exponential-family-distribution-(binomial-,-Gaussian)-1
+url: https://neowang0122.github.io/Notes/2-Exponential-family-distribution-(binomial-,-Gaussian)-1
 ---
 
 # 2 Exponential family distribution (binomial , Gaussian) 1

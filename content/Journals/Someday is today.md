@@ -1,3 +1,6 @@
+---
+{}
+---
 # Someday is today
 
 全文 👉 [[2024-03-23_someday is today]]

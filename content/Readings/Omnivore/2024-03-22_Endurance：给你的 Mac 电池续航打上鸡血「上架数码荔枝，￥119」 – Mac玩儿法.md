@@ -1,7 +1,5 @@
 ---
 id: c4d6700b-c4f9-4f86-9f58-553cffecca07
-title: |
-  Endurance：给你的 Mac 电池续航打上鸡血「上架数码荔枝，￥119」 – Mac玩儿法
 author: |
   Mac玩儿法编辑部 共发布31331篇文章
 date_saved: 2024-03-22 13:10:12

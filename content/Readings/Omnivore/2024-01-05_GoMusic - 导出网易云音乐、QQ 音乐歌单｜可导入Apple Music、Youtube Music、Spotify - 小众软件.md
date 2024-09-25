@@ -1,7 +1,5 @@
 ---
 id: f72fdde0-aba6-11ee-b68d-9361c09f9a2f
-title: |
-  GoMusic - 导出网易云音乐、QQ 音乐歌单｜可导入Apple Music、Youtube Music、Spotify - 小众软件
 author: |
   青小蛙
 tags:

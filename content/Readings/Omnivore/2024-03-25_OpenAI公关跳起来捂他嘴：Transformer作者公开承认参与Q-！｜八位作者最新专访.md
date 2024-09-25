@@ -1,7 +1,5 @@
 ---
 id: ef14e7f1-22e8-4b6d-8fcf-626c19f215b3
-title: |
-  OpenAI公关跳起来捂他嘴：Transformer作者公开承认参与Q*！｜八位作者最新专访
 author: |
   关注前沿科技
 date_saved: 2024-03-25 18:08:15

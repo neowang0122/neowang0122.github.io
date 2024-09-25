@@ -1,7 +1,5 @@
 ---
 id: 74bb1286-98ae-41f0-8ba4-8ead4db5a759
-title: |
-  干货 | 最受欢迎羽绒服 Canada Goose 加拿大鹅，材质、款式、尺码全攻略
 author: |
   爱说话的Miss咕
 date_saved: 2023-11-21 03:45:03

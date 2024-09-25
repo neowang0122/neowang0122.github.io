@@ -1,7 +1,5 @@
 ---
 id: 06755a3c-da32-11ee-ba22-9ff48461ae39
-title: |
-  "Escape competition through authenticity"
 author: |
   FromSergio
 tags:

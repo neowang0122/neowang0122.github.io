@@ -1,7 +1,5 @@
 ---
 id: bb55056f-0b6d-4510-aaab-9eb95988adfb
-title: |
-  感知 - 维基百科 --- Perception - Wikipedia
 author: |
   Contributors to Wikimedia projects
 date_saved: 2024-09-02 21:26:40

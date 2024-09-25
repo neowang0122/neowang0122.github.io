@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '48535'
+  bookId: "48535"
   title: The Lessons of History
   author: Will Durant
   highlightsCount: 3

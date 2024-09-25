@@ -1,7 +1,5 @@
 ---
 id: ed178a8a-d732-11ee-9c76-efbf75cdbed4
-title: |
-  Are We in a Stock Market Bubble?
 author: |
   Ray Dalio
 tags:

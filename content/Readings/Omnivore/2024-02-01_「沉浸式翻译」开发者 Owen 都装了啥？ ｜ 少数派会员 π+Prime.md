@@ -1,7 +1,5 @@
 ---
 id: 6c09890a-c037-11ee-ab0f-739fc1bb6cf9
-title: |
-  「沉浸式翻译」开发者 Owen 都装了啥？ ｜ 少数派会员 π+Prime
 author: |
   火箭君CC
 tags:

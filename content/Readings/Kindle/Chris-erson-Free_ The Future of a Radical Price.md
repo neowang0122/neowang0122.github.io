@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '42690'
+  bookId: "42690"
   title: Free_ The Future of a Radical Price
   author: 克里斯·安德森 Chris Anderson
   highlightsCount: 19

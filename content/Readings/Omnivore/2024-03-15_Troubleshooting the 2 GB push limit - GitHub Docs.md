@@ -1,7 +1,5 @@
 ---
 id: 405433b7-bcc7-40f5-976a-8de279bc67dd
-title: |
-  Troubleshooting the 2 GB push limit - GitHub Docs
 date_saved: 2024-03-15 14:37:37
 ---
 

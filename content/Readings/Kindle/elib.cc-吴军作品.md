@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '49009'
+  bookId: "49009"
   title: 吴军作品 (elib.cc)
   author: 吴军 elib.cc
   highlightsCount: 88

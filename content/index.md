@@ -1,5 +1,5 @@
 ---
-title: Welcome to My Digital Garden!
+{}
 ---
 ## ℹ️ [[Links/About]]  ✅ [Updates](https://github.com/neowang0122/neowang0122.github.io/discussions/categories/announcements) 🆘 [Issues](https://github.com/neowang0122/neowang0122.github.io/issues)
 

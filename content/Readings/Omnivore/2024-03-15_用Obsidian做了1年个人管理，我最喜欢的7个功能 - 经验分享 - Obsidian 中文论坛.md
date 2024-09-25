@@ -1,7 +1,5 @@
 ---
 id: c417eadf-137c-426f-81e9-f615de1f6dc9
-title: |
-  用Obsidian做了1年个人管理，我最喜欢的7个功能 - 经验分享 - Obsidian 中文论坛
 date_saved: 2024-03-15 01:29:13
 date_published: 2023-01-29 23:34:47
 ---

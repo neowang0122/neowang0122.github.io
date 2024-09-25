@@ -1,7 +1,5 @@
 ---
 id: e4c1c752-038d-40e8-b3b3-acb30882ad87
-title: |
-  新兴云端部署服务 Zeabur 创始团队都装了啥？ ｜ 少数派会员 π+Prime
 author: |
   火箭君CC
 date_saved: 2024-04-14 13:39:07

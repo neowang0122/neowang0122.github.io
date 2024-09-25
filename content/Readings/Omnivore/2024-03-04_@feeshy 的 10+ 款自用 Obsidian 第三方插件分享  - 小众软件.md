@@ -1,7 +1,5 @@
 ---
 id: 2f50ad4c-da02-11ee-9170-1300d71eb56f
-title: |
-  @feeshy 的 10+ 款自用 Obsidian 第三方插件分享  - 小众软件
 author: |
   青小蛙
 tags:

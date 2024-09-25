@@ -1,7 +1,5 @@
 ---
 id: 078e3202-8722-47da-bf8c-b6389b12bb10
-title: |
-  Other Prompts — More Useful Things: AI Resources
 tags:
   - chatgptPrompt
 date_saved: 2024-03-23 18:38:53

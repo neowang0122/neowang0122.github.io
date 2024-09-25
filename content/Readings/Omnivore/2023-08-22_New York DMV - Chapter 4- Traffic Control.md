@@ -1,7 +1,5 @@
 ---
 id: b975fd2a-a0e7-4aee-9cc3-a917a1bb1123
-title: |
-  New York DMV | Chapter 4: Traffic Control
 date_saved: 2023-08-22 12:00:08
 date_published: 2013-11-25 12:29:00
 ---

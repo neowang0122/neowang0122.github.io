@@ -1,7 +1,6 @@
 ---
 doc_type: hypothesis-highlights
-url: >-
-  https://stackoverflow.com/questions/41060382/using-pip-to-install-packages-to-anaconda-environment
+url: https://stackoverflow.com/questions/41060382/using-pip-to-install-packages-to-anaconda-environment
 ---
 
 # Using Pip to install packages to Anaconda Environment

@@ -1,7 +1,5 @@
 ---
 id: 69278d80-9432-11ee-853f-f76e3f2aad93
-title: |
-  Why I Stopped Making Obsidian Videos
 author: |
   FromSergio
 tags:

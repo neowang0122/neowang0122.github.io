@@ -1,7 +1,5 @@
 ---
 id: 8998edf1-b3d2-40b9-b59b-0bb4ab9aed95
-title: |
-  移走那辆车：伊萨卡街道清洁工作将于 4 月 1 日开始 - The Ithaca Voice --- Move that car: Ithaca street cleaning starts April 1 - The Ithaca Voice
 author: |
   Matt Butler
 date_saved: 2024-04-02 14:14:35

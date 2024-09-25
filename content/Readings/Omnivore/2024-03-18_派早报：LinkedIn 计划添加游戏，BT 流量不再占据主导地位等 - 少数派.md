@@ -1,7 +1,5 @@
 ---
 id: b075d8d6-e5a9-11ee-875a-47fcd888e084
-title: |
-  派早报：LinkedIn 计划添加游戏，BT 流量不再占据主导地位等 - 少数派
 author: |
   少数派编辑部
 tags:

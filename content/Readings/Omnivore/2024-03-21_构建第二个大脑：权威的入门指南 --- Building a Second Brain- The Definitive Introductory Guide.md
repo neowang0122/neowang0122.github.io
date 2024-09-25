@@ -1,7 +1,5 @@
 ---
 id: d0a5a754-47bd-4ca9-b8de-ce7868b30592
-title: |
-  构建第二个大脑：权威的入门指南 --- Building a Second Brain: The Definitive Introductory Guide
 author: |
   Tiago Forte
 date_saved: 2024-03-21 17:21:52

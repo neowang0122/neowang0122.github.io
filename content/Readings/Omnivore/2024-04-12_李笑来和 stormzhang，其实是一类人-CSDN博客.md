@@ -1,7 +1,5 @@
 ---
 id: 212c62a3-1612-46e2-bb1b-7d6a45fe2989
-title: |
-  李笑来和 stormzhang，其实是一类人-CSDN博客
 author: |
   成就一亿技术人!
 date_saved: 2024-04-12 16:03:10

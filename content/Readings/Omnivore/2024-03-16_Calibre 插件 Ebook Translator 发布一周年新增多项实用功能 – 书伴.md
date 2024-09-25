@@ -1,7 +1,5 @@
 ---
 id: 7538d8e0-e3b0-11ee-9faa-5febd252726d
-title: |
-  Calibre 插件 Ebook Translator 发布一周年新增多项实用功能 – 书伴
 author: |
   书伴
 tags:

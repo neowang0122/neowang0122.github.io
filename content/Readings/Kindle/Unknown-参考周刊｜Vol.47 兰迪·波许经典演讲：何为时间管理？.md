@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '27244'
+  bookId: "27244"
   title: 参考周刊｜Vol.47 兰迪·波许经典演讲：何为时间管理？
   author: Unknown
   highlightsCount: 34

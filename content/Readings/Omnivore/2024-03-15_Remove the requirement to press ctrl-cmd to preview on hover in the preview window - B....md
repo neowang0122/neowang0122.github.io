@@ -1,7 +1,5 @@
 ---
 id: 81273f02-9966-4d8b-bebd-5800e634fa1e
-title: |
-  Remove the requirement to press ctrl/cmd to preview on hover in the preview window - Basement - Obsidian Forum
 date_saved: 2024-03-15 20:34:44
 date_published: 2021-09-14 04:43:19
 ---

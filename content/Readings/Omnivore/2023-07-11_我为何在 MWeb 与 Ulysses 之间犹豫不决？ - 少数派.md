@@ -1,7 +1,5 @@
 ---
 id: 0b7c5cdf-b08f-4f49-a178-c28cfdee9274
-title: |
-  我为何在 MWeb 与 Ulysses 之间犹豫不决？ - 少数派
 author: |
   黄杨
 date_saved: 2023-07-11 01:18:37

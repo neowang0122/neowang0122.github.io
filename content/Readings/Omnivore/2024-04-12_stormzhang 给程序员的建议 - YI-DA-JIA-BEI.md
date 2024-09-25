@@ -1,7 +1,5 @@
 ---
 id: f7d04ce7-d6bd-4a27-b938-c163b5c84a7f
-title: |
-  stormzhang 给程序员的建议 | YI-DA-JIA-BEI
 author: |
   tianheg
 date_saved: 2024-04-12 16:03:47

@@ -1,7 +1,5 @@
 ---
 id: 796c41ec-d959-11ee-8315-6fe135afd74b
-title: |
-  欧盟或将开出巨额罚单：Spotify 诉 Apple 不正当竞争案即将宣判 - 少数派
 author: |
   waychane
 tags:

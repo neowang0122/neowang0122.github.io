@@ -1,7 +1,5 @@
 ---
 id: 1c7ff94f-8a83-4979-804f-161a6651c172
-title: |
-  Glotta：简化 Hugo 文本翻译以实现全球覆盖 --- Glotta: Streamlining Hugo Text Translation for Global Reach
 author: |
   SimeonOnSecurity
 date_saved: 2024-03-20 06:17:52

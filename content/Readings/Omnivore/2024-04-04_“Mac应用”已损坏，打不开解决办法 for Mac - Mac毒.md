@@ -1,7 +1,5 @@
 ---
 id: faf95d48-1f82-4bba-b40c-6726e62e5862
-title: |
-  “Mac应用”已损坏，打不开解决办法 for Mac - Mac毒
 author: |
   sillyboy
 date_saved: 2024-04-04 12:19:06

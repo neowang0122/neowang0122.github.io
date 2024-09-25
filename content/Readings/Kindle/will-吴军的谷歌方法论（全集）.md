@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '3313'
+  bookId: "3313"
   title: 吴军的谷歌方法论（全集）
   author: will
   highlightsCount: 222

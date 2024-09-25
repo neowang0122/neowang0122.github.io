@@ -1,9 +1,9 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '25831'
+  bookId: "25831"
   title: The Worlds I See
-  author: 'Li, Fei-Fei'
+  author: Li, Fei-Fei
   highlightsCount: 3
 ---
 # The Worlds I See

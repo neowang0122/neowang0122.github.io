@@ -1,7 +1,5 @@
 ---
 id: 57777816-19ee-4df6-9203-bb57932fdd31
-title: |
-  你不知道的小众软件--allhistory
 author: |
   fairyspace
 date_saved: 2024-06-04 01:57:07

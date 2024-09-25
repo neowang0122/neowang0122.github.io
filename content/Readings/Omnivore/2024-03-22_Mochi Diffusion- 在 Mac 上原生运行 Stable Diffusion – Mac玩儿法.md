@@ -1,7 +1,5 @@
 ---
 id: 6615ceb2-97ee-11ee-bcad-9306f66ed1e8
-title: |
-  Mochi Diffusion: 在 Mac 上原生运行 Stable Diffusion – Mac玩儿法
 author: |
   Mac玩儿法编辑部 共发布31331篇文章
 date_saved: 2024-03-22 13:09:06

@@ -1,7 +1,5 @@
 ---
 id: 58b80cb5-d0f0-4d7f-8339-7f6d5e250953
-title: |
-  Quickstart for GitHub Pages - GitHub Docs
 date_saved: 2024-03-19 22:06:19
 ---
 

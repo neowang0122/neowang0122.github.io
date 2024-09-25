@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '37929'
+  bookId: "37929"
   title: Zero to One
   author: Peter Thiel
   highlightsCount: 397

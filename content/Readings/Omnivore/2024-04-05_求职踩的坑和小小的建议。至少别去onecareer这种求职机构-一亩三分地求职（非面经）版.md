@@ -1,7 +1,5 @@
 ---
 id: 3e4ee761-eea7-49b0-bf19-44f23ececbd1
-title: |
-  求职踩的坑和小小的建议。至少别去onecareer这种求职机构|一亩三分地求职（非面经）版
 author: |
   1Point3Acres Team
 date_saved: 2024-04-05 19:59:26

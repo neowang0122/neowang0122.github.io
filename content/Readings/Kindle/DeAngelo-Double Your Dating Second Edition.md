@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '34997'
+  bookId: "34997"
   title: Double Your Dating Second Edition
   author: David DeAngelo
   highlightsCount: 3

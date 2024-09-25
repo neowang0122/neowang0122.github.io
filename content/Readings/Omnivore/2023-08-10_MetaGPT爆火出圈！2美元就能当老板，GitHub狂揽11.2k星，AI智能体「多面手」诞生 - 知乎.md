@@ -1,7 +1,5 @@
 ---
 id: dc23c474-4c87-4a51-86e9-c7ae50e1af3a
-title: |
-  MetaGPT爆火出圈！2美元就能当老板，GitHub狂揽11.2k星，AI智能体「多面手」诞生 - 知乎
 author: |
   新智元​人工智能话题下的优秀答主
 date_saved: 2023-08-10 07:36:57

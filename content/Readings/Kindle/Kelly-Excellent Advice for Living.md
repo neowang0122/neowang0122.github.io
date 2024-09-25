@@ -1,8 +1,8 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '22828'
-  title: 'Excellent Advice for Living: Wisdom I Wish I''d Known Earlier'
+  bookId: "22828"
+  title: "Excellent Advice for Living: Wisdom I Wish I'd Known Earlier"
   author: Kevin Kelly
   highlightsCount: 7
 ---

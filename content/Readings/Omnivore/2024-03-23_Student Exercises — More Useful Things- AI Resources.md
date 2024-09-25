@@ -1,7 +1,5 @@
 ---
 id: 0e0e428b-1e6e-4749-bb1b-43a1e538e5c9
-title: |
-  Student Exercises — More Useful Things: AI Resources
 tags:
   - chatgptPrompt
 date_saved: 2024-03-23 18:37:40

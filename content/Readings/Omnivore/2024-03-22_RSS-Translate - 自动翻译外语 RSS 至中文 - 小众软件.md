@@ -1,7 +1,5 @@
 ---
 id: 23046d7d-cb28-4618-9af7-b8595238733f
-title: |
-  RSS-Translate - 自动翻译外语 RSS 至中文 - 小众软件
 author: |
   青小蛙
 tags:

@@ -1,7 +1,5 @@
 ---
 id: c80b5a9b-4fc1-4578-870e-dfb3cc43d3c5
-title: |
-  苹果Vision Pro ，凉了？！
 author: |
   雷科技数码3C组
 date_saved: 2023-09-02 23:22:33

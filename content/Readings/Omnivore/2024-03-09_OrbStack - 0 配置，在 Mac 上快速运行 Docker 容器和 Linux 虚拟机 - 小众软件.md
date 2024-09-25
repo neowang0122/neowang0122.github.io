@@ -1,7 +1,5 @@
 ---
 id: 9449e80e-5219-4732-8022-aa9e367f268e
-title: |
-  OrbStack - 0 配置，在 Mac 上快速运行 Docker 容器和 Linux 虚拟机 - 小众软件
 author: |
   青小蛙
 date_saved: 2024-03-09 00:18:22

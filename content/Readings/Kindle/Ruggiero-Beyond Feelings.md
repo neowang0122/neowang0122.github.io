@@ -1,6 +1,6 @@
 ---
 kindle-sync:
-  bookId: '10995'
+  bookId: "10995"
   title: Beyond Feelings
   author: 文森特·瑞安·鲁杰罗 Vincent Ryan Ruggiero
   highlightsCount: 5

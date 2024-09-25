@@ -1,7 +1,5 @@
 ---
 id: 8e552a8d-2404-463f-9804-ec9f05aca705
-title: |
-  群晖NAS保姆级Docker教程，小白也能轻松玩转 - 群晖 Synology NAS
 author: |
   synology
 date_saved: 2024-03-28 17:19:44

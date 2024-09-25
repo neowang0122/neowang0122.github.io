@@ -1,7 +1,5 @@
 ---
 id: 73a7b4e0-1c1b-4a50-979c-c9df51bf40da
-title: |
-  Kimi in Zotero，真的比 ChatGPT 好？｜月之暗面
 author: |
   猫小Q
 date_saved: 2024-04-02 02:33:40

@@ -1,7 +1,5 @@
 ---
 id: 47b2a664-bfeb-11ee-90d3-a3fa4d705e9d
-title: |
-  苹果 Vision Pro 的首发评测来了！看看上头的他们怎么说 | 爱范儿
 author: |
   肖凡博
 tags:

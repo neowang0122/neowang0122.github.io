@@ -1,7 +1,5 @@
 ---
 id: dab7e4ff-6acf-4df5-8608-071a0640414b
-title: |
-  2020 MAC如何彻底卸载ADOBE/PHOTOSHOP - 知乎
 author: |
   KrinkGoldsmiths, UoL​关注
 date_saved: 2024-03-09 15:41:05

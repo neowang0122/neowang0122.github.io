@@ -6,8 +6,8 @@ author: Jared Diamond
 cover: https://res.weread.qq.com/wrepub/CB_Gs40Hw0GbGZ96i36gYGMdEAL_parsecover
 reviewCount: 0
 noteCount: 1
-isbn: null
-category: null
+isbn: 
+category: 
 lastReadDate: 2023-08-22
 ---
 #微信读书

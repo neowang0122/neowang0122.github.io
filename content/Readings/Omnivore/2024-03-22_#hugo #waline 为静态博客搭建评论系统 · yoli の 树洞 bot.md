@@ -1,7 +1,5 @@
 ---
 id: 6979a7b9-0165-4c21-8546-4ff03965a942
-title: |
-  #hugo #waline 为静态博客搭建评论系统 · yoli の 树洞 bot
 author: |
   Authorkoirepairing...
 date_saved: 2024-03-22 02:01:30

@@ -1,7 +1,5 @@
 ---
 id: fb01959d-c8af-479d-b6d9-58d364d74620
-title: |
-  我每天 7 天、24 小时录制自己的音频，并使用人工智能来处理信息。这就是未来吗？ --- I record myself on audio 24x7 and use an AI to process the information. Is this the future?
 date_saved: 2024-03-23 00:34:42
 date_published: 2022-11-14 05:00:00
 ---

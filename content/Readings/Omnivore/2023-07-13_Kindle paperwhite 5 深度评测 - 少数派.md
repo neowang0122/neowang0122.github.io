@@ -1,7 +1,5 @@
 ---
 id: 3e6ee7b4-1c93-43f5-88bf-212c1a8139c1
-title: |
-  Kindle paperwhite 5 深度评测 - 少数派
 author: |
   冷面
 date_saved: 2023-07-13 06:01:13

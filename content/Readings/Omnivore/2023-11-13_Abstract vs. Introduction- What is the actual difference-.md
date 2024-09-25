@@ -1,7 +1,5 @@
 ---
 id: ef1ca024-e933-49b0-9f0f-c5f1f8092701
-title: |
-  Abstract vs. Introduction: What is the actual difference?
 author: |
   Matthieu Chartier, PhD.
 date_saved: 2023-11-13 16:04:06

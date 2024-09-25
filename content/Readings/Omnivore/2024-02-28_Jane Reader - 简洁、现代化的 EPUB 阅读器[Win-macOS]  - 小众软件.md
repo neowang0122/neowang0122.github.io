@@ -1,7 +1,5 @@
 ---
 id: 1b0904ce-d615-11ee-9167-132a53d7e4cf
-title: |
-  Jane Reader - 简洁、现代化的 EPUB 阅读器[Win/macOS]  - 小众软件
 author: |
   青小蛙
 tags:

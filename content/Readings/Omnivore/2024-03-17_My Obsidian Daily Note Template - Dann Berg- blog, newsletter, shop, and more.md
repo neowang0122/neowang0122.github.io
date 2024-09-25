@@ -1,7 +1,5 @@
 ---
 id: c319093a-cff6-4084-afec-3f4c7639f1be
-title: |
-  My Obsidian Daily Note Template | Dann Berg: blog, newsletter, shop, and more
 date_saved: 2024-03-17 13:38:15
 date_published: 2024-01-30 10:55:30
 ---

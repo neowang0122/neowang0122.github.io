@@ -1,7 +1,5 @@
 ---
 id: 4a840805-87f2-4d6c-8d8c-d3b250218eb6
-title: |
-  All the books transferred from Calibre have disappeared on my Kindle ! : r/kindle
 author: |
   charlottebrisson
 date_saved: 2024-03-10 19:38:42

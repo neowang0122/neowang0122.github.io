@@ -1,6 +1,6 @@
 ---
 doc_type: hypothesis-highlights
-url: 'https://www.youtube.com/watch?v=jUmOKkJq8xw'
+url: https://www.youtube.com/watch?v=jUmOKkJq8xw
 ---
 
 # How I Automate ⚙️ My Periodic Notes using Obsidian (Daily, Weekly, Monthly Reviews and Planning)

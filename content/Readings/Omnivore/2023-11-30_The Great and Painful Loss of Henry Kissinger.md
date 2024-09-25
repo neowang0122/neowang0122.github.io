@@ -1,7 +1,5 @@
 ---
 id: 6ba08e9a-8fa5-11ee-9581-731210909ed9
-title: |
-  The Great and Painful Loss of Henry Kissinger
 author: |
   Ray Dalio
 tags:

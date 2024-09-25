@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 kindle-sync:
-  bookId: '40849'
+  bookId: "40849"
   title: Elon Musk
   author: Walter Isaacson
   highlightsCount: 1
