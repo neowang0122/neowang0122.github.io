@@ -50,6 +50,7 @@ $$
 $$
 How does CWin evolve with time?  
 Later we will see, it looks like below 
+
 ![[Pasted image 20240926140615.png|400]]
  
 
@@ -68,6 +69,7 @@ if a loss event happens:
 ```
 
  ![[Pasted image 20240926140615.png|400]]
+
 Saw-tooth pattern 
 
 ## 2. Slow Start 
