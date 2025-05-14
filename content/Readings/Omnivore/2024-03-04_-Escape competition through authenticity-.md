@@ -1,10 +1,13 @@
 ---
 id: 06755a3c-da32-11ee-ba22-9ff48461ae39
+title: |
+  "Escape competition through authenticity"
 author: |
   FromSergio
 tags:
   - Newsletter
 date_saved: 2024-03-04 09:18:08
+draft: true
 ---
 
 # "Escape competition through authenticity"

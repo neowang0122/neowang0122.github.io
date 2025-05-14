@@ -1,10 +1,13 @@
 ---
 id: f416b936-eb1f-11ee-9e13-7bd5d7cbfb56
+title: |
+  Advice for ambitious 19 year olds
 author: |
   Neo Wang
 tags:
   - Newsletter
 date_saved: 2024-03-25 23:21:36
+draft: true
 ---
 
 # Advice for ambitious 19 year olds

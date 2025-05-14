@@ -1,5 +1,7 @@
 ---
 id: 07b9afc9-1b6c-47f5-9b8b-b94edbd4ec64
+title: |
+  Z Product | AI时代的“小猿搜题”来了？从YC走出，被GPT-4o碾压流量惨淡，大模型迭代的牺牲品
 author: |
   Z Potentials
 date_saved: 2024-06-09 16:55:24

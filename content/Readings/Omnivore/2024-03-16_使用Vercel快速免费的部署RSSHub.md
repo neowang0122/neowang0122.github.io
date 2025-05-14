@@ -1,7 +1,12 @@
 ---
 id: 9d80d637-375d-46f4-8e77-1f0c5388f8e4
+title: |
+  使用Vercel快速免费的部署RSSHub
+author: |
+  unknown
 date_saved: 2024-03-16 16:51:05
 date_published: 2021-05-22 20:00:00
+draft: true
 ---
 
 # 使用Vercel快速免费的部署RSSHub

@@ -1,11 +1,14 @@
 ---
 id: 0a1ecde6-e133-11ee-94cd-2342d2fd7251
+title: |
+  基于 Kimi Chat 的 AI 渐进式阅读法 - 少数派
 author: |
   潦草学者
 tags:
   - RSS
 date_saved: 2024-03-16 05:08:45
 date_published: 2024-03-13 03:30:14
+draft: true
 ---
 
 # 基于 Kimi Chat 的 AI 渐进式阅读法 - 少数派

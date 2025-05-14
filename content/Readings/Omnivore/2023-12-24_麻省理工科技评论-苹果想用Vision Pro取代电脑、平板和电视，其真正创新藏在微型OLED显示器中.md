@@ -1,7 +1,12 @@
 ---
 id: b0cff68e-a299-11ee-9b9c-0fbde7be77b5
+title: |
+  麻省理工科技评论-苹果想用Vision Pro取代电脑、平板和电视，其真正创新藏在微型OLED显示器中
+author: |
+  unknown
 date_saved: 2023-12-24 04:44:07
 date_published: 2023-12-24 04:44:07
+draft: true
 ---
 
 # 麻省理工科技评论-苹果想用Vision Pro取代电脑、平板和电视，其真正创新藏在微型OLED显示器中

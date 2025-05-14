@@ -1,11 +1,14 @@
 ---
 id: e7f33502-c811-11ee-be28-5bb1f5f100e3
+title: |
+  体验 Vision Pro 两周，我们发现了空间计算的杀手级应用 | 爱范儿
 author: |
   肖凡博
 tags:
   - RSS
 date_saved: 2024-02-10 05:00:49
 date_published: 2024-02-10 05:00:49
+draft: true
 ---
 
 # 体验 Vision Pro 两周，我们发现了空间计算的杀手级应用 | 爱范儿

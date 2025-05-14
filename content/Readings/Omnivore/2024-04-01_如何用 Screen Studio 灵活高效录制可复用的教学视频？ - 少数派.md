@@ -1,5 +1,7 @@
 ---
 id: 84d002e2-6b49-467b-bebe-9eb8365386d9
+title: |
+  如何用 Screen Studio 灵活高效录制可复用的教学视频？ - 少数派
 author: |
   玉树芝兰
 date_saved: 2024-04-01 17:39:13

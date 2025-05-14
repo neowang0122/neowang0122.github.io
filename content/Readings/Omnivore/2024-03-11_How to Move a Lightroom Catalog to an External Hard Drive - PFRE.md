@@ -1,9 +1,12 @@
 ---
 id: 67b03bac-e8af-42bb-bcd7-153c99e94d47
+title: |
+  How to Move a Lightroom Catalog to an External Hard Drive | PFRE
 author: |
   PFRE Admin
 date_saved: 2024-03-11 16:50:45
 date_published: 2021-04-13 20:15:16
+draft: true
 ---
 
 # How to Move a Lightroom Catalog to an External Hard Drive | PFRE

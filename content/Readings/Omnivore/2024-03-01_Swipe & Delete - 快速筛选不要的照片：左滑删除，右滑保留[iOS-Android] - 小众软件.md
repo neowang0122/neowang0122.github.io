@@ -1,11 +1,14 @@
 ---
 id: a53bc64e-d7c9-11ee-b406-3fa6430a3d0a
+title: |
+  Swipe & Delete - 快速筛选不要的照片：左滑删除，右滑保留[iOS/Android] - 小众软件
 author: |
   青小蛙
 tags:
   - RSS
 date_saved: 2024-03-01 03:50:02
 date_published: 2024-03-01 03:50:02
+draft: true
 ---
 
 # Swipe & Delete - 快速筛选不要的照片：左滑删除，右滑保留[iOS/Android] - 小众软件

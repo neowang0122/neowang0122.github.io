@@ -1,9 +1,12 @@
 ---
 id: e67b8eb6-cddb-4d59-a751-5521581e9d71
+title: |
+  Apple's Vision Pro may launch in February - with its most sophisticated buying process yet | ZDNET
 author: |
   June Wan
 date_saved: 2023-12-26 12:39:02
 date_published: 2023-12-20 16:34:00
+draft: true
 ---
 
 # Apple's Vision Pro may launch in February - with its most sophisticated buying process yet | ZDNET

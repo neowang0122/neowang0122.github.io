@@ -1,5 +1,9 @@
 ---
 id: 234b7801-30d0-4d71-9746-e856b2194655
+title: |
+  顺为迎来首家印尼 IPO：印尼最大科技公司 GoTo 成全球第五大 IPO｜顺为系 – 顺为资本
+author: |
+  unknown
 date_saved: 2024-04-12 10:58:26
 date_published: 2022-04-10 20:00:00
 draft: true

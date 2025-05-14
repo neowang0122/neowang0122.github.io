@@ -1,10 +1,12 @@
 ---
 id: f7d04ce7-d6bd-4a27-b938-c163b5c84a7f
+title: |
+  stormzhang 给程序员的建议 | YI-DA-JIA-BEI
 author: |
   tianheg
 date_saved: 2024-04-12 16:03:47
 date_published: 2018-12-23 07:17:43
-draft: false
+draft: true
 ---
 
 # stormzhang 给程序员的建议 | YI-DA-JIA-BEI

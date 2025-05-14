@@ -1,10 +1,13 @@
 ---
 id: ed178a8a-d732-11ee-9c76-efbf75cdbed4
+title: |
+  Are We in a Stock Market Bubble?
 author: |
   Ray Dalio
 tags:
   - Newsletter
 date_saved: 2024-02-29 13:47:02
+draft: true
 ---
 
 # Are We in a Stock Market Bubble?

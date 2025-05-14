@@ -1,5 +1,9 @@
 ---
 id: 9f047bcb-0641-43ee-89f0-39d68194307d
+title: |
+  Readwise Reader 定制总结提示词
+author: |
+  unknown
 date_saved: 2024-05-01 13:33:02
 draft: true
 ---

@@ -1,5 +1,9 @@
 ---
 id: f6576fe7-d5cc-46dc-b5f6-e9a7f8491fb6
+title: |
+  Linify - Easy Coach & Enthusiasts Sports Software | Product Hunt
+author: |
+  unknown
 tags:
   - app
 date_saved: 2024-04-20 03:14:40

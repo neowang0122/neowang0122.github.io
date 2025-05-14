@@ -1,11 +1,14 @@
 ---
 id: 6c09890a-c037-11ee-ab0f-739fc1bb6cf9
+title: |
+  「沉浸式翻译」开发者 Owen 都装了啥？ ｜ 少数派会员 π+Prime
 author: |
   火箭君CC
 tags:
   - RSS
 date_saved: 2024-02-01 13:37:38
 date_published: 2024-01-31 04:38:46
+draft: true
 ---
 
 # 「沉浸式翻译」开发者 Owen 都装了啥？ ｜ 少数派会员 π+Prime

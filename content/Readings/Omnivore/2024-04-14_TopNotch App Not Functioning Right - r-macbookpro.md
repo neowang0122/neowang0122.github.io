@@ -1,5 +1,7 @@
 ---
 id: 18c7ab6f-1ded-4441-9622-db4ec8d86139
+title: |
+  TopNotch App Not Functioning Right : r/macbookpro
 author: |
   RayChen2006
 date_saved: 2024-04-14 21:46:04

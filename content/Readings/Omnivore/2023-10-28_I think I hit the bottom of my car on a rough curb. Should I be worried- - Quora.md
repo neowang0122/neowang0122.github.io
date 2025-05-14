@@ -1,6 +1,11 @@
 ---
 id: 6b9bdadc-688a-46fa-867c-7d482d720c5e
+title: |
+  I think I hit the bottom of my car on a rough curb. Should I be worried? - Quora
+author: |
+  unknown
 date_saved: 2023-10-28 04:08:51
+draft: true
 ---
 
 # I think I hit the bottom of my car on a rough curb. Should I be worried? - Quora

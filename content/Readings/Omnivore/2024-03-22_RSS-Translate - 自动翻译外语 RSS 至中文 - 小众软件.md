@@ -1,11 +1,14 @@
 ---
 id: 23046d7d-cb28-4618-9af7-b8595238733f
+title: |
+  RSS-Translate - 自动翻译外语 RSS 至中文 - 小众软件
 author: |
   青小蛙
 tags:
   - app
 date_saved: 2024-03-22 03:51:43
 date_published: 2023-05-23 04:53:00
+draft: true
 ---
 
 # RSS-Translate - 自动翻译外语 RSS 至中文 - 小众软件

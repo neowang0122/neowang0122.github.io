@@ -1,9 +1,12 @@
 ---
 id: 21b91990-f6c5-42e4-ab79-d42adcb9b197
+title: |
+  Vercel 和 Netlify ，两大20亿美金估值的独角兽，在网页托管领域的崛起史 - 知乎
 author: |
   成希企服创业者
 date_saved: 2024-03-21 01:35:58
 date_published: 2022-06-08 03:52:00
+draft: true
 ---
 
 # Vercel 和 Netlify ，两大20亿美金估值的独角兽，在网页托管领域的崛起史 - 知乎

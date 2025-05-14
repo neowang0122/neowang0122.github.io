@@ -1,9 +1,12 @@
 ---
 id: a24aba33-1939-49b0-8a21-973c51597b91
+title: |
+  有了iPad，买华为MatePad Paper电纸书的意义何在？
 author: |
   闫跃龙知名自媒体，前京东超市市场总经理，互联网营销专家​关注他
 date_saved: 2023-07-16 12:46:41
 date_published: 2022-05-05 06:08:00
+draft: true
 ---
 
 # 有了iPad，买华为MatePad Paper电纸书的意义何在？

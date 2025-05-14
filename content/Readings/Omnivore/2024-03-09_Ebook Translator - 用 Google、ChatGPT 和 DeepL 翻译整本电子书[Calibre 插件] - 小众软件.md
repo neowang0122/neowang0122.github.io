@@ -1,9 +1,12 @@
 ---
 id: 53dd4170-6a10-43fb-97b0-8aef1387792c
+title: |
+  Ebook Translator - 用 Google、ChatGPT 和 DeepL 翻译整本电子书[Calibre 插件] - 小众软件
 author: |
   青小蛙
 date_saved: 2024-03-09 00:18:16
 date_published: 2023-05-01 09:08:43
+draft: true
 ---
 
 # Ebook Translator - 用 Google、ChatGPT 和 DeepL 翻译整本电子书[Calibre 插件] - 小众软件

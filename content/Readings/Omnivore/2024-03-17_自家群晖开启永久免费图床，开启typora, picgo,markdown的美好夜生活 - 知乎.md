@@ -1,9 +1,12 @@
 ---
 id: fd4c65d3-ccce-446e-b65d-d52919fd522d
+title: |
+  自家群晖开启永久免费图床，开启typora, picgo,markdown的美好夜生活 - 知乎
 author: |
   Lu Adam爱玩的安哥​关注他
 date_saved: 2024-03-17 00:21:33
 date_published: 2021-06-21 19:50:00
+draft: true
 ---
 
 # 自家群晖开启永久免费图床，开启typora, picgo,markdown的美好夜生活 - 知乎

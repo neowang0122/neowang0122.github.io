@@ -1,11 +1,14 @@
 ---
 id: e6e3cd7c-a7d5-11ee-9960-275fc8df67cd
+title: |
+  STRapp - 单机版极简 TXT 小说阅读器｜基于易笺（SimpleTextReader）[Windows] - 小众软件
 author: |
   青小蛙
 tags:
   - RSS
 date_saved: 2023-12-31 07:07:46
 date_published: 2023-12-31 07:07:46
+draft: true
 ---
 
 # STRapp - 单机版极简 TXT 小说阅读器｜基于易笺（SimpleTextReader）[Windows] - 小众软件

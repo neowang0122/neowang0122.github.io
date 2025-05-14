@@ -1,11 +1,14 @@
 ---
 id: 79d2b12f-0a12-bfd4-acf2-129693ebf103
+title: |
+  The results from over 43,000 responses to my questions
 author: |
   Ray Dalio
 tags:
   - Pinned
   - Newsletter
 date_saved: 2023-09-07 12:24:03
+draft: true
 ---
 
 # The results from over 43,000 responses to my questions

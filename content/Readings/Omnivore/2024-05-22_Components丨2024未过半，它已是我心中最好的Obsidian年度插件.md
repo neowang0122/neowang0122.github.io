@@ -1,5 +1,7 @@
 ---
 id: 723948ee-facd-473c-926d-cd45979fd08c
+title: |
+  Components丨2024未过半，它已是我心中最好的Obsidian年度插件
 author: |
   自权
 date_saved: 2024-05-22 00:07:43

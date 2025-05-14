@@ -1,6 +1,11 @@
 ---
 id: 952a7c3c-0a6d-452c-a58c-e7537c522a71
+title: |
+  将假设嵌入网站和平台：假设 --- Embedding Hypothesis in Websites and Platforms : Hypothesis
+author: |
+  unknown
 date_saved: 2024-03-20 05:25:32
+draft: true
 ---
 
 # 将假设嵌入网站和平台：假设 --- Embedding Hypothesis in Websites and Platforms : Hypothesis

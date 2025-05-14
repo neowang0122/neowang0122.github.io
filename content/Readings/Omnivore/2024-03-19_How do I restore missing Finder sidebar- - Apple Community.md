@@ -1,6 +1,11 @@
 ---
 id: 241aa1ac-d7eb-481e-8d0a-925a5c339069
+title: |
+  How do I restore missing Finder sidebar? - Apple Community
+author: |
+  unknown
 date_saved: 2024-03-19 22:57:28
+draft: true
 ---
 
 # How do I restore missing Finder sidebar? - Apple Community

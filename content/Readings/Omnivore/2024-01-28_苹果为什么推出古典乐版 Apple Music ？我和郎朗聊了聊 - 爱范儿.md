@@ -1,11 +1,14 @@
 ---
 id: d2ee2368-bc29-11ee-aa26-53449d9174bc
+title: |
+  苹果为什么推出古典乐版 Apple Music ？我和郎朗聊了聊 | 爱范儿
 author: |
   张成晨
 tags:
   - RSS
 date_saved: 2024-01-28 23:55:35
 date_published: 2024-01-26 02:25:22
+draft: true
 ---
 
 # 苹果为什么推出古典乐版 Apple Music ？我和郎朗聊了聊 | 爱范儿

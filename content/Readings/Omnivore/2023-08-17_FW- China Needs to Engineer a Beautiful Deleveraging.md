@@ -1,11 +1,14 @@
 ---
 id: ab3e9687-c998-25a1-e4a3-309ed9454268
+title: |
+  FW: China Needs to Engineer a Beautiful Deleveraging
 author: |
   Neo Wang
 tags:
   - Newsletter
   - Newsletter
 date_saved: 2023-08-17 12:31:36
+draft: true
 ---
 
 # FW: China Needs to Engineer a Beautiful Deleveraging

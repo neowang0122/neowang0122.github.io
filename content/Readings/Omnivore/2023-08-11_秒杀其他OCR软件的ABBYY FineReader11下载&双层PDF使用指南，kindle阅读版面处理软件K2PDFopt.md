@@ -1,6 +1,11 @@
 ---
 id: 0acaa8db-f658-4a12-8efb-80641d92b2ee
+title: |
+  秒杀其他OCR软件的ABBYY FineReader11下载&双层PDF使用指南，kindle阅读版面处理软件K2PDFopt
+author: |
+  unknown
 date_saved: 2023-08-11 10:14:00
+draft: true
 ---
 
 # 秒杀其他OCR软件的ABBYY FineReader11下载&双层PDF使用指南，kindle阅读版面处理软件K2PDFopt

@@ -1,10 +1,13 @@
 ---
 id: 1bc94466-e2d4-11ee-8fca-9bac1d337f9c
+title: |
+  10 Tips to Actually Read 100 Books in 2024
 author: |
   Neo Wang
 tags:
   - Newsletter
 date_saved: 2024-03-15 09:58:32
+draft: true
 ---
 
 # 10 Tips to Actually Read 100 Books in 2024

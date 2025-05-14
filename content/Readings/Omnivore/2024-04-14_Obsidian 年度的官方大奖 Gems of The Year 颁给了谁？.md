@@ -1,10 +1,12 @@
 ---
 id: bc20c7ea-8ae9-4f62-882e-23cdc86c66a0
+title: |
+  Obsidian 年度的官方大奖 Gems of The Year 颁给了谁？
 author: |
   火箭君
 date_saved: 2024-04-14 01:17:51
 date_published: 2024-04-06 15:30:00
-draft: false
+draft: true
 ---
 
 # Obsidian 年度的官方大奖 Gems of The Year 颁给了谁？

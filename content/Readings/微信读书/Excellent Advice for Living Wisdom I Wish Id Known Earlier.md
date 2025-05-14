@@ -5,14 +5,14 @@ bookId: CB_1rgDquDtl79h6kv6keAqg0B0
 author: Kevin Kelly
 cover: https://res.weread.qq.com/wrepub/CB_1rgDquDtl79h6kv6keAqg0B0_parsecover
 reviewCount: 0
-noteCount: 215
+noteCount: 249
 isbn: 
 category: 
-lastReadDate: 2024-09-24
+lastReadDate: 2024-10-10
 readingStatus: 未标记
 progress: 45%
-totalReadDay: 14
-readingTime: 2小时11分钟
+totalReadDay: 17
+readingTime: 2小时37分钟
 readingDate: 2023-12-10
 created: 2023-12-26T13:12
 updated: 2024-03-13T10:31
@@ -1230,45 +1230,147 @@ updated: 2024-03-13T10:31
    不要等待暴风雨过去； 在雨中跳舞。 
 > ⏱ 2024-09-24 21:05:03 ^CB-1rgDquDtl79h6kv6keAqg0B0-127-871-1035
 
-### Continued, Excellent Advice for Living
+> 📌 Don’t wait for the storm to pass; dance in the rain.不要等待暴风雨过去；在雨中跳舞 
+> ⏱ 2024-09-28 23:40:41 ^CB-1rgDquDtl79h6kv6keAqg0B0-127-940-1099
+
+> 📌 Make stuff that is good for people to have.制作对人有益的东西。 
+> ⏱ 2024-09-28 23:40:45 ^CB-1rgDquDtl79h6kv6keAqg0B0-127-1469-1573
 
 ### Continued, Excellent Advice for Living
 
-### Continued, Excellent Advice for Living
+> 📌 Keep all your things visible in a hotel room, not in drawers and all gathered into one spot. That way you’ll never leave anything behind. 
+> ⏱ 2024-09-28 23:41:12 ^CB-1rgDquDtl79h6kv6keAqg0B0-128-940-1122
+
+> 📌 If you need to have something like a charger off to the side place a couple of other large items next to it, because you are less likely to leave three items behind than just one. 
+> ⏱ 2024-09-28 23:41:27 ^CB-1rgDquDtl79h6kv6keAqg0B0-128-1290-1536
+
+> 📌 Denying or deflecting a compliment is rude. Accept it with thanks even if you believe it is not deserved. 
+> ⏱ 2024-09-28 23:41:40 ^CB-1rgDquDtl79h6kv6keAqg0B0-128-2019-2147
 
 ### Continued, Excellent Advice for Living
 
-### Continued, Excellent Advice for Living
+> 📌 when you create things that only you with your unique talents and experience can do then you are absolutely not an imposter.但如果你创造的东西 只有你 凭借你独特的天赋和经验才能做到 那么你绝对不是一个冒名顶替者。 				You are the ordained.你是受命者。 				It is your destiny to work on things that only you can do.你的命运是做只有你能做的事情。 
+> ⏱ 2024-09-28 23:47:23 ^CB-1rgDquDtl79h6kv6keAqg0B0-129-1757-2317
 
 ### Continued, Excellent Advice for Living
 
-### Continued, Excellent Advice for Living
+> 📌 When you don’t know how much to pay someone for a particular task ask them, “What would be fair?”当你不知道为某项任务付给某人多少钱时，问他们，“什么是公平的？” 				and their answer usually is.他们的答案通常是。 
+> ⏱ 2024-09-29 00:35:32 ^CB-1rgDquDtl79h6kv6keAqg0B0-130-1677-2011
 
 ### Continued, Excellent Advice for Living
 
-### Continued, Excellent Advice for Living
+> 📌 Excellent Advice for Living: Wisdom I Wish I'd Known Earlier 
+> ⏱ 2024-09-29 00:35:43 ^CB-1rgDquDtl79h6kv6keAqg0B0-131-940-1163
+
+> 📌 ou cannot get smart people to work extremely hard just for money.你不能让聪明人仅仅为了钱而努力工作 
+> ⏱ 2024-10-08 22:16:16 ^CB-1rgDquDtl79h6kv6keAqg0B0-131-1529-1684
+
+> 📌 Half the skill of being educated is learning what you can ignore.受教育的一半技能是学习你可以忽略的东西。 
+> ⏱ 2024-10-08 22:17:00 ^CB-1rgDquDtl79h6kv6keAqg0B0-131-2050-2208
 
 ### Continued, Excellent Advice for Living
 
-### Continued, Excellent Advice for Living
+> 📌 When you need to cut something extremely exact don’t try to do it with one cut.当你需要非常精确地切割某物时不要试图一次完成。 				Instead, cut it a bit bigger and then keep trimming it bit by bit until perfect.相反，把它剪大一点，然后一点一点地修剪，直到完美。 				Professional makers call this “creeping up”专业制造商称之为“爬行” 				to the precise measurement.进行精确测量。 
+> ⏱ 2024-10-08 22:17:34 ^CB-1rgDquDtl79h6kv6keAqg0B0-132-1534-2171
 
 ### Continued, Excellent Advice for Living
 
-### Continued, Excellent Advice for Living
+> 📌 ake others feel they are important; it will make their day and it will make your day.让别人觉得自己很重要；这会让他们开心，也会让你开心 
+> ⏱ 2024-10-09 16:21:02 ^CB-1rgDquDtl79h6kv6keAqg0B0-133-942-1144
+
+> 📌 % of everything is crap.90%的东西都是垃圾。 				If you think you don’t like opera, romance novels, TikTok, country music, vegan food NFTs, keep trying to see if you can find the 10% that is not crap.如果你认为你不喜欢歌剧、浪漫小说、TikTok、乡村音乐、素食食品、NFT，那就继续尝试，看看你是否能找到那10%的精华。 
+> ⏱ 2024-10-09 16:21:15 ^CB-1rgDquDtl79h6kv6keAqg0B0-133-2196-2633
 
 ### Continued, Excellent Advice for Living
 
-### Continued, Excellent Advice for Living
+> 📌 You will be judged on how well you treat those who can do nothing for you.你会被评判如何对待那些无法为你做任何事情的人。 
+> ⏱ 2024-10-09 16:23:14 ^CB-1rgDquDtl79h6kv6keAqg0B0-134-941-1130
+
+> 📌 We tend to overestimate what we can do in a day and underestimate what we can achieve in a decade.我们倾向于高估 我们一天能做的事情 而低估 我们十年能取得的成就。 				Miraculous things can be accomplished if you give it 10 years.如果给你十年时间，奇迹是可以实现的。 				A long game will compound small gains that will be able to overcome even big mistakes.长期游戏将使小收益复合，将能够克服即使是大错误。 
+> ⏱ 2024-10-09 16:23:45 ^CB-1rgDquDtl79h6kv6keAqg0B0-134-1495-2166
 
 ### Continued, Excellent Advice for Living
 
-### Continued, Excellent Advice for Living
+> 📌 Your best job will be one that you were unqualified for because it stretches you.你最好的工作将是一个你以前没有资格的工作，因为它能拓展你的能力。 				In fact, only apply to jobs you are unqualified for.事实上，只适用于你不合格的工作。 
+> ⏱ 2024-10-09 16:24:24 ^CB-1rgDquDtl79h6kv6keAqg0B0-135-1710-2081
 
 ### Continued, Excellent Advice for Living
 
-### Continued, Excellent Advice for Living
+> 📌 You can be whatever you want to be so be the person who ends meetings early.你可以成为任何你想成为的人所以成为那个提前结束会议的人吧 
+> ⏱ 2024-10-09 16:24:47 ^CB-1rgDquDtl79h6kv6keAqg0B0-136-941-1138
 
 ### Continued, Excellent Advice for Living
+
+> 📌 The only productive way to answer “What should I do now?”回答“我现在该怎么办？”的唯一有效方法是 				is to first tackle the question of “Who should I become?”首先要解决“我应该成为谁？”的问题 
+> ⏱ 2024-10-09 16:25:10 ^CB-1rgDquDtl79h6kv6keAqg0B0-137-1889-2208
+
+### Continued, Excellent Advice for Living
+
+> 📌 The best investing advice:最佳投资建议： 				Average returns, maintained for above-average periods of time will yield extraordinary results.平均回报，维持 高于平均值的时间 将产生不可思议的结果。 				Buy and hold.买入并持有。 			 			 			 				[插图] 			 			 				Take the stairs.走楼梯。 
+> ⏱ 2024-10-09 16:25:38 ^CB-1rgDquDtl79h6kv6keAqg0B0-138-1658-2520
+
+### Continued, Excellent Advice for Living
+
+> 📌 What you actually pay for something can be twice the listed price because the energy, time, and money needed to set it up, learn, maintain, repair it and then dispose of it when done all have their own cost.你实际上为某件东西支付的价格 可能是标价的两倍 因为设置它、学习它、维护它、修理它 以及完成它后处理它所需花费的精力、时间和金钱 都有各自的成本。 				Not all prices appear on labels.不是所有的价格都出现在标签上。 
+> ⏱ 2024-10-09 19:07:45 ^CB-1rgDquDtl79h6kv6keAqg0B0-139-941-1541
+
+### Continued, Excellent Advice for Living
+
+> 📌 It’s thrilling to be extremely polite to rude strangers.对粗鲁的陌生人彬彬有礼，真是令人兴奋。 
+> ⏱ 2024-10-09 19:08:18 ^CB-1rgDquDtl79h6kv6keAqg0B0-140-941-1108
+
+### Continued, Excellent Advice for Living
+
+> 📌 Getting cheated occasionally is the small price for trusting the best of everyone because when you trust the best in others they generally treat you best 
+> ⏱ 2024-10-09 19:08:39 ^CB-1rgDquDtl79h6kv6keAqg0B0-141-941-1161
+
+> 📌 it is much easier to improve your communication skills than your intelligence. 
+> ⏱ 2024-10-09 19:09:16 ^CB-1rgDquDtl79h6kv6keAqg0B0-141-2034-2156
+
+### Continued, Excellent Advice for Living
+
+> 📌 For the best results with your children spend only half the money you think you should but double the time with them.为了与孩子取得最佳效果只花一半你认为应该花的钱但花两倍的时间与他们在一起 
+> ⏱ 2024-10-09 19:09:40 ^CB-1rgDquDtl79h6kv6keAqg0B0-142-1801-2077
+
+### Continued, Excellent Advice for Living
+
+> 📌 Looking ahead, focus on direction rather than destinations.展望未来，关注方向，而不是目的地。 				Maintain the right direction and you’ll arrive at where you want to go.保持正确的方向，你就会到达你想去的地方。 
+> ⏱ 2024-10-09 19:10:03 ^CB-1rgDquDtl79h6kv6keAqg0B0-143-941-1295
+
+> 📌 Purchase the most recent tourist guidebook to your hometown or region.购买你家乡或地区的最新旅游指南。 				You’ll learn a lot by playing the tourist once a year.每年当一次游客，你会学到很多东西 
+> ⏱ 2024-10-09 20:27:44 ^CB-1rgDquDtl79h6kv6keAqg0B0-143-2127-2451
+
+### Continued, Excellent Advice for Living
+
+> 📌 To become a hero, thank a teacher who made a difference in your life.要成为英雄，感谢一位改变你生活的老师 
+> ⏱ 2024-10-09 20:27:57 ^CB-1rgDquDtl79h6kv6keAqg0B0-144-941-1120
+
+> 📌 When buying a garden hose, an extension cord, or a ladder, get one substantially longer than you think you need.在购买花园软管、延长线或梯子时，要买一个比你认为需要的长度长很多的。 				It’ll be the right size.它的大小是合适的。 
+> ⏱ 2024-10-09 20:28:10 ^CB-1rgDquDtl79h6kv6keAqg0B0-144-1486-1833
+
+### Continued, Excellent Advice for Living
+
+> 📌 When you are stuck explain your problem to others.当你陷入困境时，向他人解释你的问题。 				Often simply laying out a problem will present a solution.通常，仅仅列出一个问题就会提出一个解决方案。 				Make “explaining the problem”让“解释问题” 				part of your troubleshooting process.故障排除过程的一部分 
+> ⏱ 2024-10-10 00:35:00 ^CB-1rgDquDtl79h6kv6keAqg0B0-145-941-1510
+
+> 📌 Don’t wait in line to eat something famous.不要排队吃名吃。 				It is rarely worth the wait.很少值得等待。 
+> ⏱ 2024-10-10 00:38:49 ^CB-1rgDquDtl79h6kv6keAqg0B0-145-1876-2086
+
+### Continued, Excellent Advice for Living
+
+> 📌 Your group can achieve great things way beyond your means simply by showing people that they are appreciated.你的团队可以取得远远超出你能力的事情，只要向人们展示他们受到赏识 
+> ⏱ 2024-10-10 00:39:13 ^CB-1rgDquDtl79h6kv6keAqg0B0-146-941-1219
+
+> 📌 Be a pro. Back up your backup.成为一名专业人士。备份你的备份。 				Have at least one physical backup and one backup in the cloud.至少有一个物理备份和一个云备份。 
+> ⏱ 2024-10-10 00:39:28 ^CB-1rgDquDtl79h6kv6keAqg0B0-146-1589-1859
+
+> 📌 How much would you pay to retrieve all your data, photos, notes if you lost them?如果您丢失了所有数据、照片和笔记，您愿意支付多少钱来恢复它们？ 				Backups are cheap compared to regrets.与后悔相比，备份是廉价的。 
+> ⏱ 2024-10-10 00:39:38 ^CB-1rgDquDtl79h6kv6keAqg0B0-146-1999-2299
+
+### Continued, Excellent Advice for Living
+
+> 📌 Your time and space are limited.你的时间和空间是有限的。 				Remove, give away, throw out anything that no longer gives you joy in order to make room for those that do.丢掉、送走、扔掉所有不再给你带来快乐的东西，腾出空间，迎接那些能给你带来快乐的东西。 
+> ⏱ 2024-10-10 00:40:55 ^CB-1rgDquDtl79h6kv6keAqg0B0-147-1631-1993
 
 ### Continued, Excellent Advice for Living
 

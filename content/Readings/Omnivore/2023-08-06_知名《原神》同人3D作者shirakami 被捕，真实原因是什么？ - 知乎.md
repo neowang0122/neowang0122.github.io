@@ -1,9 +1,12 @@
 ---
 id: 73f32869-b480-472e-8f6e-d3a56b370462
+title: |
+  知名《原神》同人3D作者shirakami 被捕，真实原因是什么？ - 知乎
 author: |
   山岚碎月一名菜鸡编辑​ 关注
 date_saved: 2023-08-06 11:58:44
 date_published: 2023-07-28 20:00:00
+draft: true
 ---
 
 # 知名《原神》同人3D作者shirakami 被捕，真实原因是什么？ - 知乎

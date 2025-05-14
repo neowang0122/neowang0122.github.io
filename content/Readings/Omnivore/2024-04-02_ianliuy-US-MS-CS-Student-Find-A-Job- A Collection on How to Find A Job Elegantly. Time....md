@@ -1,5 +1,9 @@
 ---
 id: 48e4dafd-7428-4ea6-8072-fedf99c5595e
+title: |
+  ianliuy/US-MS-CS-Student-Find-A-Job: A Collection on How to Find A Job Elegantly. Timeline, Materials, Preparation, OPT & CPT Policies and so on!
+author: |
+  unknown
 date_saved: 2024-04-02 20:24:10
 draft: true
 ---

@@ -1,9 +1,12 @@
 ---
 id: 033a7dfe-09f9-40cb-8e01-4c618c9f173c
+title: |
+  Laplace transform - Wikipedia
 author: |
   Contributors to Wikimedia projects
 date_saved: 2023-08-24 14:08:32
 date_published: 2001-12-26 08:54:27
+draft: true
 ---
 
 # Laplace transform - Wikipedia

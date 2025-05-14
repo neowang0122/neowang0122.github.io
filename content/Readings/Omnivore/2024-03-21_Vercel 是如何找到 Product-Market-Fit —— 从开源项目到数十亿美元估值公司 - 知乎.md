@@ -1,9 +1,12 @@
 ---
 id: 9999aa4c-b696-461b-be99-1213877b7263
+title: |
+  Vercel 是如何找到 Product-Market-Fit —— 从开源项目到数十亿美元估值公司 - 知乎
 author: |
   申砾目前在做分布式数据库 TiDB
 date_saved: 2024-03-21 01:32:47
 date_published: 2024-03-10 20:00:00
+draft: true
 ---
 
 # Vercel 是如何找到 Product-Market-Fit —— 从开源项目到数十亿美元估值公司 - 知乎

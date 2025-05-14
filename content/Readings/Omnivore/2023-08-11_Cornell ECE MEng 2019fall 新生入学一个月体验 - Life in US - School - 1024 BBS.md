@@ -1,7 +1,12 @@
 ---
 id: 4798c2c1-da2e-4971-a46d-8c195d9fd9be
+title: |
+  Cornell ECE MEng 2019fall 新生入学一个月体验 - Life in US / School - 1024 BBS
+author: |
+  unknown
 date_saved: 2023-08-11 07:11:00
 date_published: 2019-10-05 02:07:14
+draft: true
 ---
 
 # Cornell ECE MEng 2019fall 新生入学一个月体验 - Life in US / School - 1024 BBS

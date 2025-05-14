@@ -1,11 +1,14 @@
 ---
 id: 0308483d-6e23-4e27-8319-80ac48a668ca
+title: |
+  硅谷的读书人：OpenAI CEO 的阅读清单
 author: |
   凯瑞kerry
 tags:
   - 正义联盟
 date_saved: 2024-01-01 22:35:53
 date_published: 2023-12-25 13:30:00
+draft: true
 ---
 
 # 硅谷的读书人：OpenAI CEO 的阅读清单

@@ -1,11 +1,14 @@
 ---
 id: 4b0fc59e-df5d-11ee-b12e-b757b210b9ec
+title: |
+  Obsidian、Typora和Logseq的通用Markdown语法 - 少数派
 author: |
   落花成泥
 tags:
   - RSS
 date_saved: 2024-03-10 20:48:05
 date_published: 2024-03-10 20:48:05
+draft: true
 ---
 
 # Obsidian、Typora和Logseq的通用Markdown语法 - 少数派

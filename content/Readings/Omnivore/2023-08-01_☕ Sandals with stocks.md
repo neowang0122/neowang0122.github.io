@@ -1,10 +1,13 @@
 ---
 id: 183110d0-10ea-0f0c-b9f6-0398b70e5b84
+title: |
+  ☕ Sandals with stocks
 author: |
   Morning Brew
 tags:
   - Newsletter
 date_saved: 2023-08-01 05:42:21
+draft: true
 ---
 
 # ☕ Sandals with stocks

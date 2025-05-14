@@ -1,7 +1,12 @@
 ---
 id: c0294954-5d24-4a3c-8e7e-57b379acb47f
+title: |
+  obsidian 目前最完美的免费发布方案 - 渐进式教程 - 经验分享 - Obsidian 中文论坛
+author: |
+  unknown
 date_saved: 2023-08-10 16:33:40
 date_published: 2022-07-14 04:37:29
+draft: true
 ---
 
 # obsidian 目前最完美的免费发布方案 - 渐进式教程 - 经验分享 - Obsidian 中文论坛

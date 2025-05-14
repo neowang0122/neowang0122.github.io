@@ -1,6 +1,11 @@
 ---
 id: 6fde1756-a07e-4bf9-96b0-830710edaa2b
+title: |
+  jancbeck/omnivore-ai-annotations: This serverless function can be used to automatically add annotations to Omnivore articles when a specific label (say, "summarize") is added to them.
+author: |
+  unknown
 date_saved: 2024-03-16 04:42:59
+draft: true
 ---
 
 # jancbeck/omnivore-ai-annotations: This serverless function can be used to automatically add annotations to Omnivore articles when a specific label (say, "summarize") is added to them.

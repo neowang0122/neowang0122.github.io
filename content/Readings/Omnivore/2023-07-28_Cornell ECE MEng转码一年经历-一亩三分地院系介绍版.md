@@ -1,9 +1,12 @@
 ---
 id: ba820539-1561-4fa6-93b8-1f1faeda6f4c
+title: |
+  Cornell ECE MEng转码一年经历|一亩三分地院系介绍版
 author: |
   1Point3Acres Team
 date_saved: 2023-07-28 00:37:21
 date_published: 2018-07-14 08:51:19
+draft: true
 ---
 
 # Cornell ECE MEng转码一年经历|一亩三分地院系介绍版

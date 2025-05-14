@@ -1,7 +1,12 @@
 ---
 id: 47b7a139-2485-4336-98e8-d71306bf969f
+title: |
+  我用到的付费订阅制软件 | App Subscriptions | 两个圈 Two Circles
+author: |
+  unknown
 date_saved: 2023-07-21 02:04:59
 date_published: 2020-08-21 20:00:00
+draft: true
 ---
 
 # 我用到的付费订阅制软件 | App Subscriptions | 两个圈 Two Circles

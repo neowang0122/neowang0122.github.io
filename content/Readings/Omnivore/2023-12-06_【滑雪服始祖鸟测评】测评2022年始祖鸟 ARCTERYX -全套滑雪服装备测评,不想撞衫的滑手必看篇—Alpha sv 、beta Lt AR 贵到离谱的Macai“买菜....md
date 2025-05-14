@@ -1,9 +1,12 @@
 ---
 id: 1095f497-92e3-4d3a-b2b3-d3441e61dd15
+title: |
+  【滑雪服始祖鸟测评】测评2022年始祖鸟 ARCTERYX -全套滑雪服装备测评,不想撞衫的滑手必看篇—Alpha sv 、beta Lt AR 贵到离谱的Macai“买菜”—专业滑雪服RUSH - 知乎
 author: |
   jeffrey的生活滑雪教练、滑雪装备测评. 装备购买选品可以走付费咨询
 date_saved: 2023-12-06 19:30:15
 date_published: 2021-11-10 17:26:00
+draft: true
 ---
 
 # 【滑雪服始祖鸟测评】测评2022年始祖鸟 ARCTERYX -全套滑雪服装备测评,不想撞衫的滑手必看篇—Alpha sv 、beta Lt AR 贵到离谱的Macai“买菜”—专业滑雪服RUSH - 知乎

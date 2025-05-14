@@ -1,6 +1,11 @@
 ---
 id: fb4a1e0d-0d6a-4b90-a05c-faafce829ee3
+title: |
+  【选校信息-CS】康奈尔大学Cornell ECE MEng Master零基础转码+选课+找工作+生活就读体验（2018）
+author: |
+  unknown
 date_saved: 2023-08-11 07:11:16
+draft: true
 ---
 
 # 【选校信息-CS】康奈尔大学Cornell ECE MEng Master零基础转码+选课+找工作+生活就读体验（2018）

@@ -1,5 +1,7 @@
 ---
 id: dc4ea898-0b7d-4c3e-b33e-efe072e7cf95
+title: |
+  ZotLit：Obsidian 与 Zotero 联动，有 [@ 就够了 - 知乎
 author: |
   Jrodinger​我就看看​关注他
 date_saved: 2024-02-05 23:04:30

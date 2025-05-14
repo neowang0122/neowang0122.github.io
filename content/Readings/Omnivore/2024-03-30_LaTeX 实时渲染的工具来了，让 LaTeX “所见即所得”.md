@@ -1,9 +1,12 @@
 ---
 id: 29424833-93ab-408b-962f-10738585dd4c
+title: |
+  LaTeX 实时渲染的工具来了，让 LaTeX “所见即所得”
 author: |
   texer
 date_saved: 2024-03-30 02:30:38
 date_published: 2024-03-26 03:45:00
+draft: true
 ---
 
 # LaTeX 实时渲染的工具来了，让 LaTeX “所见即所得”

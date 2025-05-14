@@ -1,9 +1,12 @@
 ---
 id: 6aedbb0b-78c4-4b53-b729-ecc4c6801b84
+title: |
+  someday is today
 author: |
   Ali
 date_saved: 2024-03-23 22:07:27
 date_published: 2024-03-22 20:00:00
+draft: true
 ---
 
 # someday is today

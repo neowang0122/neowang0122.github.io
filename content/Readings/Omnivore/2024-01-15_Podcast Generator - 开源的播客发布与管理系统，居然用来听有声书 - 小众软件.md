@@ -1,11 +1,14 @@
 ---
 id: 7b4bce32-b44d-11ee-b522-d3ee68144372
+title: |
+  Podcast Generator - 开源的播客发布与管理系统，居然用来听有声书 - 小众软件
 author: |
   青小蛙
 tags:
   - RSS
 date_saved: 2024-01-15 23:59:25
 date_published: 2024-01-15 23:59:25
+draft: true
 ---
 
 # Podcast Generator - 开源的播客发布与管理系统，居然用来听有声书 - 小众软件

@@ -1,9 +1,12 @@
 ---
 id: 318452ca-a083-11ee-b7eb-afd4a2ea3b45
+title: |
+  古有 Infuse，现有 VidHub，要不来试试？ - 小众软件
 author: |
   青小蛙
 date_saved: 2023-12-21 22:02:45
 date_published: 2023-12-21 22:02:45
+draft: true
 ---
 
 # 古有 Infuse，现有 VidHub，要不来试试？ - 小众软件

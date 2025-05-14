@@ -1,11 +1,14 @@
 ---
 id: 726ba76a-a89f-11ee-bd4a-872967d874e9
+title: |
+  Qwerty Learner - 目的不纯的在线打字练习工具：英语、日语、德语，Phthon、C++、AI、Go、Java - 小众软件
 author: |
   青小蛙
 tags:
   - RSS
 date_saved: 2024-01-01 04:14:42
 date_published: 2024-01-01 04:14:42
+draft: true
 ---
 
 # Qwerty Learner - 目的不纯的在线打字练习工具：英语、日语、德语，Phthon、C++、AI、Go、Java - 小众软件

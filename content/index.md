@@ -19,7 +19,7 @@
 
 👉 [[PKM|PKM 个人知识管理]]
 
-# 📒 笔记 [[Notes]]
+# 📒 笔记 [[1 Organize/4 Archive/AppleNotesOldBackups/20230812/Notes]]
 
 ### 🤖 [[Notes/Machine Learning]]
 

@@ -1,5 +1,7 @@
 ---
 id: 4e69d4df-e8d2-46e8-be83-5dff92885d41
+title: |
+  Can Devin AI Replace Product Managers? | Product Hunt
 author: |
   Finn Lobsien
 date_saved: 2024-04-26 04:08:59

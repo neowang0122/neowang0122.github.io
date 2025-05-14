@@ -1,8 +1,11 @@
 ---
 id: f4227051-352f-4f5f-80b4-5457db043704
+title: |
+  Obsidian 插件之 Dataview - 少数派
 author: |
   莉莉蒙
 date_saved: 2023-08-01 01:46:18
+draft: true
 ---
 
 # Obsidian 插件之 Dataview - 少数派

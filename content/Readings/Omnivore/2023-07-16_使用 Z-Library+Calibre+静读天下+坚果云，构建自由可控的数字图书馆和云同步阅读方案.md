@@ -1,9 +1,12 @@
 ---
 id: aa26d8f5-fb4b-4b99-b8cd-36aba1d2aba5
+title: |
+  使用 Z-Library+Calibre+静读天下+坚果云，构建自由可控的数字图书馆和云同步阅读方案
 author: |
   路人甲的世界WP Editor.md作者，博客untitled.pw。​关注他
 date_saved: 2023-07-16 11:04:01
 date_published: 2023-03-25 20:00:00
+draft: true
 ---
 
 # 使用 Z-Library+Calibre+静读天下+坚果云，构建自由可控的数字图书馆和云同步阅读方案

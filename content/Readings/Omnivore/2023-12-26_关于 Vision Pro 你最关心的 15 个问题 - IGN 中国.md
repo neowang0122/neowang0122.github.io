@@ -1,9 +1,12 @@
 ---
 id: df78b54d-a8f6-4e6f-b458-034a560f36e3
+title: |
+  关于 Vision Pro 你最关心的 15 个问题 | IGN 中国
 author: |
   Charles Young
 date_saved: 2023-12-26 12:43:00
 date_published: 2023-06-08 00:40:52
+draft: true
 ---
 
 # 关于 Vision Pro 你最关心的 15 个问题 | IGN 中国

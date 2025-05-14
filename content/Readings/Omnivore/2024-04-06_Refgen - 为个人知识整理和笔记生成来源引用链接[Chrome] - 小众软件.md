@@ -1,10 +1,12 @@
 ---
 id: 0196b10f-0030-4c8a-9dfe-3c8729ac0722
+title: |
+  Refgen - 为个人知识整理和笔记生成来源引用链接[Chrome] - 小众软件
 author: |
   青小蛙
 date_saved: 2024-04-06 15:13:17
 date_published: 2022-01-07 05:08:40
-draft: false
+draft: true
 ---
 
 # Refgen - 为个人知识整理和笔记生成来源引用链接[Chrome] - 小众软件

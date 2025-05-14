@@ -1,6 +1,11 @@
 ---
 id: 769ba2e3-d6cd-44e1-9094-6ac26f112a57
+title: |
+  Podwise | The premier knowledge management app for podcast listeners
+author: |
+  unknown
 date_saved: 2024-03-10 18:06:38
+draft: true
 ---
 
 # Podwise | The premier knowledge management app for podcast listeners

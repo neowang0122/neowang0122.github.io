@@ -1,5 +1,9 @@
 ---
 id: 6f32bc55-8c35-4732-87ce-a0cee5b55f33
+title: |
+  创业精神：选择与策略 - Joshua Gans, Erin L. Scott, Scott Stern - Google 图书 --- Entrepreneurship: Choice and Strategy - Joshua Gans, Erin L. Scott, Scott Stern - Google Books
+author: |
+  unknown
 date_saved: 2024-04-25 10:18:02
 draft: true
 ---

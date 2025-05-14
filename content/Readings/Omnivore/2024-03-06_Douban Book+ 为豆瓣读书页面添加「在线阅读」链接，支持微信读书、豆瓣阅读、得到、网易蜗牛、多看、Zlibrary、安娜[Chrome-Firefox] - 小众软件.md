@@ -1,11 +1,14 @@
 ---
 id: d80cea84-dbb7-11ee-9232-5f75e1823e1d
+title: |
+  Douban Book+ 为豆瓣读书页面添加「在线阅读」链接，支持微信读书、豆瓣阅读、得到、网易蜗牛、多看、Zlibrary、安娜[Chrome/Firefox] - 小众软件
 author: |
   青小蛙
 tags:
   - RSS
 date_saved: 2024-03-06 06:02:56
 date_published: 2024-03-06 06:02:56
+draft: true
 ---
 
 # Douban Book+ 为豆瓣读书页面添加「在线阅读」链接，支持微信读书、豆瓣阅读、得到、网易蜗牛、多看、Zlibrary、安娜[Chrome/Firefox] - 小众软件

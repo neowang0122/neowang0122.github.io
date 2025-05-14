@@ -1,5 +1,7 @@
 ---
 id: 0a8ddf52-134b-4320-8cf8-ef4f935f0699
+title: |
+  AI时代，我用FastGPT低成本搭建了企业知识库问答系统 - 掘金
 author: |
   产品试金石
 date_saved: 2024-04-18 10:58:51

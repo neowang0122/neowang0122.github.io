@@ -1,10 +1,13 @@
 ---
 id: 456859a5-0fe6-b592-9108-8adc089e3f32
+title: |
+  ☕️ Caution: Morning Brew coming in hot
 author: |
   Morning Brew
 tags:
   - Newsletter
 date_saved: 2023-08-01 04:21:07
+draft: true
 ---
 
 # ☕️ Caution: Morning Brew coming in hot

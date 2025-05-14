@@ -1,9 +1,12 @@
 ---
 id: fdccffc6-98a9-11ee-97bf-bbf06a7b6d1b
+title: |
+  马斯克版「ChatGPT」Grok 上线！比本人更毒舌，快被网友玩坏了 | 爱范儿
 author: |
   莫崇宇
 date_saved: 2023-12-11 20:05:16
 date_published: 2023-12-11 20:05:16
+draft: true
 ---
 
 # 马斯克版「ChatGPT」Grok 上线！比本人更毒舌，快被网友玩坏了 | 爱范儿
