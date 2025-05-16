@@ -27,13 +27,17 @@
 
 # 📰 我看过的好文章 
 
-## [[Readings/Omnivore]] 
-
-%% # 📖 阅读 Readings
+%% ## [[Readings/Omnivore]]  %%
 
 ## 📚 书籍 Books
 
 ### [[Readings/Kindle]] 
+
+## 💻 视频/播客 Videos/Podcasts 
+
+### [[Readings/音视频内容整理]]
+
+%% # 📖 阅读 Readings
 ### [[Readings/微信读书]]
 
 ### [[Readings/MarginNote]] 
@@ -50,12 +54,10 @@
 
 ### [[Readings/Glasp.co]]
 
-## 💻 视频/播客 Videos/Podcasts 
-
-### [[Readings/音视频内容整理]]  %%
+%%
 
 --- 
-%% # 👨‍💻 Coding 
+# 👨‍💻 Coding 
 
 <img src="http://ghchart.rshah.org/neowang0122" alt="neowang0122's Github Chart" />
-  %%
+

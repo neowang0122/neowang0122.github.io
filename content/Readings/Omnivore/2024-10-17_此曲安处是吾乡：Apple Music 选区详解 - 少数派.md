@@ -2,11 +2,12 @@
 id: 8eccaeb2-cb58-4c23-8322-d0a7cacdcb36
 title: |
   此曲安处是吾乡：Apple Music 选区详解 - 少数派
-author: |
-  北极熊不不
+author:
+  - |
+    北极熊不不
 date_saved: 2024-10-17 20:03:06
 date_published: 2023-09-27 06:06:39
-draft: true
+draft: false
 ---
 
 # 此曲安处是吾乡：Apple Music 选区详解 - 少数派
